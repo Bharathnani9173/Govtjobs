@@ -1,0 +1,295 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Current Affairs</title>
+
+<style>
+
+body{
+    font-family:Arial, sans-serif;
+    background:#f4f4f4;
+    margin:20px;
+}
+
+h1{
+    text-align:center;
+    color:#003366;
+    margin-bottom:30px;
+}
+
+table{
+    width:100%;
+    border-collapse:collapse;
+    background:white;
+    box-shadow:0px 0px 15px rgba(0,0,0,0.2);
+}
+
+th{
+    background:#003366;
+    color:white;
+    padding:15px;
+    font-size:18px;
+}
+
+td{
+    padding:15px;
+    border:1px solid #ddd;
+    text-align:center;
+    font-size:17px;
+}
+
+tr:nth-child(even){
+    background:#f7f7f7;
+}
+
+.button-group{
+    display:flex;
+    justify-content:center;
+    gap:10px;
+}
+
+.view-btn{
+
+    background:#28a745;
+    color:white;
+    padding:8px 18px;
+    border:none;
+    border-radius:5px;
+    cursor:pointer;
+    font-size:15px;
+
+}
+
+.view-btn:hover{
+
+    background:#218838;
+
+}
+
+.download-btn{
+
+    background:#003366;
+    color:white;
+    padding:8px 18px;
+    border:none;
+    border-radius:5px;
+    cursor:pointer;
+    font-size:15px;
+
+}
+
+.download-btn:hover{
+
+    background:#0055aa;
+
+}
+
+button{
+    border:none;
+}
+
+a{
+    text-decoration:none;
+}
+
+.current-affairs-card{
+
+    background:white;
+    padding:25px;
+    margin:20px;
+    border-radius:12px;
+    box-shadow:0px 0px 10px #ccc;
+
+}
+
+
+.current-affairs-card h2{
+
+    color:#003366;
+
+}
+
+
+.current-affairs-card li{
+
+    margin:8px;
+
+}
+
+
+.pdf-btn{
+
+    display:inline-block;
+    background:#0066cc;
+    color:white;
+    padding:12px 25px;
+    border-radius:8px;
+    text-decoration:none;
+
+}
+
+
+.pdf-btn:hover{
+
+    background:#004c99;
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<h1>Daily Current Affairs</h1>
+
+<table>
+
+<tr>
+    <th>Date</th>
+    <th>Topic</th>
+    <th>Category</th>
+    <th>PDF</th>
+</tr>
+
+<tr>
+
+    <td>03 Aug 2026</td>
+    <td>India Wins Asia Cup</td>
+    <td>Sports</td>
+
+    <td>
+        <div class="button-group">
+
+            <a href="{% static 'pdfs/india_asia_cup.pdf' %}" target="_blank">
+                <button class="view-btn">View</button>
+            </a>
+
+            <a href="{% static 'pdfs/india_asia_cup.pdf' %}" download>
+                <button class="download-btn">Download</button>
+            </a>
+
+        </div>
+    </td>
+
+</tr>
+
+<tr>
+
+    <td>02 Aug 2026</td>
+    <td>ISRO Satellite Launch</td>
+    <td>Science & Technology</td>
+
+    <td>
+        <div class="button-group">
+
+            <a href="{% static 'pdfs/isro_satellite_launch.pdf' %}" target="_blank">
+                <button class="view-btn">View</button>
+            </a>
+
+            <a href="{% static 'pdfs/isro_satellite_launch.pdf' %}" download>
+                <button class="download-btn">Download</button>
+            </a>
+
+        </div>
+    </td>
+
+</tr>
+
+<tr>
+
+    <td>04 Aug 2026</td>
+    <td>National Education Policy Update</td>
+    <td>Education</td>
+
+    <td>
+        <div class="button-group">
+
+            <a href="{% static 'pdfs/national_education_policy.pdf' %}" target="_blank">
+                <button class="view-btn">View</button>
+            </a>
+
+            <a href="{% static 'pdfs/national_education_policy.pdf' %}" download>
+                <button class="download-btn">Download</button>
+            </a>
+
+        </div>
+    </td>
+
+</tr>
+
+<tr>
+
+    <td>05 Aug 2026</td>
+    <td>Supreme Court Important Judgement</td>
+    <td>Polity</td>
+
+    <td>
+        <div class="button-group">
+
+            <a href="{% static 'pdfs/supreme_court_judgement.pdf' %}" target="_blank">
+                <button class="view-btn">View</button>
+            </a>
+
+            <a href="{% static 'pdfs/supreme_court_judgement.pdf' %}" download>
+                <button class="download-btn">Download</button>
+            </a>
+
+        </div>
+    </td>
+
+</tr>
+
+<tr>
+
+    <td>01 Aug 2026</td>
+    <td>Union Budget Highlights</td>
+    <td>Economy</td>
+
+    <td>
+        <div class="button-group">
+
+            <a href="{% static 'pdfs/union_budget_highlights.pdf' %}" target="_blank">
+                <button class="view-btn">View</button>
+            </a>
+
+            <a href="{% static 'pdfs/union_budget_highlights.pdf' %}" download>
+                <button class="download-btn">Download</button>
+            </a>
+
+        </div>
+    </td>
+
+</tr>
+
+<tr>
+    <td>31 Jul 2026</td>
+    <td>July 2026 Current Affairs - Detailed Theory Edition (Chapter 1 to Chapter 8)</td>
+    <td>Monthly Current Affairs</td>
+
+    <td>
+        <a href="{% static 'pdfs/current_affairs/july_2026_Current_Affairs_Detailed_Edition.pdf' %}"
+           target="_blank"
+           class="btn btn-success">
+            View
+        </a>
+
+        <a href="{% static 'pdfs/current_affairs/july_2026_Current_Affairs_Detailed_Edition.pdf' %}"
+           download
+           class="btn btn-primary">
+            Download
+        </a>
+    </td>
+</tr>
+
+</table>
+
+</body>
+
+</html>

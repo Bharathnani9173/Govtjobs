@@ -1,0 +1,2190 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Govt Jobs Portal</title>
+
+
+<link rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+
+
+<style>
+
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+
+body{
+
+    font-family:Arial, Helvetica, sans-serif;
+    background:#f5f7fb;
+
+}
+
+
+
+/* ================= HEADER ================= */
+
+
+header{
+
+    background:#003366;
+    color:white;
+    position:sticky;
+    top:0;
+    z-index:1000;
+
+}
+
+
+.navbar{
+
+    width:90%;
+    margin:auto;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    padding:15px 0;
+
+}
+
+
+.logo{
+
+    display:flex;
+    align-items:center;
+    gap:12px;
+
+}
+
+
+.logo img{
+
+    width:55px;
+
+}
+
+
+.logo h2{
+
+    font-size:25px;
+
+}
+
+
+
+.nav-links{
+
+    display:flex;
+    list-style:none;
+    gap:20px;
+
+}
+
+
+.nav-links a{
+
+    color:white;
+    text-decoration:none;
+    font-weight:bold;
+
+}
+
+
+.nav-links a:hover{
+
+    color:#FFD700;
+
+}
+
+
+
+.auth{
+
+    display:flex;
+    gap:10px;
+
+}
+
+
+.login-btn,
+.register-btn{
+
+    padding:10px 18px;
+    border-radius:5px;
+    text-decoration:none;
+    font-weight:bold;
+
+}
+
+
+.login-btn{
+
+    background:white;
+    color:#003366;
+
+}
+
+
+.register-btn{
+
+    background:#28a745;
+    color:white;
+
+}
+
+
+
+
+
+/* ================= HERO ================= */
+
+
+.hero{
+
+
+height:580px;
+
+
+background:
+
+linear-gradient(
+rgba(0,0,0,.55),
+rgba(0,0,0,.55)
+),
+
+url("{% static 'images/hero-banner.jpg' %}");
+
+
+
+background-size:cover;
+
+background-position:center;
+
+
+display:flex;
+
+align-items:center;
+
+justify-content:center;
+
+text-align:center;
+
+color:white;
+
+
+}
+
+
+
+.hero-content{
+
+width:85%;
+
+}
+
+
+
+.hero h1{
+
+font-size:52px;
+
+margin-bottom:20px;
+
+}
+
+
+
+.hero p{
+
+font-size:22px;
+
+margin-bottom:35px;
+
+}
+
+
+
+
+
+/* ================= SEARCH ================= */
+
+
+.search-box{
+
+display:flex;
+
+justify-content:center;
+
+}
+
+
+
+.search-box input{
+
+
+width:600px;
+
+padding:18px;
+
+font-size:18px;
+
+border:none;
+
+outline:none;
+
+border-radius:8px 0 0 8px;
+
+
+}
+
+
+
+.search-box button{
+
+
+padding:18px 35px;
+
+border:none;
+
+background:#28a745;
+
+color:white;
+
+font-size:18px;
+
+cursor:pointer;
+
+border-radius:0 8px 8px 0;
+
+
+}
+
+
+
+.search-box button:hover{
+
+background:#1e8c38;
+
+}
+
+
+
+
+
+/* ================= QUICK BUTTONS ================= */
+
+
+.quick-links{
+
+margin-top:35px;
+
+}
+
+
+
+.quick-links a{
+
+
+display:inline-block;
+
+background:#0056b3;
+
+color:white;
+
+padding:10px 20px;
+
+margin:5px;
+
+border-radius:25px;
+
+text-decoration:none;
+
+
+}
+
+
+.quick-links a:hover{
+
+background:#FFD700;
+
+color:black;
+
+}
+
+
+
+
+
+/* ================= COMMON SECTION ================= */
+
+
+section{
+
+padding:70px 8%;
+
+}
+
+
+
+h2{
+
+text-align:center;
+
+color:#003366;
+
+margin-bottom:40px;
+
+}
+
+
+
+
+
+/* ================= MOBILE ================= */
+
+
+@media(max-width:900px){
+
+
+.navbar{
+
+flex-direction:column;
+
+gap:20px;
+
+}
+
+
+.nav-links{
+
+flex-wrap:wrap;
+
+justify-content:center;
+
+}
+
+
+}
+
+
+@media(max-width:600px){
+
+
+.hero h1{
+
+font-size:35px;
+
+}
+
+
+.search-box{
+
+flex-direction:column;
+
+}
+
+
+.search-box input{
+
+width:100%;
+
+border-radius:8px;
+
+}
+
+
+.search-box button{
+
+width:100%;
+
+border-radius:8px;
+
+}
+
+
+}
+
+
+/* ================= STATISTICS ================= */
+
+.statistics{
+    background:#ffffff;
+}
+
+.stats-container{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+    gap:25px;
+    margin-top:30px;
+}
+
+.stat-card{
+    background:#fff;
+    text-align:center;
+    padding:35px 20px;
+    border-radius:15px;
+    box-shadow:0 8px 20px rgba(0,0,0,.08);
+    transition:.3s;
+}
+
+.stat-card:hover{
+    transform:translateY(-8px);
+}
+
+.stat-card h1{
+    color:#0056b3;
+    font-size:42px;
+    margin-bottom:10px;
+}
+
+.stat-card p{
+    font-size:18px;
+    color:#555;
+}
+
+/* ================= JOBS ================= */
+
+.featured-jobs{
+    background:#f5f7fb;
+}
+
+.job-container{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
+    gap:25px;
+    margin:30px 0 60px;
+}
+
+.job-card{
+    background:#fff;
+    padding:25px;
+    border-radius:15px;
+    box-shadow:0 8px 18px rgba(0,0,0,.08);
+    transition:.3s;
+}
+
+.job-card:hover{
+    transform:translateY(-8px);
+}
+
+.job-card h3{
+    color:#003366;
+    margin-bottom:15px;
+}
+
+.job-card p{
+    margin:8px 0;
+}
+
+.job-buttons{
+    display:flex;
+    gap:10px;
+    margin-top:20px;
+}
+
+.details-btn,
+.apply-btn{
+    flex:1;
+    text-align:center;
+    padding:10px;
+    text-decoration:none;
+    border-radius:8px;
+    font-weight:bold;
+}
+
+.details-btn{
+    background:#0056b3;
+    color:#fff;
+}
+
+.apply-btn{
+    background:#28a745;
+    color:#fff;
+}
+
+.details-btn:hover{
+    background:#003f87;
+}
+
+.apply-btn:hover{
+    background:#1f8b37;
+}
+
+/* ================= LATEST UPDATES ================= */
+
+.updates-container{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+    gap:25px;
+}
+
+.update-box{
+    background:#fff;
+    padding:25px;
+    border-radius:15px;
+    box-shadow:0 8px 18px rgba(0,0,0,.08);
+}
+
+.update-box h3{
+    margin-bottom:20px;
+    color:#003366;
+}
+
+.update-box ul{
+    list-style:none;
+}
+
+.update-box li{
+    margin-bottom:12px;
+}
+
+.update-box a{
+    text-decoration:none;
+    color:#0056b3;
+}
+
+.view-all{
+    display:inline-block;
+    margin-top:15px;
+    font-weight:bold;
+}
+
+/* ================= QUICK SERVICES ================= */
+
+.services-container{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+    gap:25px;
+}
+
+.service-card{
+    background:#fff;
+    text-align:center;
+    padding:30px;
+    border-radius:15px;
+    box-shadow:0 8px 18px rgba(0,0,0,.08);
+    transition:.3s;
+}
+
+.service-card:hover{
+    transform:translateY(-8px);
+}
+
+.service-card i{
+    color:#0056b3;
+    margin-bottom:15px;
+}
+
+.service-card h3{
+    margin-bottom:15px;
+}
+
+.service-card p{
+    color:#666;
+    margin-bottom:20px;
+}
+
+.service-btn{
+    display:inline-block;
+    background:#0056b3;
+    color:#fff;
+    text-decoration:none;
+    padding:10px 20px;
+    border-radius:8px;
+}
+
+/* ================= FOOTER ================= */
+
+.footer{
+    background:#003366;
+    color:#fff;
+    padding:60px 8% 20px;
+}
+
+.footer-container{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+    gap:35px;
+}
+
+.footer-box h3{
+    margin-bottom:20px;
+}
+
+.footer-box ul{
+    list-style:none;
+}
+
+.footer-box li{
+    margin-bottom:10px;
+}
+
+.footer-box a{
+    color:#fff;
+    text-decoration:none;
+}
+
+.footer-box a:hover{
+    color:#FFD700;
+}
+
+.footer-bottom{
+    text-align:center;
+    margin-top:20px;
+    font-size:15px;
+}
+
+/* ================= BACK TO TOP ================= */
+
+#topBtn{
+    display:none;
+    position:fixed;
+    right:25px;
+    bottom:25px;
+    width:50px;
+    height:50px;
+    border:none;
+    border-radius:50%;
+    background:#0056b3;
+    color:#fff;
+    cursor:pointer;
+    font-size:22px;
+}
+
+#topBtn:hover{
+    background:#28a745;
+}
+
+.my-feedback-section{
+    max-width:900px;
+    margin:40px auto;
+}
+
+.feedback-card{
+    background:#fff;
+    padding:20px;
+    margin-bottom:20px;
+    border-radius:10px;
+    box-shadow:0 2px 8px rgba(0,0,0,.1);
+}
+
+.admin-reply{
+    margin-top:15px;
+    background:#e8f5e9;
+    padding:10px;
+    border-left:4px solid green;
+}
+
+
+</style>
+
+
+</head>
+
+
+
+<body>
+
+
+
+<!-- ================= HEADER ================= -->
+
+
+<header>
+
+
+<div class="navbar">
+
+
+
+<div class="logo">
+
+
+<img src="{% static 'images/logo.png' %}">
+
+
+<h2>
+Govt Jobs Portal
+</h2>
+
+
+</div>
+
+
+
+
+
+<ul class="nav-links">
+
+
+<li>
+<a href="{% url 'home' %}">
+Home
+</a>
+</li>
+
+
+<li>
+<a href="{% url 'search' %}">
+Search Jobs
+</a>
+</li>
+
+
+<li>
+<a href="{% url 'latest_jobs' %}">
+Latest Jobs
+</a>
+</li>
+
+
+<li>
+<a href="{% url 'notifications' %}">
+Notifications
+</a>
+</li>
+
+
+<li>
+<a href="{% url 'admit_cards' %}">
+Admit Cards
+</a>
+</li>
+
+
+<li>
+<a href="{% url 'results' %}">
+Results
+</a>
+</li>
+
+
+<li>
+<a href="{% url 'answer_keys' %}">
+Answer Keys
+</a>
+</li>
+
+
+</ul>
+
+
+
+
+
+<div class="auth">
+
+
+<a href="{% url 'login' %}" class="login-btn">
+Login
+</a>
+
+
+<a href="{% url 'register' %}" class="register-btn">
+Register
+</a>
+
+
+
+</div>
+
+
+</div>
+
+
+</header>
+
+
+
+
+
+
+<!-- ================= HERO ================= -->
+
+
+<section class="hero">
+
+
+<div class="hero-content">
+
+<h1>
+Find Your Dream Government Job
+</h1>
+
+
+
+<p>
+
+One Place for SSC, UPSC, Railway, Banking, Defence, Police and State Government Jobs.
+
+</p>
+
+
+
+
+<form action="{% url 'search' %}" method="GET" class="search-box">
+
+
+<input
+
+type="text"
+
+name="q"
+
+placeholder="Search Government Jobs..."
+
+required>
+
+
+<button type="submit">
+
+<i class="fa-solid fa-magnifying-glass"></i>
+
+Search
+
+</button>
+
+
+
+</form>
+
+
+
+
+<div class="quick-links">
+
+
+<a href="{% url 'latest_jobs' %}">
+Latest Jobs
+</a>
+
+
+<a href="{% url 'results' %}">
+Results
+</a>
+
+
+<a href="{% url 'admit_cards' %}">
+Admit Cards
+</a>
+
+
+<a href="{% url 'answer_keys' %}">
+Answer Keys
+</a>
+
+
+<a href="{% url 'daily_quiz' %}">
+Daily Quiz
+</a>
+
+
+</div>
+
+
+
+</div>
+
+
+</section>
+
+<!-- ================= PORTAL STATISTICS ================= -->
+
+
+<section class="statistics">
+
+
+<h2>
+Portal Statistics
+</h2>
+
+
+
+<div class="stats-container">
+
+
+
+<div class="stat-card">
+
+<h1>
+250+
+</h1>
+
+<p>
+Government Jobs
+</p>
+
+</div>
+
+
+
+
+<div class="stat-card">
+
+<h1>
+85+
+</h1>
+
+<p>
+Latest Results
+</p>
+
+</div>
+
+
+
+
+<div class="stat-card">
+
+<h1>
+60+
+</h1>
+
+<p>
+Admit Cards
+</p>
+
+</div>
+
+
+
+
+<div class="stat-card">
+
+<h1>
+120+
+</h1>
+
+<p>
+Notifications
+</p>
+
+</div>
+
+
+
+</div>
+
+
+</section>
+
+
+
+
+
+<!-- ================= LATEST GOVERNMENT JOBS ================= -->
+
+
+<section class="featured-jobs">
+
+
+<h2>
+Latest Government Jobs
+</h2>
+
+
+
+
+
+<!-- ================= CENTRAL JOBS ================= -->
+
+
+<h2>
+Central Government Jobs
+</h2>
+
+
+
+<div class="job-container">
+
+
+
+{% for job in central_jobs %}
+
+
+
+<div class="job-card">
+
+
+
+<h3>
+{{ job.title }}
+</h3>
+
+
+
+<p>
+<strong>
+Organization:
+</strong>
+
+{{ job.organization }}
+
+</p>
+
+
+
+<p>
+<strong>
+Category:
+</strong>
+
+{{ job.category }}
+
+</p>
+
+
+
+<p>
+<strong>
+State:
+</strong>
+
+{{ job.state }}
+
+</p>
+
+
+
+<p>
+<strong>
+Qualification:
+</strong>
+
+{{ job.qualification }}
+
+</p>
+
+
+
+<p>
+<strong>
+Last Date:
+</strong>
+
+{{ job.last_date }}
+
+</p>
+
+
+
+<div class="job-buttons">
+
+
+<a href="#" class="details-btn">
+
+View Details
+
+</a>
+
+
+
+<a href="{{ job.official_link }}"
+target="_blank"
+class="apply-btn">
+
+Apply Now
+
+</a>
+
+
+</div>
+
+
+
+</div>
+
+
+
+{% empty %}
+
+
+
+<p>
+No Central Government Jobs Available
+</p>
+
+
+
+{% endfor %}
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+<!-- ================= TELANGANA JOBS ================= -->
+
+
+
+<h2>
+Telangana Government Jobs
+</h2>
+
+
+
+
+<div class="job-container">
+
+
+
+{% for job in telangana_jobs %}
+
+
+
+
+<div class="job-card">
+
+
+
+<h3>
+{{ job.title }}
+</h3>
+
+
+
+<p>
+<strong>
+Organization:
+</strong>
+
+{{ job.organization }}
+
+</p>
+
+
+
+<p>
+<strong>
+Category:
+</strong>
+
+{{ job.category }}
+
+</p>
+
+
+
+<p>
+<strong>
+State:
+</strong>
+
+{{ job.state }}
+
+</p>
+
+
+
+<p>
+<strong>
+Qualification:
+</strong>
+
+{{ job.qualification }}
+
+</p>
+
+
+
+<p>
+<strong>
+Last Date:
+</strong>
+
+{{ job.last_date }}
+
+</p>
+
+
+
+<div class="job-buttons">
+
+
+<a href="#" class="details-btn">
+
+View Details
+
+</a>
+
+
+
+<a href="{{ job.official_link }}"
+target="_blank"
+class="apply-btn">
+
+Apply Now
+
+</a>
+
+
+
+</div>
+
+
+</div>
+
+
+
+
+{% empty %}
+
+
+
+<p>
+No Telangana Government Jobs Available
+</p>
+
+
+
+{% endfor %}
+
+
+
+
+
+</div>
+
+
+
+</section>
+
+
+
+
+
+
+
+<!-- ================= LATEST UPDATES ================= -->
+
+
+<section class="latest-updates">
+
+
+<h2>
+Latest Updates
+</h2>
+
+
+
+
+<div class="updates-container">
+
+
+
+
+
+<!-- Notifications -->
+
+
+<div class="update-box">
+
+
+<h3>
+📢 Latest Notifications
+</h3>
+
+
+<ul>
+
+
+<li>
+<a href="{% url 'notifications' %}">
+SSC CGL Notification
+</a>
+</li>
+
+
+<li>
+<a href="{% url 'notifications' %}">
+Railway Recruitment
+</a>
+</li>
+
+
+<li>
+<a href="{% url 'notifications' %}">
+TGPSC Group 1 Notification
+</a>
+</li>
+
+
+<li>
+<a href="{% url 'notifications' %}">
+IBPS PO Notification
+</a>
+</li>
+
+
+
+</ul>
+
+
+
+<a href="{% url 'notifications' %}" class="view-all">
+
+View All
+
+</a>
+
+
+
+</div>
+
+
+
+
+
+
+
+<!-- Results -->
+
+
+<div class="update-box">
+
+
+<h3>
+🏆 Latest Results
+</h3>
+
+
+<ul>
+
+
+<li>
+<a href="{% url 'results' %}">
+SSC CGL Result
+</a>
+</li>
+
+
+<li>
+<a href="{% url 'results' %}">
+Railway Group D Result
+</a>
+</li>
+
+
+<li>
+<a href="{% url 'results' %}">
+TGPSC Result
+</a>
+</li>
+
+
+<li>
+<a href="{% url 'results' %}">
+IBPS Result
+</a>
+</li>
+
+
+</ul>
+
+
+<a href="{% url 'results' %}" class="view-all">
+
+View All
+
+</a>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+<!-- Admit Cards -->
+
+
+<div class="update-box">
+
+
+<h3>
+🎫 Admit Cards
+</h3>
+
+
+<ul>
+
+
+<li>
+<a href="{% url 'admit_cards' %}">
+SSC Admit Card
+</a>
+</li>
+
+
+<li>
+<a href="{% url 'admit_cards' %}">
+Railway Admit Card
+</a>
+</li>
+
+
+<li>
+<a href="{% url 'admit_cards' %}">
+TGPSC Admit Card
+</a>
+</li>
+
+
+<li>
+<a href="{% url 'admit_cards' %}">
+IBPS Admit Card
+</a>
+</li>
+
+
+</ul>
+
+
+
+<a href="{% url 'admit_cards' %}" class="view-all">
+
+View All
+
+</a>
+
+
+</div>
+
+
+
+
+
+
+
+
+<!-- Answer Keys -->
+
+
+<div class="update-box">
+
+
+<h3>
+🔑 Answer Keys
+</h3>
+
+
+<ul>
+
+
+<li>
+<a href="{% url 'answer_keys' %}">
+SSC Answer Key
+</a>
+</li>
+
+
+<li>
+<a href="{% url 'answer_keys' %}">
+Railway Answer Key
+</a>
+</li>
+
+
+<li>
+<a href="{% url 'answer_keys' %}">
+TGPSC Answer Key
+</a>
+</li>
+
+
+<li>
+<a href="{% url 'answer_keys' %}">
+IBPS Answer Key
+</a>
+</li>
+
+
+</ul>
+
+
+
+<a href="{% url 'answer_keys' %}" class="view-all">
+
+View All
+
+</a>
+
+
+</div>
+
+
+
+
+
+</div>
+
+
+</section>
+
+<!-- ================= QUICK SERVICES ================= -->
+
+
+<section class="quick-services">
+
+
+<h2>
+Quick Services
+</h2>
+
+
+
+
+<div class="services-container">
+
+
+
+<div class="service-card">
+
+
+<i class="fas fa-book fa-3x"></i>
+
+
+<h3>
+Previous Year Papers
+</h3>
+
+
+<p>
+Download previous year question papers for competitive exams.
+</p>
+
+
+<a href="{% url 'previous_papers' %}" class="service-btn">
+
+Explore
+
+</a>
+
+
+</div>
+
+
+
+
+
+<div class="service-card">
+
+
+<i class="fas fa-newspaper fa-3x"></i>
+
+
+<h3>
+Current Affairs
+</h3>
+
+
+<p>
+Daily current affairs and monthly updates.
+</p>
+
+
+<a href="{% url 'current_affairs' %}" class="service-btn">
+
+Read More
+
+</a>
+
+
+</div>
+
+
+
+
+
+<div class="service-card">
+
+
+<i class="fas fa-bookmark fa-3x"></i>
+
+
+<h3>
+Saved Jobs
+</h3>
+
+
+<p>
+Save your favourite government jobs.
+</p>
+
+
+<a href="{% url 'saved_jobs' %}" class="service-btn">
+
+Open
+
+</a>
+
+
+</div>
+
+
+
+
+
+<div class="service-card">
+
+
+<i class="fas fa-address-card fa-3x"></i>
+
+
+<h3>
+Contact Us
+</h3>
+
+
+<p>
+Contact support team for help.
+</p>
+
+
+<a href="{% url 'contact' %}" class="service-btn">
+
+Contact
+
+</a>
+
+
+</div>
+
+<div class="service-card">
+
+
+<i class="fas fa-users fa-3x"></i>
+
+
+<h3>
+About Us
+</h3>
+
+
+<p>
+Know about our government jobs portal.
+</p>
+
+
+<a href="{% url 'about' %}" class="service-btn">
+
+Learn More
+
+</a>
+
+
+</div>
+
+
+
+
+
+<div class="service-card">
+
+
+<i class="fas fa-question-circle fa-3x"></i>
+
+
+<h3>
+FAQ
+</h3>
+
+
+<p>
+Frequently asked questions.
+</p>
+
+
+<a href="{% url 'faq' %}" class="service-btn">
+
+View FAQ
+
+</a>
+
+
+</div>
+
+
+
+
+
+<div class="service-card">
+
+
+<i class="fas fa-comments fa-3x"></i>
+
+
+<h3>
+Feedback
+</h3>
+
+
+<p>
+Share your valuable feedback.
+</p>
+
+
+<a href="{% url 'feedback' %}" class="service-btn">
+
+Give Feedback
+
+</a>
+
+
+</div>
+
+
+
+</div>
+
+
+</section>
+
+
+
+
+
+
+
+<!-- ================= FOOTER ================= -->
+
+
+<footer class="footer">
+
+
+<div class="footer-container">
+
+
+
+
+
+<div class="footer-box">
+
+
+<h3>
+Govt Jobs Portal
+</h3>
+
+
+<p>
+
+Your one-stop destination for Government Job Notifications,
+Results, Admit Cards, Answer Keys, Previous Papers and Current Affairs.
+
+</p>
+
+
+</div>
+
+
+
+
+
+
+
+
+<div class="footer-box">
+
+
+<h3>
+Quick Links
+</h3>
+
+
+
+<ul>
+
+
+<li>
+<a href="{% url 'home' %}">
+Home
+</a>
+</li>
+
+
+<li>
+<a href="{% url 'latest_jobs' %}">
+Latest Jobs
+</a>
+</li>
+
+
+<li>
+<a href="{% url 'notifications' %}">
+Notifications
+</a>
+</li>
+
+
+<li>
+<a href="{% url 'results' %}">
+Results
+</a>
+</li>
+
+
+<li>
+<a href="{% url 'admit_cards' %}">
+Admit Cards
+</a>
+</li>
+
+
+<li>
+<a href="{% url 'answer_keys' %}">
+Answer Keys
+</a>
+</li>
+
+
+</ul>
+
+
+</div>
+
+
+
+
+
+
+
+
+<div class="footer-box">
+
+
+<h3>
+Important Links
+</h3>
+
+
+
+<ul>
+
+
+<li>
+<a href="https://ssc.gov.in" target="_blank">
+SSC
+</a>
+</li>
+
+
+<li>
+<a href="https://upsc.gov.in" target="_blank">
+UPSC
+</a>
+</li>
+
+
+<li>
+<a href="https://www.tgpsc.gov.in" target="_blank">
+TGPSC
+</a>
+</li>
+
+
+<li>
+<a href="https://indianrailways.gov.in" target="_blank">
+Railway
+</a>
+</li>
+
+
+<li>
+<a href="https://www.ibps.in" target="_blank">
+IBPS
+</a>
+</li>
+
+
+<li>
+<a href="https://sbi.co.in/web/careers" target="_blank">
+SBI Careers
+</a>
+</li>
+
+<li><a href="{% url 'my_queries' %}">My Queries</a></li>
+
+
+</ul>
+
+
+</div>
+
+
+
+
+
+
+
+
+<!-- EMAIL SUBSCRIPTION -->
+
+
+<div class="footer-box">
+
+
+<h3>
+📧 Email Notifications
+</h3>
+
+
+
+<p>
+
+Get latest government job alerts,
+results and exam updates.
+
+</p>
+
+
+
+<form method="POST" action="{% url 'subscribe' %}">
+
+
+{% csrf_token %}
+
+
+
+<input
+
+type="email"
+
+name="email"
+
+placeholder="Enter your email"
+
+required
+
+style="padding:10px;width:100%;margin-bottom:10px;border-radius:5px;border:none;"
+
+>
+
+
+
+<button
+
+type="submit"
+
+style="padding:10px 20px;background:#28a745;color:white;border:none;border-radius:5px;cursor:pointer;"
+
+>
+
+Subscribe
+
+</button>
+
+
+
+</form>
+
+
+</div>
+
+
+
+
+
+
+
+
+<div class="footer-box">
+
+
+<h3>
+Contact
+</h3>
+
+
+<p>
+Email: support@govtjobsportal.com
+</p>
+
+
+<p>
+Phone: +91 9390535435
+</p>
+
+
+<p>
+Hyderabad, Telangana
+</p>
+
+
+
+</div>
+
+
+
+
+
+</div>
+
+
+
+
+
+
+<hr>
+
+
+
+<div class="footer-bottom">
+
+
+<p>
+
+© 2026 Govt Jobs Portal. All Rights Reserved.
+
+</p>
+
+
+<p>
+
+Privacy Policy |
+Terms & Conditions
+
+</p>
+
+
+</div>
+
+<section class="my-feedback-section">
+    <h2>My Feedback</h2>
+
+    {% if my_feedbacks %}
+        {% for feedback in my_feedbacks %}
+        <div class="feedback-card">
+            <h4>{{ feedback.subject }}</h4>
+
+            <p><strong>Category:</strong> {{ feedback.category }}</p>
+
+            <p><strong>Rating:</strong> ⭐ {{ feedback.rating }}/5</p>
+
+            <p>{{ feedback.message }}</p>
+
+            <p>
+                <strong>Status:</strong>
+                {{ feedback.status }}
+            </p>
+
+            {% if feedback.admin_reply %}
+                <div class="admin-reply">
+                    <strong>Admin Reply:</strong><br>
+                    {{ feedback.admin_reply }}
+                </div>
+            {% endif %}
+        </div>
+        {% endfor %}
+    {% else %}
+        <p>You have not submitted any feedback yet.</p>
+    {% endif %}
+</section>
+
+
+
+</footer>
+
+
+
+
+
+
+
+<!-- ================= BACK TO TOP ================= -->
+
+
+<button id="topBtn"
+onclick="topFunction()">
+
+↑
+
+</button>
+
+
+
+
+
+
+
+<script>
+
+
+let topbutton=document.getElementById("topBtn");
+
+
+
+window.onscroll=function(){
+
+
+if(
+document.body.scrollTop > 200 ||
+document.documentElement.scrollTop > 200
+)
+
+{
+
+topbutton.style.display="block";
+
+}
+
+else
+
+{
+
+topbutton.style.display="none";
+
+}
+
+
+};
+
+
+
+
+
+function topFunction(){
+
+
+document.body.scrollTop=0;
+
+document.documentElement.scrollTop=0;
+
+
+}
+
+
+
+</script>
+
+
+
+
+
+
+</body>
+
+
+</html>

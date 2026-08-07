@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Daily Quiz Result</title>
+
+<style>
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family:Arial,Helvetica,sans-serif;
+    background:#f4f6f9;
+}
+
+.container{
+    width:85%;
+    max-width:1000px;
+    margin:40px auto;
+    background:#fff;
+    border-radius:10px;
+    padding:30px;
+    box-shadow:0 5px 20px rgba(0,0,0,.15);
+}
+
+h1{
+    text-align:center;
+    color:#003366;
+    margin-bottom:30px;
+}
+
+.score-box{
+    display:flex;
+    justify-content:space-around;
+    flex-wrap:wrap;
+    margin-bottom:30px;
+}
+
+.card{
+    width:220px;
+    padding:20px;
+    margin:10px;
+    border-radius:10px;
+    color:#fff;
+    text-align:center;
+}
+
+.score{
+    background:#2563eb;
+}
+
+.correct{
+    background:#16a34a;
+}
+
+.wrong{
+    background:#dc2626;
+}
+
+.total{
+    background:#6b7280;
+}
+
+.card h2{
+    font-size:18px;
+    margin-bottom:10px;
+}
+
+.card h1{
+    color:white;
+    margin:0;
+}
+
+.review{
+    margin-top:30px;
+}
+
+.review-item{
+    background:#f8fafc;
+    border-left:6px solid #2563eb;
+    padding:20px;
+    margin-bottom:20px;
+    border-radius:8px;
+}
+
+.correct-text{
+    color:green;
+    font-weight:bold;
+}
+
+.wrong-text{
+    color:red;
+    font-weight:bold;
+}
+
+.button-area{
+    text-align:center;
+    margin-top:40px;
+}
+
+.button-area a{
+    display:inline-block;
+    padding:12px 25px;
+    background:#2563eb;
+    color:white;
+    text-decoration:none;
+    border-radius:8px;
+}
+
+.button-area a:hover{
+    background:#1d4ed8;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>🎉 Daily Quiz Result</h1>
+
+<div class="score-box">
+
+<div class="card score">
+<h2>Your Score</h2>
+<h1>{{ score }}/{{ total }}</h1>
+</div>
+
+<div class="card correct">
+<h2>Correct Answers</h2>
+<h1>{{ score }}</h1>
+</div>
+
+<div class="card wrong">
+<h2>Wrong Answers</h2>
+<h1>{{ wrong }}</h1>
+</div>
+
+<div class="card total">
+<h2>Total Questions</h2>
+<h1>{{ total }}</h1>
+</div>
+
+</div>
+
+<h2>Answer Review</h2>
+
+{% if results %}
+
+<div class="review">
+
+{% for r in results %}
+
+<div class="review-item">
+
+<h3>{{ forloop.counter }}. {{ r.question }}</h3>
+
+<br>
+
+<p>
+<strong>Your Answer:</strong>
+{{ r.user_answer }}
+</p>
+
+<br>
+
+{% if r.correct %}
+
+<p class="correct-text">
+✅ Correct
+</p>
+
+{% else %}
+
+<p class="wrong-text">
+❌ Wrong
+</p>
+
+<br>
+
+<p>
+<strong>Correct Answer:</strong>
+{{ r.correct_answer }}
+</p>
+
+{% endif %}
+
+</div>
+
+{% endfor %}
+
+</div>
+
+{% endif %}
+
+<div class="button-area">
+
+<a href="{% url 'daily_quiz' %}">
+Take Quiz Again
+</a>
+
+</div>
+
+</div>
+
+</body>
+</html>

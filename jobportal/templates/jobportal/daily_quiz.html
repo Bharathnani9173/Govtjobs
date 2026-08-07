@@ -1,0 +1,420 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Daily SSC Mock Test</title>
+
+<style>
+
+body{
+    margin:0;
+    padding:0;
+    background:#f2f4f8;
+    font-family:Arial,sans-serif;
+}
+
+.exam-box{
+    width:80%;
+    margin:30px auto;
+    background:white;
+    border-radius:12px;
+    padding:30px;
+    box-shadow:0 5px 20px rgba(0,0,0,.15);
+}
+
+.header{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin-bottom:20px;
+}
+
+.title{
+    font-size:30px;
+    color:#003366;
+    font-weight:bold;
+}
+
+.timer{
+    background:#dc2626;
+    color:white;
+    padding:12px 20px;
+    border-radius:8px;
+    font-size:22px;
+}
+
+.progress-container{
+    width:100%;
+    height:10px;
+    background:#ddd;
+    border-radius:20px;
+    overflow:hidden;
+    margin-bottom:20px;
+}
+
+.progress{
+    width:5%;
+    height:100%;
+    background:#16a34a;
+}
+
+#count{
+    font-size:18px;
+    font-weight:bold;
+    color:#003366;
+}
+
+.question-box{
+    display:none;
+}
+
+.question-box.active{
+    display:block;
+}
+
+.question-box h2{
+    color:#003366;
+}
+
+.option{
+    background:#f1f5f9;
+    padding:15px;
+    margin:15px 0;
+    border-radius:8px;
+    transition:.3s;
+}
+
+.option:hover{
+    background:#dbeafe;
+}
+
+.option input{
+    margin-right:10px;
+}
+
+.buttons{
+    display:flex;
+    justify-content:space-between;
+    margin-top:30px;
+}
+
+button{
+    padding:12px 30px;
+    border:none;
+    border-radius:8px;
+    color:white;
+    cursor:pointer;
+    font-size:16px;
+}
+
+.prev{
+    background:#6b7280;
+}
+
+.next{
+    background:#2563eb;
+}
+
+.submit{
+    background:#16a34a;
+}
+
+button:hover{
+    opacity:.9;
+}
+
+@media(max-width:768px){
+
+.exam-box{
+width:95%;
+padding:20px;
+}
+
+.header{
+flex-direction:column;
+gap:15px;
+}
+
+.title{
+font-size:24px;
+}
+
+.timer{
+font-size:18px;
+}
+
+.buttons{
+flex-direction:column;
+gap:15px;
+}
+
+button{
+width:100%;
+}
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="exam-box">
+
+<div class="header">
+
+<div class="title">
+Daily SSC Mock Test
+</div>
+
+<div class="timer">
+⏱ <span id="time">20:00</span>
+</div>
+
+</div>
+
+<div class="progress-container">
+<div class="progress" id="progress"></div>
+</div>
+
+<p id="count">
+Question 1 of {{ total }}
+</p>
+
+<form method="POST" id="quizForm">
+
+{% csrf_token %}
+
+{% for question in questions %}
+
+<div class="question-box {% if forloop.first %}active{% endif %}">
+
+<input type="hidden"
+       name="question_ids"
+       value="{{ question.id }}">
+
+<h2>
+{{ forloop.counter }}.
+{{ question.question }}
+</h2>
+
+<div class="option">
+<label>
+<input type="radio"
+name="q{{ question.id }}"
+value="{{ question.option1 }}">
+{{ question.option1 }}
+</label>
+</div>
+
+<div class="option">
+<label>
+<input type="radio"
+name="q{{ question.id }}"
+value="{{ question.option2 }}">
+{{ question.option2 }}
+</label>
+</div>
+
+<div class="option">
+<label>
+<input type="radio"
+name="q{{ question.id }}"
+value="{{ question.option3 }}">
+{{ question.option3 }}
+</label>
+</div>
+
+<div class="option">
+<label>
+<input type="radio"
+name="q{{ question.id }}"
+value="{{ question.option4 }}">
+{{ question.option4 }}
+</label>
+</div>
+
+</div>
+
+{% endfor %}
+
+<div class="buttons">
+
+<button
+type="button"
+class="prev"
+onclick="previousQuestion()">
+Previous
+</button>
+
+<button
+type="button"
+class="next"
+onclick="nextQuestion()">
+Next
+</button>
+
+<button
+type="submit"
+class="submit">
+Submit Test
+</button>
+
+</div>
+
+</form>
+
+</div>
+
+<script>
+
+let current = 0;
+
+const questions = document.querySelectorAll(".question-box");
+const total = questions.length;
+
+function showQuestion(index){
+
+    questions.forEach(function(q){
+        q.classList.remove("active");
+    });
+
+    questions[index].classList.add("active");
+
+    document.getElementById("count").innerHTML =
+        "Question " + (index + 1) + " of " + total;
+
+    document.getElementById("progress").style.width =
+        ((index + 1) / total) * 100 + "%";
+
+    // Previous button
+    if(index === 0){
+        document.querySelector(".prev").disabled = true;
+        document.querySelector(".prev").style.opacity = ".5";
+    }else{
+        document.querySelector(".prev").disabled = false;
+        document.querySelector(".prev").style.opacity = "1";
+    }
+
+    // Next button
+    if(index === total - 1){
+        document.querySelector(".next").disabled = true;
+        document.querySelector(".next").style.opacity = ".5";
+    }else{
+        document.querySelector(".next").disabled = false;
+        document.querySelector(".next").style.opacity = "1";
+    }
+
+}
+
+showQuestion(0);
+
+function nextQuestion(){
+
+    if(current < total-1){
+
+        current++;
+
+        showQuestion(current);
+
+    }
+
+}
+
+function previousQuestion(){
+
+    if(current > 0){
+
+        current--;
+
+        showQuestion(current);
+
+    }
+
+}
+
+let seconds = 20 * 60;
+
+const timer = setInterval(function(){
+
+    let minutes = Math.floor(seconds / 60);
+
+    let secs = seconds % 60;
+
+    document.getElementById("time").innerHTML =
+        minutes + ":" + (secs < 10 ? "0" : "") + secs;
+
+    if(seconds <= 0){
+
+        clearInterval(timer);
+
+        alert("Time is over. Your test is being submitted.");
+
+        document.getElementById("quizForm").submit();
+
+    }
+
+    seconds--;
+
+},1000);
+
+
+// Warn before leaving page
+
+window.addEventListener("beforeunload", function(e){
+
+    e.preventDefault();
+
+    e.returnValue = "";
+
+});
+
+
+// Disable Right Click
+
+document.addEventListener("contextmenu", function(e){
+
+    e.preventDefault();
+
+});
+
+
+// Disable F12
+
+document.onkeydown = function(e){
+
+    if(e.keyCode == 123){
+
+        return false;
+
+    }
+
+    if(e.ctrlKey && e.shiftKey && e.keyCode == 73){
+
+        return false;
+
+    }
+
+    if(e.ctrlKey && e.shiftKey && e.keyCode == 74){
+
+        return false;
+
+    }
+
+    if(e.ctrlKey && e.keyCode == 85){
+
+        return false;
+
+    }
+
+};
+
+</script>
+
+</body>
+</html>

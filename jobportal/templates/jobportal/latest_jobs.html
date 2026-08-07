@@ -1,0 +1,38 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Latest Jobs</title>
+    <link rel="stylesheet" href="{% static 'jobportal/css/style.css' %}">
+</head>
+<body>
+
+<h1>Latest Government Jobs</h1>
+
+<div class="job-card">
+    <h2>SSC CGL 2026</h2>
+    <p>Staff Selection Commission Combined Graduate Level Examination</p>
+    <a href="{% url 'ssc_cgl' %}" class="details-button">
+    View Details
+</a>
+</div>
+
+<div class="job-card">
+    <h2>Railway Group D</h2>
+    <p>Railway Recruitment Board Group D Recruitment</p>
+    <a href="{% url 'railway_group_d' %}" class="details-button">
+    View Details
+</a>
+</div>
+
+<div class="job-card">
+    <h2>TGPSC Group 1</h2>
+    <p>Telangana Public Service Commission Group 1 Examination</p>
+    <a href="{% url 'tgpsc_group_1' %}" class="details-button">
+    View Details
+</a>
+</div>
+
+</body>
+</html>

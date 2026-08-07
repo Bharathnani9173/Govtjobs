@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Feedback</title>
+</head>
+<body>
+
+<h1>My Feedback</h1>
+
+{% if feedbacks %}
+
+    {% for feedback in feedbacks %}
+
+    <div style="border:1px solid #ccc;padding:15px;margin:20px;">
+
+        <h3>{{ feedback.subject }}</h3>
+
+        <p><strong>Status:</strong> {{ feedback.status }}</p>
+
+        <p>{{ feedback.message }}</p>
+
+        {% if feedback.admin_reply %}
+
+            <div style="background:#e8f5e9;padding:10px;border-left:5px solid green;">
+                <strong>Admin Reply:</strong><br>
+                {{ feedback.admin_reply }}
+            </div>
+
+        {% else %}
+
+            <div style="background:#fff3cd;padding:10px;border-left:5px solid orange;">
+                Waiting for admin reply...
+            </div>
+
+        {% endif %}
+
+    </div>
+
+    {% endfor %}
+
+{% else %}
+
+<h3>No feedback submitted.</h3>
+
+{% endif %}
+
+</body>
+</html>

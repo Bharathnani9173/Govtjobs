@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Saved Jobs</title>
+
+    <style>
+        body{
+            font-family: Arial, sans-serif;
+            background:#f4f4f4;
+            margin:20px;
+        }
+
+        h1{
+            text-align:center;
+            color:#003366;
+        }
+
+        table{
+            width:100%;
+            border-collapse:collapse;
+            background:white;
+            box-shadow:0 0 10px rgba(0,0,0,0.2);
+        }
+
+        th{
+            background:#003366;
+            color:white;
+            padding:12px;
+        }
+
+        td{
+            padding:12px;
+            text-align:center;
+            border:1px solid #ddd;
+        }
+
+        tr:nth-child(even){
+            background:#f2f2f2;
+        }
+
+        .remove{
+            background:red;
+            color:white;
+            padding:8px 15px;
+            border:none;
+            border-radius:5px;
+            cursor:pointer;
+            font-size:15px;
+        }
+
+        .remove:hover{
+            background:darkred;
+        }
+    </style>
+
+</head>
+
+<body>
+
+<h1>Saved Government Jobs</h1>
+
+<table>
+
+<tr>
+    <th>Job Name</th>
+    <th>Organization</th>
+    <th>Last Date</th>
+    <th>Action</th>
+</tr>
+
+<tr>
+    <td>SSC CGL 2026</td>
+    <td>Staff Selection Commission</td>
+    <td>30 Aug 2026</td>
+    <td>
+        <button class="remove" onclick="removeRow(this)">Remove</button>
+    </td>
+</tr>
+
+<tr>
+    <td>Railway Group D</td>
+    <td>Railway Recruitment Board</td>
+    <td>10 Sep 2026</td>
+    <td>
+        <button class="remove" onclick="removeRow(this)">Remove</button>
+    </td>
+</tr>
+
+<tr>
+    <td>TGPSC Group 1</td>
+    <td>Telangana Public Service Commission</td>
+    <td>15 Sep 2026</td>
+    <td>
+        <button class="remove" onclick="removeRow(this)">Remove</button>
+    </td>
+</tr>
+
+<tr>
+    <td>IBPS PO</td>
+    <td>IBPS</td>
+    <td>20 Aug 2026</td>
+    <td>
+        <button class="remove" onclick="removeRow(this)">Remove</button>
+    </td>
+</tr>
+
+<tr>
+    <td>UPSC Civil Services</td>
+    <td>UPSC</td>
+    <td>05 Sep 2026</td>
+    <td>
+        <button class="remove" onclick="removeRow(this)">Remove</button>
+    </td>
+</tr>
+
+</table>
+
+<script>
+function removeRow(button) {
+
+    if(confirm("Are you sure you want to remove this saved job?")) {
+        button.parentElement.parentElement.remove();
+    }
+
+}
+</script>
+
+</body>
+</html>

@@ -1,0 +1,164 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Search Government Jobs</title>
+
+    <style>
+
+        body{
+            font-family:Arial;
+            background:#f4f6f9;
+        }
+
+        .container{
+            width:90%;
+            margin:auto;
+            margin-top:30px;
+        }
+
+        .search-box{
+            text-align:center;
+            margin-bottom:30px;
+        }
+
+        .search-box input{
+            width:70%;
+            padding:12px;
+            font-size:18px;
+            border:1px solid #ccc;
+            border-radius:5px;
+        }
+
+        .search-box button{
+            padding:12px 25px;
+            background:#007bff;
+            color:white;
+            border:none;
+            border-radius:5px;
+            cursor:pointer;
+        }
+
+        .search-box button:hover{
+            background:#0056b3;
+        }
+
+        .job-card{
+
+            background:white;
+            padding:20px;
+            margin-bottom:20px;
+            border-radius:8px;
+            box-shadow:0px 2px 8px rgba(0,0,0,.1);
+
+        }
+
+        .job-card h2{
+            color:#0d47a1;
+        }
+
+        .apply{
+
+            background:green;
+            color:white;
+            padding:10px 20px;
+            text-decoration:none;
+            border-radius:5px;
+
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<div class="search-box">
+
+<form method="GET" action="{% url 'search' %}">
+
+<input
+type="text"
+name="q"
+placeholder="Search Government Jobs..."
+value="{{ query }}">
+
+<button type="submit">
+Search
+</button>
+
+</form>
+
+</div>
+
+{% if jobs %}
+
+{% for job in jobs %}
+
+<div class="job-card">
+
+<h2>{{ job.title }}</h2>
+
+<p>
+<b>Organization :</b>
+{{ job.organization }}
+</p>
+
+<p>
+<b>Location :</b>
+{{ job.location }}
+</p>
+
+<p>
+<b>Qualification :</b>
+{{ job.qualification }}
+</p>
+
+<p>
+<b>Salary :</b>
+{{ job.salary }}
+</p>
+
+<p>
+<b>Last Date :</b>
+{{ job.last_date }}
+</p>
+
+<p>
+
+{{ job.description }}
+
+</p>
+
+<a
+href="{{ job.official_link }}"
+target="_blank"
+class="apply">
+
+Apply Now
+
+</a>
+
+</div>
+
+{% endfor %}
+
+{% else %}
+
+<h2 align="center">
+
+No Jobs Found
+
+</h2>
+
+{% endif %}
+
+</div>
+
+</body>
+
+</html>
+

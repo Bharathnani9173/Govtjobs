@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>My Support Queries</title>
+
+<style>
+
+body{
+    font-family: Arial;
+    background:#f4f7fb;
+    padding:30px;
+}
+
+.container{
+    width:70%;
+    margin:auto;
+}
+
+h1{
+    text-align:center;
+    color:#003366;
+}
+
+.query-card{
+
+    background:white;
+    padding:20px;
+    margin:20px 0;
+    border-radius:10px;
+    box-shadow:0 0 10px #ccc;
+
+}
+
+.query-card h3{
+
+    color:#003366;
+
+}
+
+.label{
+
+    font-weight:bold;
+
+}
+
+.reply{
+
+    background:#e8f5e9;
+    padding:15px;
+    border-radius:5px;
+    margin-top:15px;
+
+}
+
+.pending{
+
+    color:red;
+    font-weight:bold;
+
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<div class="container">
+
+
+<h1>My Support Queries</h1>
+
+
+{% if queries %}
+
+
+{% for query in queries %}
+
+
+<div class="query-card">
+
+
+<h3>{{ query.subject }}</h3>
+
+
+<p>
+<span class="label">Message:</span>
+{{ query.message }}
+</p>
+
+
+<p>
+<span class="label">Submitted Date:</span>
+{{ query.created_at|date:"d M Y, h:i A" }}
+</p>
+
+
+
+{% if query.admin_reply %}
+
+<div class="reply">
+
+<p>
+<span class="label">Admin Reply:</span>
+</p>
+
+{{ query.admin_reply }}
+
+</div>
+
+
+{% else %}
+
+<p class="pending">
+
+Admin Reply: Waiting for admin response...
+
+</p>
+
+
+{% endif %}
+
+
+
+</div>
+
+
+{% endfor %}
+
+
+
+{% else %}
+
+
+<p style="text-align:center;">
+No queries submitted yet.
+</p>
+
+
+{% endif %}
+
+
+
+</div>
+
+
+</body>
+
+</html>
