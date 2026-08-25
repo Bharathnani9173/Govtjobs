@@ -1,0 +1,470 @@
+```html
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>{{ job.title }} - Govt Jobs</title>
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            background: #f4f7fb;
+            color: #222;
+        }
+
+        .header {
+            background: #0d47a1;
+            color: white;
+            padding: 25px 20px;
+            text-align: center;
+        }
+
+        .header h1 {
+            margin: 0;
+            font-size: 30px;
+        }
+
+        .header p {
+            margin: 8px 0 0;
+            font-size: 15px;
+        }
+
+        .container {
+            width: 94%;
+            max-width: 1100px;
+            margin: 30px auto;
+        }
+
+        .card {
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+            margin-bottom: 25px;
+        }
+
+        .job-title {
+            color: #0d47a1;
+            margin-top: 0;
+            margin-bottom: 20px;
+            font-size: 28px;
+        }
+
+        .info-row {
+            display: flex;
+            padding: 12px 0;
+            border-bottom: 1px solid #eee;
+        }
+
+        .info-label {
+            width: 180px;
+            font-weight: bold;
+            color: #333;
+        }
+
+        .info-value {
+            flex: 1;
+            color: #555;
+        }
+
+        .description {
+            line-height: 1.7;
+            color: #444;
+            white-space: pre-line;
+        }
+
+        .section-title {
+            color: #0d47a1;
+            margin-top: 0;
+            margin-bottom: 20px;
+        }
+
+        /* RESOURCE GRID */
+
+        .resource-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 15px;
+        }
+
+        .resource-btn {
+            display: block;
+            padding: 17px 10px;
+            text-align: center;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: bold;
+            color: #0d47a1;
+            background: #e8f0fe;
+            border: 1px solid #c9daf8;
+            transition: 0.2s;
+        }
+
+        .resource-btn:hover {
+            background: #0d47a1;
+            color: white;
+        }
+
+        /* ACTION BUTTONS */
+
+        .actions {
+            display: flex;
+            gap: 12px;
+            flex-wrap: wrap;
+            margin-top: 25px;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 13px 22px;
+            border-radius: 7px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .apply {
+            background: #0d47a1;
+            color: white;
+        }
+
+        .back {
+            background: #333;
+            color: white;
+        }
+
+        .apply:hover {
+            background: #083378;
+        }
+
+        .back:hover {
+            background: #111;
+        }
+
+        @media (max-width: 800px) {
+
+            .resource-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            .info-row {
+                display: block;
+            }
+
+            .info-label {
+                width: auto;
+                margin-bottom: 5px;
+            }
+        }
+
+        @media (max-width: 550px) {
+
+            .container {
+                width: 95%;
+            }
+
+            .card {
+                padding: 20px;
+            }
+
+            .job-title {
+                font-size: 23px;
+            }
+
+            .resource-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .actions {
+                flex-direction: column;
+            }
+
+            .btn {
+                text-align: center;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+<!-- HEADER -->
+
+<div class="header">
+
+    <h1>Government Jobs Portal</h1>
+
+    <p>Complete Exam Information & Preparation Resources</p>
+
+</div>
+
+
+<div class="container">
+
+
+    <!-- JOB INFORMATION -->
+
+    <div class="card">
+
+        <h1 class="job-title">
+            {{ job.title }}
+        </h1>
+
+
+        {% if job.organization %}
+        <div class="info-row">
+            <div class="info-label">Organization</div>
+            <div class="info-value">
+                {{ job.organization }}
+            </div>
+        </div>
+        {% endif %}
+
+
+        {% if job.category %}
+        <div class="info-row">
+            <div class="info-label">Category</div>
+            <div class="info-value">
+                {{ job.category }}
+            </div>
+        </div>
+        {% endif %}
+
+
+        {% if job.job_type %}
+        <div class="info-row">
+            <div class="info-label">Government Type</div>
+            <div class="info-value">
+                {{ job.job_type }}
+            </div>
+        </div>
+        {% endif %}
+
+
+        {% if job.state %}
+        <div class="info-row">
+            <div class="info-label">State</div>
+            <div class="info-value">
+                {{ job.state }}
+            </div>
+        </div>
+        {% endif %}
+
+
+        {% if job.location %}
+        <div class="info-row">
+            <div class="info-label">Location</div>
+            <div class="info-value">
+                {{ job.location }}
+            </div>
+        </div>
+        {% endif %}
+
+
+        {% if job.qualification %}
+        <div class="info-row">
+            <div class="info-label">Qualification</div>
+            <div class="info-value">
+                {{ job.qualification }}
+            </div>
+        </div>
+        {% endif %}
+
+
+        {% if job.age_limit %}
+        <div class="info-row">
+            <div class="info-label">Age Limit</div>
+            <div class="info-value">
+                {{ job.age_limit }}
+            </div>
+        </div>
+        {% endif %}
+
+
+        {% if job.vacancies %}
+        <div class="info-row">
+            <div class="info-label">Vacancies</div>
+            <div class="info-value">
+                {{ job.vacancies }}
+            </div>
+        </div>
+        {% endif %}
+
+
+        {% if job.salary %}
+        <div class="info-row">
+            <div class="info-label">Salary</div>
+            <div class="info-value">
+                {{ job.salary }}
+            </div>
+        </div>
+        {% endif %}
+
+
+        {% if job.application_mode %}
+        <div class="info-row">
+            <div class="info-label">Application Mode</div>
+            <div class="info-value">
+                {{ job.application_mode }}
+            </div>
+        </div>
+        {% endif %}
+
+
+        {% if job.notification_date %}
+        <div class="info-row">
+            <div class="info-label">Notification Date</div>
+            <div class="info-value">
+                {{ job.notification_date }}
+            </div>
+        </div>
+        {% endif %}
+
+
+        {% if job.last_date %}
+        <div class="info-row">
+            <div class="info-label">Last Date</div>
+            <div class="info-value">
+                {{ job.last_date }}
+            </div>
+        </div>
+        {% endif %}
+
+    </div>
+
+
+    <!-- JOB DESCRIPTION -->
+
+    {% if job.description %}
+
+    <div class="card">
+
+        <h2 class="section-title">
+            Job Description
+        </h2>
+
+        <div class="description">
+            {{ job.description }}
+        </div>
+
+    </div>
+
+    {% endif %}
+
+
+    <!-- EXAM RESOURCES -->
+
+    <div class="card">
+
+        <h2 class="section-title">
+            📚 {{ job.title }} - Exam Resources
+        </h2>
+
+        <p>
+            Access preparation materials specifically related to
+            <strong>{{ job.title }}</strong>.
+        </p>
+
+
+        <div class="resource-grid">
+
+
+            <!-- PREVIOUS PAPERS -->
+
+            <a
+                href="{% url 'previous_papers' %}?job={{ job.id }}"
+                class="resource-btn"
+            >
+                📚<br>
+                Previous Year Papers
+            </a>
+
+
+            <!-- ANSWER KEYS -->
+
+            <a
+                href="{% url 'answer_keys' %}?job={{ job.id }}"
+                class="resource-btn"
+            >
+                📝<br>
+                Answer Keys
+            </a>
+
+
+            <!-- SYLLABUS -->
+
+            <a
+                href="{% url 'syllabus' %}?job={{ job.id }}"
+                class="resource-btn"
+            >
+                📖<br>
+                Syllabus
+            </a>
+
+
+            <!-- CURRENT AFFAIRS -->
+
+            <a
+                href="{% url 'current_affairs' %}?job={{ job.id }}"
+                class="resource-btn"
+            >
+                📰<br>
+                Current Affairs
+            </a>
+
+
+            <!-- MOCK TEST -->
+
+            <a
+                href="{% url 'mock_test' %}?job={{ job.id }}"
+                class="resource-btn"
+            >
+                🎯<br>
+                Mock Test
+            </a>
+
+
+        </div>
+
+    </div>
+
+
+    <!-- ACTIONS -->
+
+    <div class="card">
+
+        <div class="actions">
+
+
+            {% if job.official_link %}
+
+            <a
+                href="{{ job.official_link }}"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="btn apply"
+            >
+                Apply Now / Official Website
+            </a>
+
+            {% endif %}
+
+
+        </div>
+
+    </div>
+
+
+</div>
+
+</body>
+</html>
+```

@@ -1,0 +1,60 @@
+
+{% extends "jobportal/base.html" %}
+
+{% block content %}
+
+<div class="container py-5">
+
+    <div class="text-center mb-5">
+        <h1>Mock Tests</h1>
+        <p>Select an exam and start your practice test.</p>
+    </div>
+
+    <div class="row">
+
+        {% for exam in exams %}
+
+        <div class="col-md-4 mb-4">
+
+            <div class="card h-100 shadow-sm">
+
+                <div class="card-body">
+
+                    <h4>{{ exam.name }}</h4>
+
+                    <p class="text-muted">
+                        Practice Mock Test
+                    </p>
+
+                    <p>
+                        <strong>Questions:</strong> 50
+                    </p>
+
+                    <p>
+                        <strong>Duration:</strong> 20 Minutes
+                    </p>
+
+                    <a href="{% url 'exam_mock_test' exam.name %}"
+                       class="btn btn-primary w-100">
+                        Start Mock Test
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        {% empty %}
+
+        <div class="col-12 text-center">
+            <h4>No exams available.</h4>
+        </div>
+
+        {% endfor %}
+
+    </div>
+
+</div>
+
+{% endblock %}

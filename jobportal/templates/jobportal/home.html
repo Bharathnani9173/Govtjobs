@@ -687,6 +687,70 @@ border-radius:8px;
     border-left:4px solid green;
 }
 
+.services-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+    margin-top: 30px;
+}
+
+.service-card {
+    background: #fff;
+    border-radius: 18px;
+    padding: 35px 25px;
+    text-align: center;
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
+    transition: 0.3s ease;
+}
+
+.service-card:hover {
+    transform: translateY(-6px);
+}
+
+.service-icon {
+    font-size: 48px;
+    color: #0866c6;
+    margin-bottom: 20px;
+}
+
+.service-card h3 {
+    font-size: 26px;
+    margin-bottom: 15px;
+}
+
+.service-card p {
+    color: #666;
+    font-size: 18px;
+    min-height: 50px;
+    margin-bottom: 25px;
+}
+
+.service-btn {
+    display: inline-block;
+    background: #0866c6;
+    color: white;
+    padding: 12px 28px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.service-btn:hover {
+    background: #064f9c;
+}
+
+@media (max-width: 900px) {
+    .services-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 600px) {
+    .services-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
 
 </style>
 
@@ -1727,8 +1791,21 @@ View FAQ
 
 </div>
 
+<div class="service-card">
+    <div class="service-icon">
+        <i class="fas fa-clipboard-check"></i>
+    </div>
 
+    <h3>Mock Tests</h3>
 
+    <p>
+        Practice exam-style mock tests and improve your preparation.
+    </p>
+
+    <a href="{% url 'mock_tests' %}" class="service-btn">
+        Start Mock Test
+    </a>
+</div>
 
 
 <div class="service-card">

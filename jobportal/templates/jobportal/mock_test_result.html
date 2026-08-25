@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <title>Mock Test Result</title>
+
+    <style>
+
+        body {
+            font-family: Arial;
+            background: #f4f6f9;
+            margin: 0;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 30px auto;
+            padding: 20px;
+        }
+
+        .result {
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            text-align: center;
+            box-shadow: 0 2px 8px rgba(0,0,0,.1);
+        }
+
+        .score {
+            font-size: 45px;
+            font-weight: bold;
+            margin: 20px;
+        }
+
+        .stats {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .stat {
+            background: #f5f5f5;
+            padding: 15px 25px;
+            border-radius: 8px;
+        }
+
+        .correct {
+            color: green;
+        }
+
+        .wrong {
+            color: red;
+        }
+
+        .unanswered {
+            color: #777;
+        }
+
+        .question {
+            background: white;
+            margin-top: 15px;
+            padding: 20px;
+            border-radius: 10px;
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+    <div class="result">
+
+        <h1>
+            Mock Test Completed
+        </h1>
+
+        <h2>
+            {{ job.title }}
+        </h2>
+
+        <div class="score">
+
+            {{ score }} / {{ total }}
+
+        </div>
+
+        <div class="stats">
+
+            <div class="stat">
+                <strong>Attempted</strong><br>
+                {{ attempted }}
+            </div>
+
+            <div class="stat correct">
+                <strong>Correct</strong><br>
+                {{ score }}
+            </div>
+
+            <div class="stat wrong">
+                <strong>Wrong</strong><br>
+                {{ wrong }}
+            </div>
+
+            <div class="stat unanswered">
+                <strong>Unanswered</strong><br>
+                {{ unanswered }}
+            </div>
+
+        </div>
+
+    </div>
+
+
+    {% for result in results %}
+
+        <div class="question">
+
+            <h3>
+                Question {{ forloop.counter }}
+            </h3>
+
+            <p>
+                <strong>
+                    {{ result.question.question }}
+                </strong>
+            </p>
+
+            <p>
+                Your Answer:
+                <strong>
+                    {% if result.selected_answer %}
+                        {{ result.selected_answer }}
+                    {% else %}
+                        Not Answered
+                    {% endif %}
+                </strong>
+            </p>
+
+            <p>
+                Correct Answer:
+                <strong>
+                    {{ result.correct_answer }}
+                </strong>
+            </p>
+
+        </div>
+
+    {% endfor %}
+
+</div>
+
+</body>
+</html>

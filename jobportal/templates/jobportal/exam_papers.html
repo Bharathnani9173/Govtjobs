@@ -1,0 +1,285 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>{{ exam.name }} - Previous Year Papers | GovtJobs</title>
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            background: #f4f7fb;
+            color: #1f2937;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #0f172a, #1e3a8a);
+            color: white;
+            padding: 25px 20px;
+        }
+
+        .header-container {
+            max-width: 1100px;
+            margin: auto;
+        }
+
+        .back {
+            display: inline-block;
+            color: white;
+            text-decoration: none;
+            margin-bottom: 15px;
+            font-size: 15px;
+        }
+
+        .header h1 {
+            margin: 0;
+            font-size: 30px;
+        }
+
+        .header p {
+            margin: 8px 0 0;
+            opacity: 0.9;
+        }
+
+        .container {
+            max-width: 1100px;
+            margin: 35px auto;
+            padding: 0 20px;
+        }
+
+        .exam-info {
+            background: white;
+            border-radius: 14px;
+            padding: 25px;
+            margin-bottom: 25px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.07);
+        }
+
+        .exam-info h2 {
+            margin-top: 0;
+            color: #1e3a8a;
+        }
+
+        .category {
+            display: inline-block;
+            background: #e0e7ff;
+            color: #3730a3;
+            padding: 7px 14px;
+            border-radius: 20px;
+            font-size: 13px;
+            font-weight: bold;
+        }
+
+        .section-title {
+            margin: 30px 0 18px;
+            font-size: 24px;
+        }
+
+        .papers-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 20px;
+        }
+
+        .paper-card {
+            background: white;
+            border-radius: 14px;
+            padding: 22px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.07);
+            transition: 0.2s;
+        }
+
+        .paper-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 8px 22px rgba(0,0,0,0.12);
+        }
+
+        .paper-icon {
+            font-size: 35px;
+            margin-bottom: 10px;
+        }
+
+        .paper-year {
+            color: #2563eb;
+            font-size: 14px;
+            font-weight: bold;
+        }
+
+        .paper-card h3 {
+            margin: 8px 0 18px;
+            font-size: 18px;
+        }
+
+        .button-row {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 10px 15px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-size: 14px;
+            font-weight: bold;
+        }
+
+        .view-btn {
+            background: #2563eb;
+            color: white;
+        }
+
+        .download-btn {
+            background: #16a34a;
+            color: white;
+        }
+
+        .no-papers {
+            background: white;
+            padding: 35px;
+            text-align: center;
+            border-radius: 14px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.07);
+        }
+
+        .no-papers h3 {
+            margin-top: 0;
+        }
+
+        @media (max-width: 600px) {
+            .header h1 {
+                font-size: 24px;
+            }
+
+            .container {
+                margin-top: 20px;
+            }
+
+            .button-row {
+                flex-direction: column;
+            }
+
+            .btn {
+                text-align: center;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="header">
+    <div class="header-container">
+
+        <a href="{% url 'home' %}" class="back">
+            ← Back to Home
+        </a>
+
+        <h1>{{ exam.name }}</h1>
+
+        <p>
+            Previous Year Question Papers
+        </p>
+
+    </div>
+</div>
+
+
+<div class="container">
+
+    <div class="exam-info">
+
+        <span class="category">
+            {{ exam.category }}
+        </span>
+
+        <h2>{{ exam.name }}</h2>
+
+        <p>
+            Download and view previous year question papers for
+            {{ exam.name }} preparation.
+        </p>
+
+    </div>
+
+
+    <h2 class="section-title">
+        📚 Previous Year Papers
+    </h2>
+
+
+    {% if exam.papers %}
+
+        <div class="papers-grid">
+
+            {% for paper in exam.papers %}
+
+                <div class="paper-card">
+
+                    <div class="paper-icon">
+                        📄
+                    </div>
+
+                    <div class="paper-year">
+                        {{ paper.year }}
+                    </div>
+
+                    <h3>
+                        {{ paper.title }}
+                    </h3>
+
+                    <div class="button-row">
+
+                        <a
+                            href="{% static paper.file %}"
+                            target="_blank"
+                            class="btn view-btn"
+                        >
+                            👁 View Paper
+                        </a>
+
+                        <a
+                            href="{% static paper.file %}"
+                            download
+                            class="btn download-btn"
+                        >
+                            ⬇ Download
+                        </a>
+
+                    </div>
+
+                </div>
+
+            {% endfor %}
+
+        </div>
+
+    {% else %}
+
+        <div class="no-papers">
+
+            <h3>
+                📄 No Papers Available
+            </h3>
+
+            <p>
+                Previous year papers for this exam will be added soon.
+            </p>
+
+        </div>
+
+    {% endif %}
+
+</div>
+
+</body>
+</html>

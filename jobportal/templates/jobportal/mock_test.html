@@ -1,0 +1,811 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>{{ exam.name }} - Mock Test</title>
+
+    <style>
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #f4f6f9;
+            color: #222;
+        }
+
+        .header {
+            background: #0d47a1;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .header h1 {
+            margin: 0;
+            font-size: 28px;
+        }
+
+        .header p {
+            margin: 8px 0 0;
+        }
+
+        .container {
+            width: 92%;
+            max-width: 900px;
+            margin: 25px auto;
+        }
+
+        /* ==========================
+           TOP BAR
+        ========================== */
+
+        .top-bar {
+            background: white;
+            padding: 18px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            box-shadow: 0 3px 10px rgba(0,0,0,0.08);
+        }
+
+        .top-info {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 15px;
+            flex-wrap: wrap;
+        }
+
+        .exam-name {
+            font-size: 18px;
+            font-weight: bold;
+        }
+
+        .timer {
+            background: #d32f2f;
+            color: white;
+            padding: 10px 18px;
+            border-radius: 8px;
+            font-size: 20px;
+            font-weight: bold;
+        }
+
+        .progress-text {
+            font-weight: bold;
+            margin-top: 15px;
+            margin-bottom: 8px;
+        }
+
+        .progress-container {
+            width: 100%;
+            height: 10px;
+            background: #ddd;
+            border-radius: 10px;
+            overflow: hidden;
+        }
+
+        .progress-bar {
+            height: 100%;
+            width: 5%;
+            background: #1976d2;
+            transition: width 0.3s;
+        }
+
+        /* ==========================
+           QUESTION CARD
+        ========================== */
+
+        .question-card {
+            display: none;
+            background: white;
+            padding: 25px;
+            border-radius: 10px;
+            box-shadow: 0 3px 12px rgba(0,0,0,0.08);
+        }
+
+        .question-card.active {
+            display: block;
+        }
+
+        .question-number {
+            color: #1976d2;
+            font-weight: bold;
+            margin-bottom: 12px;
+        }
+
+        .subject {
+            display: inline-block;
+            background: #e3f2fd;
+            color: #1565c0;
+            padding: 5px 10px;
+            border-radius: 5px;
+            font-size: 13px;
+            font-weight: bold;
+            margin-bottom: 15px;
+        }
+
+        .question {
+            font-size: 20px;
+            font-weight: bold;
+            margin-bottom: 20px;
+            line-height: 1.5;
+        }
+
+        /* ==========================
+           OPTIONS
+        ========================== */
+
+        .option {
+            display: block;
+            padding: 13px;
+            margin: 10px 0;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: 0.2s;
+        }
+
+        .option:hover {
+            background: #f1f6ff;
+            border-color: #1976d2;
+        }
+
+        .option input {
+            margin-right: 10px;
+        }
+
+        /* ==========================
+           NAVIGATION
+        ========================== */
+
+        .navigation {
+            display: flex;
+            justify-content: space-between;
+            gap: 10px;
+            margin-top: 25px;
+        }
+
+        button {
+            border: none;
+            padding: 12px 22px;
+            border-radius: 7px;
+            font-size: 16px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+        .prev-btn {
+            background: #616161;
+            color: white;
+        }
+
+        .next-btn {
+            background: #1976d2;
+            color: white;
+        }
+
+        .submit-btn {
+            background: #2e7d32;
+            color: white;
+        }
+
+        button:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        /* ==========================
+           NO QUESTIONS
+        ========================== */
+
+        .no-questions {
+            background: white;
+            padding: 40px;
+            text-align: center;
+            border-radius: 10px;
+            box-shadow: 0 3px 12px rgba(0,0,0,0.08);
+        }
+
+        .no-questions h2 {
+            color: #d32f2f;
+        }
+
+        .back-btn {
+            display: inline-block;
+            margin-top: 15px;
+            padding: 12px 20px;
+            background: #1976d2;
+            color: white;
+            text-decoration: none;
+            border-radius: 7px;
+        }
+
+        /* ==========================
+           MOBILE
+        ========================== */
+
+        @media (max-width: 600px) {
+
+            .question {
+                font-size: 17px;
+            }
+
+            .top-info {
+                flex-direction: column;
+                align-items: stretch;
+            }
+
+            .timer {
+                text-align: center;
+            }
+
+            .navigation button {
+                flex: 1;
+            }
+
+        }
+
+    </style>
+
+</head>
+
+
+<body>
+
+
+<!-- ==========================
+     HEADER
+========================== -->
+
+<div class="header">
+
+    <h1>
+        📝 {{ exam.name }}
+    </h1>
+
+    <p>
+        Exam-wise Mock Test
+    </p>
+
+</div>
+
+
+<div class="container">
+
+
+{% if no_questions %}
+
+    <!-- ==========================
+         NO QUESTIONS
+    ========================== -->
+
+    <div class="no-questions">
+
+        <h2>
+            Mock Test Not Available
+        </h2>
+
+        <p>
+
+            Questions for
+
+            <strong>
+                {{ exam.name }}
+            </strong>
+
+            are not available yet.
+
+        </p>
+
+        <p>
+            Please add questions for this exam
+            to the question bank.
+        </p>
+
+        <a
+            href="{% url 'mock_tests' %}"
+            class="back-btn"
+        >
+            ← Back to Mock Tests
+        </a>
+
+    </div>
+
+
+{% else %}
+
+
+<form
+    method="POST"
+    id="mockTestForm"
+>
+
+    {% csrf_token %}
+
+
+    <!-- QUESTION IDS -->
+
+    <input
+        type="hidden"
+        name="question_ids"
+        value="{{ question_ids }}"
+    >
+
+
+    <!-- ==========================
+         TOP BAR
+    ========================== -->
+
+    <div class="top-bar">
+
+        <div class="top-info">
+
+            <div class="exam-name">
+
+                {{ exam.name }}
+
+            </div>
+
+            <div
+                class="timer"
+                id="timer"
+            >
+                20:00
+            </div>
+
+        </div>
+
+
+        <div class="progress-text">
+
+            Question
+
+            <span id="currentQuestion">
+                1
+            </span>
+
+            of
+
+            {{ questions|length }}
+
+        </div>
+
+
+        <div class="progress-container">
+
+            <div
+                class="progress-bar"
+                id="progressBar"
+            >
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <!-- ==========================
+         QUESTIONS
+    ========================== -->
+
+    {% for question in questions %}
+
+    <div
+        class="question-card
+        {% if forloop.first %}active{% endif %}"
+        data-question="{{ forloop.counter }}"
+    >
+
+        <div class="question-number">
+
+            Question {{ forloop.counter }}
+
+        </div>
+
+
+        {% if question.subject %}
+
+        <div class="subject">
+
+            {{ question.subject }}
+
+        </div>
+
+        {% endif %}
+
+
+        <div class="question">
+
+            {{ question.question }}
+
+        </div>
+
+
+        <!-- OPTION 1 -->
+
+        <label class="option">
+
+            <input
+                type="radio"
+                name="question_{{ question.id }}"
+                value="{{ question.option1 }}"
+            >
+
+            {{ question.option1 }}
+
+        </label>
+
+
+        <!-- OPTION 2 -->
+
+        <label class="option">
+
+            <input
+                type="radio"
+                name="question_{{ question.id }}"
+                value="{{ question.option2 }}"
+            >
+
+            {{ question.option2 }}
+
+        </label>
+
+
+        <!-- OPTION 3 -->
+
+        <label class="option">
+
+            <input
+                type="radio"
+                name="question_{{ question.id }}"
+                value="{{ question.option3 }}"
+            >
+
+            {{ question.option3 }}
+
+        </label>
+
+
+        <!-- OPTION 4 -->
+
+        <label class="option">
+
+            <input
+                type="radio"
+                name="question_{{ question.id }}"
+                value="{{ question.option4 }}"
+            >
+
+            {{ question.option4 }}
+
+        </label>
+
+
+        <!-- ==========================
+             NAVIGATION
+        ========================== -->
+
+        <div class="navigation">
+
+
+            <button
+                type="button"
+                class="prev-btn"
+                onclick="previousQuestion()"
+                {% if forloop.first %}disabled{% endif %}
+            >
+
+                ← Previous
+
+            </button>
+
+
+            {% if not forloop.last %}
+
+            <button
+                type="button"
+                class="next-btn"
+                onclick="nextQuestion()"
+            >
+
+                Next →
+
+            </button>
+
+
+            {% else %}
+
+            <button
+                type="submit"
+                class="submit-btn"
+            >
+
+                Submit Test ✓
+
+            </button>
+
+            {% endif %}
+
+
+        </div>
+
+    </div>
+
+    {% endfor %}
+
+
+</form>
+
+
+{% endif %}
+
+
+</div>
+
+
+<script>
+
+/* ==========================
+   QUESTIONS
+========================== */
+
+let current = 0;
+
+const questions =
+    document.querySelectorAll(".question-card");
+
+const totalQuestions =
+    questions.length;
+
+
+const currentQuestion =
+    document.getElementById("currentQuestion");
+
+
+const progressBar =
+    document.getElementById("progressBar");
+
+
+const timer =
+    document.getElementById("timer");
+
+
+const form =
+    document.getElementById("mockTestForm");
+
+
+/* ==========================
+   SHOW QUESTION
+========================== */
+
+function showQuestion(index) {
+
+    questions.forEach(function(question, i) {
+
+        question.classList.remove("active");
+
+        if (i === index) {
+
+            question.classList.add("active");
+
+        }
+
+    });
+
+
+    current = index;
+
+
+    if (currentQuestion) {
+
+        currentQuestion.textContent =
+            current + 1;
+
+    }
+
+
+    if (progressBar && totalQuestions > 0) {
+
+        const progress =
+            ((current + 1) / totalQuestions) * 100;
+
+        progressBar.style.width =
+            progress + "%";
+
+    }
+
+
+    updateButtons();
+
+}
+
+
+/* ==========================
+   BUTTONS
+========================== */
+
+function updateButtons() {
+
+    if (!questions[current]) {
+        return;
+    }
+
+    const previousButton =
+        questions[current].querySelector(".prev-btn");
+
+
+    if (previousButton) {
+
+        previousButton.disabled =
+            current === 0;
+
+    }
+
+}
+
+
+/* ==========================
+   NEXT
+========================== */
+
+function nextQuestion() {
+
+    if (current < totalQuestions - 1) {
+
+        showQuestion(current + 1);
+
+    }
+
+}
+
+
+/* ==========================
+   PREVIOUS
+========================== */
+
+function previousQuestion() {
+
+    if (current > 0) {
+
+        showQuestion(current - 1);
+
+    }
+
+}
+
+
+/* ==========================
+   TIMER
+========================== */
+
+let timeLeft = 20 * 60;
+
+
+function updateTimer() {
+
+    if (!timer) {
+        return;
+    }
+
+
+    const minutes =
+        Math.floor(timeLeft / 60);
+
+
+    const seconds =
+        timeLeft % 60;
+
+
+    timer.textContent =
+        minutes +
+        ":" +
+        String(seconds).padStart(2, "0");
+
+
+    if (timeLeft <= 60) {
+
+        timer.style.background =
+            "#b71c1c";
+
+    }
+
+
+    if (timeLeft <= 0) {
+
+        clearInterval(timerInterval);
+
+
+        alert(
+            "Time is over! Your test will be submitted automatically."
+        );
+
+
+        if (form) {
+
+            form.submit();
+
+        }
+
+        return;
+
+    }
+
+
+    timeLeft--;
+
+}
+
+
+const timerInterval =
+    setInterval(updateTimer, 1000);
+
+
+updateTimer();
+
+
+/* ==========================
+   INITIAL QUESTION
+========================== */
+
+if (totalQuestions > 0) {
+
+    showQuestion(0);
+
+}
+
+
+/* ==========================
+   PREVENT ACCIDENTAL LEAVE
+========================== */
+
+let testSubmitted = false;
+
+
+if (form) {
+
+    form.addEventListener(
+        "submit",
+        function() {
+
+            testSubmitted = true;
+
+        }
+    );
+
+}
+
+
+window.addEventListener(
+    "beforeunload",
+    function(event) {
+
+        if (!testSubmitted && totalQuestions > 0) {
+
+            event.preventDefault();
+
+            event.returnValue = "";
+
+        }
+
+    }
+);
+
+</script>
+
+
+</body>
+
+</html>

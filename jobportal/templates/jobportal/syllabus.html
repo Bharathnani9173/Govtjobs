@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>{{ syllabus.title|default:"Syllabus" }} - {{ job.title }}</title>
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #f4f7fb;
+            color: #222;
+        }
+
+        .header {
+            background: #0d47a1;
+            color: white;
+            padding: 30px 20px;
+            text-align: center;
+        }
+
+        .header h1 {
+            margin: 0;
+            font-size: 30px;
+        }
+
+        .header p {
+            margin: 8px 0 0;
+            font-size: 16px;
+        }
+
+        .container {
+            width: 92%;
+            max-width: 1100px;
+            margin: 30px auto;
+        }
+
+        .back-btn {
+            display: inline-block;
+            margin-bottom: 20px;
+            padding: 11px 18px;
+            background: #555;
+            color: white;
+            text-decoration: none;
+            border-radius: 7px;
+            font-weight: bold;
+        }
+
+        .back-btn:hover {
+            background: #333;
+        }
+
+        .card {
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+        }
+
+        .card h2 {
+            color: #0d47a1;
+            margin-top: 0;
+        }
+
+        .job-info {
+            background: #eef5ff;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 25px;
+        }
+
+        .job-info strong {
+            color: #0d47a1;
+        }
+
+        .syllabus-content {
+            white-space: pre-line;
+            line-height: 1.8;
+            font-size: 16px;
+        }
+
+        .tier {
+            margin-top: 30px;
+            border-radius: 10px;
+            overflow: hidden;
+            border: 1px solid #ddd;
+        }
+
+        .tier-title {
+            background: #0d47a1;
+            color: white;
+            padding: 15px 18px;
+            font-size: 20px;
+            font-weight: bold;
+        }
+
+        .tier-content {
+            padding: 20px;
+            background: #fff;
+            white-space: pre-line;
+            line-height: 1.8;
+        }
+
+        .pdf-box {
+            margin-top: 30px;
+            padding: 20px;
+            background: #f5f5f5;
+            border-radius: 10px;
+            text-align: center;
+        }
+
+        .pdf-btn {
+            display: inline-block;
+            margin-top: 10px;
+            padding: 11px 20px;
+            background: #2e7d32;
+            color: white;
+            text-decoration: none;
+            border-radius: 7px;
+            font-weight: bold;
+        }
+
+        .pdf-btn:hover {
+            background: #1b5e20;
+        }
+
+        .no-syllabus {
+            text-align: center;
+            padding: 40px 20px;
+        }
+
+        .no-syllabus h2 {
+            color: #0d47a1;
+        }
+
+        @media (max-width: 600px) {
+
+            .container {
+                width: 95%;
+                margin: 20px auto;
+            }
+
+            .card {
+                padding: 20px;
+            }
+
+            .header h1 {
+                font-size: 24px;
+            }
+
+            .syllabus-content,
+            .tier-content {
+                font-size: 15px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="header">
+
+    <h1>📖 Exam Syllabus</h1>
+
+    <p>
+        {{ job.title }}
+    </p>
+
+</div>
+
+
+<div class="container">
+
+
+    <div class="card">
+
+        <div class="job-info">
+
+            <strong>Exam:</strong>
+            {{ job.title }}
+
+            {% if job.organization %}
+                <br>
+                <strong>Organization:</strong>
+                {{ job.organization }}
+            {% endif %}
+
+        </div>
+
+
+        {% if syllabus %}
+
+            <h2>
+                {{ syllabus.title }}
+            </h2>
+
+
+            <div class="syllabus-content">
+
+                {{ syllabus.description }}
+
+            </div>
+
+
+            {% if syllabus.pdf_link %}
+
+                <div class="pdf-box">
+
+                    <strong>📄 Official Syllabus PDF</strong>
+
+                    <br>
+
+                    <a href="{{ syllabus.pdf_link }}"
+                       target="_blank"
+                       rel="noopener noreferrer"
+                       class="pdf-btn">
+
+                        View / Download Syllabus PDF
+
+                    </a>
+
+                </div>
+
+            {% endif %}
+
+
+        {% else %}
+
+            <div class="no-syllabus">
+
+                <h2>📄 Syllabus Not Available</h2>
+
+                <p>
+                    The syllabus for
+                    <strong>{{ job.title }}</strong>
+                    has not been added yet.
+                </p>
+
+            </div>
+
+        {% endif %}
+
+    </div>
+
+</div>
+
+</body>
+</html>

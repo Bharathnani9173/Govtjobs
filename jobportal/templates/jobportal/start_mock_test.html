@@ -1,0 +1,707 @@
+```html
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>{{ mock_test.title }} - Mock Test</title>
+
+    <style>
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            background: #f4f7fb;
+            color: #222;
+        }
+
+        /* HEADER */
+
+        .header {
+            background: #0d47a1;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .header h1 {
+            margin: 0;
+            font-size: 27px;
+        }
+
+        .header p {
+            margin: 7px 0 0;
+        }
+
+        /* MAIN CONTAINER */
+
+        .container {
+            width: 94%;
+            max-width: 1000px;
+            margin: 25px auto;
+        }
+
+        /* TEST HEADER */
+
+        .test-header {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 3px 12px rgba(0,0,0,0.08);
+            margin-bottom: 20px;
+        }
+
+        .test-header h2 {
+            color: #0d47a1;
+            margin-top: 0;
+        }
+
+        .test-info {
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+        }
+
+        .info-box {
+            background: #eef4ff;
+            padding: 10px 15px;
+            border-radius: 7px;
+            font-weight: bold;
+        }
+
+        /* TIMER */
+
+        .timer-box {
+            position: sticky;
+            top: 10px;
+            z-index: 10;
+            background: #fff;
+            border-radius: 10px;
+            padding: 15px;
+            margin-bottom: 20px;
+            text-align: center;
+            box-shadow: 0 3px 12px rgba(0,0,0,0.12);
+        }
+
+        .timer-label {
+            font-size: 14px;
+            color: #555;
+        }
+
+        #timer {
+            font-size: 28px;
+            font-weight: bold;
+            color: #d32f2f;
+            margin-top: 5px;
+        }
+
+        /* PROGRESS */
+
+        .progress-container {
+            background: #ddd;
+            height: 10px;
+            border-radius: 10px;
+            overflow: hidden;
+            margin-top: 10px;
+        }
+
+        #progress {
+            height: 100%;
+            width: 0%;
+            background: #0d47a1;
+            transition: width 0.3s;
+        }
+
+        #progressText {
+            display: block;
+            margin-top: 8px;
+            font-weight: bold;
+            color: #555;
+        }
+
+        /* QUESTION */
+
+        .question-card {
+            background: white;
+            padding: 25px;
+            border-radius: 10px;
+            box-shadow: 0 3px 12px rgba(0,0,0,0.08);
+            margin-bottom: 20px;
+        }
+
+        .question-number {
+            color: #0d47a1;
+            font-weight: bold;
+            margin-bottom: 12px;
+        }
+
+        .question-text {
+            font-size: 19px;
+            font-weight: bold;
+            line-height: 1.5;
+            margin-bottom: 20px;
+        }
+
+        /* OPTIONS */
+
+        .option {
+            display: block;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 14px;
+            margin-bottom: 12px;
+            cursor: pointer;
+            transition: 0.2s;
+        }
+
+        .option:hover {
+            background: #eef4ff;
+            border-color: #0d47a1;
+        }
+
+        .option input {
+            margin-right: 10px;
+        }
+
+        /* NAVIGATION */
+
+        .navigation {
+            display: flex;
+            justify-content: space-between;
+            gap: 10px;
+            margin-top: 20px;
+        }
+
+        .nav-btn {
+            border: none;
+            padding: 12px 22px;
+            border-radius: 7px;
+            font-weight: bold;
+            cursor: pointer;
+            background: #555;
+            color: white;
+        }
+
+        .nav-btn:hover {
+            background: #333;
+        }
+
+        .submit-btn {
+            background: #0d47a1;
+            color: white;
+            border: none;
+            padding: 13px 28px;
+            border-radius: 7px;
+            font-size: 16px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+        .submit-btn:hover {
+            background: #083378;
+        }
+
+        /* NO QUESTIONS */
+
+        .no-questions {
+            background: white;
+            padding: 50px 20px;
+            text-align: center;
+            border-radius: 10px;
+        }
+
+        .no-questions h2 {
+            color: #d32f2f;
+        }
+
+        /* MOBILE */
+
+        @media (max-width: 600px) {
+
+            .container {
+                width: 95%;
+            }
+
+            .header h1 {
+                font-size: 22px;
+            }
+
+            .question-card {
+                padding: 18px;
+            }
+
+            .question-text {
+                font-size: 17px;
+            }
+
+            .navigation {
+                flex-direction: column;
+            }
+
+            .nav-btn,
+            .submit-btn {
+                width: 100%;
+            }
+
+            .hidden-question {
+                display: none;
+            }
+
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+
+<!-- HEADER -->
+
+<div class="header">
+
+    <h1>🎯 {{ mock_test.title }}</h1>
+
+    <p>
+        {{ mock_test.category }} Mock Test
+    </p>
+
+</div>
+
+
+<div class="container">
+
+
+{% if questions %}
+
+
+    <!-- TEST INFORMATION -->
+
+    <div class="test-header">
+
+        <h2>
+            {{ mock_test.title }}
+        </h2>
+
+        <div class="test-info">
+
+            <div class="info-box">
+                📚 Category:
+                {{ mock_test.category }}
+            </div>
+
+            <div class="info-box">
+                📝 Questions:
+                {{ questions|length }}
+            </div>
+
+            <div class="info-box">
+                ⏱ Duration:
+                {{ mock_test.duration }} Minutes
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <!-- TIMER -->
+
+    <div class="timer-box">
+
+        <div class="timer-label">
+            Time Remaining
+        </div>
+
+        <div id="timer">
+            --:--
+        </div>
+
+        <div class="progress-container">
+
+            <div id="progress"></div>
+
+        </div>
+
+        <span id="progressText">
+            Question 1 of {{ questions|length }}
+        </span>
+
+    </div>
+
+
+    <form method="POST" id="quizForm">
+
+    {% csrf_token %}
+
+    {% for question in questions %}
+
+    <div class="question-card {% if not forloop.first %}hidden-question{% endif %}"
+         data-question="{{ forloop.counter }}">
+
+        <div class="question-number">
+            Question {{ forloop.counter }}
+        </div>
+
+        <div class="question-text">
+            {{ question.question }}
+        </div>
+
+        <!-- Your answer options go here -->
+
+    </div>
+
+    {% endfor %}
+
+
+            <label class="option">
+
+                <input
+                    type="radio"
+                    name="question_{{ question.id }}"
+                    value="{{ question.option1 }}"
+                >
+
+                {{ question.option1 }}
+
+            </label>
+
+
+            <label class="option">
+
+                <input
+                    type="radio"
+                    name="question_{{ question.id }}"
+                    value="{{ question.option2 }}"
+                >
+
+                {{ question.option2 }}
+
+            </label>
+
+
+            <label class="option">
+
+                <input
+                    type="radio"
+                    name="question_{{ question.id }}"
+                    value="{{ question.option3 }}"
+                >
+
+                {{ question.option3 }}
+
+            </label>
+
+
+            <label class="option">
+
+                <input
+                    type="radio"
+                    name="question_{{ question.id }}"
+                    value="{{ question.option4 }}"
+                >
+
+                {{ question.option4 }}
+
+            </label>
+
+
+        </div>
+
+        {% endfor %}
+
+
+        <!-- NAVIGATION -->
+
+        <div class="navigation">
+
+            <button
+                type="button"
+                class="nav-btn"
+                id="previousBtn"
+                onclick="previousQuestion()">
+
+                ← Previous
+
+            </button>
+
+
+            <button
+                type="button"
+                class="nav-btn"
+                id="nextBtn"
+                onclick="nextQuestion()">
+
+                Next →
+
+            </button>
+
+
+            <button
+                type="submit"
+                class="submit-btn"
+                id="submitBtn"
+                style="display:none;">
+
+                ✓ Submit Test
+
+            </button>
+
+        </div>
+
+
+    </form>
+
+
+{% else %}
+
+
+    <!-- NO QUESTIONS -->
+
+    <div class="no-questions">
+
+        <h2>
+            No Questions Available
+        </h2>
+
+        <p>
+            There are currently no questions available
+            for this mock test.
+        </p>
+
+        <p>
+            Please add questions for the
+            <strong>{{ mock_test.category }}</strong>
+            category.
+        </p>
+
+    </div>
+
+
+{% endif %}
+
+
+</div>
+
+<div id="mock-test-data"
+     data-duration="{{ mock_test.duration }}">
+</div>
+
+
+<script>
+
+    /* ==============================
+       QUESTIONS
+    ============================== */
+
+    const questionCards =
+        document.querySelectorAll(".question-card");
+
+    const totalQuestions =
+        questionCards.length;
+
+    let currentQuestion = 0;
+
+
+    /* ==============================
+       SHOW QUESTION
+    ============================== */
+
+    function showQuestion(index) {
+
+        questionCards.forEach(
+            (card, i) => {
+
+                card.style.display =
+                    i === index
+                    ? "block"
+                    : "none";
+
+            }
+        );
+
+
+        document.getElementById(
+            "progressText"
+        ).innerText =
+            "Question " +
+            (index + 1) +
+            " of " +
+            totalQuestions;
+
+
+        const percentage =
+            ((index + 1) / totalQuestions) * 100;
+
+
+        document.getElementById(
+            "progress"
+        ).style.width =
+            percentage + "%";
+
+
+        document.getElementById(
+            "previousBtn"
+        ).style.display =
+            index === 0
+            ? "none"
+            : "inline-block";
+
+
+        document.getElementById(
+            "nextBtn"
+        ).style.display =
+            index === totalQuestions - 1
+            ? "none"
+            : "inline-block";
+
+
+        document.getElementById(
+            "submitBtn"
+        ).style.display =
+            index === totalQuestions - 1
+            ? "inline-block"
+            : "none";
+
+    }
+
+
+    /* ==============================
+       NEXT
+    ============================== */
+
+    function nextQuestion() {
+
+        if (
+            currentQuestion <
+            totalQuestions - 1
+        ) {
+
+            currentQuestion++;
+
+            showQuestion(
+                currentQuestion
+            );
+
+            window.scrollTo(
+                0,
+                0
+            );
+
+        }
+
+    }
+
+
+    /* ==============================
+       PREVIOUS
+    ============================== */
+
+    function previousQuestion() {
+
+        if (
+            currentQuestion > 0
+        ) {
+
+            currentQuestion--;
+
+            showQuestion(
+                currentQuestion
+            );
+
+            window.scrollTo(
+                0,
+                0
+            );
+
+        }
+
+    }
+
+
+    /* ==============================
+       TIMER
+    ============================== */
+
+    const durationElement = document.getElementById("mock-test-data");
+
+    let totalSeconds = Number(durationElement.dataset.duration || 0) * 60;
+
+
+    function updateTimer() {
+
+        const minutes =
+            Math.floor(
+                totalSeconds / 60
+            );
+
+        const seconds =
+            totalSeconds % 60;
+
+
+        document.getElementById(
+            "timer"
+        ).innerText =
+            String(minutes).padStart(2, "0") +
+            ":" +
+            String(seconds).padStart(2, "0");
+
+
+        if (totalSeconds <= 0) {
+
+            clearInterval(timerInterval);
+
+            alert(
+                "Time is over. Your test will be submitted automatically."
+            );
+
+            document.getElementById(
+                "quizForm"
+            ).submit();
+
+            return;
+
+        }
+
+
+        totalSeconds--;
+
+    }
+
+
+    updateTimer();
+
+
+    const timerInterval =
+        setInterval(
+            updateTimer,
+            1000
+        );
+
+
+    /* ==============================
+       INITIAL QUESTION
+    ============================== */
+
+    if (totalQuestions > 0) {
+
+        showQuestion(0);
+
+    }
+
+</script>
+
+
+</body>
+
+</html>

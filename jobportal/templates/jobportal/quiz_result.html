@@ -1,216 +1,444 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
 
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
 
 <title>Daily Quiz Result</title>
 
 <style>
 
 *{
-    margin:0;
-    padding:0;
     box-sizing:border-box;
 }
 
 body{
-    font-family:Arial,Helvetica,sans-serif;
-    background:#f4f6f9;
+    margin:0;
+    padding:0;
+
+    font-family:Arial, sans-serif;
+
+    background:#f1f5f9;
+
+    color:#111827;
 }
 
 .container{
-    width:85%;
-    max-width:1000px;
+
+    width:90%;
+    max-width:1200px;
+
     margin:40px auto;
-    background:#fff;
-    border-radius:10px;
-    padding:30px;
-    box-shadow:0 5px 20px rgba(0,0,0,.15);
+
+    background:white;
+
+    padding:40px;
+
+    border-radius:18px;
+
+    box-shadow:
+        0 10px 35px rgba(0,0,0,0.12);
 }
 
-h1{
+/* TITLE */
+
+.title{
+
     text-align:center;
-    color:#003366;
-    margin-bottom:30px;
+
+    font-size:42px;
+
+    color:#0b3d91;
+
+    margin-bottom:40px;
+
 }
 
-.score-box{
-    display:flex;
-    justify-content:space-around;
-    flex-wrap:wrap;
-    margin-bottom:30px;
+/* SCORE CARDS */
+
+.cards{
+
+    display:grid;
+
+    grid-template-columns:
+        repeat(3, 1fr);
+
+    gap:25px;
+
+    margin-bottom:45px;
 }
 
 .card{
-    width:220px;
-    padding:20px;
-    margin:10px;
-    border-radius:10px;
-    color:#fff;
+
+    padding:30px;
+
+    border-radius:15px;
+
     text-align:center;
+
+    color:white;
+}
+
+.card h3{
+
+    margin:0 0 15px;
+
+    font-size:24px;
+
+}
+
+.card h1{
+
+    margin:0;
+
+    font-size:45px;
 }
 
 .score{
+
     background:#2563eb;
 }
 
 .correct{
+
     background:#16a34a;
 }
 
 .wrong{
+
     background:#dc2626;
 }
 
-.total{
-    background:#6b7280;
-}
+/* ANSWER REVIEW */
 
-.card h2{
-    font-size:18px;
-    margin-bottom:10px;
-}
+.review-title{
 
-.card h1{
-    color:white;
-    margin:0;
+    font-size:30px;
+
+    margin-bottom:25px;
+
+    color:#111827;
+
 }
 
 .review{
-    margin-top:30px;
-}
 
-.review-item{
     background:#f8fafc;
+
     border-left:6px solid #2563eb;
-    padding:20px;
+
+    padding:25px;
+
     margin-bottom:20px;
-    border-radius:8px;
+
+    border-radius:10px;
 }
 
-.correct-text{
-    color:green;
+.question{
+
+    font-size:20px;
+
+    font-weight:bold;
+
+    margin-bottom:18px;
+}
+
+.answer{
+
+    font-size:17px;
+
+    margin:10px 0;
+}
+
+.correct-answer{
+
+    color:#16a34a;
+
     font-weight:bold;
 }
 
-.wrong-text{
-    color:red;
+.wrong-answer{
+
+    color:#dc2626;
+
     font-weight:bold;
 }
 
-.button-area{
+.not-answered{
+
+    color:#dc2626;
+
+    font-weight:bold;
+}
+
+.status{
+
+    font-size:18px;
+
+    font-weight:bold;
+
+    margin-top:15px;
+}
+
+/* BUTTON */
+
+.buttons{
+
     text-align:center;
+
     margin-top:40px;
 }
 
-.button-area a{
+.home-btn{
+
     display:inline-block;
-    padding:12px 25px;
-    background:#2563eb;
+
+    background:#0b3d91;
+
     color:white;
+
     text-decoration:none;
+
+    padding:14px 30px;
+
     border-radius:8px;
+
+    font-size:18px;
+
 }
 
-.button-area a:hover{
-    background:#1d4ed8;
+.home-btn:hover{
+
+    background:#082f6b;
+}
+
+/* MOBILE */
+
+@media(max-width:768px){
+
+    .container{
+
+        width:95%;
+
+        padding:20px;
+    }
+
+    .title{
+
+        font-size:30px;
+    }
+
+    .cards{
+
+        grid-template-columns:1fr;
+    }
+
+    .review{
+
+        padding:18px;
+    }
+
 }
 
 </style>
 
 </head>
 
+
 <body>
+
 
 <div class="container">
 
-<h1>🎉 Daily Quiz Result</h1>
 
-<div class="score-box">
+    <!-- TITLE -->
 
-<div class="card score">
-<h2>Your Score</h2>
-<h1>{{ score }}/{{ total }}</h1>
+    <h1 class="title">
+
+        🎉 Daily Quiz Result
+
+    </h1>
+
+
+    <!-- SCORE CARDS -->
+
+    <div class="cards">
+
+
+        <!-- SCORE -->
+
+        <div class="card score">
+
+            <h3>
+                Your Score
+            </h3>
+
+            <h1>
+                {{ score }}/{{ total }}
+            </h1>
+
+        </div>
+
+
+        <!-- CORRECT -->
+
+        <div class="card correct">
+
+            <h3>
+                Correct Answers
+            </h3>
+
+            <h1>
+                {{ correct }}
+            </h1>
+
+        </div>
+
+
+        <!-- WRONG -->
+
+        <div class="card wrong">
+
+            <h3>
+                Wrong Answers
+            </h3>
+
+            <h1>
+                {{ wrong }}
+            </h1>
+
+        </div>
+
+
+    </div>
+
+
+    <!-- ANSWER REVIEW -->
+
+    <h2 class="review-title">
+
+        Answer Review
+
+    </h2>
+
+
+    {% if results %}
+
+
+        {% for r in results %}
+
+
+        <div class="review">
+
+
+            <!-- QUESTION -->
+
+            <div class="question">
+
+                {{ forloop.counter }}.
+                {{ r.question }}
+
+            </div>
+
+
+            <!-- USER ANSWER -->
+
+            <div class="answer">
+
+                <strong>
+                    Your Answer:
+                </strong>
+
+                {% if r.user_answer == "Not Answered" %}
+
+                    <span class="not-answered">
+
+                        Not Answered
+
+                    </span>
+
+                {% else %}
+
+                    {{ r.user_answer }}
+
+                {% endif %}
+
+            </div>
+
+
+            <!-- RESULT -->
+
+            {% if r.correct %}
+
+                <div class="status"
+                     style="color:#16a34a;">
+
+                    ✅ Correct Answer
+
+                </div>
+
+            {% else %}
+
+                <div class="status"
+                     style="color:#dc2626;">
+
+                    ❌ Wrong Answer
+
+                </div>
+
+
+                <div class="answer">
+
+                    <strong>
+                        Correct Answer:
+                    </strong>
+
+                    <span class="correct-answer">
+
+                        {{ r.correct_answer }}
+
+                    </span>
+
+                </div>
+
+            {% endif %}
+
+
+        </div>
+
+
+        {% endfor %}
+
+
+    {% else %}
+
+        <p>
+            No answer review available.
+        </p>
+
+    {% endif %}
+
+
+    <!-- HOME BUTTON -->
+
+    <div class="buttons">
+
+        <a href="/" class="home-btn">
+
+            Back to Home
+
+        </a>
+
+    </div>
+
+
 </div>
 
-<div class="card correct">
-<h2>Correct Answers</h2>
-<h1>{{ score }}</h1>
-</div>
-
-<div class="card wrong">
-<h2>Wrong Answers</h2>
-<h1>{{ wrong }}</h1>
-</div>
-
-<div class="card total">
-<h2>Total Questions</h2>
-<h1>{{ total }}</h1>
-</div>
-
-</div>
-
-<h2>Answer Review</h2>
-
-{% if results %}
-
-<div class="review">
-
-{% for r in results %}
-
-<div class="review-item">
-
-<h3>{{ forloop.counter }}. {{ r.question }}</h3>
-
-<br>
-
-<p>
-<strong>Your Answer:</strong>
-{{ r.user_answer }}
-</p>
-
-<br>
-
-{% if r.correct %}
-
-<p class="correct-text">
-✅ Correct
-</p>
-
-{% else %}
-
-<p class="wrong-text">
-❌ Wrong
-</p>
-
-<br>
-
-<p>
-<strong>Correct Answer:</strong>
-{{ r.correct_answer }}
-</p>
-
-{% endif %}
-
-</div>
-
-{% endfor %}
-
-</div>
-
-{% endif %}
-
-<div class="button-area">
-
-<a href="{% url 'daily_quiz' %}">
-Take Quiz Again
-</a>
-
-</div>
-
-</div>
 
 </body>
+
 </html>

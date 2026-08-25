@@ -1,354 +1,235 @@
+{% load static %}
+
 <!DOCTYPE html>
+
 <html lang="en">
-
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<title>Official Answer Keys</title>
+```
+<title>Answer Keys - {{ job.title }}</title>
 
 <style>
+    * {
+        box-sizing: border-box;
+    }
 
-*{
-    margin:0;
-    padding:0;
-    box-sizing:border-box;
-}
+    body {
+        margin: 0;
+        font-family: Arial, Helvetica, sans-serif;
+        background: #f4f7fb;
+        color: #222;
+    }
 
-body{
-    font-family:Arial, sans-serif;
-    background:#f4f6f9;
-}
+    .header {
+        background: #0d47a1;
+        color: white;
+        padding: 25px 20px;
+        text-align: center;
+    }
 
-header{
-    background:#003366;
-    color:white;
-    text-align:center;
-    padding:20px;
-}
+    .header h1 {
+        margin: 0;
+        font-size: 28px;
+    }
 
-.container{
-    width:95%;
-    margin:40px auto;
-}
+    .header p {
+        margin: 8px 0 0;
+    }
 
-table{
-    width:100%;
-    border-collapse:collapse;
-    background:white;
-    box-shadow:0 5px 15px rgba(0,0,0,.1);
-}
+    .container {
+        width: 94%;
+        max-width: 1100px;
+        margin: 30px auto;
+    }
 
-th{
-    background:#003366;
-    color:white;
-    padding:15px;
-    font-size:18px;
-}
+    .back-btn {
+        display: inline-block;
+        margin-bottom: 20px;
+        text-decoration: none;
+        color: #0d47a1;
+        font-weight: bold;
+    }
 
-td{
-    padding:15px;
-    text-align:center;
-    border-bottom:1px solid #ddd;
-}
+    .job-box,
+    .keys-box {
+        background: white;
+        padding: 25px;
+        border-radius: 12px;
+        box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+    }
 
-tr:nth-child(even){
-    background:#f8f8f8;
-}
+    .job-box {
+        margin-bottom: 25px;
+        border-left: 5px solid #0d47a1;
+    }
 
-tr:hover{
-    background:#eef6ff;
-}
+    .job-box h2 {
+        margin: 0 0 10px;
+        color: #0d47a1;
+    }
 
-.available{
-    color:green;
-    font-weight:bold;
-}
+    .job-info {
+        margin: 5px 0;
+        color: #555;
+    }
 
-.soon{
-    color:#ff9800;
-    font-weight:bold;
-}
+    .keys-box h3 {
+        margin-top: 0;
+        color: #0d47a1;
+    }
 
-.download-btn{
+    .key-card {
+        border: 1px solid #ddd;
+        border-radius: 10px;
+        padding: 18px;
+        margin-bottom: 15px;
+        background: #fafcff;
+    }
 
-    display:inline-block;
-    background:#28a745;
-    color:white;
-    padding:10px 18px;
-    border-radius:5px;
-    text-decoration:none;
-    font-weight:bold;
+    .key-card h4 {
+        margin: 0 0 10px;
+        font-size: 18px;
+    }
 
-}
+    .release-date {
+        color: #666;
+        margin-bottom: 12px;
+    }
 
-.download-btn:hover{
+    .official-btn {
+        display: inline-block;
+        background: #0d47a1;
+        color: white;
+        text-decoration: none;
+        padding: 10px 16px;
+        border-radius: 6px;
+        font-weight: bold;
+    }
 
-    background:#218838;
+    .official-btn:hover {
+        background: #083378;
+    }
 
-}
+    .empty {
+        text-align: center;
+        padding: 40px 20px;
+        color: #777;
+    }
 
-.back{
+    @media(max-width:600px) {
 
-    display:inline-block;
-    margin-top:30px;
-    background:#003366;
-    color:white;
-    padding:12px 25px;
-    text-decoration:none;
-    border-radius:5px;
+        .container {
+            width: 95%;
+        }
 
-}
-
-.back:hover{
-
-    background:#0056b3;
-
-}
-
+        .official-btn {
+            width: 100%;
+            text-align: center;
+        }
+    }
 </style>
+```
 
 </head>
 
 <body>
 
-<header>
+<div class="header">
 
-<h1>Official Answer Keys</h1>
+```
+<h1>📝 Official Answer Keys</h1>
 
-<p>Latest Official Exam Answer Keys</p>
+<p>
+    Answer keys related to the selected examination
+</p>
+```
 
-</header>
+</div>
 
 <div class="container">
 
-<table>
-
-<tr>
-
-<th>Exam Name</th>
-
-<th>Status</th>
-
-<th>Release Date</th>
-
-<th>Official Website</th>
-
-</tr>
-
-<tr>
-
-<td>SSC CGL 2026</td>
-
-<td class="available">Available</td>
-
-<td>15 Aug 2026</td>
-
-<td>
-
-<a href="https://ssc.gov.in"
-target="_blank"
-class="download-btn">
-
-Open Website
-
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>SSC CHSL 2026</td>
-
-<td class="available">Available</td>
-
-<td>17 Aug 2026</td>
-
-<td>
-
-<a href="https://ssc.gov.in"
-target="_blank"
-class="download-btn">
-
-Open Website
-
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>Railway Group D 2026</td>
-
-<td class="available">Available</td>
-
-<td>18 Aug 2026</td>
-
-<td>
-
-<a href="https://www.rrbcdg.gov.in"
-target="_blank"
-class="download-btn">
-
-Open Website
-
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>Railway NTPC</td>
-
-<td class="soon">Coming Soon</td>
-
-<td>Coming Soon</td>
-
-<td>
-
-<a href="https://indianrailways.gov.in"
-target="_blank"
-class="download-btn">
-
-Open Website
-
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>TGPSC Group 1</td>
-
-<td class="soon">Coming Soon</td>
-
-<td>Coming Soon</td>
-
-<td>
-
-<a href="https://www.tgpsc.gov.in"
-target="_blank"
-class="download-btn">
-
-Open Website
-
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>Telangana Police Constable</td>
-
-<td class="soon">Coming Soon</td>
-
-<td>Coming Soon</td>
-
-<td>
-
-<a href="https://www.tslprb.in"
-target="_blank"
-class="download-btn">
-
-Open Website
-
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>IBPS PO 2026</td>
-
-<td class="available">Available</td>
-
-<td>20 Aug 2026</td>
-
-<td>
-
-<a href="https://www.ibps.in"
-target="_blank"
-class="download-btn">
-
-Open Website
-
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>SBI Clerk 2026</td>
-
-<td class="available">Available</td>
-
-<td>22 Aug 2026</td>
-
-<td>
-
-<a href="https://sbi.co.in/web/careers"
-target="_blank"
-class="download-btn">
-
-Open Website
-
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>UPSC Civil Services Prelims</td>
-
-<td class="soon">Coming Soon</td>
-
-<td>Coming Soon</td>
-
-<td>
-
-<a href="https://upsc.gov.in"
-target="_blank"
-class="download-btn">
-
-Open Website
-
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
-<div style="text-align:center;">
-
-<a href="{% url 'home' %}" class="back">
-
-← Back to Home
-
-</a>
+<div class="job-box">
+
+    <h2>{{ job.title }}</h2>
+
+    {% if job.organization %}
+    <div class="job-info">
+        <strong>Organization:</strong>
+        {{ job.organization }}
+    </div>
+    {% endif %}
+
+    {% if job.category %}
+    <div class="job-info">
+        <strong>Category:</strong>
+        {{ job.category }}
+    </div>
+    {% endif %}
 
 </div>
+
+<div class="keys-box">
+
+    <h3>
+        Answer Keys for {{ job.title }}
+    </h3>
+
+    {% if answer_keys %}
+
+        {% for key in answer_keys %}
+
+            <div class="key-card">
+
+                <h4>
+                    📝 {{ key.exam_name }}
+                </h4>
+
+                <div class="release-date">
+
+                    <strong>Release Date:</strong>
+
+                    {{ key.release_date }}
+
+                </div>
+
+                {% if key.official_link %}
+
+                    <a
+                        href="{{ key.official_link }}"
+                        target="_blank"
+                        class="official-btn"
+                    >
+                        📥 View / Download Answer Key
+                    </a>
+
+                {% endif %}
+
+            </div>
+
+        {% endfor %}
+
+    {% else %}
+
+        <div class="empty">
+
+            <h3>No Answer Keys Available</h3>
+
+            <p>
+                Answer keys for
+                <strong>{{ job.title }}</strong>
+                are not available yet.
+            </p>
+
+        </div>
+
+    {% endif %}
+
+</div>
+```
 
 </div>
 
 </body>
-
 </html>

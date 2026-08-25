@@ -1,38 +1,266 @@
+{% load static %}
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SSC CGL</title>
+
+```
+<title>SSC CGL 2026 - Govt Jobs Portal</title>
+
+<style>
+    body {
+        margin: 0;
+        font-family: Arial, sans-serif;
+        background: #f4f6f9;
+        color: #222;
+    }
+
+    .container {
+        max-width: 1000px;
+        margin: 40px auto;
+        padding: 20px;
+    }
+
+    .card {
+        background: white;
+        padding: 30px;
+        border-radius: 12px;
+        box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+        margin-bottom: 25px;
+    }
+
+    h1 {
+        color: #063b70;
+        text-align: center;
+    }
+
+    h2 {
+        color: #063b70;
+    }
+
+    h3 {
+        color: #0866c6;
+    }
+
+    ul {
+        line-height: 2;
+    }
+
+    .official-btn {
+        display: inline-block;
+        background: #0866c6;
+        color: white;
+        text-decoration: none;
+        padding: 11px 20px;
+        border-radius: 7px;
+        margin-top: 10px;
+    }
+
+    .official-btn:hover {
+        background: #064f9c;
+    }
+
+    .papers-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 18px;
+        margin-top: 20px;
+    }
+
+    .paper {
+        background: #f8fafc;
+        border: 1px solid #e1e5ea;
+        border-radius: 10px;
+        padding: 20px;
+        text-align: center;
+    }
+
+    .paper h3 {
+        margin-top: 0;
+        color: #063b70;
+    }
+
+    .view-btn {
+        display: inline-block;
+        background: #198754;
+        color: white;
+        text-decoration: none;
+        padding: 10px 18px;
+        border-radius: 6px;
+        margin-top: 10px;
+    }
+
+    .view-btn:hover {
+        background: #146c43;
+    }
+
+    .back-btn {
+        display: inline-block;
+        margin-bottom: 20px;
+        color: #0866c6;
+        text-decoration: none;
+        font-weight: bold;
+    }
+
+    .back-btn:hover {
+        text-decoration: underline;
+    }
+</style>
+```
+
 </head>
+
 <body>
+
+<div class="container">
+
+```
+<a href="{% url 'latest_jobs' %}" class="back-btn">
+    ← Back to Latest Jobs
+</a>
+
+<!-- SSC CGL DETAILS -->
+
+<div class="card">
 
     <h1>SSC CGL 2026</h1>
 
-    <h2>Staff Selection Commission Combined Graduate Level Examination</h2>
+    <h2>
+        Staff Selection Commission Combined Graduate Level Examination
+    </h2>
 
     <hr>
 
     <h3>Job Details</h3>
 
     <ul>
-        <li><strong>Organization:</strong> Staff Selection Commission (SSC)</li>
-        <li><strong>Exam:</strong> SSC CGL</li>
-        <li><strong>Qualification:</strong> Graduation</li>
-        <li><strong>Job Location:</strong> Across India</li>
+        <li>
+            <strong>Organization:</strong>
+            Staff Selection Commission (SSC)
+        </li>
+
+        <li>
+            <strong>Exam:</strong>
+            SSC CGL
+        </li>
+
+        <li>
+            <strong>Qualification:</strong>
+            Graduation
+        </li>
+
+        <li>
+            <strong>Job Location:</strong>
+            Across India
+        </li>
     </ul>
 
     <h3>Important Links</h3>
-    
-    <a href="https://ssc.gov.in/" target="_blank">
-    Official Notification
+
+    <a href="https://ssc.gov.in/"
+       target="_blank"
+       class="official-btn">
+        Official SSC Website
     </a>
 
-    <br><br>
+</div>
 
-    <a href="/latest-jobs/">
-        ← Back to Latest Jobs
-    </a>
+
+<!-- PREVIOUS PAPERS -->
+
+<div class="card">
+
+    <h2>SSC CGL Previous Year Papers</h2>
+
+    <p>
+        Practice with previous year SSC CGL question papers.
+    </p>
+
+    <div class="papers-grid">
+
+        <!-- 2025 -->
+
+        <div class="paper">
+
+            <h3>SSC CGL 2025</h3>
+
+            <p>
+                Previous Year Question Paper
+            </p>
+
+            <a href="{% static 'pdfs/previous_papers/ssc_cgl/SSC_CGL_2025.pdf' %}"
+               target="_blank"
+               class="view-btn">
+                View PDF
+            </a>
+
+        </div>
+
+
+        <!-- 2024 -->
+
+        <div class="paper">
+
+            <h3>SSC CGL 2024</h3>
+
+            <p>
+                Previous Year Question Paper
+            </p>
+
+            <a href="{% static 'pdfs/previous_papers/ssc_cgl/SSC_CGL_2024.pdf' %}"
+               target="_blank"
+               class="view-btn">
+                View PDF
+            </a>
+
+        </div>
+
+
+        <!-- 2023 -->
+
+        <div class="paper">
+
+            <h3>SSC CGL 2023</h3>
+
+            <p>
+                Previous Year Question Paper
+            </p>
+
+            <a href="{% static 'pdfs/previous_papers/ssc_cgl/SSC_CGL_2023.pdf' %}"
+               target="_blank"
+               class="view-btn">
+                View PDF
+            </a>
+
+        </div>
+
+
+        <!-- 2022 -->
+
+        <div class="paper">
+
+            <h3>SSC CGL 2022</h3>
+
+            <p>
+                Previous Year Question Paper
+            </p>
+
+            <a href="{% static 'pdfs/previous_papers/ssc_cgl/SSC_CGL_2022.pdf' %}"
+               target="_blank"
+               class="view-btn">
+                View PDF
+            </a>
+
+        </div>
+
+    </div>
+
+</div>
+```
+
+</div>
 
 </body>
 </html>

@@ -1,0 +1,5 @@
+exam_name,subject,question,option1,option2,option3,option4,answer,explanation,difficulty,source
+SSC CGL,Aptitude,"What is 20% of 250?","40","50","60","70","50","20 percent of 250 is 50.","Easy","SSC CGL"
+SSC CGL,Reasoning,"Find the next number: 2,4,8,16,?","24","32","36","40","32","Every number is multiplied by 2.","Easy","SSC CGL"
+SSC CGL,English,"Choose the synonym of Happy.","Sad","Joyful","Angry","Weak","Joyful","Joyful means happy.","Easy","SSC CGL"
+RRB NTPC,"General Knowledge","What is the capital of India?","Mumbai","New Delhi","Chennai","Kolkata","New Delhi","New Delhi is the capital of India.","Easy","RRB NTPC"
