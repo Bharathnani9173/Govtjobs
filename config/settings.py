@@ -23,7 +23,7 @@ import os
 
 SECRET_KEY = os.environ.get(
     "DJANGO_SECRET_KEY",
-    "replace-this-with-a-long-random-secret-key"
+    "your-long-random-development-secret-key"
 )
 
 DEBUG = os.environ.get("DJANGO_DEBUG", "True").lower() == "true"
@@ -32,6 +32,18 @@ ALLOWED_HOSTS = [
     "127.0.0.1",
     "localhost",
 ]
+
+if not DEBUG:
+    SECURE_SSL_REDIRECT = True
+
+    SESSION_COOKIE_SECURE = True
+    CSRF_COOKIE_SECURE = True
+
+    SECURE_HSTS_SECONDS = 31536000
+    SECURE_HSTS_INCLUDE_SUBDOMAINS = True
+    SECURE_HSTS_PRELOAD = True
+
+    SECURE_CONTENT_TYPE_NOSNIFF = True
 
 
 # Application definition
@@ -138,18 +150,3 @@ LOGIN_URL = "/login/"
 LOGIN_REDIRECT_URL = "/"
 LOGOUT_REDIRECT_URL = "/"
 
-# ============================================================
-# SECURITY SETTINGS
-# ============================================================
-
-if not DEBUG:
-    SECURE_SSL_REDIRECT = True
-
-    SESSION_COOKIE_SECURE = True
-    CSRF_COOKIE_SECURE = True
-
-    SECURE_HSTS_SECONDS = 31536000
-    SECURE_HSTS_INCLUDE_SUBDOMAINS = True
-    SECURE_HSTS_PRELOAD = True
-
-    SECURE_CONTENT_TYPE_NOSNIFF = True
