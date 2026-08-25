@@ -27,12 +27,16 @@ SECRET_KEY = os.environ.get(
     "your-long-random-development-secret-key"
 )
 
-DEBUG = os.environ.get("DJANGO_DEBUG", "False").lower() == "true"
+DEBUG = False
 
 ALLOWED_HOSTS = [
     "127.0.0.1",
     "localhost",
     "govtjobs-iguc.onrender.com",
+]
+
+CSRF_TRUSTED_ORIGINS = [
+    "https://govtjobs-iguc.onrender.com",
 ]
 
 if not DEBUG:
