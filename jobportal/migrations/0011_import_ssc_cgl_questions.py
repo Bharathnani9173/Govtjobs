@@ -20,11 +20,13 @@ def import_ssc_cgl_questions(apps, schema_editor):
 
     created_count = 0
     for q in questions:
+        exam_value = q.get('exam')  # this is an Exam ID, not text
+
         obj, created = MockTestQuestion.objects.get_or_create(
             question=q['question'],
             exam_name=q.get('exam_name', ''),
             defaults={
-                'exam': q.get('exam', ''),
+                'exam_id': exam_value,
                 'subject': q.get('subject', ''),
                 'option1': q.get('option1', ''),
                 'option2': q.get('option2', ''),
@@ -56,4 +58,3 @@ class Migration(migrations.Migration):
     operations = [
         migrations.RunPython(import_ssc_cgl_questions, reverse_noop),
     ]
-    
