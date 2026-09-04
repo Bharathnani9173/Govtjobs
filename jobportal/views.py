@@ -1184,7 +1184,9 @@ def exam_mock_test(request, exam_name):
 
     exam = get_object_or_404(Exam, name=exam_name)
 
-    questions_count = QuizQuestion.objects.filter(exam=exam).count()
+    questions_count = QuizQuestion.objects.filter(
+        exam=exam
+    ).count()
 
     print("EXAM:", exam.name)
     print("QUESTIONS:", questions_count)
@@ -1220,7 +1222,10 @@ def exam_mock_test(request, exam_name):
         unanswered = 0
         answers = {}
 
-        # Check answers
+        # =================================
+        # CHECK ANSWERS
+        # =================================
+
         for question in questions:
 
             user_answer = request.POST.get(
@@ -1230,16 +1235,13 @@ def exam_mock_test(request, exam_name):
             answers[str(question.id)] = user_answer
 
             if not user_answer:
-
                 unanswered += 1
 
             elif user_answer == question.answer:
-
                 correct += 1
                 score += 1
 
             else:
-
                 wrong += 1
 
         total_questions = len(question_ids)
@@ -1248,7 +1250,7 @@ def exam_mock_test(request, exam_name):
         # SAVE ATTEMPT
         # =================================
 
-        attempt = MockTestAttempt.objects.create(
+        MockTestAttempt.objects.create(
             user=request.user,
             exam=exam,
             daily_test=None,
@@ -1292,7 +1294,10 @@ def exam_mock_test(request, exam_name):
         flat=True
     )
 
-    # Only unseen questions
+    # =================================
+    # GET UP TO 100 NEW QUESTIONS
+    # =================================
+
     questions = list(
         QuizQuestion.objects
         .filter(exam=exam)
@@ -1301,10 +1306,10 @@ def exam_mock_test(request, exam_name):
     )
 
     # =================================
-    # CHECK WHETHER 100 QUESTIONS EXIST
+    # NO QUESTIONS AVAILABLE
     # =================================
 
-    if len(questions) < 100:
+    if len(questions) == 0:
 
         total_exam_questions = QuizQuestion.objects.filter(
             exam=exam
@@ -1322,7 +1327,7 @@ def exam_mock_test(request, exam_name):
             "jobportal/mock_test_unavailable.html",
             {
                 "exam": exam,
-                "available_questions": len(questions),
+                "available_questions": 0,
                 "total_questions": total_exam_questions,
                 "attempted_questions": attempted_questions,
             }
