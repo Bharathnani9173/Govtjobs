@@ -1,0 +1,307 @@
+{% extends "jobportal/base.html" %}
+
+{% block content %}
+
+<div class="container py-5">
+
+    <!-- Header -->
+    <div class="text-center mb-4">
+        <h1>{{ exam.name }}</h1>
+        <p class="text-muted">
+            Mock Test — 50 Questions | 20 Minutes
+        </p>
+    </div>
+
+    <!-- Timer -->
+    <div class="text-center mb-4">
+        <h3>
+            Time Left:
+            <span id="timer">20:00</span>
+        </h3>
+    </div>
+
+    <!-- Progress -->
+    <div class="progress mb-4" style="height: 25px;">
+        <div
+            id="progressBar"
+            class="progress-bar"
+            role="progressbar"
+            style="width: 0%;">
+            Question 1 of {{ questions|length }}
+        </div>
+    </div>
+
+    <!-- Test Form -->
+    <form method="POST" id="mockTestForm">
+
+        {% csrf_token %}
+
+        <!-- Question IDs -->
+        <input
+            type="hidden"
+            name="question_ids"
+            value="{{ question_ids }}"
+        >
+
+        {% for question in questions %}
+
+        <div 
+           class="question-card card shadow-sm mb-4 {% if not forloop.first %}d-none{% endif %}"
+           data-question="{{ forloop.counter }}"
+        >
+
+            <div class="card-body">
+
+                <h5>
+                    Question {{ forloop.counter }} of {{ questions|length }}
+                </h5>
+
+                <hr>
+
+                <p class="fs-5">
+                    {{ question.question }}
+                </p>
+
+                <!-- Option 1 -->
+                <div class="form-check mb-3">
+                    <input
+                        class="form-check-input"
+                        type="radio"
+                        name="question_{{ question.id }}"
+                        value="{{ question.option1 }}"
+                        id="q{{ question.id }}_1"
+                    >
+                    <label
+                        class="form-check-label"
+                        for="q{{ question.id }}_1"
+                    >
+                        {{ question.option1 }}
+                    </label>
+                </div>
+
+                <!-- Option 2 -->
+                <div class="form-check mb-3">
+                    <input
+                        class="form-check-input"
+                        type="radio"
+                        name="question_{{ question.id }}"
+                        value="{{ question.option2 }}"
+                        id="q{{ question.id }}_2"
+                    >
+                    <label
+                        class="form-check-label"
+                        for="q{{ question.id }}_2"
+                    >
+                        {{ question.option2 }}
+                    </label>
+                </div>
+
+                <!-- Option 3 -->
+                <div class="form-check mb-3">
+                    <input
+                        class="form-check-input"
+                        type="radio"
+                        name="question_{{ question.id }}"
+                        value="{{ question.option3 }}"
+                        id="q{{ question.id }}_3"
+                    >
+                    <label
+                        class="form-check-label"
+                        for="q{{ question.id }}_3"
+                    >
+                        {{ question.option3 }}
+                    </label>
+                </div>
+
+                <!-- Option 4 -->
+                <div class="form-check mb-3">
+                    <input
+                        class="form-check-input"
+                        type="radio"
+                        name="question_{{ question.id }}"
+                        value="{{ question.option4 }}"
+                        id="q{{ question.id }}_4"
+                    >
+                    <label
+                        class="form-check-label"
+                        for="q{{ question.id }}_4"
+                    >
+                        {{ question.option4 }}
+                    </label>
+                </div>
+
+            </div>
+
+        </div>
+
+        {% endfor %}
+
+        <!-- Navigation -->
+        <div class="d-flex justify-content-between">
+
+            <button
+                type="button"
+                id="previousBtn"
+                class="btn btn-secondary"
+                onclick="previousQuestion()"
+                disabled
+            >
+                Previous
+            </button>
+
+            <button
+                type="button"
+                id="nextBtn"
+                class="btn btn-primary"
+                onclick="nextQuestion()"
+            >
+                Next
+            </button>
+
+            <button
+                type="submit"
+                id="submitBtn"
+                class="btn btn-success"
+                style="display:none;"
+            >
+                Submit Test
+            </button>
+
+        </div>
+
+    </form>
+
+</div>
+
+
+<script>
+
+let currentQuestion = 0;
+
+const questions = document.querySelectorAll(".question-card");
+
+const totalQuestions = questions.length;
+
+const timerElement = document.getElementById("timer");
+
+const progressBar = document.getElementById("progressBar");
+
+const previousBtn = document.getElementById("previousBtn");
+
+const nextBtn = document.getElementById("nextBtn");
+
+const submitBtn = document.getElementById("submitBtn");
+
+
+// Show question
+function showQuestion(index) {
+
+    questions.forEach((question, i) => {
+
+        question.classList.toggle("d-none", i !== index);
+
+    });
+
+    // Previous button
+    previousBtn.disabled = index === 0;
+
+    // Next / Submit
+    if (index === totalQuestions - 1) {
+
+        nextBtn.style.display = "none";
+
+        submitBtn.style.display = "inline-block";
+
+    } else {
+
+        nextBtn.style.display = "inline-block";
+
+        submitBtn.style.display = "none";
+    }
+
+    // Progress
+    let percentage =
+        ((index + 1) / totalQuestions) * 100;
+
+    progressBar.style.width = percentage + "%";
+
+    progressBar.innerText =
+        "Question " +
+        (index + 1) +
+        " of " +
+        totalQuestions;
+}
+
+
+// Next question
+function nextQuestion() {
+
+    if (currentQuestion < totalQuestions - 1) {
+
+        currentQuestion++;
+
+        showQuestion(currentQuestion);
+    }
+}
+
+
+// Previous question
+function previousQuestion() {
+
+    if (currentQuestion > 0) {
+
+        currentQuestion--;
+
+        showQuestion(currentQuestion);
+    }
+}
+
+
+// Timer
+let timeLeft = 20 * 60;
+
+const timer = setInterval(function() {
+
+    let minutes = Math.floor(timeLeft / 60);
+
+    let seconds = timeLeft % 60;
+
+    seconds =
+        seconds < 10
+        ? "0" + seconds
+        : seconds;
+
+    timerElement.innerText =
+        minutes + ":" + seconds;
+
+    if (timeLeft <= 0) {
+
+        clearInterval(timer);
+
+        alert("Time is over! Your test will be submitted.");
+
+        document.getElementById("mockTestForm").submit();
+
+    }
+
+    timeLeft--;
+
+}, 1000);
+
+
+// Start
+showQuestion(0);
+
+
+// Warn before leaving
+window.addEventListener("beforeunload", function(event) {
+
+    event.preventDefault();
+
+    event.returnValue = "";
+
+});
+
+</script>
+
+{% endblock %}

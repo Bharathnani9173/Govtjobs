@@ -242,11 +242,6 @@ urlpatterns = [
         name='notifications'
     ),
 
-    path(
-    "job/<slug:exam_slug>/",
-    views.exam_papers,
-    name="exam_papers"
-    ),
 
     path(
       "exam/<str:exam_name>/mock-test/",
@@ -269,5 +264,12 @@ urlpatterns = [
     views.download_pdf,
     name="download_pdf",
     ),
+
+    path(
+    "leaderboard/",
+    views.leaderboard,
+    name="leaderboard"
+    ),
 ]
+
 

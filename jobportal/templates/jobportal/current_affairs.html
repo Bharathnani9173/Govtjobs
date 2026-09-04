@@ -1,333 +1,126 @@
-{% load static %}
-
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <title>Current Affairs - {{ job.title }}</title>
+    <title>Current Affairs - Govt Jobs Portal</title>
 
     <style>
-        * {
-            box-sizing: border-box;
-        }
-
         body {
             margin: 0;
             font-family: Arial, sans-serif;
-            background: #f5f7fb;
-            color: #222;
-        }
-
-        .header {
-            background: #0d47a1;
-            color: white;
-            padding: 30px 20px;
-            text-align: center;
-        }
-
-        .header h1 {
-            margin: 0;
-            font-size: 30px;
-        }
-
-        .header p {
-            margin: 10px 0 0;
-            font-size: 16px;
+            background: #f4f6f9;
         }
 
         .container {
-            width: 92%;
             max-width: 1100px;
-            margin: 30px auto;
+            margin: 40px auto;
+            padding: 20px;
         }
 
-        .back-btn {
-            display: inline-block;
-            margin-bottom: 20px;
-            padding: 10px 18px;
-            background: #555;
-            color: white;
-            text-decoration: none;
-            border-radius: 6px;
-            font-weight: bold;
+        h1 {
+            text-align: center;
+            color: #063b70;
         }
 
-        .back-btn:hover {
-            background: #333;
+        .subtitle {
+            text-align: center;
+            color: #666;
+            margin-bottom: 35px;
         }
 
-        .job-box {
+        .affairs-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 25px;
+        }
+
+        .affair-card {
             background: white;
-            padding: 22px;
-            border-radius: 10px;
-            margin-bottom: 25px;
-            box-shadow: 0 3px 10px rgba(0,0,0,0.08);
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.08);
         }
 
-        .job-box h2 {
-            margin-top: 0;
-            color: #0d47a1;
+        .affair-card h2 {
+            color: #063b70;
         }
 
-        .job-info {
-            margin: 7px 0;
-        }
-
-        .label {
-            font-weight: bold;
-        }
-
-        .page-title {
-            color: #0d47a1;
-            margin-bottom: 20px;
-        }
-
-        .pdf-card {
-            background: white;
-            padding: 22px;
-            margin-bottom: 18px;
-            border-radius: 10px;
-            box-shadow: 0 3px 10px rgba(0,0,0,0.08);
-
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            gap: 15px;
-            flex-wrap: wrap;
-        }
-
-        .pdf-name {
-            flex: 1;
-            min-width: 250px;
-        }
-
-        .pdf-name h3 {
-            margin: 0;
-            color: #222;
-            font-size: 18px;
-        }
-
-        .pdf-name p {
-            margin: 7px 0 0;
-            color: #777;
-            font-size: 14px;
-        }
-
-        .buttons {
-            display: flex;
-            gap: 10px;
-            flex-wrap: wrap;
-        }
-
-        .view-btn,
-        .download-btn {
-            display: inline-block;
-            padding: 10px 16px;
-            color: white;
-            text-decoration: none;
-            border-radius: 6px;
-            font-weight: bold;
-            transition: 0.2s;
+        .affair-card p {
+            color: #666;
+            line-height: 1.6;
         }
 
         .view-btn {
-            background: #1976d2;
+            display: inline-block;
+            margin-top: 15px;
+            padding: 11px 22px;
+            background: #0866c6;
+            color: white;
+            text-decoration: none;
+            border-radius: 7px;
+            font-weight: bold;
         }
 
-        .view-btn:hover {
-            background: #0d47a1;
-        }
-
-        .download-btn {
-            background: #2e7d32;
-        }
-
-        .download-btn:hover {
-            background: #1b5e20;
-        }
-
-        .no-pdf {
-            background: white;
-            padding: 45px 20px;
+        .empty {
             text-align: center;
-            border-radius: 10px;
-            box-shadow: 0 3px 10px rgba(0,0,0,0.08);
-        }
-
-        .no-pdf h2 {
-            color: #0d47a1;
-            margin-top: 0;
-        }
-
-        .no-pdf p {
-            color: #666;
-        }
-
-        @media (max-width: 600px) {
-
-            .container {
-                width: 95%;
-            }
-
-            .header h1 {
-                font-size: 24px;
-            }
-
-            .pdf-card {
-                padding: 18px;
-            }
-
-            .buttons {
-                width: 100%;
-            }
-
-            .view-btn,
-            .download-btn {
-                flex: 1;
-                text-align: center;
-            }
+            color: #777;
+            padding: 40px;
         }
     </style>
 </head>
 
 <body>
 
-<div class="header">
+<div class="container">
 
-    <h1>📰 Current Affairs</h1>
+    <h1>Current Affairs</h1>
 
-    <p>
-        Current Affairs PDFs for
-        <strong>{{ job.title }}</strong>
+    <p class="subtitle">
+        Latest current affairs and exam preparation material.
     </p>
 
-</div>
+    <div class="affairs-grid">
 
-    <div class="job-box">
+        {% for affair in affairs %}
 
-        <h2>{{ job.title }}</h2>
+        <div class="affair-card">
 
-        {% if job.organization %}
+            <h2>{{ affair.title }}</h2>
 
-        <div class="job-info">
-            <span class="label">
-                Organization:
-            </span>
+            <p>
+                <strong>Category:</strong>
+                {{ affair.category }}
+            </p>
 
-            {{ job.organization }}
-        </div>
+            <p>
+                <strong>Date:</strong>
+                {{ affair.date }}
+            </p>
 
-        {% endif %}
+            <p>
+                {{ affair.description }}
+            </p>
 
-        {% if job.category %}
-
-        <div class="job-info">
-            <span class="label">
-                Category:
-            </span>
-
-            {{ job.category }}
-        </div>
-
-        {% endif %}
-
-        {% if job.state %}
-
-        <div class="job-info">
-            <span class="label">
-                State:
-            </span>
-
-            {{ job.state }}
-        </div>
-
-        {% endif %}
-
-    </div>
-
-    <h2 class="page-title">
-        📚 Current Affairs PDFs
-    </h2>
-
-    {% if affairs %}
-
-        {% for pdf in affairs %}
-
-        <div class="pdf-card">
-
-            <div class="pdf-name">
-
-                <h3>
-                    📰 {{ pdf.title }}
-                </h3>
-
-                <p>
-                    {{ pdf.date }}
-                    {% if pdf.category %}
-                        • {{ pdf.category }}
-                    {% endif %}
-                </p>
-
-                {% if pdf.description %}
-
-                <p>
-                    {{ pdf.description }}
-                </p>
-
-                {% endif %}
-
-            </div>
-
-            <div class="buttons">
-
-                {% if pdf.pdf_link %}
-
-                <a href="{{ pdf.pdf_link }}"
+            {% if affair.pdf_link %}
+                <a href="{{ affair.pdf_link }}"
+                   class="view-btn"
                    target="_blank"
-                   rel="noopener noreferrer"
-                   class="view-btn">
-
-                    👁 View PDF
-
+                   rel="noopener noreferrer">
+                    View PDF
                 </a>
+            {% endif %}
 
-                <a href="{{ pdf.pdf_link }}"
-                   download
-                   class="download-btn">
+        </div>
 
-                    ⬇ Download
+        {% empty %}
 
-                </a>
-
-                {% endif %}
-
-            </div>
-
+        <div class="empty">
+            <h2>No Current Affairs Available</h2>
+            <p>Current affairs will be added soon.</p>
         </div>
 
         {% endfor %}
 
-    {% else %}
-
-        <div class="no-pdf">
-
-            <h2>
-                📄 No Current Affairs PDFs Available
-            </h2>
-
-            <p>
-
-                Current Affairs PDFs for
-                <strong>{{ job.title }}</strong>
-                are not available yet.
-
-            </p>
-
-        </div>
-
-    {% endif %}
+    </div>
 
 </div>
 

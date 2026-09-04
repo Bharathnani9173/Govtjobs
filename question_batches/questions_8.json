@@ -1,0 +1,1702 @@
+[
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 701,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 2, 10, 18, ?",
+      "option1": "26",
+      "option2": "27",
+      "option3": "25",
+      "option4": "34",
+      "answer": "26",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 702,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 3, 12, 21, ?",
+      "option1": "30",
+      "option2": "31",
+      "option3": "29",
+      "option4": "39",
+      "answer": "30",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 703,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 4, 14, 24, ?",
+      "option1": "34",
+      "option2": "35",
+      "option3": "33",
+      "option4": "44",
+      "answer": "34",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 704,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 5, 16, 27, ?",
+      "option1": "38",
+      "option2": "39",
+      "option3": "37",
+      "option4": "49",
+      "answer": "38",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 705,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 6, 18, 30, ?",
+      "option1": "42",
+      "option2": "43",
+      "option3": "41",
+      "option4": "54",
+      "answer": "42",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 706,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 7, 20, 33, ?",
+      "option1": "46",
+      "option2": "47",
+      "option3": "45",
+      "option4": "59",
+      "answer": "46",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 707,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 8, 22, 36, ?",
+      "option1": "50",
+      "option2": "51",
+      "option3": "49",
+      "option4": "64",
+      "answer": "50",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 708,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 9, 24, 39, ?",
+      "option1": "54",
+      "option2": "55",
+      "option3": "53",
+      "option4": "69",
+      "answer": "54",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 709,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 10, 26, 42, ?",
+      "option1": "58",
+      "option2": "59",
+      "option3": "57",
+      "option4": "74",
+      "answer": "58",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 710,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 11, 13, 15, ?",
+      "option1": "17",
+      "option2": "18",
+      "option3": "16",
+      "option4": "19",
+      "answer": "17",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 711,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 12, 15, 18, ?",
+      "option1": "21",
+      "option2": "22",
+      "option3": "20",
+      "option4": "24",
+      "answer": "21",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 712,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 13, 17, 21, ?",
+      "option1": "25",
+      "option2": "26",
+      "option3": "24",
+      "option4": "29",
+      "answer": "25",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 713,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 14, 19, 24, ?",
+      "option1": "29",
+      "option2": "30",
+      "option3": "28",
+      "option4": "34",
+      "answer": "29",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 714,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 15, 21, 27, ?",
+      "option1": "33",
+      "option2": "34",
+      "option3": "32",
+      "option4": "39",
+      "answer": "33",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 715,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 16, 23, 30, ?",
+      "option1": "37",
+      "option2": "38",
+      "option3": "36",
+      "option4": "44",
+      "answer": "37",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 716,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 17, 25, 33, ?",
+      "option1": "41",
+      "option2": "42",
+      "option3": "40",
+      "option4": "49",
+      "answer": "41",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 717,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 18, 27, 36, ?",
+      "option1": "45",
+      "option2": "46",
+      "option3": "44",
+      "option4": "54",
+      "answer": "45",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 718,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 19, 29, 39, ?",
+      "option1": "49",
+      "option2": "50",
+      "option3": "48",
+      "option4": "59",
+      "answer": "49",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 719,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 20, 31, 42, ?",
+      "option1": "53",
+      "option2": "54",
+      "option3": "52",
+      "option4": "64",
+      "answer": "53",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 720,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 1, 13, 25, ?",
+      "option1": "37",
+      "option2": "38",
+      "option3": "36",
+      "option4": "49",
+      "answer": "37",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 721,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 2, 15, 28, ?",
+      "option1": "41",
+      "option2": "42",
+      "option3": "40",
+      "option4": "54",
+      "answer": "41",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 722,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 3, 17, 31, ?",
+      "option1": "45",
+      "option2": "46",
+      "option3": "44",
+      "option4": "59",
+      "answer": "45",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 723,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 4, 19, 34, ?",
+      "option1": "49",
+      "option2": "50",
+      "option3": "48",
+      "option4": "64",
+      "answer": "49",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 724,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 5, 21, 37, ?",
+      "option1": "53",
+      "option2": "54",
+      "option3": "52",
+      "option4": "69",
+      "answer": "53",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 725,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 6, 8, 10, ?",
+      "option1": "12",
+      "option2": "13",
+      "option3": "11",
+      "option4": "14",
+      "answer": "12",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 726,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 7, 10, 13, ?",
+      "option1": "16",
+      "option2": "17",
+      "option3": "15",
+      "option4": "19",
+      "answer": "16",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 727,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 8, 12, 16, ?",
+      "option1": "20",
+      "option2": "21",
+      "option3": "19",
+      "option4": "24",
+      "answer": "20",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 728,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 9, 14, 19, ?",
+      "option1": "24",
+      "option2": "25",
+      "option3": "23",
+      "option4": "29",
+      "answer": "24",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 729,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 10, 16, 22, ?",
+      "option1": "28",
+      "option2": "29",
+      "option3": "27",
+      "option4": "34",
+      "answer": "28",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 730,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 11, 18, 25, ?",
+      "option1": "32",
+      "option2": "33",
+      "option3": "31",
+      "option4": "39",
+      "answer": "32",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 731,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 12, 20, 28, ?",
+      "option1": "36",
+      "option2": "37",
+      "option3": "35",
+      "option4": "44",
+      "answer": "36",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 732,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 13, 22, 31, ?",
+      "option1": "40",
+      "option2": "41",
+      "option3": "39",
+      "option4": "49",
+      "answer": "40",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 733,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 14, 24, 34, ?",
+      "option1": "44",
+      "option2": "45",
+      "option3": "43",
+      "option4": "54",
+      "answer": "44",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 734,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 15, 26, 37, ?",
+      "option1": "48",
+      "option2": "49",
+      "option3": "47",
+      "option4": "59",
+      "answer": "48",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 735,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 16, 28, 40, ?",
+      "option1": "52",
+      "option2": "53",
+      "option3": "51",
+      "option4": "64",
+      "answer": "52",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 736,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 17, 30, 43, ?",
+      "option1": "56",
+      "option2": "57",
+      "option3": "55",
+      "option4": "69",
+      "answer": "56",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 737,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 18, 32, 46, ?",
+      "option1": "60",
+      "option2": "61",
+      "option3": "59",
+      "option4": "74",
+      "answer": "60",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 738,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 19, 34, 49, ?",
+      "option1": "64",
+      "option2": "65",
+      "option3": "63",
+      "option4": "79",
+      "answer": "64",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 739,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 20, 36, 52, ?",
+      "option1": "68",
+      "option2": "69",
+      "option3": "67",
+      "option4": "84",
+      "answer": "68",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 740,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 1, 3, 5, ?",
+      "option1": "7",
+      "option2": "8",
+      "option3": "6",
+      "option4": "9",
+      "answer": "7",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 741,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 2, 5, 8, ?",
+      "option1": "11",
+      "option2": "12",
+      "option3": "10",
+      "option4": "14",
+      "answer": "11",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 742,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 3, 7, 11, ?",
+      "option1": "15",
+      "option2": "16",
+      "option3": "14",
+      "option4": "19",
+      "answer": "15",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 743,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 4, 9, 14, ?",
+      "option1": "19",
+      "option2": "20",
+      "option3": "18",
+      "option4": "24",
+      "answer": "19",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 744,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 5, 11, 17, ?",
+      "option1": "23",
+      "option2": "24",
+      "option3": "22",
+      "option4": "29",
+      "answer": "23",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 745,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 6, 13, 20, ?",
+      "option1": "27",
+      "option2": "28",
+      "option3": "26",
+      "option4": "34",
+      "answer": "27",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 746,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 7, 15, 23, ?",
+      "option1": "31",
+      "option2": "32",
+      "option3": "30",
+      "option4": "39",
+      "answer": "31",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 747,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 8, 17, 26, ?",
+      "option1": "35",
+      "option2": "36",
+      "option3": "34",
+      "option4": "44",
+      "answer": "35",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 748,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 9, 19, 29, ?",
+      "option1": "39",
+      "option2": "40",
+      "option3": "38",
+      "option4": "49",
+      "answer": "39",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 749,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 10, 21, 32, ?",
+      "option1": "43",
+      "option2": "44",
+      "option3": "42",
+      "option4": "54",
+      "answer": "43",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 750,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 11, 23, 35, ?",
+      "option1": "47",
+      "option2": "48",
+      "option3": "46",
+      "option4": "59",
+      "answer": "47",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 751,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 12, 25, 38, ?",
+      "option1": "51",
+      "option2": "52",
+      "option3": "50",
+      "option4": "64",
+      "answer": "51",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 752,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 13, 27, 41, ?",
+      "option1": "55",
+      "option2": "56",
+      "option3": "54",
+      "option4": "69",
+      "answer": "55",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 753,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 14, 29, 44, ?",
+      "option1": "59",
+      "option2": "60",
+      "option3": "58",
+      "option4": "74",
+      "answer": "59",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 754,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 15, 31, 47, ?",
+      "option1": "63",
+      "option2": "64",
+      "option3": "62",
+      "option4": "79",
+      "answer": "63",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 755,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 16, 18, 20, ?",
+      "option1": "22",
+      "option2": "23",
+      "option3": "21",
+      "option4": "24",
+      "answer": "22",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 756,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 17, 20, 23, ?",
+      "option1": "26",
+      "option2": "27",
+      "option3": "25",
+      "option4": "29",
+      "answer": "26",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 757,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 18, 22, 26, ?",
+      "option1": "30",
+      "option2": "31",
+      "option3": "29",
+      "option4": "34",
+      "answer": "30",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 758,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 19, 24, 29, ?",
+      "option1": "34",
+      "option2": "35",
+      "option3": "33",
+      "option4": "39",
+      "answer": "34",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 759,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 20, 26, 32, ?",
+      "option1": "38",
+      "option2": "39",
+      "option3": "37",
+      "option4": "44",
+      "answer": "38",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 760,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 1, 8, 15, ?",
+      "option1": "22",
+      "option2": "23",
+      "option3": "21",
+      "option4": "29",
+      "answer": "22",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 761,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 2, 10, 18, ?",
+      "option1": "26",
+      "option2": "27",
+      "option3": "25",
+      "option4": "34",
+      "answer": "26",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 762,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 3, 12, 21, ?",
+      "option1": "30",
+      "option2": "31",
+      "option3": "29",
+      "option4": "39",
+      "answer": "30",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 763,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 4, 14, 24, ?",
+      "option1": "34",
+      "option2": "35",
+      "option3": "33",
+      "option4": "44",
+      "answer": "34",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 764,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 5, 16, 27, ?",
+      "option1": "38",
+      "option2": "39",
+      "option3": "37",
+      "option4": "49",
+      "answer": "38",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 765,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 6, 18, 30, ?",
+      "option1": "42",
+      "option2": "43",
+      "option3": "41",
+      "option4": "54",
+      "answer": "42",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 766,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 7, 20, 33, ?",
+      "option1": "46",
+      "option2": "47",
+      "option3": "45",
+      "option4": "59",
+      "answer": "46",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 767,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 8, 22, 36, ?",
+      "option1": "50",
+      "option2": "51",
+      "option3": "49",
+      "option4": "64",
+      "answer": "50",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 768,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 9, 24, 39, ?",
+      "option1": "54",
+      "option2": "55",
+      "option3": "53",
+      "option4": "69",
+      "answer": "54",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 769,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 10, 26, 42, ?",
+      "option1": "58",
+      "option2": "59",
+      "option3": "57",
+      "option4": "74",
+      "answer": "58",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 770,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 11, 13, 15, ?",
+      "option1": "17",
+      "option2": "18",
+      "option3": "16",
+      "option4": "19",
+      "answer": "17",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 771,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 12, 15, 18, ?",
+      "option1": "21",
+      "option2": "22",
+      "option3": "20",
+      "option4": "24",
+      "answer": "21",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 772,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 13, 17, 21, ?",
+      "option1": "25",
+      "option2": "26",
+      "option3": "24",
+      "option4": "29",
+      "answer": "25",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 773,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 14, 19, 24, ?",
+      "option1": "29",
+      "option2": "30",
+      "option3": "28",
+      "option4": "34",
+      "answer": "29",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 774,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 15, 21, 27, ?",
+      "option1": "33",
+      "option2": "34",
+      "option3": "32",
+      "option4": "39",
+      "answer": "33",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 775,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 16, 23, 30, ?",
+      "option1": "37",
+      "option2": "38",
+      "option3": "36",
+      "option4": "44",
+      "answer": "37",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 776,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 17, 25, 33, ?",
+      "option1": "41",
+      "option2": "42",
+      "option3": "40",
+      "option4": "49",
+      "answer": "41",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 777,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 18, 27, 36, ?",
+      "option1": "45",
+      "option2": "46",
+      "option3": "44",
+      "option4": "54",
+      "answer": "45",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 778,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 19, 29, 39, ?",
+      "option1": "49",
+      "option2": "50",
+      "option3": "48",
+      "option4": "59",
+      "answer": "49",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 779,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 20, 31, 42, ?",
+      "option1": "53",
+      "option2": "54",
+      "option3": "52",
+      "option4": "64",
+      "answer": "53",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 780,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 1, 13, 25, ?",
+      "option1": "37",
+      "option2": "38",
+      "option3": "36",
+      "option4": "49",
+      "answer": "37",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 781,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 2, 15, 28, ?",
+      "option1": "41",
+      "option2": "42",
+      "option3": "40",
+      "option4": "54",
+      "answer": "41",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 782,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 3, 17, 31, ?",
+      "option1": "45",
+      "option2": "46",
+      "option3": "44",
+      "option4": "59",
+      "answer": "45",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 783,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 4, 19, 34, ?",
+      "option1": "49",
+      "option2": "50",
+      "option3": "48",
+      "option4": "64",
+      "answer": "49",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 784,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 5, 21, 37, ?",
+      "option1": "53",
+      "option2": "54",
+      "option3": "52",
+      "option4": "69",
+      "answer": "53",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 785,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 6, 8, 10, ?",
+      "option1": "12",
+      "option2": "13",
+      "option3": "11",
+      "option4": "14",
+      "answer": "12",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 786,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 7, 10, 13, ?",
+      "option1": "16",
+      "option2": "17",
+      "option3": "15",
+      "option4": "19",
+      "answer": "16",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 787,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 8, 12, 16, ?",
+      "option1": "20",
+      "option2": "21",
+      "option3": "19",
+      "option4": "24",
+      "answer": "20",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 788,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 9, 14, 19, ?",
+      "option1": "24",
+      "option2": "25",
+      "option3": "23",
+      "option4": "29",
+      "answer": "24",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 789,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 10, 16, 22, ?",
+      "option1": "28",
+      "option2": "29",
+      "option3": "27",
+      "option4": "34",
+      "answer": "28",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 790,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 11, 18, 25, ?",
+      "option1": "32",
+      "option2": "33",
+      "option3": "31",
+      "option4": "39",
+      "answer": "32",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 791,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 12, 20, 28, ?",
+      "option1": "36",
+      "option2": "37",
+      "option3": "35",
+      "option4": "44",
+      "answer": "36",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 792,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 13, 22, 31, ?",
+      "option1": "40",
+      "option2": "41",
+      "option3": "39",
+      "option4": "49",
+      "answer": "40",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 793,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 14, 24, 34, ?",
+      "option1": "44",
+      "option2": "45",
+      "option3": "43",
+      "option4": "54",
+      "answer": "44",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 794,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 15, 26, 37, ?",
+      "option1": "48",
+      "option2": "49",
+      "option3": "47",
+      "option4": "59",
+      "answer": "48",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 795,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 16, 28, 40, ?",
+      "option1": "52",
+      "option2": "53",
+      "option3": "51",
+      "option4": "64",
+      "answer": "52",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 796,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 17, 30, 43, ?",
+      "option1": "56",
+      "option2": "57",
+      "option3": "55",
+      "option4": "69",
+      "answer": "56",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 797,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 18, 32, 46, ?",
+      "option1": "60",
+      "option2": "61",
+      "option3": "59",
+      "option4": "74",
+      "answer": "60",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 798,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 19, 34, 49, ?",
+      "option1": "64",
+      "option2": "65",
+      "option3": "63",
+      "option4": "79",
+      "answer": "64",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 799,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 20, 36, 52, ?",
+      "option1": "68",
+      "option2": "69",
+      "option3": "67",
+      "option4": "84",
+      "answer": "68",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 800,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What comes next in the series: 1, 3, 5, ?",
+      "option1": "7",
+      "option2": "8",
+      "option3": "6",
+      "option4": "9",
+      "answer": "7",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  }
+]

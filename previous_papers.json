@@ -1,0 +1,57 @@
+[
+  {
+    "model": "jobportal.previouspaper",
+    "pk": 1,
+    "fields": {
+      "job": 452,
+      "exam_name": "SSC CHSL",
+      "category": "SSC",
+      "year": 2025,
+      "pdf_link": "https://ssc.gov.in/"
+    }
+  },
+  {
+    "model": "jobportal.previouspaper",
+    "pk": 2,
+    "fields": {
+      "job": 532,
+      "exam_name": "SSC CGL",
+      "category": "SSC",
+      "year": 2022,
+      "pdf_link": "/static/pdfs/previous_papers/ssc_cgl/SSC_CGL_2022.pdf"
+    }
+  },
+  {
+    "model": "jobportal.previouspaper",
+    "pk": 3,
+    "fields": {
+      "job": 533,
+      "exam_name": "SSC CGL",
+      "category": "SSC",
+      "year": 2023,
+      "pdf_link": "/static/pdfs/previous_papers/ssc_cgl/SSC_CGL_2023.pdf"
+    }
+  },
+  {
+    "model": "jobportal.previouspaper",
+    "pk": 4,
+    "fields": {
+      "job": 534,
+      "exam_name": "SSC CGL",
+      "category": "SSC",
+      "year": 2024,
+      "pdf_link": "/static/pdfs/previous_papers/ssc_cgl/SSC_CGL_2024.pdf"
+    }
+  },
+  {
+    "model": "jobportal.previouspaper",
+    "pk": 5,
+    "fields": {
+      "job": 535,
+      "exam_name": "SSC CGL",
+      "category": "Other",
+      "year": 2025,
+      "pdf_link": "/static/pdfs/previous_papers/ssc_cgl/SSC_CGL_2025.pdf"
+    }
+  }
+]

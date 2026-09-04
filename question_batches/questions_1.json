@@ -1,0 +1,1702 @@
+[
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 1,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 35 + 9?",
+      "option1": "44",
+      "option2": "45",
+      "option3": "43",
+      "option4": "46",
+      "answer": "44",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 98 + 5?",
+      "option1": "103",
+      "option2": "104",
+      "option3": "102",
+      "option4": "105",
+      "answer": "103",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 3,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 51 + 4?",
+      "option1": "55",
+      "option2": "56",
+      "option3": "54",
+      "option4": "57",
+      "answer": "55",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 4,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 79 + 2?",
+      "option1": "81",
+      "option2": "82",
+      "option3": "80",
+      "option4": "83",
+      "answer": "81",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 5,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 91 + 5?",
+      "option1": "96",
+      "option2": "97",
+      "option3": "95",
+      "option4": "98",
+      "answer": "96",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 6,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 81 + 6?",
+      "option1": "87",
+      "option2": "88",
+      "option3": "86",
+      "option4": "89",
+      "answer": "87",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 7,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 60 + 2?",
+      "option1": "62",
+      "option2": "63",
+      "option3": "61",
+      "option4": "64",
+      "answer": "62",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 8,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 46 + 4?",
+      "option1": "50",
+      "option2": "51",
+      "option3": "49",
+      "option4": "52",
+      "answer": "50",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 9,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 56 + 9?",
+      "option1": "65",
+      "option2": "66",
+      "option3": "64",
+      "option4": "67",
+      "answer": "65",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 81 + 6?",
+      "option1": "87",
+      "option2": "88",
+      "option3": "86",
+      "option4": "89",
+      "answer": "87",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 11,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 97 + 9?",
+      "option1": "106",
+      "option2": "107",
+      "option3": "105",
+      "option4": "108",
+      "answer": "106",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 12,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 46 + 6?",
+      "option1": "52",
+      "option2": "53",
+      "option3": "51",
+      "option4": "54",
+      "answer": "52",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 13,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 72 + 5?",
+      "option1": "77",
+      "option2": "78",
+      "option3": "76",
+      "option4": "79",
+      "answer": "77",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 14,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 23 + 7?",
+      "option1": "30",
+      "option2": "31",
+      "option3": "29",
+      "option4": "32",
+      "answer": "30",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 15,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 71 + 7?",
+      "option1": "78",
+      "option2": "79",
+      "option3": "77",
+      "option4": "80",
+      "answer": "78",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 16,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 98 + 6?",
+      "option1": "104",
+      "option2": "105",
+      "option3": "103",
+      "option4": "106",
+      "answer": "104",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 17,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 22 + 2?",
+      "option1": "24",
+      "option2": "25",
+      "option3": "23",
+      "option4": "26",
+      "answer": "24",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 18,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 81 + 9?",
+      "option1": "90",
+      "option2": "91",
+      "option3": "89",
+      "option4": "92",
+      "answer": "90",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 19,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 68 + 6?",
+      "option1": "74",
+      "option2": "75",
+      "option3": "73",
+      "option4": "76",
+      "answer": "74",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 20,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 76 + 2?",
+      "option1": "78",
+      "option2": "79",
+      "option3": "77",
+      "option4": "80",
+      "answer": "78",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 21,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 54 + 3?",
+      "option1": "57",
+      "option2": "58",
+      "option3": "56",
+      "option4": "59",
+      "answer": "57",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 22,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 88 + 3?",
+      "option1": "91",
+      "option2": "92",
+      "option3": "90",
+      "option4": "93",
+      "answer": "91",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 23,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 89 + 9?",
+      "option1": "98",
+      "option2": "99",
+      "option3": "97",
+      "option4": "100",
+      "answer": "98",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 24,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 88 + 6?",
+      "option1": "94",
+      "option2": "95",
+      "option3": "93",
+      "option4": "96",
+      "answer": "94",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 25,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 97 + 7?",
+      "option1": "104",
+      "option2": "105",
+      "option3": "103",
+      "option4": "106",
+      "answer": "104",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 26,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 75 + 2?",
+      "option1": "77",
+      "option2": "78",
+      "option3": "76",
+      "option4": "79",
+      "answer": "77",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 27,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 95 + 9?",
+      "option1": "104",
+      "option2": "105",
+      "option3": "103",
+      "option4": "106",
+      "answer": "104",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 28,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 24 + 9?",
+      "option1": "33",
+      "option2": "34",
+      "option3": "32",
+      "option4": "35",
+      "answer": "33",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 29,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 29 + 9?",
+      "option1": "38",
+      "option2": "39",
+      "option3": "37",
+      "option4": "40",
+      "answer": "38",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 30,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 65 + 7?",
+      "option1": "72",
+      "option2": "73",
+      "option3": "71",
+      "option4": "74",
+      "answer": "72",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 31,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 36 + 8?",
+      "option1": "44",
+      "option2": "45",
+      "option3": "43",
+      "option4": "46",
+      "answer": "44",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 32,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 78 + 3?",
+      "option1": "81",
+      "option2": "82",
+      "option3": "80",
+      "option4": "83",
+      "answer": "81",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 33,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 75 + 8?",
+      "option1": "83",
+      "option2": "84",
+      "option3": "82",
+      "option4": "85",
+      "answer": "83",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 34,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 79 + 6?",
+      "option1": "85",
+      "option2": "86",
+      "option3": "84",
+      "option4": "87",
+      "answer": "85",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 35,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 18 + 5?",
+      "option1": "23",
+      "option2": "24",
+      "option3": "22",
+      "option4": "25",
+      "answer": "23",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 36,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 18 + 6?",
+      "option1": "24",
+      "option2": "25",
+      "option3": "23",
+      "option4": "26",
+      "answer": "24",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 37,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 54 + 9?",
+      "option1": "63",
+      "option2": "64",
+      "option3": "62",
+      "option4": "65",
+      "answer": "63",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 38,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 92 + 8?",
+      "option1": "100",
+      "option2": "101",
+      "option3": "99",
+      "option4": "102",
+      "answer": "100",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 39,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 23 + 9?",
+      "option1": "32",
+      "option2": "33",
+      "option3": "31",
+      "option4": "34",
+      "answer": "32",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 40,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 87 + 2?",
+      "option1": "89",
+      "option2": "90",
+      "option3": "88",
+      "option4": "91",
+      "answer": "89",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 41,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 94 + 5?",
+      "option1": "99",
+      "option2": "100",
+      "option3": "98",
+      "option4": "101",
+      "answer": "99",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 42,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 40 + 2?",
+      "option1": "42",
+      "option2": "43",
+      "option3": "41",
+      "option4": "44",
+      "answer": "42",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 43,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 47 + 8?",
+      "option1": "55",
+      "option2": "56",
+      "option3": "54",
+      "option4": "57",
+      "answer": "55",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 44,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 33 + 5?",
+      "option1": "38",
+      "option2": "39",
+      "option3": "37",
+      "option4": "40",
+      "answer": "38",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 45,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 63 + 3?",
+      "option1": "66",
+      "option2": "67",
+      "option3": "65",
+      "option4": "68",
+      "answer": "66",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 46,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 64 + 2?",
+      "option1": "66",
+      "option2": "67",
+      "option3": "65",
+      "option4": "68",
+      "answer": "66",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 47,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 68 + 5?",
+      "option1": "73",
+      "option2": "74",
+      "option3": "72",
+      "option4": "75",
+      "answer": "73",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 48,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 95 + 2?",
+      "option1": "97",
+      "option2": "98",
+      "option3": "96",
+      "option4": "99",
+      "answer": "97",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 49,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 15 + 3?",
+      "option1": "18",
+      "option2": "19",
+      "option3": "17",
+      "option4": "20",
+      "answer": "18",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 50,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 20 + 7?",
+      "option1": "27",
+      "option2": "28",
+      "option3": "26",
+      "option4": "29",
+      "answer": "27",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 51,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 25 + 7?",
+      "option1": "32",
+      "option2": "33",
+      "option3": "31",
+      "option4": "34",
+      "answer": "32",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 52,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 11 + 2?",
+      "option1": "13",
+      "option2": "14",
+      "option3": "12",
+      "option4": "15",
+      "answer": "13",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 53,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 11 + 2?",
+      "option1": "13",
+      "option2": "14",
+      "option3": "12",
+      "option4": "15",
+      "answer": "13",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 54,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 55 + 4?",
+      "option1": "59",
+      "option2": "60",
+      "option3": "58",
+      "option4": "61",
+      "answer": "59",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 55,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 89 + 5?",
+      "option1": "94",
+      "option2": "95",
+      "option3": "93",
+      "option4": "96",
+      "answer": "94",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 56,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 76 + 7?",
+      "option1": "83",
+      "option2": "84",
+      "option3": "82",
+      "option4": "85",
+      "answer": "83",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 57,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 43 + 5?",
+      "option1": "48",
+      "option2": "49",
+      "option3": "47",
+      "option4": "50",
+      "answer": "48",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 58,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 80 + 9?",
+      "option1": "89",
+      "option2": "90",
+      "option3": "88",
+      "option4": "91",
+      "answer": "89",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 59,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 66 + 4?",
+      "option1": "70",
+      "option2": "71",
+      "option3": "69",
+      "option4": "72",
+      "answer": "70",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 60,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 14 + 9?",
+      "option1": "23",
+      "option2": "24",
+      "option3": "22",
+      "option4": "25",
+      "answer": "23",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 61,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 32 + 4?",
+      "option1": "36",
+      "option2": "37",
+      "option3": "35",
+      "option4": "38",
+      "answer": "36",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 62,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 49 + 6?",
+      "option1": "55",
+      "option2": "56",
+      "option3": "54",
+      "option4": "57",
+      "answer": "55",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 63,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 14 + 4?",
+      "option1": "18",
+      "option2": "19",
+      "option3": "17",
+      "option4": "20",
+      "answer": "18",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 64,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 88 + 8?",
+      "option1": "96",
+      "option2": "97",
+      "option3": "95",
+      "option4": "98",
+      "answer": "96",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 65,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 93 + 5?",
+      "option1": "98",
+      "option2": "99",
+      "option3": "97",
+      "option4": "100",
+      "answer": "98",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 66,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 19 + 4?",
+      "option1": "23",
+      "option2": "24",
+      "option3": "22",
+      "option4": "25",
+      "answer": "23",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 67,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 34 + 8?",
+      "option1": "42",
+      "option2": "43",
+      "option3": "41",
+      "option4": "44",
+      "answer": "42",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 68,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 55 + 7?",
+      "option1": "62",
+      "option2": "63",
+      "option3": "61",
+      "option4": "64",
+      "answer": "62",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 69,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 45 + 5?",
+      "option1": "50",
+      "option2": "51",
+      "option3": "49",
+      "option4": "52",
+      "answer": "50",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 70,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 13 + 2?",
+      "option1": "15",
+      "option2": "16",
+      "option3": "14",
+      "option4": "17",
+      "answer": "15",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 71,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 75 + 2?",
+      "option1": "77",
+      "option2": "78",
+      "option3": "76",
+      "option4": "79",
+      "answer": "77",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 72,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 23 + 7?",
+      "option1": "30",
+      "option2": "31",
+      "option3": "29",
+      "option4": "32",
+      "answer": "30",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 73,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 98 + 3?",
+      "option1": "101",
+      "option2": "102",
+      "option3": "100",
+      "option4": "103",
+      "answer": "101",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 74,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 17 + 5?",
+      "option1": "22",
+      "option2": "23",
+      "option3": "21",
+      "option4": "24",
+      "answer": "22",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 75,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 63 + 3?",
+      "option1": "66",
+      "option2": "67",
+      "option3": "65",
+      "option4": "68",
+      "answer": "66",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 76,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 50 + 7?",
+      "option1": "57",
+      "option2": "58",
+      "option3": "56",
+      "option4": "59",
+      "answer": "57",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 77,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 94 + 6?",
+      "option1": "100",
+      "option2": "101",
+      "option3": "99",
+      "option4": "102",
+      "answer": "100",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 78,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 24 + 8?",
+      "option1": "32",
+      "option2": "33",
+      "option3": "31",
+      "option4": "34",
+      "answer": "32",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 79,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 81 + 2?",
+      "option1": "83",
+      "option2": "84",
+      "option3": "82",
+      "option4": "85",
+      "answer": "83",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 80,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 76 + 6?",
+      "option1": "82",
+      "option2": "83",
+      "option3": "81",
+      "option4": "84",
+      "answer": "82",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 81,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 54 + 3?",
+      "option1": "57",
+      "option2": "58",
+      "option3": "56",
+      "option4": "59",
+      "answer": "57",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 82,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 63 + 8?",
+      "option1": "71",
+      "option2": "72",
+      "option3": "70",
+      "option4": "73",
+      "answer": "71",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 83,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 65 + 6?",
+      "option1": "71",
+      "option2": "72",
+      "option3": "70",
+      "option4": "73",
+      "answer": "71",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 84,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 89 + 6?",
+      "option1": "95",
+      "option2": "96",
+      "option3": "94",
+      "option4": "97",
+      "answer": "95",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 85,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 25 + 4?",
+      "option1": "29",
+      "option2": "30",
+      "option3": "28",
+      "option4": "31",
+      "answer": "29",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 86,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 80 + 2?",
+      "option1": "82",
+      "option2": "83",
+      "option3": "81",
+      "option4": "84",
+      "answer": "82",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 87,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 61 + 2?",
+      "option1": "63",
+      "option2": "64",
+      "option3": "62",
+      "option4": "65",
+      "answer": "63",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 88,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 65 + 4?",
+      "option1": "69",
+      "option2": "70",
+      "option3": "68",
+      "option4": "71",
+      "answer": "69",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 89,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 31 + 8?",
+      "option1": "39",
+      "option2": "40",
+      "option3": "38",
+      "option4": "41",
+      "answer": "39",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 90,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 45 + 6?",
+      "option1": "51",
+      "option2": "52",
+      "option3": "50",
+      "option4": "53",
+      "answer": "51",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 91,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 14 + 5?",
+      "option1": "19",
+      "option2": "20",
+      "option3": "18",
+      "option4": "21",
+      "answer": "19",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 92,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 75 + 8?",
+      "option1": "83",
+      "option2": "84",
+      "option3": "82",
+      "option4": "85",
+      "answer": "83",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 93,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 58 + 9?",
+      "option1": "67",
+      "option2": "68",
+      "option3": "66",
+      "option4": "69",
+      "answer": "67",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 94,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 60 + 7?",
+      "option1": "67",
+      "option2": "68",
+      "option3": "66",
+      "option4": "69",
+      "answer": "67",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 95,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 46 + 2?",
+      "option1": "48",
+      "option2": "49",
+      "option3": "47",
+      "option4": "50",
+      "answer": "48",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 96,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 55 + 5?",
+      "option1": "60",
+      "option2": "61",
+      "option3": "59",
+      "option4": "62",
+      "answer": "60",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 97,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 17 + 6?",
+      "option1": "23",
+      "option2": "24",
+      "option3": "22",
+      "option4": "25",
+      "answer": "23",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 98,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 35 + 9?",
+      "option1": "44",
+      "option2": "45",
+      "option3": "43",
+      "option4": "46",
+      "answer": "44",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 99,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 61 + 9?",
+      "option1": "70",
+      "option2": "71",
+      "option3": "69",
+      "option4": "72",
+      "answer": "70",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 100,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is 30 + 3?",
+      "option1": "33",
+      "option2": "34",
+      "option3": "32",
+      "option4": "35",
+      "answer": "33",
+      "subject": "Aptitude",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  }
+]

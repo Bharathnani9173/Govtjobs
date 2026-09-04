@@ -1,0 +1,686 @@
+[
+  {
+    "model": "jobportal.exam",
+    "pk": 1,
+    "fields": {
+      "name": "RRB Group D",
+      "organization": "RRB",
+      "state": "All India",
+      "vacancies": null,
+      "application_start": null,
+      "application_end": null,
+      "exam_date": null,
+      "status": "Upcoming",
+      "eligibility": "",
+      "syllabus": "",
+      "official_link": "",
+      "created_at": "2026-08-13T12:59:13.829Z"
+    }
+  },
+  {
+    "model": "jobportal.exam",
+    "pk": 2,
+    "fields": {
+      "name": "RRB NTPC",
+      "organization": "RRB",
+      "state": "All India",
+      "vacancies": null,
+      "application_start": null,
+      "application_end": null,
+      "exam_date": null,
+      "status": "Upcoming",
+      "eligibility": "",
+      "syllabus": "",
+      "official_link": "",
+      "created_at": "2026-08-13T12:59:13.850Z"
+    }
+  },
+  {
+    "model": "jobportal.exam",
+    "pk": 3,
+    "fields": {
+      "name": "IBPS PO",
+      "organization": "Banking",
+      "state": "All India",
+      "vacancies": null,
+      "application_start": null,
+      "application_end": null,
+      "exam_date": null,
+      "status": "Upcoming",
+      "eligibility": "",
+      "syllabus": "",
+      "official_link": "",
+      "created_at": "2026-08-13T12:59:13.858Z"
+    }
+  },
+  {
+    "model": "jobportal.exam",
+    "pk": 4,
+    "fields": {
+      "name": "IBPS Clerk",
+      "organization": "Banking",
+      "state": "All India",
+      "vacancies": null,
+      "application_start": null,
+      "application_end": null,
+      "exam_date": null,
+      "status": "Upcoming",
+      "eligibility": "",
+      "syllabus": "",
+      "official_link": "",
+      "created_at": "2026-08-13T12:59:13.869Z"
+    }
+  },
+  {
+    "model": "jobportal.exam",
+    "pk": 5,
+    "fields": {
+      "name": "SBI PO",
+      "organization": "Banking",
+      "state": "All India",
+      "vacancies": null,
+      "application_start": null,
+      "application_end": null,
+      "exam_date": null,
+      "status": "Upcoming",
+      "eligibility": "",
+      "syllabus": "",
+      "official_link": "",
+      "created_at": "2026-08-13T12:59:13.883Z"
+    }
+  },
+  {
+    "model": "jobportal.exam",
+    "pk": 6,
+    "fields": {
+      "name": "SBI Clerk",
+      "organization": "Banking",
+      "state": "All India",
+      "vacancies": null,
+      "application_start": null,
+      "application_end": null,
+      "exam_date": null,
+      "status": "Upcoming",
+      "eligibility": "",
+      "syllabus": "",
+      "official_link": "",
+      "created_at": "2026-08-13T12:59:13.894Z"
+    }
+  },
+  {
+    "model": "jobportal.exam",
+    "pk": 7,
+    "fields": {
+      "name": "Air Force",
+      "organization": "Defence",
+      "state": "All India",
+      "vacancies": null,
+      "application_start": null,
+      "application_end": null,
+      "exam_date": null,
+      "status": "Upcoming",
+      "eligibility": "",
+      "syllabus": "",
+      "official_link": "",
+      "created_at": "2026-08-13T12:59:13.905Z"
+    }
+  },
+  {
+    "model": "jobportal.exam",
+    "pk": 8,
+    "fields": {
+      "name": "Army",
+      "organization": "Defence",
+      "state": "All India",
+      "vacancies": null,
+      "application_start": null,
+      "application_end": null,
+      "exam_date": null,
+      "status": "Upcoming",
+      "eligibility": "",
+      "syllabus": "",
+      "official_link": "",
+      "created_at": "2026-08-13T12:59:13.919Z"
+    }
+  },
+  {
+    "model": "jobportal.exam",
+    "pk": 9,
+    "fields": {
+      "name": "UPSC CSE",
+      "organization": "UPSC",
+      "state": "All India",
+      "vacancies": null,
+      "application_start": null,
+      "application_end": null,
+      "exam_date": null,
+      "status": "Upcoming",
+      "eligibility": "",
+      "syllabus": "",
+      "official_link": "",
+      "created_at": "2026-08-13T12:59:13.930Z"
+    }
+  },
+  {
+    "model": "jobportal.exam",
+    "pk": 10,
+    "fields": {
+      "name": "TET",
+      "organization": "TET",
+      "state": "Telangana",
+      "vacancies": null,
+      "application_start": null,
+      "application_end": null,
+      "exam_date": null,
+      "status": "Upcoming",
+      "eligibility": "",
+      "syllabus": "",
+      "official_link": "",
+      "created_at": "2026-08-13T12:59:13.939Z"
+    }
+  },
+  {
+    "model": "jobportal.exam",
+    "pk": 11,
+    "fields": {
+      "name": "TSPSC Group 1",
+      "organization": "TSPSC",
+      "state": "Telangana",
+      "vacancies": null,
+      "application_start": null,
+      "application_end": null,
+      "exam_date": null,
+      "status": "Upcoming",
+      "eligibility": "",
+      "syllabus": "",
+      "official_link": "",
+      "created_at": "2026-08-13T12:59:13.950Z"
+    }
+  },
+  {
+    "model": "jobportal.exam",
+    "pk": 12,
+    "fields": {
+      "name": "TSPSC Group 2",
+      "organization": "TSPSC",
+      "state": "Telangana",
+      "vacancies": null,
+      "application_start": null,
+      "application_end": null,
+      "exam_date": null,
+      "status": "Upcoming",
+      "eligibility": "",
+      "syllabus": "",
+      "official_link": "",
+      "created_at": "2026-08-13T12:59:13.957Z"
+    }
+  },
+  {
+    "model": "jobportal.exam",
+    "pk": 13,
+    "fields": {
+      "name": "TSPSC Group 3",
+      "organization": "TSPSC",
+      "state": "Telangana",
+      "vacancies": null,
+      "application_start": null,
+      "application_end": null,
+      "exam_date": null,
+      "status": "Upcoming",
+      "eligibility": "",
+      "syllabus": "",
+      "official_link": "",
+      "created_at": "2026-08-13T12:59:13.969Z"
+    }
+  },
+  {
+    "model": "jobportal.exam",
+    "pk": 14,
+    "fields": {
+      "name": "TSPSC Group 4",
+      "organization": "TSPSC",
+      "state": "Telangana",
+      "vacancies": null,
+      "application_start": null,
+      "application_end": null,
+      "exam_date": null,
+      "status": "Upcoming",
+      "eligibility": "",
+      "syllabus": "",
+      "official_link": "",
+      "created_at": "2026-08-13T12:59:13.979Z"
+    }
+  },
+  {
+    "model": "jobportal.exam",
+    "pk": 15,
+    "fields": {
+      "name": "SSC GD",
+      "organization": "SSC",
+      "state": "All India",
+      "vacancies": null,
+      "application_start": null,
+      "application_end": null,
+      "exam_date": null,
+      "status": "Upcoming",
+      "eligibility": "",
+      "syllabus": "",
+      "official_link": "",
+      "created_at": "2026-08-13T12:59:13.989Z"
+    }
+  },
+  {
+    "model": "jobportal.exam",
+    "pk": 16,
+    "fields": {
+      "name": "SSC CGL",
+      "organization": "SSC CGL",
+      "state": "Telangana",
+      "vacancies": null,
+      "application_start": null,
+      "application_end": null,
+      "exam_date": null,
+      "status": "Upcoming",
+      "eligibility": "",
+      "syllabus": "",
+      "official_link": "",
+      "created_at": "2026-08-17T14:43:37.135Z"
+    }
+  },
+  {
+    "model": "jobportal.exam",
+    "pk": 17,
+    "fields": {
+      "name": "SSC CHSL",
+      "organization": "SSC CHSL",
+      "state": "Telangana",
+      "vacancies": null,
+      "application_start": null,
+      "application_end": null,
+      "exam_date": null,
+      "status": "Upcoming",
+      "eligibility": "",
+      "syllabus": "",
+      "official_link": "",
+      "created_at": "2026-08-17T14:43:37.149Z"
+    }
+  },
+  {
+    "model": "jobportal.exam",
+    "pk": 18,
+    "fields": {
+      "name": "RRB ALP",
+      "organization": "RRB ALP",
+      "state": "Telangana",
+      "vacancies": null,
+      "application_start": null,
+      "application_end": null,
+      "exam_date": null,
+      "status": "Upcoming",
+      "eligibility": "",
+      "syllabus": "",
+      "official_link": "",
+      "created_at": "2026-08-17T14:43:37.160Z"
+    }
+  },
+  {
+    "model": "jobportal.exam",
+    "pk": 19,
+    "fields": {
+      "name": "RRB Technician",
+      "organization": "RRB Technician",
+      "state": "Telangana",
+      "vacancies": null,
+      "application_start": null,
+      "application_end": null,
+      "exam_date": null,
+      "status": "Upcoming",
+      "eligibility": "",
+      "syllabus": "",
+      "official_link": "",
+      "created_at": "2026-08-17T14:43:37.171Z"
+    }
+  },
+  {
+    "model": "jobportal.exam",
+    "pk": 20,
+    "fields": {
+      "name": "RRB JE",
+      "organization": "RRB JE",
+      "state": "Telangana",
+      "vacancies": null,
+      "application_start": null,
+      "application_end": null,
+      "exam_date": null,
+      "status": "Upcoming",
+      "eligibility": "",
+      "syllabus": "",
+      "official_link": "",
+      "created_at": "2026-08-17T14:43:37.180Z"
+    }
+  },
+  {
+    "model": "jobportal.exam",
+    "pk": 21,
+    "fields": {
+      "name": "Railway Constable",
+      "organization": "Railway Constable",
+      "state": "Telangana",
+      "vacancies": null,
+      "application_start": null,
+      "application_end": null,
+      "exam_date": null,
+      "status": "Upcoming",
+      "eligibility": "",
+      "syllabus": "",
+      "official_link": "",
+      "created_at": "2026-08-17T14:43:37.188Z"
+    }
+  },
+  {
+    "model": "jobportal.exam",
+    "pk": 22,
+    "fields": {
+      "name": "Railway SI",
+      "organization": "Railway SI",
+      "state": "Telangana",
+      "vacancies": null,
+      "application_start": null,
+      "application_end": null,
+      "exam_date": null,
+      "status": "Upcoming",
+      "eligibility": "",
+      "syllabus": "",
+      "official_link": "",
+      "created_at": "2026-08-17T14:43:37.198Z"
+    }
+  },
+  {
+    "model": "jobportal.exam",
+    "pk": 23,
+    "fields": {
+      "name": "Banking",
+      "organization": "Banking",
+      "state": "Telangana",
+      "vacancies": null,
+      "application_start": null,
+      "application_end": null,
+      "exam_date": null,
+      "status": "Upcoming",
+      "eligibility": "",
+      "syllabus": "",
+      "official_link": "",
+      "created_at": "2026-08-17T14:43:37.205Z"
+    }
+  },
+  {
+    "model": "jobportal.exam",
+    "pk": 24,
+    "fields": {
+      "name": "UPSC",
+      "organization": "UPSC",
+      "state": "Telangana",
+      "vacancies": null,
+      "application_start": null,
+      "application_end": null,
+      "exam_date": null,
+      "status": "Upcoming",
+      "eligibility": "",
+      "syllabus": "",
+      "official_link": "",
+      "created_at": "2026-08-17T14:43:37.213Z"
+    }
+  },
+  {
+    "model": "jobportal.exam",
+    "pk": 25,
+    "fields": {
+      "name": "TGPSC Group 1",
+      "organization": "TGPSC Group 1",
+      "state": "Telangana",
+      "vacancies": null,
+      "application_start": null,
+      "application_end": null,
+      "exam_date": null,
+      "status": "Upcoming",
+      "eligibility": "",
+      "syllabus": "",
+      "official_link": "",
+      "created_at": "2026-08-17T14:43:37.220Z"
+    }
+  },
+  {
+    "model": "jobportal.exam",
+    "pk": 26,
+    "fields": {
+      "name": "TGPSC Group 2",
+      "organization": "TGPSC Group 2",
+      "state": "Telangana",
+      "vacancies": null,
+      "application_start": null,
+      "application_end": null,
+      "exam_date": null,
+      "status": "Upcoming",
+      "eligibility": "",
+      "syllabus": "",
+      "official_link": "",
+      "created_at": "2026-08-17T14:43:37.231Z"
+    }
+  },
+  {
+    "model": "jobportal.exam",
+    "pk": 27,
+    "fields": {
+      "name": "TGPSC Group 3",
+      "organization": "TGPSC Group 3",
+      "state": "Telangana",
+      "vacancies": null,
+      "application_start": null,
+      "application_end": null,
+      "exam_date": null,
+      "status": "Upcoming",
+      "eligibility": "",
+      "syllabus": "",
+      "official_link": "",
+      "created_at": "2026-08-17T14:43:37.238Z"
+    }
+  },
+  {
+    "model": "jobportal.exam",
+    "pk": 28,
+    "fields": {
+      "name": "TGPSC Group 4",
+      "organization": "TGPSC Group 4",
+      "state": "Telangana",
+      "vacancies": null,
+      "application_start": null,
+      "application_end": null,
+      "exam_date": null,
+      "status": "Upcoming",
+      "eligibility": "",
+      "syllabus": "",
+      "official_link": "",
+      "created_at": "2026-08-17T14:43:37.246Z"
+    }
+  },
+  {
+    "model": "jobportal.exam",
+    "pk": 29,
+    "fields": {
+      "name": "Forest Range Officer",
+      "organization": "Forest Range Officer",
+      "state": "Telangana",
+      "vacancies": null,
+      "application_start": null,
+      "application_end": null,
+      "exam_date": null,
+      "status": "Upcoming",
+      "eligibility": "",
+      "syllabus": "",
+      "official_link": "",
+      "created_at": "2026-08-17T14:43:37.254Z"
+    }
+  },
+  {
+    "model": "jobportal.exam",
+    "pk": 30,
+    "fields": {
+      "name": "Telangana AE",
+      "organization": "Telangana AE",
+      "state": "Telangana",
+      "vacancies": null,
+      "application_start": null,
+      "application_end": null,
+      "exam_date": null,
+      "status": "Upcoming",
+      "eligibility": "",
+      "syllabus": "",
+      "official_link": "",
+      "created_at": "2026-08-17T14:43:37.264Z"
+    }
+  },
+  {
+    "model": "jobportal.exam",
+    "pk": 31,
+    "fields": {
+      "name": "Telangana AEE",
+      "organization": "Telangana AEE",
+      "state": "Telangana",
+      "vacancies": null,
+      "application_start": null,
+      "application_end": null,
+      "exam_date": null,
+      "status": "Upcoming",
+      "eligibility": "",
+      "syllabus": "",
+      "official_link": "",
+      "created_at": "2026-08-17T14:43:37.274Z"
+    }
+  },
+  {
+    "model": "jobportal.exam",
+    "pk": 32,
+    "fields": {
+      "name": "Telangana Police Constable",
+      "organization": "Telangana Police Constable",
+      "state": "Telangana",
+      "vacancies": null,
+      "application_start": null,
+      "application_end": null,
+      "exam_date": null,
+      "status": "Upcoming",
+      "eligibility": "",
+      "syllabus": "",
+      "official_link": "",
+      "created_at": "2026-08-17T14:43:37.295Z"
+    }
+  },
+  {
+    "model": "jobportal.exam",
+    "pk": 33,
+    "fields": {
+      "name": "Telangana Police SI",
+      "organization": "Telangana Police SI",
+      "state": "Telangana",
+      "vacancies": null,
+      "application_start": null,
+      "application_end": null,
+      "exam_date": null,
+      "status": "Upcoming",
+      "eligibility": "",
+      "syllabus": "",
+      "official_link": "",
+      "created_at": "2026-08-17T14:43:37.313Z"
+    }
+  },
+  {
+    "model": "jobportal.exam",
+    "pk": 34,
+    "fields": {
+      "name": "DSC",
+      "organization": "DSC",
+      "state": "Telangana",
+      "vacancies": null,
+      "application_start": null,
+      "application_end": null,
+      "exam_date": null,
+      "status": "Upcoming",
+      "eligibility": "",
+      "syllabus": "",
+      "official_link": "",
+      "created_at": "2026-08-17T14:43:37.320Z"
+    }
+  },
+  {
+    "model": "jobportal.exam",
+    "pk": 35,
+    "fields": {
+      "name": "High Court",
+      "organization": "High Court",
+      "state": "Telangana",
+      "vacancies": null,
+      "application_start": null,
+      "application_end": null,
+      "exam_date": null,
+      "status": "Upcoming",
+      "eligibility": "",
+      "syllabus": "",
+      "official_link": "",
+      "created_at": "2026-08-17T14:43:37.334Z"
+    }
+  },
+  {
+    "model": "jobportal.exam",
+    "pk": 36,
+    "fields": {
+      "name": "District Court",
+      "organization": "District Court",
+      "state": "Telangana",
+      "vacancies": null,
+      "application_start": null,
+      "application_end": null,
+      "exam_date": null,
+      "status": "Upcoming",
+      "eligibility": "",
+      "syllabus": "",
+      "official_link": "",
+      "created_at": "2026-08-17T14:43:37.344Z"
+    }
+  },
+  {
+    "model": "jobportal.exam",
+    "pk": 37,
+    "fields": {
+      "name": "Health Department",
+      "organization": "Health Department",
+      "state": "Telangana",
+      "vacancies": null,
+      "application_start": null,
+      "application_end": null,
+      "exam_date": null,
+      "status": "Upcoming",
+      "eligibility": "",
+      "syllabus": "",
+      "official_link": "",
+      "created_at": "2026-08-17T14:43:37.353Z"
+    }
+  },
+  {
+    "model": "jobportal.exam",
+    "pk": 38,
+    "fields": {
+      "name": "Revenue Department",
+      "organization": "Revenue Department",
+      "state": "Telangana",
+      "vacancies": null,
+      "application_start": null,
+      "application_end": null,
+      "exam_date": null,
+      "status": "Upcoming",
+      "eligibility": "",
+      "syllabus": "",
+      "official_link": "",
+      "created_at": "2026-08-17T14:43:37.365Z"
+    }
+  }
+]

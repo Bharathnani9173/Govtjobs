@@ -1,0 +1,43 @@
+{% extends "jobportal/base.html" %}
+
+{% block content %}
+
+<div class="container py-5 text-center">
+
+    <h2>{{ exam.name }}</h2>
+
+    <div class="alert alert-warning mt-4">
+
+        <h4>Not Enough New Questions</h4>
+
+        <p>
+            You have already attempted
+            <strong>{{ attempted_questions }}</strong>
+            questions.
+        </p>
+
+        <p>
+            Only
+            <strong>{{ available_questions }}</strong>
+            new questions are currently available.
+        </p>
+
+        <p>
+            Please check again after new questions are added.
+        </p>
+
+    </div>
+
+    <a href="{% url 'score_history' %}"
+       class="btn btn-primary">
+        Score History
+    </a>
+
+    <a href="{% url 'mock_tests' %}"
+       class="btn btn-secondary">
+        Back to Mock Tests
+    </a>
+
+</div>
+
+{% endblock %}

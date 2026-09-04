@@ -3,7 +3,7 @@ from django.contrib.auth import authenticate, login
 from django.contrib.auth.models import User
 from django.contrib.auth.decorators import login_required
 from django.contrib import messages
-from django.db.models import Q
+from django.db.models import Q, Count, Sum, Max
 from datetime import date
 from .models import ContactMessage
 from django.shortcuts import render, get_object_or_404
@@ -16,12 +16,14 @@ from django.templatetags.static import static
 from django.http import FileResponse, Http404
 from django.urls import reverse
 from pathlib import Path
+from django.db.models import Sum, Max
 
 
 from .models import (
     Job,
     Subscriber,
     QuizQuestion,
+    QuizQuestionHistory,
     MockTestAttempt,
     DailyMockTest,
     ContactMessage,
@@ -840,30 +842,19 @@ def daily_quiz(request):
 
 # ================= SCORE HISTORY =================
 
-@login_required(login_url="login")
+@login_required
 def score_history(request):
-
-    attempts = QuizAttempt.objects.filter(
+    attempts = MockTestAttempt.objects.filter(
         user=request.user
-    ).order_by("-attempted_date")
-
-
+    ).select_related("daily_test")
 
     return render(
-
         request,
-
         "jobportal/score_history.html",
-
         {
-
-            "attempts":attempts
-
+            "attempts": attempts
         }
-
     )
-
-
 
 
 # ================= MY QUERIES =================
@@ -990,37 +981,47 @@ def job_detail(request, job_id):
         }
     )
 
+from .models import Job, PreviousPaper
 def previous_papers(request):
-    return render(request, "jobportal/previous_papers.html")
+    job_id = request.GET.get("job")
+
+    if job_id:
+        job = get_object_or_404(Job, id=job_id)
+        papers = PreviousPaper.objects.filter(job=job).order_by("-year")
+    else:
+        job = None
+        papers = PreviousPaper.objects.all().order_by("-year")
+
+    return render(
+        request,
+        "jobportal/previous_papers.html",
+        {
+            "job": job,
+            "papers": papers,
+        }
+    )
 
 # =========================
 # ANSWER KEYS
 # =========================
 
+from .models import Job, AnswerKey
 def answer_keys(request):
-
     job_id = request.GET.get("job")
 
     if job_id:
         job = get_object_or_404(Job, id=job_id)
-
-        answer_keys_list = AnswerKey.objects.filter(
-            job=job
-        ).order_by("-release_date")
-
+        keys = AnswerKey.objects.filter(job=job).order_by("-release_date")
     else:
         job = None
-
-        answer_keys_list = AnswerKey.objects.all().order_by(
-            "-release_date"
-        )
+        keys = AnswerKey.objects.all().order_by("-release_date")
 
     return render(
         request,
         "jobportal/answer_keys.html",
         {
             "job": job,
-            "answer_keys": answer_keys_list,
+            "keys": keys,
         }
     )
 
@@ -1028,58 +1029,18 @@ def answer_keys(request):
 # CURRENT AFFAIRS
 # =========================
 
+from .models import Job, CurrentAffair
 def current_affairs(request):
-
     job_id = request.GET.get("job")
 
     if job_id:
         job = get_object_or_404(Job, id=job_id)
-
+        affairs = CurrentAffair.objects.filter(
+            job=job
+        ).order_by("-date")
     else:
         job = None
-
-    pdf_directory = os.path.join(
-        settings.BASE_DIR,
-        "jobportal",
-        "static",
-        "pdfs",
-        "current_affairs",
-    )
-
-    affairs = []
-
-    if os.path.exists(pdf_directory):
-
-        for filename in sorted(
-            os.listdir(pdf_directory),
-            reverse=True
-        ):
-
-            if filename.lower().endswith(".pdf"):
-
-                file_path = os.path.join(
-                    pdf_directory,
-                    filename
-                )
-
-                if os.path.getsize(file_path) == 0:
-                    continue
-
-                title = os.path.splitext(filename)[0]
-                title = title.replace("_", " ")
-
-                affairs.append({
-                    "title": title,
-                    "date": "",
-                    "category": "Current Affairs",
-                    "description": (
-                        f"Current Affairs PDF"
-                        + (f" for {job.title}" if job else "")
-                    ),
-                    "pdf_link": static(
-                        f"pdfs/current_affairs/{filename}"
-                    ),
-                })
+        affairs = CurrentAffair.objects.all().order_by("-date")
 
     return render(
         request,
@@ -1087,7 +1048,7 @@ def current_affairs(request):
         {
             "job": job,
             "affairs": affairs,
-        },
+        }
     )
 
 # =========================
@@ -1218,210 +1179,177 @@ def mock_test(request):
 # EXAM-WISE MOCK TEST
 # =========================================================
 
-@login_required(login_url="login")
+@login_required
 def exam_mock_test(request, exam_name):
 
-    from django.utils import timezone
-    from django.db import transaction
+    exam = get_object_or_404(Exam, name=exam_name)
 
-    today = timezone.now().date()
+    questions_count = QuizQuestion.objects.filter(exam=exam).count()
 
-    # ---------------------------------------------------------
-    # GET EXAM
-    # ---------------------------------------------------------
-    exam = get_object_or_404(
-        Exam,
-        name__iexact=exam_name.strip()
-    )
+    print("EXAM:", exam.name)
+    print("QUESTIONS:", questions_count)
 
-    # ---------------------------------------------------------
-    # GET ALL ACTIVE QUESTIONS FOR THIS EXAM
-    # ---------------------------------------------------------
-    available_questions = MockTestQuestion.objects.filter(
-        exam=exam,
-        exam_name__iexact=exam.name,
-        is_active=True
-    )
+    # =================================
+    # SUBMIT MOCK TEST
+    # =================================
 
-    question_count = available_questions.count()
-
-    # ---------------------------------------------------------
-    # MINIMUM 50 QUESTIONS REQUIRED
-    # ---------------------------------------------------------
-    if question_count < 50:
-
-        return render(
-            request,
-            "jobportal/mock_test.html",
-            {
-                "exam": exam,
-                "questions": [],
-                "no_questions": True,
-                "message": (
-                    f"Only {question_count} questions are available "
-                    f"for {exam.name}. "
-                    f"At least 50 questions are required."
-                ),
-            }
-        )
-
-    # ---------------------------------------------------------
-    # GET OR CREATE TODAY'S MOCK TEST
-    # ---------------------------------------------------------
-    daily_test = DailyMockTest.objects.filter(
-        exam=exam,
-        exam_name=exam.name,
-        test_date=today
-    ).first()
-
-    # ---------------------------------------------------------
-    # CREATE TODAY'S TEST IF IT DOES NOT EXIST
-    # ---------------------------------------------------------
-    if daily_test is None:
-
-        # Random 50 exam-specific questions
-        questions = list(
-            available_questions
-            .order_by("?")[:50]
-        )
-
-        daily_test = DailyMockTest.objects.create(
-            exam=exam,
-            exam_name=exam.name,
-            test_date=today,
-            title=f"{exam.name} Daily Mock Test",
-            duration=20,
-            total_questions=50
-        )
-
-        daily_test.questions.set(questions)
-
-    else:
-
-        # -----------------------------------------------------
-        # GET QUESTIONS FROM TODAY'S TEST
-        # -----------------------------------------------------
-        questions = list(
-            daily_test.questions.filter(
-                exam=exam,
-                exam_name__iexact=exam.name,
-                is_active=True
-            )
-        )
-
-        # -----------------------------------------------------
-        # IF OLD DAILY TEST HAS INVALID/EMPTY QUESTIONS,
-        # REBUILD IT
-        # -----------------------------------------------------
-        if len(questions) < 50:
-
-            daily_test.questions.clear()
-
-            questions = list(
-                available_questions
-                .order_by("?")[:50]
-            )
-
-            daily_test.questions.set(questions)
-
-    # ---------------------------------------------------------
-    # FINAL SAFETY CHECK
-    # ---------------------------------------------------------
-    if len(questions) < 50:
-
-        return render(
-            request,
-            "jobportal/mock_test.html",
-            {
-                "exam": exam,
-                "questions": [],
-                "no_questions": True,
-                "message": (
-                    f"Unable to create a 50-question mock test "
-                    f"for {exam.name}."
-                ),
-            }
-        )
-
-    # ---------------------------------------------------------
-    # RANDOMIZE QUESTIONS
-    # ---------------------------------------------------------
-    questions = list(questions)
-
-    # ---------------------------------------------------------
-    # QUESTION IDS
-    # ---------------------------------------------------------
-    question_ids = ",".join(
-        str(question.id)
-        for question in questions
-    )
-
-    # ---------------------------------------------------------
-    # POST - SUBMIT TEST
-    # ---------------------------------------------------------
     if request.method == "POST":
 
-        score = 0
-        attempted = 0
+        question_ids = request.POST.get(
+            "question_ids",
+            ""
+        )
 
+        question_ids = [
+            int(x)
+            for x in question_ids.split(",")
+            if x.strip().isdigit()
+        ]
+
+        # Security:
+        # Only accept questions belonging
+        # to the selected exam.
+        questions = QuizQuestion.objects.filter(
+            id__in=question_ids,
+            exam=exam
+        )
+
+        score = 0
+        correct = 0
+        wrong = 0
+        unanswered = 0
+        answers = {}
+
+        # Check answers
         for question in questions:
 
-            selected_answer = request.POST.get(
+            user_answer = request.POST.get(
                 f"question_{question.id}"
             )
 
-            if selected_answer:
-                attempted += 1
+            answers[str(question.id)] = user_answer
 
-                if selected_answer.strip().lower() == question.answer.strip().lower():
-                    score += 1
+            if not user_answer:
 
-        percentage = round(
-            (score / len(questions)) * 100,
-            2
-        )
+                unanswered += 1
 
-        # Save attempt if model exists
-        MockTestAttempt.objects.create(
+            elif user_answer == question.answer:
+
+                correct += 1
+                score += 1
+
+            else:
+
+                wrong += 1
+
+        total_questions = len(question_ids)
+
+        # =================================
+        # SAVE ATTEMPT
+        # =================================
+
+        attempt = MockTestAttempt.objects.create(
             user=request.user,
-            daily_test=daily_test,
+            exam=exam,
+            daily_test=None,
             score=score,
-            total_questions=len(questions),
-            percentage=percentage,
-            question_ids=[
-                question.id
-                for question in questions
-            ]
+            total_questions=total_questions,
+            correct_answers=correct,
+            wrong_answers=wrong,
+            unanswered=unanswered,
+            answers=answers,
+            question_ids=question_ids
         )
+
+        # =================================
+        # SAVE QUESTION HISTORY
+        # =================================
+
+        for question_id in question_ids:
+
+            QuizQuestionHistory.objects.get_or_create(
+                user=request.user,
+                question_id=question_id,
+                exam=exam
+            )
+
+        # =================================
+        # SCORE HISTORY
+        # =================================
+
+        return redirect("score_history")
+
+    # =================================
+    # GET MOCK TEST
+    # =================================
+
+    # Questions already attempted
+    seen_ids = QuizQuestionHistory.objects.filter(
+        user=request.user,
+        exam=exam
+    ).values_list(
+        "question_id",
+        flat=True
+    )
+
+    # Only unseen questions
+    questions = list(
+        QuizQuestion.objects
+        .filter(exam=exam)
+        .exclude(id__in=seen_ids)
+        .order_by("?")[:100]
+    )
+
+    # =================================
+    # CHECK WHETHER 100 QUESTIONS EXIST
+    # =================================
+
+    if len(questions) < 100:
+
+        total_exam_questions = QuizQuestion.objects.filter(
+            exam=exam
+        ).count()
+
+        attempted_questions = QuizQuestionHistory.objects.filter(
+            user=request.user,
+            exam=exam
+        ).values(
+            "question_id"
+        ).distinct().count()
 
         return render(
             request,
-            "jobportal/mock_test_result.html",
+            "jobportal/mock_test_unavailable.html",
             {
                 "exam": exam,
-                "daily_test": daily_test,
-                "score": score,
-                "attempted": attempted,
-                "total_questions": len(questions),
-                "percentage": percentage,
+                "available_questions": len(questions),
+                "total_questions": total_exam_questions,
+                "attempted_questions": attempted_questions,
             }
         )
 
-    # ---------------------------------------------------------
-    # DISPLAY MOCK TEST
-    # ---------------------------------------------------------
-    return render(
-        request,
-        "jobportal/mock_test.html",
-        {
-            "exam": exam,
-            "daily_test": daily_test,
-            "questions": questions,
-            "question_ids": question_ids,
-            "no_questions": False,
-        }
+    # =================================
+    # QUESTION IDs
+    # =================================
+
+    question_ids = ",".join(
+        str(q.id)
+        for q in questions
     )
 
+    # =================================
+    # DISPLAY MOCK TEST
+    # =================================
+
+    return render(
+        request,
+        "jobportal/exam_mock_test.html",
+        {
+            "exam": exam,
+            "questions": questions,
+            "question_ids": question_ids,
+        }
+    )
 
 def view_pdf(request, folder, filename):
     pdf_path = (
@@ -1598,3 +1526,25 @@ def mock_tests(request):
         }
     )
 
+@login_required
+def leaderboard(request):
+    leaderboard_data = (
+        MockTestAttempt.objects
+        .values(
+            "user__username"
+        )
+        .annotate(
+            total_score=Sum("score"),
+            best_score=Max("score"),
+            tests_taken=Count("id")
+        )
+        .order_by("-total_score")[:50]
+    )
+
+    return render(
+        request,
+        "jobportal/leaderboard.html",
+        {
+            "leaderboard": leaderboard_data
+        }
+    )

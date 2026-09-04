@@ -19,20 +19,12 @@
         h1 {
             text-align: center;
             color: #063b70;
-            margin-bottom: 10px;
         }
 
         .subtitle {
             text-align: center;
             color: #666;
             margin-bottom: 35px;
-        }
-
-        .section-title {
-            color: #063b70;
-            margin: 40px 0 20px;
-            border-left: 5px solid #0866c6;
-            padding-left: 12px;
         }
 
         .papers-grid {
@@ -47,12 +39,6 @@
             border-radius: 12px;
             box-shadow: 0 4px 15px rgba(0,0,0,0.08);
             text-align: center;
-            transition: 0.2s;
-        }
-
-        .paper-card:hover {
-            transform: translateY(-4px);
-            box-shadow: 0 7px 20px rgba(0,0,0,0.12);
         }
 
         .paper-card h2 {
@@ -62,7 +48,6 @@
 
         .paper-card p {
             color: #666;
-            min-height: 45px;
             line-height: 1.5;
         }
 
@@ -81,15 +66,10 @@
             background: #064f9c;
         }
 
-        @media (max-width: 600px) {
-            .container {
-                margin: 20px auto;
-                padding: 15px;
-            }
-
-            .papers-grid {
-                grid-template-columns: 1fr;
-            }
+        .empty {
+            text-align: center;
+            color: #777;
+            padding: 40px;
         }
     </style>
 </head>
@@ -104,353 +84,43 @@
         Download previous year question papers for government competitive exams.
     </p>
 
-
-    <!-- ===================================================== -->
-    <!-- SSC EXAMS -->
-    <!-- ===================================================== -->
-
-    <h2 class="section-title">SSC Exams</h2>
-
     <div class="papers-grid">
 
-        <!-- SSC CGL -->
-        <div class="paper-card">
-            <h2>SSC CGL</h2>
-            <p>Previous year SSC CGL question papers.</p>
+        {% for paper in papers %}
 
-            <a href="{% url 'exam_papers' exam_slug='ssc-cgl' %}"
-               class="download-btn">
-                View Papers
-            </a>
+        <div class="paper-card">
+
+            <h2>{{ paper.exam_name }}</h2>
+
+            <p>
+                <strong>Year:</strong> {{ paper.year }}
+            </p>
+
+            <p>
+                <strong>Category:</strong> {{ paper.category }}
+            </p>
+
+            {% if paper.pdf_link %}
+
+                <a href="{{ paper.pdf_link }}"
+                   class="download-btn"
+                   target="_blank"
+                   rel="noopener noreferrer">
+                    View Paper
+                </a>
+
+            {% endif %}
+
         </div>
 
+        {% empty %}
 
-        <!-- SSC CHSL -->
-        <div class="paper-card">
-            <h2>SSC CHSL</h2>
-            <p>Previous year SSC CHSL question papers.</p>
-
-            <a href="{% url 'exam_papers' exam_slug='ssc-chsl' %}"
-               class="download-btn">
-                View Papers
-            </a>
+        <div class="empty">
+            <h2>No Previous Papers Available</h2>
+            <p>Previous year papers will be added soon.</p>
         </div>
 
-    </div>
-
-
-    <!-- ===================================================== -->
-    <!-- RAILWAY EXAMS -->
-    <!-- ===================================================== -->
-
-    <h2 class="section-title">Railway Exams</h2>
-
-    <div class="papers-grid">
-
-        <!-- RRB NTPC -->
-        <div class="paper-card">
-            <h2>RRB NTPC</h2>
-            <p>Previous year RRB NTPC question papers.</p>
-
-            <a href="{% url 'exam_papers' exam_slug='railway-ntpc' %}"
-               class="download-btn">
-                View Papers
-            </a>
-        </div>
-
-
-        <!-- RRB Group D -->
-        <div class="paper-card">
-            <h2>RRB Group D</h2>
-            <p>Previous year RRB Group D question papers.</p>
-
-            <a href="{% url 'exam_papers' exam_slug='railway-group-d' %}"
-               class="download-btn">
-                View Papers
-            </a>
-        </div>
-
-
-        <!-- RRB ALP -->
-        <div class="paper-card">
-            <h2>RRB ALP</h2>
-            <p>Previous year Assistant Loco Pilot question papers.</p>
-
-            <a href="{% url 'exam_papers' exam_slug='railway-alp' %}"
-               class="download-btn">
-                View Papers
-            </a>
-        </div>
-
-
-        <!-- RRB Technician -->
-        <div class="paper-card">
-            <h2>RRB Technician</h2>
-            <p>Previous year RRB Technician question papers.</p>
-
-            <a href="{% url 'exam_papers' exam_slug='railway-technician' %}"
-               class="download-btn">
-                View Papers
-            </a>
-        </div>
-
-
-        <!-- RRB JE -->
-        <div class="paper-card">
-            <h2>RRB JE</h2>
-            <p>Previous year Junior Engineer question papers.</p>
-
-            <a href="{% url 'exam_papers' exam_slug='railway-je' %}"
-               class="download-btn">
-                View Papers
-            </a>
-        </div>
-
-
-        <!-- RPF Constable -->
-        <div class="paper-card">
-            <h2>RPF Constable</h2>
-            <p>Previous year RPF Constable question papers.</p>
-
-            <a href="{% url 'exam_papers' exam_slug='railway-rpf-constable' %}"
-               class="download-btn">
-                View Papers
-            </a>
-        </div>
-
-
-        <!-- RPF SI -->
-        <div class="paper-card">
-            <h2>RPF SI</h2>
-            <p>Previous year RPF Sub Inspector question papers.</p>
-
-            <a href="{% url 'exam_papers' exam_slug='railway-rpf-si' %}"
-               class="download-btn">
-                View Papers
-            </a>
-        </div>
-
-    </div>
-
-
-    <!-- ===================================================== -->
-    <!-- BANKING EXAMS -->
-    <!-- ===================================================== -->
-
-    <h2 class="section-title">Banking Exams</h2>
-
-    <div class="papers-grid">
-
-        <!-- Banking -->
-        <div class="paper-card">
-            <h2>Banking Exams</h2>
-            <p>SBI, IBPS and other banking previous year papers.</p>
-
-            <a href="{% url 'exam_papers' exam_slug='banking' %}"
-               class="download-btn">
-                View Papers
-            </a>
-        </div>
-
-    </div>
-
-
-    <!-- ===================================================== -->
-    <!-- UPSC EXAMS -->
-    <!-- ===================================================== -->
-
-    <h2 class="section-title">UPSC Exams</h2>
-
-    <div class="papers-grid">
-
-        <!-- UPSC -->
-        <div class="paper-card">
-            <h2>UPSC</h2>
-            <p>UPSC previous year question papers.</p>
-
-            <a href="{% url 'exam_papers' exam_slug='upsc' %}"
-               class="download-btn">
-                View Papers
-            </a>
-        </div>
-
-    </div>
-
-
-    <!-- ===================================================== -->
-    <!-- TELANGANA GOVERNMENT EXAMS -->
-    <!-- ===================================================== -->
-
-    <h2 class="section-title">Telangana Government Exams</h2>
-
-    <div class="papers-grid">
-
-        <!-- TGPSC Group 1 -->
-        <div class="paper-card">
-            <h2>TGPSC Group 1</h2>
-            <p>Previous year TGPSC Group 1 question papers.</p>
-
-            <a href="{% url 'exam_papers' exam_slug='tgpsc-group-1' %}"
-               class="download-btn">
-                View Papers
-            </a>
-        </div>
-
-
-        <!-- TGPSC Group 2 -->
-        <div class="paper-card">
-            <h2>TGPSC Group 2</h2>
-            <p>Previous year TGPSC Group 2 question papers.</p>
-
-            <a href="{% url 'exam_papers' exam_slug='tgpsc-group-2' %}"
-               class="download-btn">
-                View Papers
-            </a>
-        </div>
-
-
-        <!-- TGPSC Group 3 -->
-        <div class="paper-card">
-            <h2>TGPSC Group 3</h2>
-            <p>Previous year TGPSC Group 3 question papers.</p>
-
-            <a href="{% url 'exam_papers' exam_slug='tgpsc-group-3' %}"
-               class="download-btn">
-                View Papers
-            </a>
-        </div>
-
-
-        <!-- TGPSC Group 4 -->
-        <div class="paper-card">
-            <h2>TGPSC Group 4</h2>
-            <p>Previous year TGPSC Group 4 question papers.</p>
-
-            <a href="{% url 'exam_papers' exam_slug='tgpsc-group-4' %}"
-               class="download-btn">
-                View Papers
-            </a>
-        </div>
-
-
-        <!-- TGPSC Forest Range Officer -->
-        <div class="paper-card">
-            <h2>TGPSC Forest Range Officer</h2>
-            <p>Previous year Forest Range Officer question papers.</p>
-
-            <a href="{% url 'exam_papers' exam_slug='tgpsc-fro' %}"
-               class="download-btn">
-                View Papers
-            </a>
-        </div>
-
-
-        <!-- TGPSC Assistant Engineer -->
-        <div class="paper-card">
-            <h2>TGPSC Assistant Engineer</h2>
-            <p>Previous year Assistant Engineer question papers.</p>
-
-            <a href="{% url 'exam_papers' exam_slug='tgpsc-ae' %}"
-               class="download-btn">
-                View Papers
-            </a>
-        </div>
-
-
-        <!-- TGPSC Assistant Executive Engineer -->
-        <div class="paper-card">
-            <h2>TGPSC Assistant Executive Engineer</h2>
-            <p>Previous year Assistant Executive Engineer question papers.</p>
-
-            <a href="{% url 'exam_papers' exam_slug='tgpsc-aee' %}"
-               class="download-btn">
-                View Papers
-            </a>
-        </div>
-
-
-        <!-- Telangana Police Constable -->
-        <div class="paper-card">
-            <h2>Telangana Police Constable</h2>
-            <p>Previous year Telangana Police Constable question papers.</p>
-
-            <a href="{% url 'exam_papers' exam_slug='telangana-police-constable' %}"
-               class="download-btn">
-                View Papers
-            </a>
-        </div>
-
-
-        <!-- Telangana Police SI -->
-        <div class="paper-card">
-            <h2>Telangana Police SI</h2>
-            <p>Previous year Telangana Police Sub Inspector question papers.</p>
-
-            <a href="{% url 'exam_papers' exam_slug='telangana-police-si' %}"
-               class="download-btn">
-                View Papers
-            </a>
-        </div>
-
-
-        <!-- Telangana DSC -->
-        <div class="paper-card">
-            <h2>Telangana DSC</h2>
-            <p>Previous year Telangana Teacher recruitment question papers.</p>
-
-            <a href="{% url 'exam_papers' exam_slug='telangana-dsc' %}"
-               class="download-btn">
-                View Papers
-            </a>
-        </div>
-
-
-        <!-- Telangana High Court -->
-        <div class="paper-card">
-            <h2>Telangana High Court</h2>
-            <p>Previous year Telangana High Court recruitment papers.</p>
-
-            <a href="{% url 'exam_papers' exam_slug='telangana-high-court' %}"
-               class="download-btn">
-                View Papers
-            </a>
-        </div>
-
-
-        <!-- Telangana District Courts -->
-        <div class="paper-card">
-            <h2>Telangana District Courts</h2>
-            <p>Previous year Telangana District Court recruitment papers.</p>
-
-            <a href="{% url 'exam_papers' exam_slug='telangana-district-courts' %}"
-               class="download-btn">
-                View Papers
-            </a>
-        </div>
-
-
-        <!-- Telangana Health Department -->
-        <div class="paper-card">
-            <h2>Telangana Health Department</h2>
-            <p>Previous year Telangana Health Department recruitment papers.</p>
-
-            <a href="{% url 'exam_papers' exam_slug='telangana-health-department' %}"
-               class="download-btn">
-                View Papers
-            </a>
-        </div>
-
-
-        <!-- Telangana Revenue Department -->
-        <div class="paper-card">
-            <h2>Telangana Revenue Department</h2>
-            <p>Previous year Telangana Revenue Department recruitment papers.</p>
-
-            <a href="{% url 'exam_papers' exam_slug='telangana-revenue-department' %}"
-               class="download-btn">
-                View Papers
-            </a>
-        </div>
+        {% endfor %}
 
     </div>
 

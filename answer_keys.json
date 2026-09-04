@@ -1,0 +1,13 @@
+[
+  {
+    "model": "jobportal.answerkey",
+    "pk": 1,
+    "fields": {
+      "job": 452,
+      "exam_name": "SSC CHSL",
+      "category": "SSC",
+      "release_date": "2026-08-09",
+      "official_link": "https://ssc.gov.in"
+    }
+  }
+]

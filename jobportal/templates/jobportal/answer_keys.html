@@ -1,233 +1,141 @@
-{% load static %}
-
 <!DOCTYPE html>
-
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Answer Keys - Govt Jobs Portal</title>
 
-```
-<title>Answer Keys - {{ job.title }}</title>
-
-<style>
-    * {
-        box-sizing: border-box;
-    }
-
-    body {
-        margin: 0;
-        font-family: Arial, Helvetica, sans-serif;
-        background: #f4f7fb;
-        color: #222;
-    }
-
-    .header {
-        background: #0d47a1;
-        color: white;
-        padding: 25px 20px;
-        text-align: center;
-    }
-
-    .header h1 {
-        margin: 0;
-        font-size: 28px;
-    }
-
-    .header p {
-        margin: 8px 0 0;
-    }
-
-    .container {
-        width: 94%;
-        max-width: 1100px;
-        margin: 30px auto;
-    }
-
-    .back-btn {
-        display: inline-block;
-        margin-bottom: 20px;
-        text-decoration: none;
-        color: #0d47a1;
-        font-weight: bold;
-    }
-
-    .job-box,
-    .keys-box {
-        background: white;
-        padding: 25px;
-        border-radius: 12px;
-        box-shadow: 0 4px 15px rgba(0,0,0,0.08);
-    }
-
-    .job-box {
-        margin-bottom: 25px;
-        border-left: 5px solid #0d47a1;
-    }
-
-    .job-box h2 {
-        margin: 0 0 10px;
-        color: #0d47a1;
-    }
-
-    .job-info {
-        margin: 5px 0;
-        color: #555;
-    }
-
-    .keys-box h3 {
-        margin-top: 0;
-        color: #0d47a1;
-    }
-
-    .key-card {
-        border: 1px solid #ddd;
-        border-radius: 10px;
-        padding: 18px;
-        margin-bottom: 15px;
-        background: #fafcff;
-    }
-
-    .key-card h4 {
-        margin: 0 0 10px;
-        font-size: 18px;
-    }
-
-    .release-date {
-        color: #666;
-        margin-bottom: 12px;
-    }
-
-    .official-btn {
-        display: inline-block;
-        background: #0d47a1;
-        color: white;
-        text-decoration: none;
-        padding: 10px 16px;
-        border-radius: 6px;
-        font-weight: bold;
-    }
-
-    .official-btn:hover {
-        background: #083378;
-    }
-
-    .empty {
-        text-align: center;
-        padding: 40px 20px;
-        color: #777;
-    }
-
-    @media(max-width:600px) {
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #f4f6f9;
+        }
 
         .container {
-            width: 95%;
+            max-width: 1100px;
+            margin: 40px auto;
+            padding: 20px;
         }
 
-        .official-btn {
-            width: 100%;
+        h1 {
+            text-align: center;
+            color: #063b70;
+        }
+
+        .subtitle {
+            text-align: center;
+            color: #666;
+            margin-bottom: 35px;
+        }
+
+        .keys-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 25px;
+        }
+
+        .key-card {
+            background: white;
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.08);
             text-align: center;
         }
-    }
-</style>
-```
 
+        .key-card h2 {
+            color: #063b70;
+            margin-bottom: 15px;
+        }
+
+        .key-card p {
+            color: #666;
+            line-height: 1.6;
+        }
+
+        .view-btn {
+            display: inline-block;
+            margin-top: 15px;
+            padding: 11px 22px;
+            background: #0866c6;
+            color: white;
+            text-decoration: none;
+            border-radius: 7px;
+            font-weight: bold;
+        }
+
+        .view-btn:hover {
+            background: #064f9c;
+        }
+
+        .empty {
+            text-align: center;
+            color: #777;
+            padding: 40px;
+        }
+
+        @media (max-width: 600px) {
+            .container {
+                margin: 20px auto;
+                padding: 15px;
+            }
+
+            .keys-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
 </head>
 
 <body>
 
-<div class="header">
-
-```
-<h1>📝 Official Answer Keys</h1>
-
-<p>
-    Answer keys related to the selected examination
-</p>
-```
-
-</div>
-
 <div class="container">
 
-<div class="job-box">
+    <h1>Official Answer Keys</h1>
 
-    <h2>{{ job.title }}</h2>
+    <p class="subtitle">
+        View official answer keys and examination updates.
+    </p>
 
-    {% if job.organization %}
-    <div class="job-info">
-        <strong>Organization:</strong>
-        {{ job.organization }}
-    </div>
-    {% endif %}
+    <div class="keys-grid">
 
-    {% if job.category %}
-    <div class="job-info">
-        <strong>Category:</strong>
-        {{ job.category }}
-    </div>
-    {% endif %}
+        {% for key in keys %}
 
-</div>
+        <div class="key-card">
 
-<div class="keys-box">
-
-    <h3>
-        Answer Keys for {{ job.title }}
-    </h3>
-
-    {% if answer_keys %}
-
-        {% for key in answer_keys %}
-
-            <div class="key-card">
-
-                <h4>
-                    📝 {{ key.exam_name }}
-                </h4>
-
-                <div class="release-date">
-
-                    <strong>Release Date:</strong>
-
-                    {{ key.release_date }}
-
-                </div>
-
-                {% if key.official_link %}
-
-                    <a
-                        href="{{ key.official_link }}"
-                        target="_blank"
-                        class="official-btn"
-                    >
-                        📥 View / Download Answer Key
-                    </a>
-
-                {% endif %}
-
-            </div>
-
-        {% endfor %}
-
-    {% else %}
-
-        <div class="empty">
-
-            <h3>No Answer Keys Available</h3>
+            <h2>{{ key.exam_name }}</h2>
 
             <p>
-                Answer keys for
-                <strong>{{ job.title }}</strong>
-                are not available yet.
+                <strong>Category:</strong>
+                {{ key.category }}
             </p>
+
+            <p>
+                <strong>Release Date:</strong>
+                {{ key.release_date }}
+            </p>
+
+            {% if key.official_link %}
+
+            <a href="{{ key.official_link }}"
+               class="view-btn"
+               target="_blank"
+               rel="noopener noreferrer">
+                View Official Answer Key
+            </a>
+
+            {% endif %}
 
         </div>
 
-    {% endif %}
+        {% empty %}
 
-</div>
-```
+        <div class="empty">
+            <h2>No Answer Keys Available</h2>
+            <p>Answer keys will be added soon.</p>
+        </div>
+
+        {% endfor %}
+
+    </div>
 
 </div>
 

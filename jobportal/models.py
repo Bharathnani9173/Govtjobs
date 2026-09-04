@@ -786,6 +786,32 @@ class QuizQuestion(models.Model):
     def __str__(self):
         return self.question[:100]
 
+class QuizQuestionHistory(models.Model):
+    user = models.ForeignKey(
+        User,
+        on_delete=models.CASCADE,
+        related_name="quiz_question_history"
+    )
+
+    question = models.ForeignKey(
+        QuizQuestion,
+        on_delete=models.CASCADE,
+        related_name="history"
+    )
+
+    exam = models.ForeignKey(
+        "Exam",
+        on_delete=models.CASCADE,
+        related_name="question_history",
+        null=True,
+        blank=True
+    )
+
+    seen_at = models.DateTimeField(auto_now_add=True)
+
+    def __str__(self):
+        return f"{self.user.username} - Question {self.question.id}"
+
 
 # =========================================================
 # MOCK TEST ATTEMPT
@@ -799,59 +825,40 @@ class MockTestAttempt(models.Model):
         related_name="mock_test_attempts"
     )
 
+    exam = models.ForeignKey(
+        "Exam",
+        on_delete=models.CASCADE,
+        related_name="mock_attempts",
+        null=True,
+        blank=True
+    )
+
     daily_test = models.ForeignKey(
         DailyMockTest,
         on_delete=models.CASCADE,
-        related_name="attempts"
-    )
-
-    score = models.PositiveIntegerField(
-        default=0
-    )
-
-    total_questions = models.PositiveIntegerField(
-        default=50
-    )
-
-    correct_answers = models.PositiveIntegerField(
-        default=0
-    )
-
-    wrong_answers = models.PositiveIntegerField(
-        default=0
-    )
-
-    unanswered = models.PositiveIntegerField(
-        default=0
-    )
-
-    time_taken = models.PositiveIntegerField(
-        default=0
-    )
-
-    attempted_at = models.DateTimeField(
-        auto_now_add=True
-    )
-
-    question_ids = models.JSONField(
-        default=list,
+        related_name="attempts",
+        null=True,
         blank=True
     )
 
-    answers = models.JSONField(
-        default=dict,
-        blank=True
-    )
+    score = models.PositiveIntegerField(default=0)
+    total_questions = models.PositiveIntegerField(default=100)
+    correct_answers = models.PositiveIntegerField(default=0)
+    wrong_answers = models.PositiveIntegerField(default=0)
+    unanswered = models.PositiveIntegerField(default=0)
+    time_taken = models.PositiveIntegerField(default=0)
+
+    attempted_at = models.DateTimeField(auto_now_add=True)
+
+    question_ids = models.JSONField(default=list, blank=True)
+    answers = models.JSONField(default=dict, blank=True)
 
     class Meta:
         ordering = ["-attempted_at"]
-
     def __str__(self):
-        return (
-            f"{self.user.username} - "
-            f"{self.daily_test.exam_name} - "
-            f"{self.score}"
-        )
+        if self.daily_test:
+            return f"{self.user.username} - {self.daily_test.exam_name} - {self.score}"
+        return f"{self.user.username} - Mock Test - {self.score}"
 
 class QuizAttempt(models.Model):
 

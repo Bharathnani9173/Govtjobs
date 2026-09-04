@@ -1,0 +1,1702 @@
+[
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10001,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "A shopkeeper marks an article 40% above cost price and gives successive discounts of 10% and 5%. What is his profit percentage?",
+      "option1": "21.2%",
+      "option2": "22%",
+      "option3": "23%",
+      "option4": "24%",
+      "answer": "21.2%",
+      "subject": "Quantitative Aptitude",
+      "difficulty": "Tough",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10002,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "A sum amounts to ₹13,310 at 10% compound interest per annum in 3 years. What is the principal?",
+      "option1": "₹9,000",
+      "option2": "₹10,000",
+      "option3": "₹11,000",
+      "option4": "₹12,000",
+      "answer": "₹10,000",
+      "subject": "Quantitative Aptitude",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10003,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "A can complete a work in 12 days and B in 18 days. They work together for 4 days. What fraction of the work remains?",
+      "option1": "1/9",
+      "option2": "2/9",
+      "option3": "4/9",
+      "option4": "5/9",
+      "answer": "5/9",
+      "subject": "Quantitative Aptitude",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10004,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "A train 180 m long crosses a pole in 12 seconds. How long is a platform that the train crosses in 32 seconds?",
+      "option1": "240 m",
+      "option2": "270 m",
+      "option3": "300 m",
+      "option4": "320 m",
+      "answer": "300 m",
+      "subject": "Quantitative Aptitude",
+      "difficulty": "Tough",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10005,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "The average of 8 numbers is 24. If one number is removed, the average becomes 22. What was the removed number?",
+      "option1": "34",
+      "option2": "36",
+      "option3": "38",
+      "option4": "40",
+      "answer": "38",
+      "subject": "Quantitative Aptitude",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10006,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "A vessel contains milk and water in the ratio 5:2. If 14 litres of water are added, the ratio becomes 5:4. How much milk was initially present?",
+      "option1": "30 L",
+      "option2": "35 L",
+      "option3": "40 L",
+      "option4": "45 L",
+      "answer": "35 L",
+      "subject": "Quantitative Aptitude",
+      "difficulty": "Tough",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10007,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "If x + 1/x = 5, x ≠ 0, find x² + 1/x².",
+      "option1": "21",
+      "option2": "23",
+      "option3": "25",
+      "option4": "27",
+      "answer": "23",
+      "subject": "Quantitative Aptitude",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10008,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "A person spends 75% of income. Income rises by 20% and expenditure rises by 10%. By what percentage do savings increase?",
+      "option1": "40%",
+      "option2": "45%",
+      "option3": "50%",
+      "option4": "60%",
+      "answer": "50%",
+      "subject": "Quantitative Aptitude",
+      "difficulty": "Tough",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10009,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "A boat travels 30 km downstream in 2 hours and the same distance upstream in 3 hours. What is the speed of the boat in still water?",
+      "option1": "10 km/h",
+      "option2": "12.5 km/h",
+      "option3": "15 km/h",
+      "option4": "17.5 km/h",
+      "answer": "12.5 km/h",
+      "subject": "Quantitative Aptitude",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10010,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "The sides of a triangle are 13 cm, 14 cm and 15 cm. What is its area?",
+      "option1": "72 cm²",
+      "option2": "84 cm²",
+      "option3": "90 cm²",
+      "option4": "96 cm²",
+      "answer": "84 cm²",
+      "subject": "Quantitative Aptitude",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10011,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "A quantity is increased by 20% and then decreased by 20%. What is the net percentage change?",
+      "option1": "4% increase",
+      "option2": "4% decrease",
+      "option3": "No change",
+      "option4": "2% decrease",
+      "answer": "4% decrease",
+      "subject": "Quantitative Aptitude",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10012,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "If 3x − 2y = 7 and 2x + 3y = 4, what is x + y?",
+      "option1": "27/13",
+      "option2": "29/13",
+      "option3": "31/13",
+      "option4": "3",
+      "answer": "27/13",
+      "subject": "Quantitative Aptitude",
+      "difficulty": "Tough",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10013,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "A number is increased by 25% and then reduced by 20%. Compared with the original number, the final value is:",
+      "option1": "5% greater",
+      "option2": "5% smaller",
+      "option3": "Same",
+      "option4": "10% greater",
+      "answer": "Same",
+      "subject": "Quantitative Aptitude",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10014,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "A man buys an article for ₹800 and sells it at a 15% loss. At what price should he sell it to gain 10%?",
+      "option1": "₹880",
+      "option2": "₹900",
+      "option3": "₹960",
+      "option4": "₹1,000",
+      "answer": "₹880",
+      "subject": "Quantitative Aptitude",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10015,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "The ratio of two numbers is 3:5 and their HCF is 12. What is their LCM?",
+      "option1": "120",
+      "option2": "180",
+      "option3": "240",
+      "option4": "300",
+      "answer": "180",
+      "subject": "Quantitative Aptitude",
+      "difficulty": "Tough",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10016,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "A train running at 72 km/h crosses a man in 8 seconds. What is the length of the train?",
+      "option1": "120 m",
+      "option2": "140 m",
+      "option3": "160 m",
+      "option4": "180 m",
+      "answer": "160 m",
+      "subject": "Quantitative Aptitude",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10017,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "The simple interest on a sum for 4 years at 8% per annum is ₹1,280. Find the principal.",
+      "option1": "₹3,500",
+      "option2": "₹4,000",
+      "option3": "₹4,500",
+      "option4": "₹5,000",
+      "answer": "₹4,000",
+      "subject": "Quantitative Aptitude",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10018,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "A pipe fills a tank in 12 minutes and another empties it in 18 minutes. If both are opened together, how long will the tank take to fill?",
+      "option1": "24 min",
+      "option2": "30 min",
+      "option3": "36 min",
+      "option4": "40 min",
+      "answer": "36 min",
+      "subject": "Quantitative Aptitude",
+      "difficulty": "Tough",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10019,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "If the radius of a circle is increased by 20%, by what percentage does its area increase?",
+      "option1": "20%",
+      "option2": "40%",
+      "option3": "44%",
+      "option4": "48%",
+      "answer": "44%",
+      "subject": "Quantitative Aptitude",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10020,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "The price of sugar falls by 20%. By what percentage can consumption increase so that expenditure remains unchanged?",
+      "option1": "20%",
+      "option2": "25%",
+      "option3": "30%",
+      "option4": "33⅓%",
+      "answer": "25%",
+      "subject": "Quantitative Aptitude",
+      "difficulty": "Tough",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10021,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "A and B invest ₹6,000 and ₹8,000 respectively for the same period. If total profit is ₹7,000, what is B's share?",
+      "option1": "₹3,000",
+      "option2": "₹3,500",
+      "option3": "₹4,000",
+      "option4": "₹4,500",
+      "answer": "₹4,000",
+      "subject": "Quantitative Aptitude",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10022,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "The marked price of an article is ₹2,500. After a discount of 12%, what is the selling price?",
+      "option1": "₹2,150",
+      "option2": "₹2,200",
+      "option3": "₹2,250",
+      "option4": "₹2,300",
+      "answer": "₹2,200",
+      "subject": "Quantitative Aptitude",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10023,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "A sum is divided among A, B and C in the ratio 2:3:5. If C gets ₹1,500, what is the total sum?",
+      "option1": "₹2,500",
+      "option2": "₹3,000",
+      "option3": "₹3,500",
+      "option4": "₹4,000",
+      "answer": "₹3,000",
+      "subject": "Quantitative Aptitude",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10024,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "If 40% of a number is 72, what is 25% of the same number?",
+      "option1": "40",
+      "option2": "45",
+      "option3": "50",
+      "option4": "55",
+      "answer": "45",
+      "subject": "Quantitative Aptitude",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10025,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "A cylinder has radius 7 cm and height 10 cm. Using π = 22/7, find its volume.",
+      "option1": "1,400 cm³",
+      "option2": "1,440 cm³",
+      "option3": "1,540 cm³",
+      "option4": "1,640 cm³",
+      "answer": "1,540 cm³",
+      "subject": "Quantitative Aptitude",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10026,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Find the next term: 3, 8, 18, 38, 78, ?",
+      "option1": "148",
+      "option2": "156",
+      "option3": "158",
+      "option4": "160",
+      "answer": "158",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10027,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "If DELHI is coded as 73541, using the same letter-code, how is HELD coded?",
+      "option1": "4357",
+      "option2": "4173",
+      "option3": "4375",
+      "option4": "4537",
+      "answer": "4173",
+      "subject": "Reasoning",
+      "difficulty": "Tough",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10028,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Statements: All pens are tools. Some tools are machines. Conclusions: I. Some pens are machines. II. Some tools are pens. Which follows?",
+      "option1": "Only I",
+      "option2": "Only II",
+      "option3": "Both I and II",
+      "option4": "Neither",
+      "answer": "Only II",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10029,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "A person walks 8 km north, 6 km east and 8 km south. How far is he from the starting point?",
+      "option1": "2 km",
+      "option2": "6 km",
+      "option3": "8 km",
+      "option4": "14 km",
+      "answer": "6 km",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10030,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Ravi is 14th from the left and 19th from the right in a row. How many people are there?",
+      "option1": "31",
+      "option2": "32",
+      "option3": "33",
+      "option4": "34",
+      "answer": "32",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10031,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "If the letters of COMPUTER are arranged alphabetically, which letter is fourth?",
+      "option1": "M",
+      "option2": "O",
+      "option3": "P",
+      "option4": "R",
+      "answer": "O",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10032,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "P, Q, R, S and T sit in a row. P is at one end, T is at the other end, Q sits immediately to the right of R, and S sits between P and R. Who occupies the middle position?",
+      "option1": "P",
+      "option2": "Q",
+      "option3": "R",
+      "option4": "S",
+      "answer": "Q",
+      "subject": "Reasoning",
+      "difficulty": "Tough",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10033,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "What is the angle between the hands of a clock at 3:40?",
+      "option1": "120°",
+      "option2": "130°",
+      "option3": "140°",
+      "option4": "150°",
+      "answer": "130°",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10034,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "If ROAD is coded as URDG, how is MIND coded using the same rule?",
+      "option1": "PLQG",
+      "option2": "PKQG",
+      "option3": "PLRD",
+      "option4": "PMQG",
+      "answer": "PLQG",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10035,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Which number does not belong to the group: 27, 64, 125, 216, 343, 512, 625?",
+      "option1": "125",
+      "option2": "216",
+      "option3": "512",
+      "option4": "625",
+      "answer": "625",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10036,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Pointing to a man, D said, 'He is the son of my father's only daughter.' How is the man related to D?",
+      "option1": "Brother",
+      "option2": "Son",
+      "option3": "Nephew",
+      "option4": "Father",
+      "answer": "Nephew",
+      "subject": "Reasoning",
+      "difficulty": "Tough",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10037,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Find the missing pair: AZ, BY, CX, DW, ?",
+      "option1": "EU",
+      "option2": "EV",
+      "option3": "FU",
+      "option4": "FV",
+      "answer": "EV",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10038,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "If CAT = 24 and DOG = 26 using A=1, B=2,..., what is BAT?",
+      "option1": "21",
+      "option2": "22",
+      "option3": "23",
+      "option4": "24",
+      "answer": "23",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10039,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Find the odd pair.",
+      "option1": "ABCD",
+      "option2": "EFGH",
+      "option3": "IJKL",
+      "option4": "MNPR",
+      "answer": "MNPR",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10040,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "A is taller than B, B is taller than C, and D is taller than A. Who is the shortest?",
+      "option1": "A",
+      "option2": "B",
+      "option3": "C",
+      "option4": "D",
+      "answer": "C",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10041,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "In a certain code, PAPER is written as QBQFS. How is BOOK written?",
+      "option1": "CPPL",
+      "option2": "CPPK",
+      "option3": "CQQM",
+      "option4": "CPQM",
+      "answer": "CPPL",
+      "subject": "Reasoning",
+      "difficulty": "Tough",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10042,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "A clock gains 5 minutes every hour. If set correctly at 8:00 AM, what will it show at 2:00 PM?",
+      "option1": "2:20 PM",
+      "option2": "2:25 PM",
+      "option3": "2:30 PM",
+      "option4": "2:35 PM",
+      "answer": "2:30 PM",
+      "subject": "Reasoning",
+      "difficulty": "Tough",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10043,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Six persons A, B, C, D, E and F sit in a circle. A sits opposite D. B sits immediately clockwise of A. Who sits immediately clockwise of D?",
+      "option1": "B",
+      "option2": "C",
+      "option3": "E",
+      "option4": "F",
+      "answer": "E",
+      "subject": "Reasoning",
+      "difficulty": "Tough",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10044,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "If SOUTH is written as HTUOS, how is NORTH written?",
+      "option1": "HTRON",
+      "option2": "HTORN",
+      "option3": "HRTON",
+      "option4": "NORTH",
+      "answer": "HTRON",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10045,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Find the next number: 2, 6, 12, 20, 30, ?",
+      "option1": "40",
+      "option2": "42",
+      "option3": "44",
+      "option4": "46",
+      "answer": "42",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10046,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "In a family, A is the mother of B, C is the brother of A, and D is the daughter of B. How is C related to D?",
+      "option1": "Father",
+      "option2": "Uncle",
+      "option3": "Brother",
+      "option4": "Grandfather",
+      "answer": "Uncle",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10047,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "A person faces east, turns 90° clockwise, then 180° anticlockwise. Which direction is he facing?",
+      "option1": "North",
+      "option2": "South",
+      "option3": "East",
+      "option4": "West",
+      "answer": "North",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10048,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "If 1 January is a Monday, what day is 1 March in a non-leap year?",
+      "option1": "Wednesday",
+      "option2": "Thursday",
+      "option3": "Friday",
+      "option4": "Saturday",
+      "answer": "Thursday",
+      "subject": "Reasoning",
+      "difficulty": "Tough",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10049,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "A cube has all faces painted and is cut into 27 equal smaller cubes. How many smaller cubes have exactly two faces painted?",
+      "option1": "8",
+      "option2": "12",
+      "option3": "16",
+      "option4": "20",
+      "answer": "12",
+      "subject": "Reasoning",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10050,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Five books P, Q, R, S and T are arranged from left to right. P is left of Q, R is right of Q, S is between P and Q, and T is right of R. Which book is in the middle?",
+      "option1": "P",
+      "option2": "Q",
+      "option3": "R",
+      "option4": "S",
+      "answer": "Q",
+      "subject": "Reasoning",
+      "difficulty": "Tough",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10051,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Choose the correct sentence.",
+      "option1": "Neither of the boys have completed his work.",
+      "option2": "Neither of the boys has completed his work.",
+      "option3": "Neither of the boys have completed their work.",
+      "option4": "Neither of the boy has completed his work.",
+      "answer": "Neither of the boys has completed his work.",
+      "subject": "English",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10052,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Choose the word closest in meaning to 'pragmatic'.",
+      "option1": "Idealistic",
+      "option2": "Practical",
+      "option3": "Emotional",
+      "option4": "Uncertain",
+      "answer": "Practical",
+      "subject": "English",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10053,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Choose the antonym of 'obsolete'.",
+      "option1": "Ancient",
+      "option2": "Outdated",
+      "option3": "Modern",
+      "option4": "Rare",
+      "answer": "Modern",
+      "subject": "English",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10054,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Choose the correct preposition: 'We finally arrived ___ a decision.'",
+      "option1": "at",
+      "option2": "on",
+      "option3": "in",
+      "option4": "to",
+      "answer": "at",
+      "subject": "English",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10055,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Identify the incorrect part: 'Each of the students were given a certificate.'",
+      "option1": "Each of",
+      "option2": "the students",
+      "option3": "were given",
+      "option4": "a certificate",
+      "answer": "were given",
+      "subject": "English",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10056,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Choose the correctly spelt word.",
+      "option1": "Accomodation",
+      "option2": "Accommodation",
+      "option3": "Acommodation",
+      "option4": "Accommadation",
+      "answer": "Accommodation",
+      "subject": "English",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10057,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Choose the correct expression: 'He is senior ___ me.'",
+      "option1": "than",
+      "option2": "to",
+      "option3": "from",
+      "option4": "with",
+      "answer": "to",
+      "subject": "English",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10058,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "The idiom 'read between the lines' means:",
+      "option1": "Read quickly",
+      "option2": "Find hidden meaning",
+      "option3": "Read aloud",
+      "option4": "Skip difficult words",
+      "answer": "Find hidden meaning",
+      "subject": "English",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10059,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Change into passive voice: 'They will complete the project tomorrow.'",
+      "option1": "The project will be completed by them tomorrow.",
+      "option2": "The project is completed by them tomorrow.",
+      "option3": "The project was completed by them tomorrow.",
+      "option4": "The project will complete tomorrow.",
+      "answer": "The project will be completed by them tomorrow.",
+      "subject": "English",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10060,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Change into indirect speech: He said, 'I have finished my work.'",
+      "option1": "He said that he has finished his work.",
+      "option2": "He said that he had finished his work.",
+      "option3": "He said that I had finished my work.",
+      "option4": "He says that he had finished his work.",
+      "answer": "He said that he had finished his work.",
+      "subject": "English",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10061,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Choose the correct word: 'The evidence was too ___ to support the claim.'",
+      "option1": "ambiguous",
+      "option2": "ambiguity",
+      "option3": "ambiguously",
+      "option4": "ambivalent",
+      "answer": "ambiguous",
+      "subject": "English",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10062,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Choose the correct form: 'Hardly ___ I reached the station when the train arrived.'",
+      "option1": "had",
+      "option2": "have",
+      "option3": "did",
+      "option4": "was",
+      "answer": "had",
+      "subject": "English",
+      "difficulty": "Tough",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10063,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Choose the synonym of 'meticulous'.",
+      "option1": "Careless",
+      "option2": "Precise",
+      "option3": "Rapid",
+      "option4": "Ordinary",
+      "answer": "Precise",
+      "subject": "English",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10064,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Choose the correct sentence.",
+      "option1": "The news are encouraging.",
+      "option2": "The news is encouraging.",
+      "option3": "The news were encouraging.",
+      "option4": "The news have encouraging.",
+      "answer": "The news is encouraging.",
+      "subject": "English",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10065,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Choose the antonym of 'scarce'.",
+      "option1": "Limited",
+      "option2": "Rare",
+      "option3": "Abundant",
+      "option4": "Insufficient",
+      "answer": "Abundant",
+      "subject": "English",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10066,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Fill in the blank: 'If I ___ you, I would accept the offer.'",
+      "option1": "am",
+      "option2": "was",
+      "option3": "were",
+      "option4": "be",
+      "answer": "were",
+      "subject": "English",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10067,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Choose the correct article: 'He is ___ honest officer.'",
+      "option1": "a",
+      "option2": "an",
+      "option3": "the",
+      "option4": "no article",
+      "answer": "an",
+      "subject": "English",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10068,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Identify the error: 'She is one of the best player in the team.'",
+      "option1": "She is",
+      "option2": "one of",
+      "option3": "the best player",
+      "option4": "in the team",
+      "answer": "the best player",
+      "subject": "English",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10069,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Choose the correct meaning of 'break the ice'.",
+      "option1": "End a friendship",
+      "option2": "Start a conversation",
+      "option3": "Create a problem",
+      "option4": "Avoid discussion",
+      "answer": "Start a conversation",
+      "subject": "English",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10070,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Choose the correct spelling.",
+      "option1": "Privilege",
+      "option2": "Privelege",
+      "option3": "Priviledge",
+      "option4": "Privilage",
+      "answer": "Privilege",
+      "subject": "English",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10071,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Select the correctly punctuated sentence.",
+      "option1": "However I decided to continue.",
+      "option2": "However, I decided to continue.",
+      "option3": "However I, decided to continue.",
+      "option4": "However; I decided to continue.",
+      "answer": "However, I decided to continue.",
+      "subject": "English",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10072,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Choose the word that best replaces 'a person who knows many languages'.",
+      "option1": "Linguist",
+      "option2": "Polyglot",
+      "option3": "Orator",
+      "option4": "Grammarian",
+      "answer": "Polyglot",
+      "subject": "English",
+      "difficulty": "Tough",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10073,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Choose the correct tense: 'By next month, she ___ here for five years.'",
+      "option1": "will work",
+      "option2": "will have worked",
+      "option3": "has worked",
+      "option4": "worked",
+      "answer": "will have worked",
+      "subject": "English",
+      "difficulty": "Tough",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10074,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Choose the correct meaning of 'ubiquitous'.",
+      "option1": "Present everywhere",
+      "option2": "Very expensive",
+      "option3": "Difficult to understand",
+      "option4": "Extremely rare",
+      "answer": "Present everywhere",
+      "subject": "English",
+      "difficulty": "Tough",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10075,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Choose the correct sentence.",
+      "option1": "Despite of the rain, the match continued.",
+      "option2": "Despite the rain, the match continued.",
+      "option3": "Despite from the rain, the match continued.",
+      "option4": "Despite to the rain, the match continued.",
+      "answer": "Despite the rain, the match continued.",
+      "subject": "English",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10076,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Which Constitutional Amendment reduced the voting age in India from 21 to 18 years?",
+      "option1": "42nd",
+      "option2": "44th",
+      "option3": "61st",
+      "option4": "73rd",
+      "answer": "61st",
+      "subject": "General Knowledge",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10077,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "The repo rate in India is decided by:",
+      "option1": "SEBI",
+      "option2": "RBI",
+      "option3": "Finance Commission",
+      "option4": "NITI Aayog",
+      "answer": "RBI",
+      "subject": "General Knowledge",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10078,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Article 14 of the Indian Constitution deals with:",
+      "option1": "Freedom of speech",
+      "option2": "Equality before law",
+      "option3": "Right to education",
+      "option4": "Freedom of religion",
+      "answer": "Equality before law",
+      "subject": "General Knowledge",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10079,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "The ozone layer is mainly found in which atmospheric layer?",
+      "option1": "Troposphere",
+      "option2": "Stratosphere",
+      "option3": "Mesosphere",
+      "option4": "Thermosphere",
+      "answer": "Stratosphere",
+      "subject": "General Knowledge",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10080,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "The Green Revolution in India initially had its greatest impact on the production of:",
+      "option1": "Tea and coffee",
+      "option2": "Wheat and rice",
+      "option3": "Cotton and jute",
+      "option4": "Sugarcane and tobacco",
+      "answer": "Wheat and rice",
+      "subject": "General Knowledge",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10081,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Which river is popularly known as the 'Sorrow of Bihar'?",
+      "option1": "Ganga",
+      "option2": "Kosi",
+      "option3": "Son",
+      "option4": "Gandak",
+      "answer": "Kosi",
+      "subject": "General Knowledge",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10082,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "The Basic Structure doctrine was established by the Supreme Court in which case?",
+      "option1": "Golaknath case",
+      "option2": "Kesavananda Bharati case",
+      "option3": "Minerva Mills case",
+      "option4": "Maneka Gandhi case",
+      "answer": "Kesavananda Bharati case",
+      "subject": "General Knowledge",
+      "difficulty": "Tough",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10083,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Which organelle is primarily responsible for ATP production in a cell?",
+      "option1": "Nucleus",
+      "option2": "Ribosome",
+      "option3": "Mitochondrion",
+      "option4": "Golgi apparatus",
+      "answer": "Mitochondrion",
+      "subject": "General Knowledge",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10084,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "If nominal income remains unchanged while prices rise significantly, purchasing power will:",
+      "option1": "Increase",
+      "option2": "Decrease",
+      "option3": "Remain unchanged",
+      "option4": "Double",
+      "answer": "Decrease",
+      "subject": "General Knowledge",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10085,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Which Fundamental Duty relates directly to protecting the natural environment?",
+      "option1": "Article 51A(a)",
+      "option2": "Article 51A(g)",
+      "option3": "Article 51A(j)",
+      "option4": "Article 51A(k)",
+      "answer": "Article 51A(g)",
+      "subject": "General Knowledge",
+      "difficulty": "Tough",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10086,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Where is the headquarters of the International Monetary Fund located?",
+      "option1": "New York",
+      "option2": "Geneva",
+      "option3": "Washington, D.C.",
+      "option4": "Paris",
+      "answer": "Washington, D.C.",
+      "subject": "General Knowledge",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10087,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Bauxite is the principal ore of:",
+      "option1": "Copper",
+      "option2": "Aluminium",
+      "option3": "Iron",
+      "option4": "Zinc",
+      "answer": "Aluminium",
+      "subject": "General Knowledge",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10088,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "An increase in the Cash Reserve Ratio generally causes banks' lendable resources to:",
+      "option1": "Increase",
+      "option2": "Decrease",
+      "option3": "Remain unchanged",
+      "option4": "Become unlimited",
+      "answer": "Decrease",
+      "subject": "General Knowledge",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10089,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Which Schedule of the Constitution contains the Union, State and Concurrent Lists?",
+      "option1": "Fifth",
+      "option2": "Sixth",
+      "option3": "Seventh",
+      "option4": "Eighth",
+      "answer": "Seventh",
+      "subject": "General Knowledge",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10090,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "The 'Blue Revolution' is associated mainly with:",
+      "option1": "Milk production",
+      "option2": "Fish production",
+      "option3": "Oilseed production",
+      "option4": "Egg production",
+      "answer": "Fish production",
+      "subject": "General Knowledge",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10091,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Which gas is the major component of Earth's atmosphere?",
+      "option1": "Oxygen",
+      "option2": "Nitrogen",
+      "option3": "Carbon dioxide",
+      "option4": "Argon",
+      "answer": "Nitrogen",
+      "subject": "General Knowledge",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10092,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "The Harappan site of Lothal is located in present-day:",
+      "option1": "Gujarat",
+      "option2": "Rajasthan",
+      "option3": "Punjab",
+      "option4": "Haryana",
+      "answer": "Gujarat",
+      "subject": "General Knowledge",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10093,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Who is associated with the discovery of the Raman Effect?",
+      "option1": "C. V. Raman",
+      "option2": "Homi Bhabha",
+      "option3": "S. N. Bose",
+      "option4": "Meghnad Saha",
+      "answer": "C. V. Raman",
+      "subject": "General Knowledge",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10094,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "The Finance Commission of India is constituted under which Article?",
+      "option1": "Article 280",
+      "option2": "Article 324",
+      "option3": "Article 356",
+      "option4": "Article 360",
+      "answer": "Article 280",
+      "subject": "General Knowledge",
+      "difficulty": "Tough",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10095,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Which planet has the shortest orbital period around the Sun?",
+      "option1": "Venus",
+      "option2": "Mercury",
+      "option3": "Mars",
+      "option4": "Earth",
+      "answer": "Mercury",
+      "subject": "General Knowledge",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10096,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "The 'Drain of Wealth' theory was prominently associated with:",
+      "option1": "Dadabhai Naoroji",
+      "option2": "Bal Gangadhar Tilak",
+      "option3": "Gopal Krishna Gokhale",
+      "option4": "Lala Lajpat Rai",
+      "answer": "Dadabhai Naoroji",
+      "subject": "General Knowledge",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10097,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Which institution replaced the Planning Commission in 2015?",
+      "option1": "Finance Commission",
+      "option2": "NITI Aayog",
+      "option3": "GST Council",
+      "option4": "National Development Council",
+      "answer": "NITI Aayog",
+      "subject": "General Knowledge",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10098,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "The SI unit of electric resistance is:",
+      "option1": "Volt",
+      "option2": "Ampere",
+      "option3": "Ohm",
+      "option4": "Watt",
+      "answer": "Ohm",
+      "subject": "General Knowledge",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10099,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "Which part of the Indian Constitution contains Directive Principles of State Policy?",
+      "option1": "Part III",
+      "option2": "Part IV",
+      "option3": "Part V",
+      "option4": "Part VI",
+      "answer": "Part IV",
+      "subject": "General Knowledge",
+      "difficulty": "Medium",
+      "source": "Original Practice - SSC CGL"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 10100,
+    "fields": {
+      "job": null,
+      "exam": 16,
+      "question": "The main purpose of monetary policy tightening is generally to:",
+      "option1": "Increase inflation",
+      "option2": "Control inflation",
+      "option3": "Eliminate taxation",
+      "option4": "Increase imports",
+      "answer": "Control inflation",
+      "subject": "General Knowledge",
+      "difficulty": "Tough",
+      "source": "Original Practice - SSC CGL"
+    }
+  }
+]

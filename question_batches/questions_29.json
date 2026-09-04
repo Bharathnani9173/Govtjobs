@@ -1,0 +1,1702 @@
+[
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2801,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What does CPU stand for?",
+      "option1": "Central Process Unit",
+      "option2": "Central Processing Unit",
+      "option3": "Computer Processing Unit",
+      "option4": "Control Processing Unit",
+      "answer": "Central Processing Unit",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2802,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which device is used to enter text into a computer?",
+      "option1": "Monitor",
+      "option2": "Keyboard",
+      "option3": "Printer",
+      "option4": "Speaker",
+      "answer": "Keyboard",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2803,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which memory is volatile?",
+      "option1": "ROM",
+      "option2": "Hard Disk",
+      "option3": "RAM",
+      "option4": "DVD",
+      "answer": "RAM",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2804,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is the full form of URL?",
+      "option1": "Uniform Resource Locator",
+      "option2": "Universal Resource Link",
+      "option3": "Uniform Reference Link",
+      "option4": "Universal Reference Locator",
+      "answer": "Uniform Resource Locator",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2805,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which software is an operating system?",
+      "option1": "MS Word",
+      "option2": "Windows",
+      "option3": "Excel",
+      "option4": "PowerPoint",
+      "answer": "Windows",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2806,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What does CPU stand for?",
+      "option1": "Central Process Unit",
+      "option2": "Central Processing Unit",
+      "option3": "Computer Processing Unit",
+      "option4": "Control Processing Unit",
+      "answer": "Central Processing Unit",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2807,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which device is used to enter text into a computer?",
+      "option1": "Monitor",
+      "option2": "Keyboard",
+      "option3": "Printer",
+      "option4": "Speaker",
+      "answer": "Keyboard",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2808,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which memory is volatile?",
+      "option1": "ROM",
+      "option2": "Hard Disk",
+      "option3": "RAM",
+      "option4": "DVD",
+      "answer": "RAM",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2809,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is the full form of URL?",
+      "option1": "Uniform Resource Locator",
+      "option2": "Universal Resource Link",
+      "option3": "Uniform Reference Link",
+      "option4": "Universal Reference Locator",
+      "answer": "Uniform Resource Locator",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2810,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which software is an operating system?",
+      "option1": "MS Word",
+      "option2": "Windows",
+      "option3": "Excel",
+      "option4": "PowerPoint",
+      "answer": "Windows",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2811,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What does CPU stand for?",
+      "option1": "Central Process Unit",
+      "option2": "Central Processing Unit",
+      "option3": "Computer Processing Unit",
+      "option4": "Control Processing Unit",
+      "answer": "Central Processing Unit",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2812,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which device is used to enter text into a computer?",
+      "option1": "Monitor",
+      "option2": "Keyboard",
+      "option3": "Printer",
+      "option4": "Speaker",
+      "answer": "Keyboard",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2813,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which memory is volatile?",
+      "option1": "ROM",
+      "option2": "Hard Disk",
+      "option3": "RAM",
+      "option4": "DVD",
+      "answer": "RAM",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2814,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is the full form of URL?",
+      "option1": "Uniform Resource Locator",
+      "option2": "Universal Resource Link",
+      "option3": "Uniform Reference Link",
+      "option4": "Universal Reference Locator",
+      "answer": "Uniform Resource Locator",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2815,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which software is an operating system?",
+      "option1": "MS Word",
+      "option2": "Windows",
+      "option3": "Excel",
+      "option4": "PowerPoint",
+      "answer": "Windows",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2816,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What does CPU stand for?",
+      "option1": "Central Process Unit",
+      "option2": "Central Processing Unit",
+      "option3": "Computer Processing Unit",
+      "option4": "Control Processing Unit",
+      "answer": "Central Processing Unit",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2817,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which device is used to enter text into a computer?",
+      "option1": "Monitor",
+      "option2": "Keyboard",
+      "option3": "Printer",
+      "option4": "Speaker",
+      "answer": "Keyboard",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2818,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which memory is volatile?",
+      "option1": "ROM",
+      "option2": "Hard Disk",
+      "option3": "RAM",
+      "option4": "DVD",
+      "answer": "RAM",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2819,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is the full form of URL?",
+      "option1": "Uniform Resource Locator",
+      "option2": "Universal Resource Link",
+      "option3": "Uniform Reference Link",
+      "option4": "Universal Reference Locator",
+      "answer": "Uniform Resource Locator",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2820,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which software is an operating system?",
+      "option1": "MS Word",
+      "option2": "Windows",
+      "option3": "Excel",
+      "option4": "PowerPoint",
+      "answer": "Windows",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2821,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What does CPU stand for?",
+      "option1": "Central Process Unit",
+      "option2": "Central Processing Unit",
+      "option3": "Computer Processing Unit",
+      "option4": "Control Processing Unit",
+      "answer": "Central Processing Unit",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2822,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which device is used to enter text into a computer?",
+      "option1": "Monitor",
+      "option2": "Keyboard",
+      "option3": "Printer",
+      "option4": "Speaker",
+      "answer": "Keyboard",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2823,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which memory is volatile?",
+      "option1": "ROM",
+      "option2": "Hard Disk",
+      "option3": "RAM",
+      "option4": "DVD",
+      "answer": "RAM",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2824,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is the full form of URL?",
+      "option1": "Uniform Resource Locator",
+      "option2": "Universal Resource Link",
+      "option3": "Uniform Reference Link",
+      "option4": "Universal Reference Locator",
+      "answer": "Uniform Resource Locator",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2825,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which software is an operating system?",
+      "option1": "MS Word",
+      "option2": "Windows",
+      "option3": "Excel",
+      "option4": "PowerPoint",
+      "answer": "Windows",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2826,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What does CPU stand for?",
+      "option1": "Central Process Unit",
+      "option2": "Central Processing Unit",
+      "option3": "Computer Processing Unit",
+      "option4": "Control Processing Unit",
+      "answer": "Central Processing Unit",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2827,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which device is used to enter text into a computer?",
+      "option1": "Monitor",
+      "option2": "Keyboard",
+      "option3": "Printer",
+      "option4": "Speaker",
+      "answer": "Keyboard",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2828,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which memory is volatile?",
+      "option1": "ROM",
+      "option2": "Hard Disk",
+      "option3": "RAM",
+      "option4": "DVD",
+      "answer": "RAM",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2829,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is the full form of URL?",
+      "option1": "Uniform Resource Locator",
+      "option2": "Universal Resource Link",
+      "option3": "Uniform Reference Link",
+      "option4": "Universal Reference Locator",
+      "answer": "Uniform Resource Locator",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2830,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which software is an operating system?",
+      "option1": "MS Word",
+      "option2": "Windows",
+      "option3": "Excel",
+      "option4": "PowerPoint",
+      "answer": "Windows",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2831,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What does CPU stand for?",
+      "option1": "Central Process Unit",
+      "option2": "Central Processing Unit",
+      "option3": "Computer Processing Unit",
+      "option4": "Control Processing Unit",
+      "answer": "Central Processing Unit",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2832,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which device is used to enter text into a computer?",
+      "option1": "Monitor",
+      "option2": "Keyboard",
+      "option3": "Printer",
+      "option4": "Speaker",
+      "answer": "Keyboard",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2833,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which memory is volatile?",
+      "option1": "ROM",
+      "option2": "Hard Disk",
+      "option3": "RAM",
+      "option4": "DVD",
+      "answer": "RAM",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2834,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is the full form of URL?",
+      "option1": "Uniform Resource Locator",
+      "option2": "Universal Resource Link",
+      "option3": "Uniform Reference Link",
+      "option4": "Universal Reference Locator",
+      "answer": "Uniform Resource Locator",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2835,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which software is an operating system?",
+      "option1": "MS Word",
+      "option2": "Windows",
+      "option3": "Excel",
+      "option4": "PowerPoint",
+      "answer": "Windows",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2836,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What does CPU stand for?",
+      "option1": "Central Process Unit",
+      "option2": "Central Processing Unit",
+      "option3": "Computer Processing Unit",
+      "option4": "Control Processing Unit",
+      "answer": "Central Processing Unit",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2837,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which device is used to enter text into a computer?",
+      "option1": "Monitor",
+      "option2": "Keyboard",
+      "option3": "Printer",
+      "option4": "Speaker",
+      "answer": "Keyboard",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2838,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which memory is volatile?",
+      "option1": "ROM",
+      "option2": "Hard Disk",
+      "option3": "RAM",
+      "option4": "DVD",
+      "answer": "RAM",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2839,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is the full form of URL?",
+      "option1": "Uniform Resource Locator",
+      "option2": "Universal Resource Link",
+      "option3": "Uniform Reference Link",
+      "option4": "Universal Reference Locator",
+      "answer": "Uniform Resource Locator",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2840,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which software is an operating system?",
+      "option1": "MS Word",
+      "option2": "Windows",
+      "option3": "Excel",
+      "option4": "PowerPoint",
+      "answer": "Windows",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2841,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What does CPU stand for?",
+      "option1": "Central Process Unit",
+      "option2": "Central Processing Unit",
+      "option3": "Computer Processing Unit",
+      "option4": "Control Processing Unit",
+      "answer": "Central Processing Unit",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2842,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which device is used to enter text into a computer?",
+      "option1": "Monitor",
+      "option2": "Keyboard",
+      "option3": "Printer",
+      "option4": "Speaker",
+      "answer": "Keyboard",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2843,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which memory is volatile?",
+      "option1": "ROM",
+      "option2": "Hard Disk",
+      "option3": "RAM",
+      "option4": "DVD",
+      "answer": "RAM",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2844,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is the full form of URL?",
+      "option1": "Uniform Resource Locator",
+      "option2": "Universal Resource Link",
+      "option3": "Uniform Reference Link",
+      "option4": "Universal Reference Locator",
+      "answer": "Uniform Resource Locator",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2845,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which software is an operating system?",
+      "option1": "MS Word",
+      "option2": "Windows",
+      "option3": "Excel",
+      "option4": "PowerPoint",
+      "answer": "Windows",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2846,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What does CPU stand for?",
+      "option1": "Central Process Unit",
+      "option2": "Central Processing Unit",
+      "option3": "Computer Processing Unit",
+      "option4": "Control Processing Unit",
+      "answer": "Central Processing Unit",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2847,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which device is used to enter text into a computer?",
+      "option1": "Monitor",
+      "option2": "Keyboard",
+      "option3": "Printer",
+      "option4": "Speaker",
+      "answer": "Keyboard",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2848,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which memory is volatile?",
+      "option1": "ROM",
+      "option2": "Hard Disk",
+      "option3": "RAM",
+      "option4": "DVD",
+      "answer": "RAM",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2849,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is the full form of URL?",
+      "option1": "Uniform Resource Locator",
+      "option2": "Universal Resource Link",
+      "option3": "Uniform Reference Link",
+      "option4": "Universal Reference Locator",
+      "answer": "Uniform Resource Locator",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2850,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which software is an operating system?",
+      "option1": "MS Word",
+      "option2": "Windows",
+      "option3": "Excel",
+      "option4": "PowerPoint",
+      "answer": "Windows",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2851,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What does CPU stand for?",
+      "option1": "Central Process Unit",
+      "option2": "Central Processing Unit",
+      "option3": "Computer Processing Unit",
+      "option4": "Control Processing Unit",
+      "answer": "Central Processing Unit",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2852,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which device is used to enter text into a computer?",
+      "option1": "Monitor",
+      "option2": "Keyboard",
+      "option3": "Printer",
+      "option4": "Speaker",
+      "answer": "Keyboard",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2853,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which memory is volatile?",
+      "option1": "ROM",
+      "option2": "Hard Disk",
+      "option3": "RAM",
+      "option4": "DVD",
+      "answer": "RAM",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2854,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is the full form of URL?",
+      "option1": "Uniform Resource Locator",
+      "option2": "Universal Resource Link",
+      "option3": "Uniform Reference Link",
+      "option4": "Universal Reference Locator",
+      "answer": "Uniform Resource Locator",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2855,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which software is an operating system?",
+      "option1": "MS Word",
+      "option2": "Windows",
+      "option3": "Excel",
+      "option4": "PowerPoint",
+      "answer": "Windows",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2856,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What does CPU stand for?",
+      "option1": "Central Process Unit",
+      "option2": "Central Processing Unit",
+      "option3": "Computer Processing Unit",
+      "option4": "Control Processing Unit",
+      "answer": "Central Processing Unit",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2857,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which device is used to enter text into a computer?",
+      "option1": "Monitor",
+      "option2": "Keyboard",
+      "option3": "Printer",
+      "option4": "Speaker",
+      "answer": "Keyboard",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2858,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which memory is volatile?",
+      "option1": "ROM",
+      "option2": "Hard Disk",
+      "option3": "RAM",
+      "option4": "DVD",
+      "answer": "RAM",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2859,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is the full form of URL?",
+      "option1": "Uniform Resource Locator",
+      "option2": "Universal Resource Link",
+      "option3": "Uniform Reference Link",
+      "option4": "Universal Reference Locator",
+      "answer": "Uniform Resource Locator",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2860,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which software is an operating system?",
+      "option1": "MS Word",
+      "option2": "Windows",
+      "option3": "Excel",
+      "option4": "PowerPoint",
+      "answer": "Windows",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2861,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What does CPU stand for?",
+      "option1": "Central Process Unit",
+      "option2": "Central Processing Unit",
+      "option3": "Computer Processing Unit",
+      "option4": "Control Processing Unit",
+      "answer": "Central Processing Unit",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2862,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which device is used to enter text into a computer?",
+      "option1": "Monitor",
+      "option2": "Keyboard",
+      "option3": "Printer",
+      "option4": "Speaker",
+      "answer": "Keyboard",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2863,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which memory is volatile?",
+      "option1": "ROM",
+      "option2": "Hard Disk",
+      "option3": "RAM",
+      "option4": "DVD",
+      "answer": "RAM",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2864,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is the full form of URL?",
+      "option1": "Uniform Resource Locator",
+      "option2": "Universal Resource Link",
+      "option3": "Uniform Reference Link",
+      "option4": "Universal Reference Locator",
+      "answer": "Uniform Resource Locator",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2865,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which software is an operating system?",
+      "option1": "MS Word",
+      "option2": "Windows",
+      "option3": "Excel",
+      "option4": "PowerPoint",
+      "answer": "Windows",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2866,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What does CPU stand for?",
+      "option1": "Central Process Unit",
+      "option2": "Central Processing Unit",
+      "option3": "Computer Processing Unit",
+      "option4": "Control Processing Unit",
+      "answer": "Central Processing Unit",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2867,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which device is used to enter text into a computer?",
+      "option1": "Monitor",
+      "option2": "Keyboard",
+      "option3": "Printer",
+      "option4": "Speaker",
+      "answer": "Keyboard",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2868,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which memory is volatile?",
+      "option1": "ROM",
+      "option2": "Hard Disk",
+      "option3": "RAM",
+      "option4": "DVD",
+      "answer": "RAM",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2869,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is the full form of URL?",
+      "option1": "Uniform Resource Locator",
+      "option2": "Universal Resource Link",
+      "option3": "Uniform Reference Link",
+      "option4": "Universal Reference Locator",
+      "answer": "Uniform Resource Locator",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2870,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which software is an operating system?",
+      "option1": "MS Word",
+      "option2": "Windows",
+      "option3": "Excel",
+      "option4": "PowerPoint",
+      "answer": "Windows",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2871,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What does CPU stand for?",
+      "option1": "Central Process Unit",
+      "option2": "Central Processing Unit",
+      "option3": "Computer Processing Unit",
+      "option4": "Control Processing Unit",
+      "answer": "Central Processing Unit",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2872,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which device is used to enter text into a computer?",
+      "option1": "Monitor",
+      "option2": "Keyboard",
+      "option3": "Printer",
+      "option4": "Speaker",
+      "answer": "Keyboard",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2873,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which memory is volatile?",
+      "option1": "ROM",
+      "option2": "Hard Disk",
+      "option3": "RAM",
+      "option4": "DVD",
+      "answer": "RAM",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2874,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is the full form of URL?",
+      "option1": "Uniform Resource Locator",
+      "option2": "Universal Resource Link",
+      "option3": "Uniform Reference Link",
+      "option4": "Universal Reference Locator",
+      "answer": "Uniform Resource Locator",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2875,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which software is an operating system?",
+      "option1": "MS Word",
+      "option2": "Windows",
+      "option3": "Excel",
+      "option4": "PowerPoint",
+      "answer": "Windows",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2876,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What does CPU stand for?",
+      "option1": "Central Process Unit",
+      "option2": "Central Processing Unit",
+      "option3": "Computer Processing Unit",
+      "option4": "Control Processing Unit",
+      "answer": "Central Processing Unit",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2877,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which device is used to enter text into a computer?",
+      "option1": "Monitor",
+      "option2": "Keyboard",
+      "option3": "Printer",
+      "option4": "Speaker",
+      "answer": "Keyboard",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2878,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which memory is volatile?",
+      "option1": "ROM",
+      "option2": "Hard Disk",
+      "option3": "RAM",
+      "option4": "DVD",
+      "answer": "RAM",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2879,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is the full form of URL?",
+      "option1": "Uniform Resource Locator",
+      "option2": "Universal Resource Link",
+      "option3": "Uniform Reference Link",
+      "option4": "Universal Reference Locator",
+      "answer": "Uniform Resource Locator",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2880,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which software is an operating system?",
+      "option1": "MS Word",
+      "option2": "Windows",
+      "option3": "Excel",
+      "option4": "PowerPoint",
+      "answer": "Windows",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2881,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What does CPU stand for?",
+      "option1": "Central Process Unit",
+      "option2": "Central Processing Unit",
+      "option3": "Computer Processing Unit",
+      "option4": "Control Processing Unit",
+      "answer": "Central Processing Unit",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2882,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which device is used to enter text into a computer?",
+      "option1": "Monitor",
+      "option2": "Keyboard",
+      "option3": "Printer",
+      "option4": "Speaker",
+      "answer": "Keyboard",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2883,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which memory is volatile?",
+      "option1": "ROM",
+      "option2": "Hard Disk",
+      "option3": "RAM",
+      "option4": "DVD",
+      "answer": "RAM",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2884,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is the full form of URL?",
+      "option1": "Uniform Resource Locator",
+      "option2": "Universal Resource Link",
+      "option3": "Uniform Reference Link",
+      "option4": "Universal Reference Locator",
+      "answer": "Uniform Resource Locator",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2885,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which software is an operating system?",
+      "option1": "MS Word",
+      "option2": "Windows",
+      "option3": "Excel",
+      "option4": "PowerPoint",
+      "answer": "Windows",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2886,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What does CPU stand for?",
+      "option1": "Central Process Unit",
+      "option2": "Central Processing Unit",
+      "option3": "Computer Processing Unit",
+      "option4": "Control Processing Unit",
+      "answer": "Central Processing Unit",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2887,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which device is used to enter text into a computer?",
+      "option1": "Monitor",
+      "option2": "Keyboard",
+      "option3": "Printer",
+      "option4": "Speaker",
+      "answer": "Keyboard",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2888,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which memory is volatile?",
+      "option1": "ROM",
+      "option2": "Hard Disk",
+      "option3": "RAM",
+      "option4": "DVD",
+      "answer": "RAM",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2889,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is the full form of URL?",
+      "option1": "Uniform Resource Locator",
+      "option2": "Universal Resource Link",
+      "option3": "Uniform Reference Link",
+      "option4": "Universal Reference Locator",
+      "answer": "Uniform Resource Locator",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2890,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which software is an operating system?",
+      "option1": "MS Word",
+      "option2": "Windows",
+      "option3": "Excel",
+      "option4": "PowerPoint",
+      "answer": "Windows",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2891,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What does CPU stand for?",
+      "option1": "Central Process Unit",
+      "option2": "Central Processing Unit",
+      "option3": "Computer Processing Unit",
+      "option4": "Control Processing Unit",
+      "answer": "Central Processing Unit",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2892,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which device is used to enter text into a computer?",
+      "option1": "Monitor",
+      "option2": "Keyboard",
+      "option3": "Printer",
+      "option4": "Speaker",
+      "answer": "Keyboard",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2893,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which memory is volatile?",
+      "option1": "ROM",
+      "option2": "Hard Disk",
+      "option3": "RAM",
+      "option4": "DVD",
+      "answer": "RAM",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2894,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is the full form of URL?",
+      "option1": "Uniform Resource Locator",
+      "option2": "Universal Resource Link",
+      "option3": "Uniform Reference Link",
+      "option4": "Universal Reference Locator",
+      "answer": "Uniform Resource Locator",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2895,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which software is an operating system?",
+      "option1": "MS Word",
+      "option2": "Windows",
+      "option3": "Excel",
+      "option4": "PowerPoint",
+      "answer": "Windows",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2896,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What does CPU stand for?",
+      "option1": "Central Process Unit",
+      "option2": "Central Processing Unit",
+      "option3": "Computer Processing Unit",
+      "option4": "Control Processing Unit",
+      "answer": "Central Processing Unit",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2897,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which device is used to enter text into a computer?",
+      "option1": "Monitor",
+      "option2": "Keyboard",
+      "option3": "Printer",
+      "option4": "Speaker",
+      "answer": "Keyboard",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2898,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which memory is volatile?",
+      "option1": "ROM",
+      "option2": "Hard Disk",
+      "option3": "RAM",
+      "option4": "DVD",
+      "answer": "RAM",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2899,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "What is the full form of URL?",
+      "option1": "Uniform Resource Locator",
+      "option2": "Universal Resource Link",
+      "option3": "Uniform Reference Link",
+      "option4": "Universal Reference Locator",
+      "answer": "Uniform Resource Locator",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  },
+  {
+    "model": "jobportal.quizquestion",
+    "pk": 2900,
+    "fields": {
+      "job": null,
+      "exam": null,
+      "question": "Which software is an operating system?",
+      "option1": "MS Word",
+      "option2": "Windows",
+      "option3": "Excel",
+      "option4": "PowerPoint",
+      "answer": "Windows",
+      "subject": "Computer",
+      "difficulty": "Medium",
+      "source": "Practice"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "model": "jobportal.currentaffair",
+    "pk": 1,
+    "fields": {
+      "job": 536,
+      "title": "July 2026 SSC CGL Current Affairs",
+      "category": "SSC",
+      "date": "2026-07-31",
+      "description": "July 2026 Current Affairs for SSC CGL",
+      "pdf_link": "http://127.0.0.1:8000/static/pdfs/current_affairs/July_2026_Current_Affairs_Detailed_Edition.pdf"
+    }
+  }
+]
