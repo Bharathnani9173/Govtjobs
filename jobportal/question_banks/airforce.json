@@ -1,0 +1,1605 @@
+{
+  "exam": "Air Force",
+  "questions": [
+    {
+      "question": "What is the primary purpose of the Indian Air Force?",
+      "option1": "To protect India's airspace",
+      "option2": "To control Indian ports",
+      "option3": "To manage railway operations",
+      "option4": "To conduct elections",
+      "answer": "To protect India's airspace"
+    },
+    {
+      "question": "When was the Indian Air Force officially established?",
+      "option1": "15 August 1947",
+      "option2": "8 October 1932",
+      "option3": "26 January 1950",
+      "option4": "1 April 1935",
+      "answer": "8 October 1932"
+    },
+    {
+      "question": "What is the headquarters of the Indian Air Force?",
+      "option1": "Mumbai",
+      "option2": "New Delhi",
+      "option3": "Bengaluru",
+      "option4": "Hyderabad",
+      "answer": "New Delhi"
+    },
+    {
+      "question": "What is the motto of the Indian Air Force?",
+      "option1": "Service Before Self",
+      "option2": "Touch the Sky with Glory",
+      "option3": "Truth Alone Triumphs",
+      "option4": "Victory Through Unity",
+      "answer": "Touch the Sky with Glory"
+    },
+    {
+      "question": "Which day is observed as Indian Air Force Day?",
+      "option1": "15 January",
+      "option2": "8 October",
+      "option3": "26 January",
+      "option4": "4 December",
+      "answer": "8 October"
+    },
+    {
+      "question": "Which ministry controls the Indian Air Force?",
+      "option1": "Ministry of Home Affairs",
+      "option2": "Ministry of Defence",
+      "option3": "Ministry of External Affairs",
+      "option4": "Ministry of Civil Aviation",
+      "answer": "Ministry of Defence"
+    },
+    {
+      "question": "Who is the professional head of the Indian Air Force?",
+      "option1": "Chief of Army Staff",
+      "option2": "Chief of Naval Staff",
+      "option3": "Chief of Air Staff",
+      "option4": "Defence Secretary",
+      "answer": "Chief of Air Staff"
+    },
+    {
+      "question": "Which rank is the highest active rank in the Indian Air Force?",
+      "option1": "Air Chief Marshal",
+      "option2": "Air Marshal",
+      "option3": "Air Vice Marshal",
+      "option4": "Air Commodore",
+      "answer": "Air Chief Marshal"
+    },
+    {
+      "question": "Which aircraft is known as India's indigenous Light Combat Aircraft?",
+      "option1": "Rafale",
+      "option2": "Tejas",
+      "option3": "Mirage 2000",
+      "option4": "MiG-29",
+      "answer": "Tejas"
+    },
+    {
+      "question": "Which organization developed the Tejas aircraft?",
+      "option1": "DRDO",
+      "option2": "ISRO",
+      "option3": "HAL",
+      "option4": "BHEL",
+      "answer": "HAL"
+    },
+    {
+      "question": "What does LCA stand for?",
+      "option1": "Light Combat Aircraft",
+      "option2": "Long Combat Aircraft",
+      "option3": "Light Cargo Aircraft",
+      "option4": "Low Combat Aircraft",
+      "answer": "Light Combat Aircraft"
+    },
+    {
+      "question": "Which fighter aircraft was developed jointly by India and Russia?",
+      "option1": "Su-30MKI",
+      "option2": "Rafale",
+      "option3": "Tejas",
+      "option4": "Mirage 2000",
+      "answer": "Su-30MKI"
+    },
+    {
+      "question": "Which aircraft is manufactured by Dassault Aviation?",
+      "option1": "Rafale",
+      "option2": "Tejas",
+      "option3": "Su-30MKI",
+      "option4": "C-17 Globemaster",
+      "answer": "Rafale"
+    },
+    {
+      "question": "What type of aircraft is the C-17 Globemaster III?",
+      "option1": "Fighter aircraft",
+      "option2": "Transport aircraft",
+      "option3": "Trainer aircraft",
+      "option4": "Helicopter",
+      "answer": "Transport aircraft"
+    },
+    {
+      "question": "Which aircraft is primarily used for aerial refuelling by the Indian Air Force?",
+      "option1": "IL-78",
+      "option2": "C-17",
+      "option3": "Tejas",
+      "option4": "MiG-29",
+      "answer": "IL-78"
+    },
+    {
+      "question": "What does IAF stand for?",
+      "option1": "Indian Aviation Force",
+      "option2": "Indian Air Force",
+      "option3": "International Air Force",
+      "option4": "Indian Armed Force",
+      "answer": "Indian Air Force"
+    },
+    {
+      "question": "Which academy provides training to officers of the Indian Armed Forces, including the Air Force?",
+      "option1": "National Defence Academy",
+      "option2": "Indian Military Academy",
+      "option3": "Rashtriya Indian Military College",
+      "option4": "Armed Forces Medical College",
+      "answer": "National Defence Academy"
+    },
+    {
+      "question": "Where is the Air Force Academy of India located?",
+      "option1": "Dundigal",
+      "option2": "Dehradun",
+      "option3": "Pune",
+      "option4": "Chennai",
+      "answer": "Dundigal"
+    },
+    {
+      "question": "Dundigal Air Force Academy is located near which city?",
+      "option1": "Hyderabad",
+      "option2": "Mumbai",
+      "option3": "Jaipur",
+      "option4": "Lucknow",
+      "answer": "Hyderabad"
+    },
+    {
+      "question": "Which force is responsible for India's land borders during military operations?",
+      "option1": "Indian Army",
+      "option2": "Indian Air Force",
+      "option3": "Indian Navy",
+      "option4": "Indian Coast Guard",
+      "answer": "Indian Army"
+    },
+    {
+      "question": "Which Indian Air Force operation was conducted during the Kargil War?",
+      "option1": "Operation Safed Sagar",
+      "option2": "Operation Meghdoot",
+      "option3": "Operation Vijay",
+      "option4": "Operation Cactus",
+      "answer": "Operation Safed Sagar"
+    },
+    {
+      "question": "Operation Safed Sagar was associated with which conflict?",
+      "option1": "Kargil War",
+      "option2": "1965 India-Pakistan War",
+      "option3": "1971 India-Pakistan War",
+      "option4": "Goa Liberation",
+      "answer": "Kargil War"
+    },
+    {
+      "question": "Which Indian Air Force aircraft is a twin-engine multirole fighter aircraft?",
+      "option1": "Su-30MKI",
+      "option2": "C-17",
+      "option3": "C-130J",
+      "option4": "Dornier 228",
+      "answer": "Su-30MKI"
+    },
+    {
+      "question": "What does UAV stand for?",
+      "option1": "Unmanned Aerial Vehicle",
+      "option2": "United Aviation Vehicle",
+      "option3": "Unarmed Air Vehicle",
+      "option4": "Universal Aerial Vehicle",
+      "answer": "Unmanned Aerial Vehicle"
+    },
+    {
+      "question": "Which instrument is used to measure atmospheric pressure?",
+      "option1": "Thermometer",
+      "option2": "Barometer",
+      "option3": "Hygrometer",
+      "option4": "Anemometer",
+      "answer": "Barometer"
+    },
+    {
+      "question": "Which force is known as the aerial warfare branch of the Indian Armed Forces?",
+      "option1": "Indian Army",
+      "option2": "Indian Air Force",
+      "option3": "Indian Navy",
+      "option4": "Indian Coast Guard",
+      "answer": "Indian Air Force"
+    },
+    {
+      "question": "Which aircraft is a medium-lift military transport aircraft used by the Indian Air Force?",
+      "option1": "C-130J Super Hercules",
+      "option2": "Rafale",
+      "option3": "Tejas",
+      "option4": "MiG-29",
+      "answer": "C-130J Super Hercules"
+    },
+    {
+      "question": "What does AWACS stand for?",
+      "option1": "Airborne Warning and Control System",
+      "option2": "Air Warfare and Combat System",
+      "option3": "Advanced Weapon and Control System",
+      "option4": "Air Weapon and Communication System",
+      "answer": "Airborne Warning and Control System"
+    },
+    {
+      "question": "Which aircraft is primarily designed for air superiority and combat missions?",
+      "option1": "Fighter aircraft",
+      "option2": "Transport aircraft",
+      "option3": "Cargo aircraft",
+      "option4": "Glider",
+      "answer": "Fighter aircraft"
+    },
+    {
+      "question": "Which of the following is a helicopter operated by the Indian Air Force?",
+      "option1": "Apache",
+      "option2": "Rafale",
+      "option3": "Tejas",
+      "option4": "Mirage 2000",
+      "answer": "Apache"
+    },
+    {
+      "question": "What is the full form of HAL?",
+      "option1": "Hindustan Aeronautics Limited",
+      "option2": "Hindustan Aviation Logistics",
+      "option3": "Heavy Aircraft Limited",
+      "option4": "High Altitude Logistics",
+      "answer": "Hindustan Aeronautics Limited"
+    },
+    {
+      "question": "Which organization is mainly responsible for India's defence research and development?",
+      "option1": "DRDO",
+      "option2": "ISRO",
+      "option3": "RBI",
+      "option4": "SEBI",
+      "answer": "DRDO"
+    },
+    {
+      "question": "What does DRDO stand for?",
+      "option1": "Defence Research and Development Organisation",
+      "option2": "Department of Research and Defence Operations",
+      "option3": "Defence Railway Development Organisation",
+      "option4": "Directorate of Research and Defence Operations",
+      "answer": "Defence Research and Development Organisation"
+    },
+    {
+      "question": "Which aircraft is popularly called the 'Flying Coffin' due to its nickname in some historical contexts?",
+      "option1": "MiG-21",
+      "option2": "Su-30MKI",
+      "option3": "Tejas",
+      "option4": "Rafale",
+      "answer": "MiG-21"
+    },
+    {
+      "question": "Which fighter aircraft is manufactured by Dassault Aviation?",
+      "option1": "Rafale",
+      "option2": "Tejas",
+      "option3": "Su-30MKI",
+      "option4": "MiG-21",
+      "answer": "Rafale"
+    },
+    {
+      "question": "What is the main function of a radar system?",
+      "option1": "Detect and track objects",
+      "option2": "Refuel aircraft",
+      "option3": "Repair engines",
+      "option4": "Train pilots",
+      "answer": "Detect and track objects"
+    },
+    {
+      "question": "Which physical principle enables an aircraft wing to generate lift?",
+      "option1": "Difference in air pressure around the wing",
+      "option2": "Magnetic attraction",
+      "option3": "Electrical resistance",
+      "option4": "Water pressure",
+      "answer": "Difference in air pressure around the wing"
+    },
+    {
+      "question": "Which force opposes the forward motion of an aircraft through air?",
+      "option1": "Drag",
+      "option2": "Lift",
+      "option3": "Thrust",
+      "option4": "Weight",
+      "answer": "Drag"
+    },
+    {
+      "question": "Which force acts vertically upward on an aircraft during flight?",
+      "option1": "Lift",
+      "option2": "Drag",
+      "option3": "Thrust",
+      "option4": "Friction",
+      "answer": "Lift"
+    },
+    {
+      "question": "Which force propels an aircraft forward?",
+      "option1": "Thrust",
+      "option2": "Weight",
+      "option3": "Drag",
+      "option4": "Gravity",
+      "answer": "Thrust"
+    },
+    {
+      "question": "Which instrument is used to measure an aircraft's altitude?",
+      "option1": "Altimeter",
+      "option2": "Barometer",
+      "option3": "Compass",
+      "option4": "Ammeter",
+      "answer": "Altimeter"
+    },
+    {
+      "question": "Which instrument indicates the direction of an aircraft?",
+      "option1": "Compass",
+      "option2": "Altimeter",
+      "option3": "Thermometer",
+      "option4": "Barometer",
+      "answer": "Compass"
+    },
+    {
+      "question": "Which instrument measures the speed of an aircraft relative to the surrounding air?",
+      "option1": "Airspeed indicator",
+      "option2": "Altimeter",
+      "option3": "Compass",
+      "option4": "Variometer",
+      "answer": "Airspeed indicator"
+    },
+    {
+      "question": "What is the purpose of an aircraft engine?",
+      "option1": "Generate thrust",
+      "option2": "Measure altitude",
+      "option3": "Detect aircraft",
+      "option4": "Measure temperature",
+      "answer": "Generate thrust"
+    },
+    {
+      "question": "Which type of engine is commonly used in modern fighter aircraft?",
+      "option1": "Jet engine",
+      "option2": "Steam engine",
+      "option3": "Diesel engine",
+      "option4": "Electric motor only",
+      "answer": "Jet engine"
+    },
+    {
+      "question": "What is the full form of MIG in the name MiG aircraft?",
+      "option1": "Mikoyan-Gurevich",
+      "option2": "Military Indian Group",
+      "option3": "Modern Indian Guard",
+      "option4": "Missile Integration Group",
+      "answer": "Mikoyan-Gurevich"
+    },
+    {
+      "question": "Which aircraft is designed mainly for transporting troops and military equipment?",
+      "option1": "Military transport aircraft",
+      "option2": "Fighter aircraft",
+      "option3": "Interceptor aircraft",
+      "option4": "Trainer aircraft",
+      "answer": "Military transport aircraft"
+    },
+    {
+      "question": "Which aircraft is used for training pilots?",
+      "option1": "Trainer aircraft",
+      "option2": "Bomber aircraft",
+      "option3": "Transport aircraft",
+      "option4": "Refuelling aircraft",
+      "answer": "Trainer aircraft"
+    },
+    {
+      "question": "What is the primary role of an air-to-air missile?",
+      "option1": "Engage airborne targets",
+      "option2": "Destroy ships only",
+      "option3": "Transport soldiers",
+      "option4": "Refuel aircraft",
+      "answer": "Engage airborne targets"
+    },
+    {
+      "question": "What is the primary role of an air-to-ground missile?",
+      "option1": "Attack ground targets",
+      "option2": "Detect aircraft",
+      "option3": "Refuel aircraft",
+      "option4": "Train pilots",
+      "answer": "Attack ground targets"
+    },
+     {
+      "question": "Which is the highest military rank that can be held by the Chief of Air Staff in the Indian Air Force?",
+      "option1": "Air Chief Marshal",
+      "option2": "Air Marshal",
+      "option3": "Air Vice Marshal",
+      "option4": "Air Commodore",
+      "answer": "Air Chief Marshal"
+    },
+    {
+      "question": "Which rank comes immediately below Air Chief Marshal in the Indian Air Force?",
+      "option1": "Air Marshal",
+      "option2": "Air Commodore",
+      "option3": "Group Captain",
+      "option4": "Wing Commander",
+      "answer": "Air Marshal"
+    },
+    {
+      "question": "Which IAF rank is equivalent to Brigadier in the Indian Army?",
+      "option1": "Air Commodore",
+      "option2": "Air Marshal",
+      "option3": "Group Captain",
+      "option4": "Wing Commander",
+      "answer": "Air Commodore"
+    },
+    {
+      "question": "Which IAF rank is equivalent to Colonel in the Indian Army?",
+      "option1": "Group Captain",
+      "option2": "Wing Commander",
+      "option3": "Air Commodore",
+      "option4": "Squadron Leader",
+      "answer": "Group Captain"
+    },
+    {
+      "question": "Which IAF rank is equivalent to Lieutenant Colonel in the Indian Army?",
+      "option1": "Wing Commander",
+      "option2": "Group Captain",
+      "option3": "Squadron Leader",
+      "option4": "Flight Lieutenant",
+      "answer": "Wing Commander"
+    },
+    {
+      "question": "Which IAF rank is equivalent to Major in the Indian Army?",
+      "option1": "Squadron Leader",
+      "option2": "Wing Commander",
+      "option3": "Flight Lieutenant",
+      "option4": "Flying Officer",
+      "answer": "Squadron Leader"
+    },
+    {
+      "question": "Which IAF rank is equivalent to Captain in the Indian Army?",
+      "option1": "Flight Lieutenant",
+      "option2": "Squadron Leader",
+      "option3": "Flying Officer",
+      "option4": "Group Captain",
+      "answer": "Flight Lieutenant"
+    },
+    {
+      "question": "Which is the entry-level commissioned officer rank in the Indian Air Force?",
+      "option1": "Flying Officer",
+      "option2": "Flight Lieutenant",
+      "option3": "Squadron Leader",
+      "option4": "Wing Commander",
+      "answer": "Flying Officer"
+    },
+    {
+      "question": "What is the rank immediately above Flying Officer in the Indian Air Force?",
+      "option1": "Flight Lieutenant",
+      "option2": "Squadron Leader",
+      "option3": "Wing Commander",
+      "option4": "Group Captain",
+      "answer": "Flight Lieutenant"
+    },
+    {
+      "question": "Which branch of the Indian Air Force operates and maintains aircraft?",
+      "option1": "Technical branch",
+      "option2": "Medical branch",
+      "option3": "Legal branch",
+      "option4": "Education branch",
+      "answer": "Technical branch"
+    },
+    {
+      "question": "Which branch primarily deals with flying operations in the Indian Air Force?",
+      "option1": "Flying branch",
+      "option2": "Accounts branch",
+      "option3": "Administration branch",
+      "option4": "Education branch",
+      "answer": "Flying branch"
+    },
+    {
+      "question": "Which aircraft is a twin-engine multirole combat aircraft operated by the Indian Air Force?",
+      "option1": "Mirage 2000",
+      "option2": "C-17 Globemaster III",
+      "option3": "C-130J Super Hercules",
+      "option4": "Hawk",
+      "answer": "Mirage 2000"
+    },
+    {
+      "question": "Which country originally developed the Mirage 2000?",
+      "option1": "France",
+      "option2": "Russia",
+      "option3": "United States",
+      "option4": "United Kingdom",
+      "answer": "France"
+    },
+    {
+      "question": "Which country developed the Su-30 fighter aircraft family?",
+      "option1": "Russia",
+      "option2": "France",
+      "option3": "Germany",
+      "option4": "United States",
+      "answer": "Russia"
+    },
+    {
+      "question": "Which country developed the Rafale fighter aircraft?",
+      "option1": "France",
+      "option2": "Russia",
+      "option3": "India",
+      "option4": "Japan",
+      "answer": "France"
+    },
+    {
+      "question": "Which aircraft is known as an advanced jet trainer used by the Indian Air Force?",
+      "option1": "Hawk",
+      "option2": "Rafale",
+      "option3": "C-17",
+      "option4": "IL-78",
+      "answer": "Hawk"
+    },
+    {
+      "question": "Which company manufactures the Hawk advanced jet trainer?",
+      "option1": "BAE Systems",
+      "option2": "Dassault Aviation",
+      "option3": "Boeing",
+      "option4": "HAL",
+      "answer": "BAE Systems"
+    },
+    {
+      "question": "Which aircraft is used by the Indian Air Force for heavy strategic airlift?",
+      "option1": "C-17 Globemaster III",
+      "option2": "Hawk",
+      "option3": "MiG-21",
+      "option4": "Tejas",
+      "answer": "C-17 Globemaster III"
+    },
+    {
+      "question": "Which aircraft is used for tactical airlift and special operations by the Indian Air Force?",
+      "option1": "C-130J Super Hercules",
+      "option2": "Rafale",
+      "option3": "Tejas",
+      "option4": "Mirage 2000",
+      "answer": "C-130J Super Hercules"
+    },
+    {
+      "question": "Which helicopter is used by the Indian Air Force for heavy-lift operations?",
+      "option1": "CH-47F Chinook",
+      "option2": "Apache",
+      "option3": "Chetak",
+      "option4": "Rafale",
+      "answer": "CH-47F Chinook"
+    },
+    {
+      "question": "Which helicopter is primarily designed for attack missions?",
+      "option1": "AH-64 Apache",
+      "option2": "CH-47 Chinook",
+      "option3": "Mi-17",
+      "option4": "Chetak",
+      "answer": "AH-64 Apache"
+    },
+    {
+      "question": "What is the primary role of the Chinook helicopter?",
+      "option1": "Heavy-lift transport",
+      "option2": "Air-to-air combat",
+      "option3": "Aerial refuelling",
+      "option4": "Pilot training",
+      "answer": "Heavy-lift transport"
+    },
+    {
+      "question": "Which Indian-made helicopter is operated by the Indian Air Force?",
+      "option1": "Light Combat Helicopter",
+      "option2": "Apache",
+      "option3": "Chinook",
+      "option4": "Black Hawk",
+      "answer": "Light Combat Helicopter"
+    },
+    {
+      "question": "What does LCH stand for in Indian military aviation?",
+      "option1": "Light Combat Helicopter",
+      "option2": "Long Combat Helicopter",
+      "option3": "Light Cargo Helicopter",
+      "option4": "Low Combat Helicopter",
+      "answer": "Light Combat Helicopter"
+    },
+    {
+      "question": "Which organization manufactures the Light Combat Helicopter for India?",
+      "option1": "Hindustan Aeronautics Limited",
+      "option2": "Boeing",
+      "option3": "Airbus",
+      "option4": "Dassault Aviation",
+      "answer": "Hindustan Aeronautics Limited"
+    },
+    {
+      "question": "What does IAF stand for?",
+      "option1": "Indian Air Force",
+      "option2": "Indian Aviation Force",
+      "option3": "International Air Force",
+      "option4": "Indian Armed Force",
+      "answer": "Indian Air Force"
+    },
+    {
+      "question": "Which ceremony is associated with the annual celebration of Indian Air Force Day?",
+      "option1": "Air Force Day Parade",
+      "option2": "Navy Day Parade",
+      "option3": "Republic Day Parade only",
+      "option4": "Army Day Parade",
+      "answer": "Air Force Day Parade"
+    },
+    {
+      "question": "Where is the Indian Air Force Day parade traditionally held?",
+      "option1": "Hindon",
+      "option2": "Chennai",
+      "option3": "Pune",
+      "option4": "Kochi",
+      "answer": "Hindon"
+    },
+    {
+      "question": "Hindon Air Force Station is located in which state?",
+      "option1": "Uttar Pradesh",
+      "option2": "Rajasthan",
+      "option3": "Punjab",
+      "option4": "Haryana",
+      "answer": "Uttar Pradesh"
+    },
+    {
+      "question": "Which command of the Indian Air Force has its headquarters at Prayagraj?",
+      "option1": "Central Air Command",
+      "option2": "Western Air Command",
+      "option3": "Eastern Air Command",
+      "option4": "Southern Air Command",
+      "answer": "Central Air Command"
+    },
+    {
+      "question": "Which IAF command has its headquarters in New Delhi?",
+      "option1": "Western Air Command",
+      "option2": "Southern Air Command",
+      "option3": "Central Air Command",
+      "option4": "South Western Air Command",
+      "answer": "Western Air Command"
+    },
+    {
+      "question": "Which IAF command is headquartered at Shillong?",
+      "option1": "Eastern Air Command",
+      "option2": "Western Air Command",
+      "option3": "Central Air Command",
+      "option4": "Training Command",
+      "answer": "Eastern Air Command"
+    },
+    {
+      "question": "Which IAF command has its headquarters at Gandhinagar?",
+      "option1": "South Western Air Command",
+      "option2": "Southern Air Command",
+      "option3": "Central Air Command",
+      "option4": "Eastern Air Command",
+      "answer": "South Western Air Command"
+    },
+    {
+      "question": "Which IAF command is headquartered at Thiruvananthapuram?",
+      "option1": "Southern Air Command",
+      "option2": "Eastern Air Command",
+      "option3": "Western Air Command",
+      "option4": "Central Air Command",
+      "answer": "Southern Air Command"
+    },
+    {
+      "question": "Where is the headquarters of the Training Command of the Indian Air Force?",
+      "option1": "Bengaluru",
+      "option2": "New Delhi",
+      "option3": "Hyderabad",
+      "option4": "Chandigarh",
+      "answer": "Bengaluru"
+    },
+    {
+      "question": "Which IAF command is responsible for training establishments?",
+      "option1": "Training Command",
+      "option2": "Western Air Command",
+      "option3": "Eastern Air Command",
+      "option4": "Southern Air Command",
+      "answer": "Training Command"
+    },
+    {
+      "question": "How many operational commands does the Indian Air Force have?",
+      "option1": "Five",
+      "option2": "Three",
+      "option3": "Seven",
+      "option4": "Nine",
+      "answer": "Five"
+    },
+    {
+      "question": "Which is the sixth command of the Indian Air Force apart from the five operational commands?",
+      "option1": "Training Command",
+      "option2": "Medical Command",
+      "option3": "Logistics Command",
+      "option4": "Cyber Command",
+      "answer": "Training Command"
+    },
+    {
+      "question": "Which IAF command is responsible for logistics?",
+      "option1": "Maintenance Command",
+      "option2": "Training Command",
+      "option3": "Western Air Command",
+      "option4": "Eastern Air Command",
+      "answer": "Maintenance Command"
+    },
+    {
+      "question": "Where is the headquarters of IAF Maintenance Command located?",
+      "option1": "Nagpur",
+      "option2": "Mumbai",
+      "option3": "Kolkata",
+      "option4": "Jaipur",
+      "answer": "Nagpur"
+    },
+    {
+      "question": "What is the main function of an aircraft carrier?",
+      "option1": "Operate aircraft at sea",
+      "option2": "Store fuel only",
+      "option3": "Transport tanks by land",
+      "option4": "Train ground troops",
+      "answer": "Operate aircraft at sea"
+    },
+    {
+      "question": "Which branch of the Indian Armed Forces operates aircraft carriers?",
+      "option1": "Indian Navy",
+      "option2": "Indian Air Force",
+      "option3": "Indian Army",
+      "option4": "Indian Coast Guard",
+      "answer": "Indian Navy"
+    },
+    {
+      "question": "Which aircraft component provides the main lifting surface?",
+      "option1": "Wing",
+      "option2": "Rudder",
+      "option3": "Engine",
+      "option4": "Landing gear",
+      "answer": "Wing"
+    },
+    {
+      "question": "Which aircraft control surface controls yaw?",
+      "option1": "Rudder",
+      "option2": "Aileron",
+      "option3": "Elevator",
+      "option4": "Flap",
+      "answer": "Rudder"
+    },
+    {
+      "question": "Which aircraft control surface primarily controls roll?",
+      "option1": "Aileron",
+      "option2": "Rudder",
+      "option3": "Elevator",
+      "option4": "Spoiler",
+      "answer": "Aileron"
+    },
+    {
+      "question": "Which aircraft control surface primarily controls pitch?",
+      "option1": "Elevator",
+      "option2": "Rudder",
+      "option3": "Aileron",
+      "option4": "Flap",
+      "answer": "Elevator"
+    },
+    {
+      "question": "What is the purpose of landing gear?",
+      "option1": "Support the aircraft during takeoff and landing",
+      "option2": "Generate engine thrust",
+      "option3": "Control radio communication",
+      "option4": "Measure altitude",
+      "answer": "Support the aircraft during takeoff and landing"
+    },
+    {
+      "question": "What is the function of aircraft flaps?",
+      "option1": "Increase lift during takeoff and landing",
+      "option2": "Increase fuel capacity",
+      "option3": "Control radio signals",
+      "option4": "Measure air pressure",
+      "answer": "Increase lift during takeoff and landing"
+    },
+    {
+      "question": "Which material is widely used in modern aircraft construction because of its high strength-to-weight ratio?",
+      "option1": "Aluminium alloy",
+      "option2": "Cast iron",
+      "option3": "Lead",
+      "option4": "Stone",
+      "answer": "Aluminium alloy"
+    },
+    {
+      "question": "What is supersonic speed?",
+      "option1": "Speed greater than the speed of sound",
+      "option2": "Speed less than the speed of sound",
+      "option3": "Speed equal to zero",
+      "option4": "Speed of light",
+      "answer": "Speed greater than the speed of sound"
+    },
+    {
+      "question": "What is the approximate speed of sound in air at sea level?",
+      "option1": "343 m/s",
+      "option2": "150 m/s",
+      "option3": "500 m/s",
+      "option4": "1000 m/s",
+      "answer": "343 m/s"
+    },
+    {
+      "question": "What does Mach 1 represent?",
+      "option1": "Speed of sound",
+      "option2": "Speed of light",
+      "option3": "Half the speed of sound",
+      "option4": "Twice the speed of sound",
+      "answer": "Speed of sound"
+    },
+    {
+      "question": "An aircraft flying faster than Mach 1 is described as:",
+      "option1": "Supersonic",
+      "option2": "Subsonic",
+      "option3": "Static",
+      "option4": "Hypersonic only",
+      "answer": "Supersonic"
+    },
+    {
+      "question": "What is the main purpose of an ejection seat in a fighter aircraft?",
+      "option1": "To help the pilot escape during an emergency",
+      "option2": "To increase aircraft speed",
+      "option3": "To reduce fuel consumption",
+      "option4": "To improve radar range",
+      "answer": "To help the pilot escape during an emergency"
+    },
+    {
+      "question": "Which gas is most abundant in Earth's atmosphere?",
+      "option1": "Nitrogen",
+      "option2": "Oxygen",
+      "option3": "Carbon dioxide",
+      "option4": "Hydrogen",
+      "answer": "Nitrogen"
+    },
+    {
+      "question": "Which gas is essential for human respiration?",
+      "option1": "Oxygen",
+      "option2": "Nitrogen",
+      "option3": "Helium",
+      "option4": "Neon",
+      "answer": "Oxygen"
+    },
+    {
+      "question": "What happens to atmospheric pressure as altitude increases?",
+      "option1": "It generally decreases",
+      "option2": "It always increases",
+      "option3": "It remains constant",
+      "option4": "It becomes zero immediately",
+      "answer": "It generally decreases"
+    },
+    {
+      "question": "Which layer of the atmosphere contains most weather phenomena?",
+      "option1": "Troposphere",
+      "option2": "Stratosphere",
+      "option3": "Mesosphere",
+      "option4": "Thermosphere",
+      "answer": "Troposphere"
+    },
+    {
+      "question": "Which instrument measures humidity in the atmosphere?",
+      "option1": "Hygrometer",
+      "option2": "Altimeter",
+      "option3": "Airspeed indicator",
+      "option4": "Compass",
+      "answer": "Hygrometer"
+    },
+    {
+      "question": "Which instrument measures wind speed?",
+      "option1": "Anemometer",
+      "option2": "Barometer",
+      "option3": "Thermometer",
+      "option4": "Altimeter",
+      "answer": "Anemometer"
+    },
+    {
+      "question": "Which weather condition can significantly reduce visibility for aircraft?",
+      "option1": "Fog",
+      "option2": "Clear sky",
+      "option3": "Dry air",
+      "option4": "Bright sunlight",
+      "answer": "Fog"
+    },
+    {
+      "question": "What is turbulence?",
+      "option1": "Irregular movement of air",
+      "option2": "Complete absence of air",
+      "option3": "Increase in fuel pressure",
+      "option4": "Failure of radar only",
+      "answer": "Irregular movement of air"
+    },
+    {
+      "question": "What is a runway primarily used for?",
+      "option1": "Aircraft takeoff and landing",
+      "option2": "Aircraft manufacturing",
+      "option3": "Fuel storage only",
+      "option4": "Pilot accommodation",
+      "answer": "Aircraft takeoff and landing"
+    },
+    {
+      "question": "What is a hangar?",
+      "option1": "A building used to store or maintain aircraft",
+      "option2": "A type of missile",
+      "option3": "A navigation instrument",
+      "option4": "A pilot's uniform",
+      "answer": "A building used to store or maintain aircraft"
+    },
+    {
+      "question": "What is the main purpose of an aircraft hangar?",
+      "option1": "Protection and maintenance of aircraft",
+      "option2": "Air traffic control",
+      "option3": "Weather forecasting only",
+      "option4": "Passenger ticketing",
+      "answer": "Protection and maintenance of aircraft"
+    },
+    {
+      "question": "What does ATC stand for in aviation?",
+      "option1": "Air Traffic Control",
+      "option2": "Aircraft Training Command",
+      "option3": "Air Transport Corporation",
+      "option4": "Advanced Technical Control",
+      "answer": "Air Traffic Control"
+    },
+    {
+      "question": "What is the primary function of Air Traffic Control?",
+      "option1": "Manage and safely coordinate aircraft movements",
+      "option2": "Manufacture aircraft engines",
+      "option3": "Train soldiers",
+      "option4": "Produce aviation fuel",
+      "answer": "Manage and safely coordinate aircraft movements"
+    },
+    {
+      "question": "Which device is used by pilots to communicate with air traffic controllers?",
+      "option1": "Radio",
+      "option2": "Barometer",
+      "option3": "Altimeter",
+      "option4": "Thermometer",
+      "answer": "Radio"
+    },
+    {
+      "question": "What is navigation in aviation?",
+      "option1": "Determining and maintaining the aircraft's route",
+      "option2": "Repairing aircraft engines",
+      "option3": "Refuelling aircraft",
+      "option4": "Painting aircraft",
+      "answer": "Determining and maintaining the aircraft's route"
+    },
+    {
+      "question": "Which satellite navigation system is operated by India?",
+      "option1": "NavIC",
+      "option2": "GPS",
+      "option3": "GLONASS",
+      "option4": "Galileo",
+      "answer": "NavIC"
+    },
+    {
+      "question": "What does GPS stand for?",
+      "option1": "Global Positioning System",
+      "option2": "Global Pilot Service",
+      "option3": "Ground Positioning Signal",
+      "option4": "General Positioning Satellite",
+      "answer": "Global Positioning System"
+    },
+    {
+      "question": "What is the purpose of a flight recorder?",
+      "option1": "Record important flight data",
+      "option2": "Control the aircraft remotely",
+      "option3": "Increase engine power",
+      "option4": "Measure fuel prices",
+      "answer": "Record important flight data"
+    },
+    {
+      "question": "The flight recorder is commonly known as the:",
+      "option1": "Black box",
+      "option2": "White box",
+      "option3": "Control box",
+      "option4": "Radar box",
+      "answer": "Black box"
+    },
+    {
+      "question": "What is the main purpose of a parachute?",
+      "option1": "Slow descent through the air",
+      "option2": "Increase aircraft speed",
+      "option3": "Increase engine power",
+      "option4": "Detect enemy aircraft",
+      "answer": "Slow descent through the air"
+    },
+    {
+      "question": "Which branch of physics deals with the motion of air and its interaction with aircraft?",
+      "option1": "Aerodynamics",
+      "option2": "Optics",
+      "option3": "Thermodynamics only",
+      "option4": "Geology",
+      "answer": "Aerodynamics"
+    },
+    {
+      "question": "Which type of radar is commonly used to detect and track aircraft?",
+      "option1": "Air surveillance radar",
+      "option2": "Weather thermometer",
+      "option3": "Sonar",
+      "option4": "Seismograph",
+      "answer": "Air surveillance radar"
+    },
+    {
+      "question": "What does ECM stand for in military aviation?",
+      "option1": "Electronic Countermeasures",
+      "option2": "Engine Control Mechanism",
+      "option3": "Electronic Communication Mode",
+      "option4": "External Combat Missile",
+      "answer": "Electronic Countermeasures"
+    },
+    {
+      "question": "What is the purpose of electronic countermeasures?",
+      "option1": "Disrupt or deceive enemy electronic systems",
+      "option2": "Increase aircraft fuel capacity",
+      "option3": "Repair aircraft engines",
+      "option4": "Improve pilot accommodation",
+      "answer": "Disrupt or deceive enemy electronic systems"
+    },
+    {
+      "question": "What does ECCM stand for?",
+      "option1": "Electronic Counter-Countermeasures",
+      "option2": "Electronic Combat Control Mechanism",
+      "option3": "Emergency Communication Control Module",
+      "option4": "External Counter Combat Missile",
+      "answer": "Electronic Counter-Countermeasures"
+    },
+    {
+      "question": "What is stealth technology mainly designed to do?",
+      "option1": "Reduce an aircraft's detectability",
+      "option2": "Increase passenger capacity",
+      "option3": "Increase runway length",
+      "option4": "Improve fuel storage",
+      "answer": "Reduce an aircraft's detectability"
+    },
+    {
+      "question": "Which term describes the ability of an aircraft to remain difficult to detect by radar?",
+      "option1": "Stealth",
+      "option2": "Thrust",
+      "option3": "Drag",
+      "option4": "Lift",
+      "answer": "Stealth"
+    },
+    {
+      "question": "What is radar cross-section commonly abbreviated as?",
+      "option1": "RCS",
+      "option2": "RDF",
+      "option3": "RCSM",
+      "option4": "RAT",
+      "answer": "RCS"
+    },
+    {
+      "question": "What does RCS indicate in relation to an aircraft?",
+      "option1": "How detectable it is by radar",
+      "option2": "Its maximum fuel capacity",
+      "option3": "Its engine temperature",
+      "option4": "Its landing speed",
+      "answer": "How detectable it is by radar"
+    },
+    {
+      "question": "Which Indian missile is primarily an air-to-air missile developed jointly by India and Russia?",
+      "option1": "Astra",
+      "option2": "BrahMos",
+      "option3": "Prithvi",
+      "option4": "Agni",
+      "answer": "Astra"
+    },
+    {
+      "question": "What type of missile is BrahMos primarily known as?",
+      "option1": "Supersonic cruise missile",
+      "option2": "Ballistic missile",
+      "option3": "Surface-to-air missile only",
+      "option4": "Air-to-air missile",
+      "answer": "Supersonic cruise missile"
+    },
+    {
+      "question": "BrahMos was jointly developed by India and which country?",
+      "option1": "Russia",
+      "option2": "France",
+      "option3": "Japan",
+      "option4": "Germany",
+      "answer": "Russia"
+    },
+    {
+      "question": "What is the main purpose of an air defence system?",
+      "option1": "Protect against aerial threats",
+      "option2": "Transport military personnel",
+      "option3": "Repair runways",
+      "option4": "Train pilots",
+      "answer": "Protect against aerial threats"
+    },
+    {
+      "question": "Which system is designed to intercept incoming aerial threats?",
+      "option1": "Surface-to-air missile system",
+      "option2": "Transport aircraft",
+      "option3": "Fuel tanker",
+      "option4": "Training aircraft",
+      "answer": "Surface-to-air missile system"
+    },
+    {
+      "question": "What does SAM stand for?",
+      "option1": "Surface-to-Air Missile",
+      "option2": "Supersonic Air Machine",
+      "option3": "Strategic Air Mechanism",
+      "option4": "Surface Aviation Module",
+      "answer": "Surface-to-Air Missile"
+    },
+    {
+      "question": "Which Indian air defence missile system was developed by DRDO and is also known as a medium-range surface-to-air missile system?",
+      "option1": "Akash",
+      "option2": "Astra",
+      "option3": "Agni",
+      "option4": "Prithvi",
+      "answer": "Akash"
+    },
+    {
+      "question": "What is the primary purpose of an interceptor aircraft?",
+      "option1": "Intercept and engage enemy aircraft",
+      "option2": "Transport cargo",
+      "option3": "Carry passengers",
+      "option4": "Refuel other aircraft",
+      "answer": "Intercept and engage enemy aircraft"
+    },
+    {
+      "question": "What is aerial refuelling?",
+      "option1": "Transferring fuel from one aircraft to another during flight",
+      "option2": "Filling aircraft before takeoff only",
+      "option3": "Removing fuel from an aircraft",
+      "option4": "Testing aircraft engines",
+      "answer": "Transferring fuel from one aircraft to another during flight"
+    },
+    {
+      "question": "Which aircraft is operated by the Indian Air Force for aerial refuelling?",
+      "option1": "IL-78",
+      "option2": "C-17",
+      "option3": "Tejas",
+      "option4": "Hawk",
+      "answer": "IL-78"
+    },
+    {
+      "question": "What is the advantage of aerial refuelling?",
+      "option1": "Extends an aircraft's operational range and endurance",
+      "option2": "Reduces aircraft size",
+      "option3": "Eliminates the need for pilots",
+      "option4": "Removes radar systems",
+      "answer": "Extends an aircraft's operational range and endurance"
+    },
+    {
+      "question": "What does UAV stand for?",
+      "option1": "Unmanned Aerial Vehicle",
+      "option2": "Universal Aviation Vehicle",
+      "option3": "United Air Vessel",
+      "option4": "Unarmed Aviation Vehicle",
+      "answer": "Unmanned Aerial Vehicle"
+    },
+    {
+      "question": "Which of the following is an example of an unmanned aerial vehicle?",
+      "option1": "Drone",
+      "option2": "Fighter jet with pilot",
+      "option3": "Transport aircraft with crew",
+      "option4": "Glider with pilot",
+      "answer": "Drone"
+    },
+    {
+      "question": "What is the main advantage of unmanned aerial vehicles in military operations?",
+      "option1": "They can perform missions without an onboard pilot",
+      "option2": "They require larger runways",
+      "option3": "They cannot carry sensors",
+      "option4": "They always fly faster than fighter aircraft",
+      "answer": "They can perform missions without an onboard pilot"
+    },
+    {
+      "question": "What is reconnaissance?",
+      "option1": "Collection of information about an area or target",
+      "option2": "Aircraft refuelling",
+      "option3": "Pilot training",
+      "option4": "Aircraft painting",
+      "answer": "Collection of information about an area or target"
+    },
+    {
+      "question": "Which type of aircraft is specially equipped to gather information about enemy positions?",
+      "option1": "Reconnaissance aircraft",
+      "option2": "Transport aircraft",
+      "option3": "Trainer aircraft",
+      "option4": "Refuelling aircraft",
+      "answer": "Reconnaissance aircraft"
+    },
+    {
+      "question": "What is an airlift operation?",
+      "option1": "Transporting personnel or supplies by air",
+      "option2": "Launching a missile from the ground",
+      "option3": "Refuelling a ship",
+      "option4": "Repairing an aircraft engine",
+      "answer": "Transporting personnel or supplies by air"
+    },
+    {
+      "question": "Which Indian Air Force aircraft is a fourth-generation multirole fighter developed indigenously?",
+      "option1": "Tejas",
+      "option2": "Rafale",
+      "option3": "Mirage 2000",
+      "option4": "MiG-29",
+      "answer": "Tejas"
+    },
+    {
+      "question": "What does ADA stand for in India's aircraft development programme?",
+      "option1": "Aeronautical Development Agency",
+      "option2": "Air Defence Authority",
+      "option3": "Aircraft Design Administration",
+      "option4": "Aerospace Defence Association",
+      "answer": "Aeronautical Development Agency"
+    },
+    {
+      "question": "Which organization is responsible for designing the Tejas Light Combat Aircraft?",
+      "option1": "Aeronautical Development Agency",
+      "option2": "Indian Space Research Organisation",
+      "option3": "Bharat Electronics Limited",
+      "option4": "Indian Navy",
+      "answer": "Aeronautical Development Agency"
+    },
+    {
+      "question": "What does AMCA stand for?",
+      "option1": "Advanced Medium Combat Aircraft",
+      "option2": "Advanced Military Cargo Aircraft",
+      "option3": "Airborne Medium Combat Aircraft",
+      "option4": "Advanced Multirole Cargo Aircraft",
+      "answer": "Advanced Medium Combat Aircraft"
+    },
+    {
+      "question": "The AMCA is planned primarily as what type of aircraft?",
+      "option1": "Stealth multirole fighter",
+      "option2": "Transport aircraft",
+      "option3": "Trainer aircraft",
+      "option4": "Refuelling aircraft",
+      "answer": "Stealth multirole fighter"
+    },
+    {
+      "question": "Which Indian organization is associated with the development of the AMCA?",
+      "option1": "DRDO",
+      "option2": "ISRO",
+      "option3": "RBI",
+      "option4": "SAIL",
+      "answer": "DRDO"
+    },
+    {
+      "question": "What is the primary role of a fighter aircraft?",
+      "option1": "Combat against aerial and other military targets",
+      "option2": "Transport passengers",
+      "option3": "Carry civilian cargo",
+      "option4": "Provide weather forecasts",
+      "answer": "Combat against aerial and other military targets"
+    },
+    {
+      "question": "Which type of aircraft is specifically designed to carry and release bombs?",
+      "option1": "Bomber",
+      "option2": "Transport aircraft",
+      "option3": "Trainer aircraft",
+      "option4": "Refuelling aircraft",
+      "answer": "Bomber"
+    },
+    {
+      "question": "What is a multirole fighter aircraft?",
+      "option1": "An aircraft capable of performing different combat roles",
+      "option2": "An aircraft used only for training",
+      "option3": "An aircraft used only for transport",
+      "option4": "An aircraft without an engine",
+      "answer": "An aircraft capable of performing different combat roles"
+    },
+    {
+      "question": "Which aircraft is widely used by the Indian Air Force as a multirole fighter?",
+      "option1": "Su-30MKI",
+      "option2": "C-17",
+      "option3": "C-130J",
+      "option4": "IL-78",
+      "answer": "Su-30MKI"
+    },
+    {
+      "question": "Which aircraft is associated with the Indian Air Force's air superiority role and was originally developed in Russia?",
+      "option1": "Su-30MKI",
+      "option2": "Tejas",
+      "option3": "Rafale",
+      "option4": "Mirage 2000",
+      "answer": "Su-30MKI"
+    },
+    {
+      "question": "What is the primary purpose of a transport aircraft in military aviation?",
+      "option1": "Carry personnel, equipment and supplies",
+      "option2": "Intercept enemy fighters only",
+      "option3": "Conduct aerial combat only",
+      "option4": "Perform weather observations only",
+      "answer": "Carry personnel, equipment and supplies"
+    },
+    {
+      "question": "Which aircraft is a strategic military transport aircraft used by India?",
+      "option1": "C-17 Globemaster III",
+      "option2": "Tejas",
+      "option3": "MiG-29",
+      "option4": "Rafale",
+      "answer": "C-17 Globemaster III"
+    },
+    {
+      "question": "Which aircraft is primarily used for tactical transport and special operations?",
+      "option1": "C-130J Super Hercules",
+      "option2": "Rafale",
+      "option3": "Su-30MKI",
+      "option4": "Tejas",
+      "answer": "C-130J Super Hercules"
+    },
+    {
+      "question": "What is the purpose of a military airfield?",
+      "option1": "Support military aircraft operations",
+      "option2": "Operate railway trains",
+      "option3": "Store naval ships",
+      "option4": "Manage seaports",
+      "answer": "Support military aircraft operations"
+    },
+    {
+      "question": "What is an air base?",
+      "option1": "A military facility used for aircraft operations",
+      "option2": "A civilian railway station",
+      "option3": "A naval submarine",
+      "option4": "A missile only",
+      "answer": "A military facility used for aircraft operations"
+    },
+    {
+      "question": "What is a squadron in the Indian Air Force?",
+      "option1": "An operational unit of aircraft and personnel",
+      "option2": "A type of aircraft engine",
+      "option3": "A navigation instrument",
+      "option4": "A military uniform",
+      "answer": "An operational unit of aircraft and personnel"
+    },
+    {
+      "question": "Which unit is commonly associated with a group of fighter aircraft and their personnel?",
+      "option1": "Squadron",
+      "option2": "Battalion",
+      "option3": "Regiment",
+      "option4": "Brigade",
+      "answer": "Squadron"
+    },
+    {
+      "question": "What is a sortie in military aviation?",
+      "option1": "A single operational flight by an aircraft",
+      "option2": "An aircraft engine",
+      "option3": "A radar station",
+      "option4": "A type of runway",
+      "answer": "A single operational flight by an aircraft"
+    },
+    {
+      "question": "What is an air patrol?",
+      "option1": "A flight conducted to monitor or protect an area",
+      "option2": "Aircraft maintenance inside a hangar",
+      "option3": "Fuel storage activity",
+      "option4": "Pilot examination",
+      "answer": "A flight conducted to monitor or protect an area"
+    },
+    {
+      "question": "What is close air support?",
+      "option1": "Air action conducted in support of ground forces near the battlefield",
+      "option2": "Aircraft maintenance",
+      "option3": "Passenger transport",
+      "option4": "Weather monitoring",
+      "answer": "Air action conducted in support of ground forces near the battlefield"
+    },
+    {
+      "question": "What is air superiority?",
+      "option1": "A degree of control of the air that allows military operations with reduced enemy interference",
+      "option2": "Highest aircraft speed",
+      "option3": "Maximum aircraft altitude",
+      "option4": "Largest aircraft size",
+      "answer": "A degree of control of the air that allows military operations with reduced enemy interference"
+    },
+    {
+      "question": "What is air defence?",
+      "option1": "Measures used to protect against aerial attacks",
+      "option2": "Aircraft passenger service",
+      "option3": "Aircraft manufacturing",
+      "option4": "Pilot recreation",
+      "answer": "Measures used to protect against aerial attacks"
+    },
+    {
+      "question": "Which system helps identify whether a detected aircraft is friendly or unknown?",
+      "option1": "Identification Friend or Foe",
+      "option2": "Aircraft Fuel System",
+      "option3": "Flight Data Recorder",
+      "option4": "Landing Gear System",
+      "answer": "Identification Friend or Foe"
+    },
+    {
+      "question": "What does IFF stand for?",
+      "option1": "Identification Friend or Foe",
+      "option2": "Indian Flight Force",
+      "option3": "Integrated Fighter Framework",
+      "option4": "International Flight Facility",
+      "answer": "Identification Friend or Foe"
+    },
+     {
+      "question": "Which force protects India's airspace as part of the country's national defence system?",
+      "option1": "Indian Air Force",
+      "option2": "Indian Coast Guard",
+      "option3": "Border Security Force",
+      "option4": "Central Reserve Police Force",
+      "answer": "Indian Air Force"
+    },
+    {
+      "question": "Which day is celebrated as Indian Air Force Day every year?",
+      "option1": "8 October",
+      "option2": "15 January",
+      "option3": "4 December",
+      "option4": "26 January",
+      "answer": "8 October"
+    },
+    {
+      "question": "In which year was the Indian Air Force established?",
+      "option1": "1932",
+      "option2": "1947",
+      "option3": "1950",
+      "option4": "1962",
+      "answer": "1932"
+    },
+    {
+      "question": "Which act originally provided the legal basis for the establishment of the Indian Air Force?",
+      "option1": "Indian Air Force Act, 1932",
+      "option2": "Defence Act, 1947",
+      "option3": "Air Security Act, 1950",
+      "option4": "Armed Forces Act, 1962",
+      "answer": "Indian Air Force Act, 1932"
+    },
+    {
+      "question": "What is the official motto of the Indian Air Force?",
+      "option1": "Touch the Sky with Glory",
+      "option2": "Service Before Self",
+      "option3": "Victory Through Unity",
+      "option4": "Nation First",
+      "answer": "Touch the Sky with Glory"
+    },
+    {
+      "question": "The motto of the Indian Air Force is derived from which ancient Indian language?",
+      "option1": "Sanskrit",
+      "option2": "Tamil",
+      "option3": "Persian",
+      "option4": "Pali",
+      "answer": "Sanskrit"
+    },
+    {
+      "question": "What is the English meaning of the IAF motto 'Nabha Sparsham Deeptham'?",
+      "option1": "Touch the Sky with Glory",
+      "option2": "Service Before Self",
+      "option3": "Victory Is Ours",
+      "option4": "Strength Through Unity",
+      "answer": "Touch the Sky with Glory"
+    },
+    {
+      "question": "Who is the Supreme Commander of the Indian Armed Forces?",
+      "option1": "President of India",
+      "option2": "Prime Minister of India",
+      "option3": "Chief of Defence Staff",
+      "option4": "Defence Minister",
+      "answer": "President of India"
+    },
+    {
+      "question": "Which ministry is responsible for the administration of the Indian Air Force?",
+      "option1": "Ministry of Defence",
+      "option2": "Ministry of Home Affairs",
+      "option3": "Ministry of Civil Aviation",
+      "option4": "Ministry of External Affairs",
+      "answer": "Ministry of Defence"
+    },
+    {
+      "question": "What is the headquarters of the Indian Air Force located in?",
+      "option1": "New Delhi",
+      "option2": "Mumbai",
+      "option3": "Bengaluru",
+      "option4": "Hyderabad",
+      "answer": "New Delhi"
+    },
+    {
+      "question": "Which academy is located at Dundigal near Hyderabad?",
+      "option1": "Air Force Academy",
+      "option2": "Indian Military Academy",
+      "option3": "Naval Academy",
+      "option4": "Officers Training Academy",
+      "answer": "Air Force Academy"
+    },
+    {
+      "question": "What is the main purpose of the Air Force Academy at Dundigal?",
+      "option1": "Training Air Force officers",
+      "option2": "Manufacturing fighter aircraft",
+      "option3": "Testing missiles",
+      "option4": "Operating commercial flights",
+      "answer": "Training Air Force officers"
+    },
+    {
+      "question": "Which organization manufactures the Tejas aircraft?",
+      "option1": "Hindustan Aeronautics Limited",
+      "option2": "Bharat Electronics Limited",
+      "option3": "Bharat Dynamics Limited",
+      "option4": "Indian Space Research Organisation",
+      "answer": "Hindustan Aeronautics Limited"
+    },
+    {
+      "question": "What is the full form of HAL?",
+      "option1": "Hindustan Aeronautics Limited",
+      "option2": "Heavy Aircraft Logistics",
+      "option3": "Hindustan Aviation Laboratory",
+      "option4": "High Altitude Aviation Limited",
+      "answer": "Hindustan Aeronautics Limited"
+    },
+    {
+      "question": "Which aircraft is India's indigenous Light Combat Aircraft?",
+      "option1": "Tejas",
+      "option2": "Rafale",
+      "option3": "Mirage 2000",
+      "option4": "Su-30MKI",
+      "answer": "Tejas"
+    },
+    {
+      "question": "Which fighter aircraft is associated with the French company Dassault Aviation?",
+      "option1": "Rafale",
+      "option2": "Su-30MKI",
+      "option3": "Tejas",
+      "option4": "MiG-29",
+      "answer": "Rafale"
+    },
+    {
+      "question": "Which aircraft is used by the Indian Air Force for strategic heavy airlift?",
+      "option1": "C-17 Globemaster III",
+      "option2": "Tejas",
+      "option3": "Rafale",
+      "option4": "MiG-29",
+      "answer": "C-17 Globemaster III"
+    },
+    {
+      "question": "Which aircraft is used for tactical airlift and special operations?",
+      "option1": "C-130J Super Hercules",
+      "option2": "Rafale",
+      "option3": "Tejas",
+      "option4": "Mirage 2000",
+      "answer": "C-130J Super Hercules"
+    },
+    {
+      "question": "Which helicopter is designed mainly for attack missions and operated by the Indian Air Force?",
+      "option1": "AH-64 Apache",
+      "option2": "CH-47 Chinook",
+      "option3": "Mi-17",
+      "option4": "Chetak",
+      "answer": "AH-64 Apache"
+    },
+    {
+      "question": "Which helicopter is primarily used for heavy-lift operations?",
+      "option1": "CH-47 Chinook",
+      "option2": "AH-64 Apache",
+      "option3": "Chetak",
+      "option4": "Rafale",
+      "answer": "CH-47 Chinook"
+    },
+    {
+      "question": "What is the primary purpose of a radar system in air defence?",
+      "option1": "Detect and track aerial objects",
+      "option2": "Refuel aircraft",
+      "option3": "Repair engines",
+      "option4": "Train pilots",
+      "answer": "Detect and track aerial objects"
+    },
+    {
+      "question": "What does SAM stand for in air defence?",
+      "option1": "Surface-to-Air Missile",
+      "option2": "Strategic Air Mechanism",
+      "option3": "Supersonic Air Missile",
+      "option4": "Surface Aviation Module",
+      "answer": "Surface-to-Air Missile"
+    },
+    {
+      "question": "Which missile system is known as India's medium-range surface-to-air missile system?",
+      "option1": "Akash",
+      "option2": "Astra",
+      "option3": "Agni",
+      "option4": "Prithvi",
+      "answer": "Akash"
+    },
+    {
+      "question": "Which Indian air-to-air missile is named after the Sanskrit word for 'sky'?",
+      "option1": "Astra",
+      "option2": "Akash",
+      "option3": "Agni",
+      "option4": "Nag",
+      "answer": "Astra"
+    },
+    {
+      "question": "Which system is used to identify an aircraft as friendly or unknown?",
+      "option1": "IFF",
+      "option2": "GPS",
+      "option3": "ATC",
+      "option4": "UAV",
+      "answer": "IFF"
+    }
+  ]
+}

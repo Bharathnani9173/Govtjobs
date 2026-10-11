@@ -1,0 +1,409 @@
+{
+  "exam": "Indian Army Agniveer Tradesman",
+  "subjects": {
+    "General Knowledge": [
+      {
+        "question": "Who is known as the Father of the Indian Constitution?",
+        "option1": "Mahatma Gandhi",
+        "option2": "Dr. B. R. Ambedkar",
+        "option3": "Jawaharlal Nehru",
+        "option4": "Sardar Vallabhbhai Patel",
+        "answer": "Dr. B. R. Ambedkar"
+      },
+      {
+        "question": "What is the capital of India?",
+        "option1": "Mumbai",
+        "option2": "New Delhi",
+        "option3": "Kolkata",
+        "option4": "Chennai",
+        "answer": "New Delhi"
+      },
+      {
+        "question": "Which is the longest river in India?",
+        "option1": "Yamuna",
+        "option2": "Godavari",
+        "option3": "Ganga",
+        "option4": "Narmada",
+        "answer": "Ganga"
+      },
+      {
+        "question": "Who was the first President of India?",
+        "option1": "Dr. Rajendra Prasad",
+        "option2": "Dr. S. Radhakrishnan",
+        "option3": "Jawaharlal Nehru",
+        "option4": "Zakir Husain",
+        "answer": "Dr. Rajendra Prasad"
+      },
+      {
+        "question": "Which is the largest state in India by area?",
+        "option1": "Madhya Pradesh",
+        "option2": "Maharashtra",
+        "option3": "Rajasthan",
+        "option4": "Uttar Pradesh",
+        "answer": "Rajasthan"
+      },
+      {
+        "question": "Which Indian state has the longest coastline?",
+        "option1": "Tamil Nadu",
+        "option2": "Gujarat",
+        "option3": "Andhra Pradesh",
+        "option4": "Maharashtra",
+        "answer": "Gujarat"
+      },
+      {
+        "question": "The Indian Parliament consists of Lok Sabha and which other house?",
+        "option1": "Vidhan Sabha",
+        "option2": "Rajya Sabha",
+        "option3": "Vidhan Parishad",
+        "option4": "Legislative Council",
+        "answer": "Rajya Sabha"
+      },
+      {
+        "question": "Who was the first Prime Minister of independent India?",
+        "option1": "Sardar Vallabhbhai Patel",
+        "option2": "Dr. Rajendra Prasad",
+        "option3": "Jawaharlal Nehru",
+        "option4": "Lal Bahadur Shastri",
+        "answer": "Jawaharlal Nehru"
+      },
+      {
+        "question": "Which is the national animal of India?",
+        "option1": "Lion",
+        "option2": "Elephant",
+        "option3": "Bengal Tiger",
+        "option4": "Leopard",
+        "answer": "Bengal Tiger"
+      },
+      {
+        "question": "Which is the national aquatic animal of India?",
+        "option1": "Blue Whale",
+        "option2": "Ganges River Dolphin",
+        "option3": "Crocodile",
+        "option4": "Sea Turtle",
+        "answer": "Ganges River Dolphin"
+      },
+      {
+        "question": "Where is the headquarters of the Indian Army located?",
+        "option1": "Mumbai",
+        "option2": "New Delhi",
+        "option3": "Pune",
+        "option4": "Chennai",
+        "answer": "New Delhi"
+      },
+      {
+        "question": "What is the highest military rank in the Indian Army?",
+        "option1": "General",
+        "option2": "Field Marshal",
+        "option3": "Lieutenant General",
+        "option4": "Colonel",
+        "answer": "Field Marshal"
+      },
+      {
+        "question": "Which organization is responsible for India's defence research and development?",
+        "option1": "ISRO",
+        "option2": "DRDO",
+        "option3": "BARC",
+        "option4": "CSIR",
+        "answer": "DRDO"
+      },
+      {
+        "question": "What does DRDO stand for?",
+        "option1": "Defence Research and Development Organisation",
+        "option2": "Department of Research and Defence Operations",
+        "option3": "Defence Resources Development Organisation",
+        "option4": "Department of Research Development Organisation",
+        "answer": "Defence Research and Development Organisation"
+      },
+      {
+        "question": "Which is the highest civilian award in India?",
+        "option1": "Padma Vibhushan",
+        "option2": "Padma Bhushan",
+        "option3": "Bharat Ratna",
+        "option4": "Ashoka Chakra",
+        "answer": "Bharat Ratna"
+      },
+      {
+        "question": "Which day is observed as Republic Day in India?",
+        "option1": "15 August",
+        "option2": "26 January",
+        "option3": "2 October",
+        "option4": "14 November",
+        "answer": "26 January"
+      },
+      {
+        "question": "Which day is observed as Independence Day in India?",
+        "option1": "26 January",
+        "option2": "15 August",
+        "option3": "2 October",
+        "option4": "5 September",
+        "answer": "15 August"
+      },
+      {
+        "question": "Who wrote the Indian national anthem?",
+        "option1": "Bankim Chandra Chattopadhyay",
+        "option2": "Rabindranath Tagore",
+        "option3": "Sarojini Naidu",
+        "option4": "Subramania Bharati",
+        "answer": "Rabindranath Tagore"
+      },
+      {
+        "question": "Which is the largest planet in the Solar System?",
+        "option1": "Earth",
+        "option2": "Saturn",
+        "option3": "Jupiter",
+        "option4": "Neptune",
+        "answer": "Jupiter"
+      },
+      {
+        "question": "Which planet is known as the Red Planet?",
+        "option1": "Venus",
+        "option2": "Mars",
+        "option3": "Jupiter",
+        "option4": "Mercury",
+        "answer": "Mars"
+      },
+      {
+        "question": "Which Indian city is known as the Pink City?",
+        "option1": "Jaipur",
+        "option2": "Jodhpur",
+        "option3": "Udaipur",
+        "option4": "Bikaner",
+        "answer": "Jaipur"
+      },
+      {
+        "question": "Which is the smallest state in India by area?",
+        "option1": "Sikkim",
+        "option2": "Goa",
+        "option3": "Tripura",
+        "option4": "Manipur",
+        "answer": "Goa"
+      },
+      {
+        "question": "Which mountain range separates the Indian subcontinent from the Tibetan Plateau?",
+        "option1": "Aravalli",
+        "option2": "Western Ghats",
+        "option3": "Himalayas",
+        "option4": "Vindhyas",
+        "answer": "Himalayas"
+      },
+      {
+        "question": "Which Indian state is known as the Land of Rising Sun?",
+        "option1": "Assam",
+        "option2": "Arunachal Pradesh",
+        "option3": "Sikkim",
+        "option4": "Nagaland",
+        "answer": "Arunachal Pradesh"
+      },
+      {
+        "question": "Which constitutional body conducts elections in India?",
+        "option1": "Union Public Service Commission",
+        "option2": "Election Commission of India",
+        "option3": "Finance Commission",
+        "option4": "Planning Commission",
+        "answer": "Election Commission of India"
+      }
+    ],
+    "General Science": [
+         {
+    "question": "What is the basic unit of life?",
+    "option1": "Tissue",
+    "option2": "Cell",
+    "option3": "Organ",
+    "option4": "Atom",
+    "answer": "Cell"
+  },
+  {
+    "question": "Which organ pumps blood throughout the human body?",
+    "option1": "Lungs",
+    "option2": "Kidney",
+    "option3": "Heart",
+    "option4": "Liver",
+    "answer": "Heart"
+  },
+  {
+    "question": "Which gas is essential for human respiration?",
+    "option1": "Carbon dioxide",
+    "option2": "Nitrogen",
+    "option3": "Oxygen",
+    "option4": "Hydrogen",
+    "answer": "Oxygen"
+  },
+  {
+    "question": "What is the chemical formula of water?",
+    "option1": "CO2",
+    "option2": "H2O",
+    "option3": "O2",
+    "option4": "NaCl",
+    "answer": "H2O"
+  },
+  {
+    "question": "Which vitamin is mainly produced in the skin in sunlight?",
+    "option1": "Vitamin A",
+    "option2": "Vitamin B12",
+    "option3": "Vitamin C",
+    "option4": "Vitamin D",
+    "answer": "Vitamin D"
+  },
+  {
+    "question": "Which part of the plant carries out most photosynthesis?",
+    "option1": "Root",
+    "option2": "Stem",
+    "option3": "Leaf",
+    "option4": "Flower",
+    "answer": "Leaf"
+  },
+  {
+    "question": "Which gas do plants absorb during photosynthesis?",
+    "option1": "Oxygen",
+    "option2": "Nitrogen",
+    "option3": "Carbon dioxide",
+    "option4": "Hydrogen",
+    "answer": "Carbon dioxide"
+  },
+  {
+    "question": "What force attracts objects towards the Earth?",
+    "option1": "Friction",
+    "option2": "Gravity",
+    "option3": "Magnetism",
+    "option4": "Pressure",
+    "answer": "Gravity"
+  },
+  {
+    "question": "What is the SI unit of force?",
+    "option1": "Joule",
+    "option2": "Watt",
+    "option3": "Newton",
+    "option4": "Pascal",
+    "answer": "Newton"
+  },
+  {
+    "question": "What is the SI unit of electric current?",
+    "option1": "Volt",
+    "option2": "Ohm",
+    "option3": "Ampere",
+    "option4": "Watt",
+    "answer": "Ampere"
+  },
+  {
+    "question": "Which metal is liquid at room temperature?",
+    "option1": "Iron",
+    "option2": "Mercury",
+    "option3": "Copper",
+    "option4": "Aluminium",
+    "answer": "Mercury"
+  },
+  {
+    "question": "What is the pH value of pure water at room temperature?",
+    "option1": "5",
+    "option2": "6",
+    "option3": "7",
+    "option4": "9",
+    "answer": "7"
+  },
+  {
+    "question": "Which gas is most abundant in Earth's atmosphere?",
+    "option1": "Oxygen",
+    "option2": "Nitrogen",
+    "option3": "Carbon dioxide",
+    "option4": "Hydrogen",
+    "answer": "Nitrogen"
+  },
+  {
+    "question": "Which blood cells help fight infections?",
+    "option1": "Red blood cells",
+    "option2": "White blood cells",
+    "option3": "Platelets",
+    "option4": "Plasma cells",
+    "answer": "White blood cells"
+  },
+  {
+    "question": "Which blood cells are mainly responsible for carrying oxygen?",
+    "option1": "White blood cells",
+    "option2": "Platelets",
+    "option3": "Red blood cells",
+    "option4": "Plasma",
+    "answer": "Red blood cells"
+  },
+  {
+    "question": "Which organ is primarily responsible for filtering waste from the blood?",
+    "option1": "Heart",
+    "option2": "Kidney",
+    "option3": "Lungs",
+    "option4": "Stomach",
+    "answer": "Kidney"
+  },
+  {
+    "question": "Which instrument is used to measure temperature?",
+    "option1": "Barometer",
+    "option2": "Thermometer",
+    "option3": "Hygrometer",
+    "option4": "Ammeter",
+    "answer": "Thermometer"
+  },
+  {
+    "question": "Which instrument measures atmospheric pressure?",
+    "option1": "Thermometer",
+    "option2": "Barometer",
+    "option3": "Ammeter",
+    "option4": "Voltmeter",
+    "answer": "Barometer"
+  },
+  {
+    "question": "Which is the hardest natural substance?",
+    "option1": "Gold",
+    "option2": "Iron",
+    "option3": "Diamond",
+    "option4": "Quartz",
+    "answer": "Diamond"
+  },
+  {
+    "question": "What type of energy is stored in food?",
+    "option1": "Chemical energy",
+    "option2": "Light energy",
+    "option3": "Sound energy",
+    "option4": "Nuclear energy",
+    "answer": "Chemical energy"
+  },
+  {
+    "question": "Which planet has the strongest known winds in the Solar System?",
+    "option1": "Earth",
+    "option2": "Mars",
+    "option3": "Neptune",
+    "option4": "Mercury",
+    "answer": "Neptune"
+  },
+  {
+    "question": "What is the boiling point of water at standard atmospheric pressure?",
+    "option1": "50°C",
+    "option2": "75°C",
+    "option3": "100°C",
+    "option4": "150°C",
+    "answer": "100°C"
+  },
+  {
+    "question": "Which acid is present in lemon juice?",
+    "option1": "Hydrochloric acid",
+    "option2": "Citric acid",
+    "option3": "Sulfuric acid",
+    "option4": "Nitric acid",
+    "answer": "Citric acid"
+  },
+  {
+    "question": "Which device converts electrical energy into mechanical energy?",
+    "option1": "Electric motor",
+    "option2": "Battery",
+    "option3": "Generator",
+    "option4": "Transformer",
+    "answer": "Electric motor"
+  },
+  {
+    "question": "Which part of the human body controls most voluntary actions?",
+    "option1": "Heart",
+    "option2": "Brain",
+    "option3": "Liver",
+    "option4": "Kidney",
+    "answer": "Brain"
+  }
+    ]
+  }
+}

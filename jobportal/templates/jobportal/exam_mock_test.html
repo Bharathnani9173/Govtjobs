@@ -7,29 +7,37 @@
     <!-- Header -->
     <div class="text-center mb-4">
         <h1>{{ exam.name }}</h1>
+
         <p class="text-muted">
-            Mock Test — 50 Questions | 20 Minutes
+            Mock Test — {{ questions|length }} Questions | {{ duration_minutes }} Minutes
         </p>
     </div>
+
 
     <!-- Timer -->
     <div class="text-center mb-4">
         <h3>
             Time Left:
-            <span id="timer">20:00</span>
+            <span id="timer">Loading...</span>
         </h3>
     </div>
 
+
     <!-- Progress -->
     <div class="progress mb-4" style="height: 25px;">
+
         <div
             id="progressBar"
             class="progress-bar"
             role="progressbar"
-            style="width: 0%;">
+            style="width: 10%;">
+
             Question 1 of {{ questions|length }}
+
         </div>
+
     </div>
+
 
     <!-- Test Form -->
     <form method="POST" id="mockTestForm">
@@ -43,27 +51,41 @@
             value="{{ question_ids }}"
         >
 
+
+        <!-- QUESTIONS -->
+
         {% for question in questions %}
 
-        <div 
-           class="question-card card shadow-sm mb-4 {% if not forloop.first %}d-none{% endif %}"
-           data-question="{{ forloop.counter }}"
+        <div
+            class="question-card card shadow-sm mb-4 {% if not forloop.first %}d-none{% endif %}"
+            data-question="{{ forloop.counter }}"
         >
 
             <div class="card-body">
 
-                <h5>
-                    Question {{ forloop.counter }} of {{ questions|length }}
+                <!-- Question Number -->
+
+                <h5 class="mb-3">
+                    Question {{ forloop.counter }}
+                    of {{ questions|length }}
                 </h5>
 
                 <hr>
 
-                <p class="fs-5">
+
+                <!-- QUESTION TEXT -->
+
+                <p class="fs-5 fw-bold">
+
                     {{ question.question }}
+
                 </p>
 
-                <!-- Option 1 -->
+
+                <!-- OPTION 1 -->
+
                 <div class="form-check mb-3">
+
                     <input
                         class="form-check-input"
                         type="radio"
@@ -71,16 +93,23 @@
                         value="{{ question.option1 }}"
                         id="q{{ question.id }}_1"
                     >
+
                     <label
                         class="form-check-label"
                         for="q{{ question.id }}_1"
                     >
+
                         {{ question.option1 }}
+
                     </label>
+
                 </div>
 
-                <!-- Option 2 -->
+
+                <!-- OPTION 2 -->
+
                 <div class="form-check mb-3">
+
                     <input
                         class="form-check-input"
                         type="radio"
@@ -88,16 +117,23 @@
                         value="{{ question.option2 }}"
                         id="q{{ question.id }}_2"
                     >
+
                     <label
                         class="form-check-label"
                         for="q{{ question.id }}_2"
                     >
+
                         {{ question.option2 }}
+
                     </label>
+
                 </div>
 
-                <!-- Option 3 -->
+
+                <!-- OPTION 3 -->
+
                 <div class="form-check mb-3">
+
                     <input
                         class="form-check-input"
                         type="radio"
@@ -105,16 +141,23 @@
                         value="{{ question.option3 }}"
                         id="q{{ question.id }}_3"
                     >
+
                     <label
                         class="form-check-label"
                         for="q{{ question.id }}_3"
                     >
+
                         {{ question.option3 }}
+
                     </label>
+
                 </div>
 
-                <!-- Option 4 -->
+
+                <!-- OPTION 4 -->
+
                 <div class="form-check mb-3">
+
                     <input
                         class="form-check-input"
                         type="radio"
@@ -122,22 +165,36 @@
                         value="{{ question.option4 }}"
                         id="q{{ question.id }}_4"
                     >
+
                     <label
                         class="form-check-label"
                         for="q{{ question.id }}_4"
                     >
+
                         {{ question.option4 }}
+
                     </label>
+
                 </div>
 
             </div>
 
         </div>
 
+        {% empty %}
+
+        <div class="alert alert-danger">
+
+            No questions available for this exam.
+
+        </div>
+
         {% endfor %}
 
+
         <!-- Navigation -->
-        <div class="d-flex justify-content-between">
+
+        <div class="d-flex justify-content-between mt-4">
 
             <button
                 type="button"
@@ -146,8 +203,11 @@
                 onclick="previousQuestion()"
                 disabled
             >
+
                 Previous
+
             </button>
+
 
             <button
                 type="button"
@@ -155,16 +215,21 @@
                 class="btn btn-primary"
                 onclick="nextQuestion()"
             >
+
                 Next
+
             </button>
+
 
             <button
                 type="submit"
                 id="submitBtn"
                 class="btn btn-success"
-                style="display:none;"
+                style="display: none;"
             >
+
                 Submit Test
+
             </button>
 
         </div>
@@ -174,78 +239,140 @@
 </div>
 
 
+
 <script>
+
+/* =========================================
+   QUESTIONS
+========================================= */
 
 let currentQuestion = 0;
 
-const questions = document.querySelectorAll(".question-card");
+const questions =
+    document.querySelectorAll(".question-card");
 
-const totalQuestions = questions.length;
-
-const timerElement = document.getElementById("timer");
-
-const progressBar = document.getElementById("progressBar");
-
-const previousBtn = document.getElementById("previousBtn");
-
-const nextBtn = document.getElementById("nextBtn");
-
-const submitBtn = document.getElementById("submitBtn");
+const totalQuestions =
+    questions.length;
 
 
-// Show question
+/* =========================================
+   ELEMENTS
+========================================= */
+
+const timerElement =
+    document.getElementById("timer");
+
+const progressBar =
+    document.getElementById("progressBar");
+
+const previousBtn =
+    document.getElementById("previousBtn");
+
+const nextBtn =
+    document.getElementById("nextBtn");
+
+const submitBtn =
+    document.getElementById("submitBtn");
+
+const mockTestForm =
+    document.getElementById("mockTestForm");
+
+
+/* =========================================
+   SHOW QUESTION
+========================================= */
+
 function showQuestion(index) {
 
-    questions.forEach((question, i) => {
+    if (totalQuestions === 0) {
+        return;
+    }
 
-        question.classList.toggle("d-none", i !== index);
+
+    questions.forEach(function(question, i) {
+
+        if (i === index) {
+
+            question.classList.remove("d-none");
+
+        } else {
+
+            question.classList.add("d-none");
+
+        }
 
     });
 
-    // Previous button
-    previousBtn.disabled = index === 0;
 
-    // Next / Submit
+    /* Previous */
+
+    previousBtn.disabled =
+        index === 0;
+
+
+    /* Next / Submit */
+
     if (index === totalQuestions - 1) {
 
         nextBtn.style.display = "none";
 
-        submitBtn.style.display = "inline-block";
+        submitBtn.style.display =
+            "inline-block";
 
     } else {
 
-        nextBtn.style.display = "inline-block";
+        nextBtn.style.display =
+            "inline-block";
 
-        submitBtn.style.display = "none";
+        submitBtn.style.display =
+            "none";
+
     }
 
-    // Progress
-    let percentage =
+
+    /* Progress */
+
+    const percentage =
         ((index + 1) / totalQuestions) * 100;
 
-    progressBar.style.width = percentage + "%";
+
+    progressBar.style.width =
+        percentage + "%";
+
 
     progressBar.innerText =
         "Question " +
         (index + 1) +
         " of " +
         totalQuestions;
+
 }
 
 
-// Next question
+/* =========================================
+   NEXT QUESTION
+========================================= */
+
 function nextQuestion() {
 
-    if (currentQuestion < totalQuestions - 1) {
+    if (
+        currentQuestion <
+        totalQuestions - 1
+    ) {
 
         currentQuestion++;
 
         showQuestion(currentQuestion);
+
     }
+
 }
 
 
-// Previous question
+/* =========================================
+   PREVIOUS QUESTION
+========================================= */
+
 function previousQuestion() {
 
     if (currentQuestion > 0) {
@@ -253,54 +380,78 @@ function previousQuestion() {
         currentQuestion--;
 
         showQuestion(currentQuestion);
+
     }
+
 }
 
 
-// Timer
-let timeLeft = 20 * 60;
+/* =========================================
+   TIMER
+========================================= */
 
-const timer = setInterval(function() {
+let timeLeft = Number("{{ duration_minutes|default:20 }}") * 60;
+let timerSubmitted = false;
+let timer = null;
 
-    let minutes = Math.floor(timeLeft / 60);
+function updateTimer() {
+    if (timerSubmitted) {
+        return;
+    }
 
-    let seconds = timeLeft % 60;
+    const minutes = Math.floor(timeLeft / 60);
+    const seconds = timeLeft % 60;
 
-    seconds =
-        seconds < 10
-        ? "0" + seconds
-        : seconds;
-
-    timerElement.innerText =
-        minutes + ":" + seconds;
+    timerElement.textContent =
+        String(minutes).padStart(2, "0") + ":" +
+        String(seconds).padStart(2, "0");
 
     if (timeLeft <= 0) {
-
+        timerSubmitted = true;
         clearInterval(timer);
 
+        timerElement.textContent = "00:00";
         alert("Time is over! Your test will be submitted.");
 
-        document.getElementById("mockTestForm").submit();
-
+        mockTestForm.submit();
+        return;
     }
 
     timeLeft--;
+}
 
-}, 1000);
+updateTimer();
+timer = setInterval(updateTimer, 1000);
+
+mockTestForm.addEventListener("submit", function () {
+    timerSubmitted = true;
+    clearInterval(timer);
+});
 
 
-// Start
+
+
+/* =========================================
+   START
+========================================= */
+
 showQuestion(0);
 
 
-// Warn before leaving
-window.addEventListener("beforeunload", function(event) {
+/* =========================================
+   WARN BEFORE LEAVING
+========================================= */
 
-    event.preventDefault();
+window.addEventListener(
+    "beforeunload",
+    function(event) {
 
-    event.returnValue = "";
+        event.preventDefault();
 
-});
+        event.returnValue = "";
+
+    }
+);
 
 </script>
 

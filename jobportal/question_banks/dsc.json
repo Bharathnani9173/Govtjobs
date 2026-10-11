@@ -1,0 +1,1605 @@
+{
+  "exam": "DSC",
+  "questions": [
+    {
+      "question": "Which body conducts the Teacher Recruitment Test for government schools in Telangana?",
+      "option1": "TSPSC",
+      "option2": "Department of School Education",
+      "option3": "TSCHE",
+      "option4": "SCERT",
+      "answer": "Department of School Education"
+    },
+    {
+      "question": "What does DSC stand for in teacher recruitment?",
+      "option1": "District Selection Committee",
+      "option2": "District School Committee",
+      "option3": "Department Selection Commission",
+      "option4": "District Staff Commission",
+      "answer": "District Selection Committee"
+    },
+    {
+      "question": "Which qualification is generally required for a Secondary Grade Teacher (SGT)?",
+      "option1": "B.Tech",
+      "option2": "D.El.Ed or equivalent teacher education qualification",
+      "option3": "MBA",
+      "option4": "LLB",
+      "answer": "D.El.Ed or equivalent teacher education qualification"
+    },
+    {
+      "question": "Which examination is commonly required for eligibility to become a teacher in Telangana?",
+      "option1": "TET",
+      "option2": "GATE",
+      "option3": "CAT",
+      "option4": "CLAT",
+      "answer": "TET"
+    },
+    {
+      "question": "TET stands for:",
+      "option1": "Teacher Eligibility Test",
+      "option2": "Teaching Education Test",
+      "option3": "Teacher Entrance Training",
+      "option4": "Technical Education Test",
+      "answer": "Teacher Eligibility Test"
+    },
+    {
+      "question": "Which paper of TET is generally associated with teaching Classes I to V?",
+      "option1": "Paper I",
+      "option2": "Paper II",
+      "option3": "Paper III",
+      "option4": "Paper IV",
+      "answer": "Paper I"
+    },
+    {
+      "question": "Which paper of TET is generally associated with teaching Classes VI to VIII?",
+      "option1": "Paper I",
+      "option2": "Paper II",
+      "option3": "Paper III",
+      "option4": "Paper IV",
+      "answer": "Paper II"
+    },
+    {
+      "question": "Which of the following is a principle of child-centered education?",
+      "option1": "Teacher does all the talking",
+      "option2": "Students actively participate in learning",
+      "option3": "Students only memorize textbooks",
+      "option4": "No classroom interaction",
+      "answer": "Students actively participate in learning"
+    },
+    {
+      "question": "What is formative assessment?",
+      "option1": "Assessment conducted only at the end of the year",
+      "option2": "Assessment used during the learning process",
+      "option3": "Entrance examination",
+      "option4": "Competitive examination",
+      "answer": "Assessment used during the learning process"
+    },
+    {
+      "question": "What is the main purpose of formative assessment?",
+      "option1": "To improve the learning process",
+      "option2": "To select students for jobs",
+      "option3": "To conduct admissions",
+      "option4": "To prepare certificates",
+      "answer": "To improve the learning process"
+    },
+    {
+      "question": "Which learning theory is associated with Jean Piaget?",
+      "option1": "Cognitive development theory",
+      "option2": "Classical conditioning",
+      "option3": "Operant conditioning",
+      "option4": "Social learning theory",
+      "answer": "Cognitive development theory"
+    },
+    {
+      "question": "Who proposed the theory of Social Learning?",
+      "option1": "Albert Bandura",
+      "option2": "Jean Piaget",
+      "option3": "B.F. Skinner",
+      "option4": "Ivan Pavlov",
+      "answer": "Albert Bandura"
+    },
+    {
+      "question": "Who is associated with classical conditioning?",
+      "option1": "Ivan Pavlov",
+      "option2": "Albert Bandura",
+      "option3": "Jerome Bruner",
+      "option4": "Jean Piaget",
+      "answer": "Ivan Pavlov"
+    },
+    {
+      "question": "Who developed the theory of operant conditioning?",
+      "option1": "B.F. Skinner",
+      "option2": "Jean Piaget",
+      "option3": "Lev Vygotsky",
+      "option4": "John Dewey",
+      "answer": "B.F. Skinner"
+    },
+    {
+      "question": "What is the Zone of Proximal Development associated with?",
+      "option1": "Lev Vygotsky",
+      "option2": "Jean Piaget",
+      "option3": "Ivan Pavlov",
+      "option4": "B.F. Skinner",
+      "answer": "Lev Vygotsky"
+    },
+    {
+      "question": "Which teaching method encourages students to learn by doing?",
+      "option1": "Activity-based learning",
+      "option2": "Lecture-only method",
+      "option3": "Rote learning",
+      "option4": "Dictation method",
+      "answer": "Activity-based learning"
+    },
+    {
+      "question": "What is inclusive education?",
+      "option1": "Education only for high achievers",
+      "option2": "Education that includes learners with diverse needs",
+      "option3": "Education only through online classes",
+      "option4": "Education only for adults",
+      "answer": "Education that includes learners with diverse needs"
+    },
+    {
+      "question": "Which approach is useful for teaching children with different learning abilities?",
+      "option1": "Inclusive teaching",
+      "option2": "Ignoring individual differences",
+      "option3": "Using only one teaching method",
+      "option4": "Avoiding classroom activities",
+      "answer": "Inclusive teaching"
+    },
+    {
+      "question": "What is diagnostic assessment mainly used for?",
+      "option1": "Identifying learning difficulties",
+      "option2": "Awarding final grades only",
+      "option3": "Recruiting teachers",
+      "option4": "Conducting school admissions",
+      "answer": "Identifying learning difficulties"
+    },
+    {
+      "question": "Which of the following is an example of summative assessment?",
+      "option1": "Final examination",
+      "option2": "Classroom discussion",
+      "option3": "Teacher observation during a lesson",
+      "option4": "Practice activity",
+      "answer": "Final examination"
+    },
+    {
+      "question": "What does pedagogy refer to?",
+      "option1": "Science and practice of teaching",
+      "option2": "School administration only",
+      "option3": "Student attendance",
+      "option4": "School construction",
+      "answer": "Science and practice of teaching"
+    },
+    {
+      "question": "Which teaching aid is most useful for showing geographical locations?",
+      "option1": "Map",
+      "option2": "Dictionary",
+      "option3": "Calculator",
+      "option4": "Notebook",
+      "answer": "Map"
+    },
+    {
+      "question": "Which method is most suitable for developing problem-solving skills?",
+      "option1": "Problem-solving method",
+      "option2": "Rote memorization",
+      "option3": "Dictation",
+      "option4": "Copy writing",
+      "answer": "Problem-solving method"
+    },
+    {
+      "question": "What is motivation in education?",
+      "option1": "A force that encourages learners to act and learn",
+      "option2": "A method of punishment",
+      "option3": "A type of examination",
+      "option4": "A school timetable",
+      "answer": "A force that encourages learners to act and learn"
+    },
+    {
+      "question": "Which classroom practice promotes critical thinking?",
+      "option1": "Asking students to explain and justify their answers",
+      "option2": "Only memorizing definitions",
+      "option3": "Discouraging questions",
+      "option4": "Using punishment for mistakes",
+      "answer": "Asking students to explain and justify their answers"
+    },
+    {
+      "question": "Which of the following is an example of intrinsic motivation?",
+      "option1": "Learning because of personal interest",
+      "option2": "Learning to get a prize",
+      "option3": "Learning to avoid punishment",
+      "option4": "Learning to get marks",
+      "answer": "Learning because of personal interest"
+    },
+    {
+      "question": "What is individual difference in education?",
+      "option1": "Differences among learners in abilities and characteristics",
+      "option2": "Difference between school buildings",
+      "option3": "Difference between textbooks",
+      "option4": "Difference between school timings",
+      "answer": "Differences among learners in abilities and characteristics"
+    },
+    {
+      "question": "Which factor can strongly influence a child's learning?",
+      "option1": "Home and school environment",
+      "option2": "School uniform color",
+      "option3": "Classroom furniture only",
+      "option4": "School building size",
+      "answer": "Home and school environment"
+    },
+    {
+      "question": "What is remedial teaching?",
+      "option1": "Teaching designed to overcome learning difficulties",
+      "option2": "Teaching only for gifted students",
+      "option3": "Teaching without assessment",
+      "option4": "Teaching only through computers",
+      "answer": "Teaching designed to overcome learning difficulties"
+    },
+    {
+      "question": "Which method gives learners an opportunity to work together?",
+      "option1": "Cooperative learning",
+      "option2": "Individual memorization",
+      "option3": "Lecture method",
+      "option4": "Dictation method",
+      "answer": "Cooperative learning"
+    },
+    {
+      "question": "Which of the following is a characteristic of a good teacher?",
+      "option1": "Understanding students' needs",
+      "option2": "Ignoring student questions",
+      "option3": "Using punishment frequently",
+      "option4": "Treating all difficulties as failures",
+      "answer": "Understanding students' needs"
+    },
+    {
+      "question": "What is the main purpose of a lesson plan?",
+      "option1": "To organize teaching and learning activities",
+      "option2": "To record school fees",
+      "option3": "To prepare attendance certificates",
+      "option4": "To maintain school accounts",
+      "answer": "To organize teaching and learning activities"
+    },
+    {
+      "question": "Which level of Bloom's taxonomy involves recalling facts?",
+      "option1": "Remembering",
+      "option2": "Creating",
+      "option3": "Evaluating",
+      "option4": "Analyzing",
+      "answer": "Remembering"
+    },
+    {
+      "question": "Which level of Bloom's taxonomy involves breaking information into parts?",
+      "option1": "Analyzing",
+      "option2": "Remembering",
+      "option3": "Creating",
+      "option4": "Understanding",
+      "answer": "Analyzing"
+    },
+    {
+      "question": "Which level of Bloom's taxonomy involves producing something new?",
+      "option1": "Creating",
+      "option2": "Remembering",
+      "option3": "Understanding",
+      "option4": "Applying",
+      "answer": "Creating"
+    },
+    {
+      "question": "Which type of question promotes higher-order thinking?",
+      "option1": "Why do you think this happened?",
+      "option2": "What is the definition?",
+      "option3": "Who is the author?",
+      "option4": "What is the date?",
+      "answer": "Why do you think this happened?"
+    },
+    {
+      "question": "What is continuous assessment?",
+      "option1": "Assessment conducted regularly during learning",
+      "option2": "Assessment conducted only once",
+      "option3": "Assessment conducted only after school completion",
+      "option4": "Assessment conducted only for teachers",
+      "answer": "Assessment conducted regularly during learning"
+    },
+    {
+      "question": "Which assessment provides feedback during instruction?",
+      "option1": "Formative assessment",
+      "option2": "Summative assessment",
+      "option3": "Entrance examination",
+      "option4": "Final certification",
+      "answer": "Formative assessment"
+    },
+    {
+      "question": "Which classroom environment is most supportive of learning?",
+      "option1": "Safe and encouraging environment",
+      "option2": "Fear-based environment",
+      "option3": "Silent environment with no interaction",
+      "option4": "Punishment-based environment",
+      "answer": "Safe and encouraging environment"
+    },
+    {
+      "question": "What is scaffolding in education?",
+      "option1": "Temporary support provided to help learners complete tasks",
+      "option2": "Permanent punishment for mistakes",
+      "option3": "A type of examination",
+      "option4": "A school construction technique",
+      "answer": "Temporary support provided to help learners complete tasks"
+    },
+    {
+      "question": "Which psychologist emphasized learning through observation and imitation?",
+      "option1": "Albert Bandura",
+      "option2": "Ivan Pavlov",
+      "option3": "B.F. Skinner",
+      "option4": "Jean Piaget",
+      "answer": "Albert Bandura"
+    },
+    {
+      "question": "According to Piaget, children construct knowledge through:",
+      "option1": "Interaction with their environment",
+      "option2": "Memorization only",
+      "option3": "Punishment",
+      "option4": "Imitation only",
+      "answer": "Interaction with their environment"
+    },
+    {
+      "question": "Which stage of Piaget's theory is characterized by logical thinking about concrete objects?",
+      "option1": "Concrete operational stage",
+      "option2": "Sensorimotor stage",
+      "option3": "Preoperational stage",
+      "option4": "Formal operational stage",
+      "answer": "Concrete operational stage"
+    },
+    {
+      "question": "Which stage of Piaget's theory develops abstract reasoning?",
+      "option1": "Formal operational stage",
+      "option2": "Sensorimotor stage",
+      "option3": "Preoperational stage",
+      "option4": "Concrete operational stage",
+      "answer": "Formal operational stage"
+    },
+    {
+      "question": "Which approach recognizes that children learn at different rates?",
+      "option1": "Individualized instruction",
+      "option2": "Uniform instruction only",
+      "option3": "Lecture-only teaching",
+      "option4": "Rote learning",
+      "answer": "Individualized instruction"
+    },
+    {
+      "question": "What is peer learning?",
+      "option1": "Students learning from and with other students",
+      "option2": "Students learning only from textbooks",
+      "option3": "Teachers learning from administrators",
+      "option4": "Parents teaching school staff",
+      "answer": "Students learning from and with other students"
+    },
+    {
+      "question": "Which activity is most suitable for developing communication skills?",
+      "option1": "Group discussion",
+      "option2": "Silent copying",
+      "option3": "Memorizing answers",
+      "option4": "Individual dictation",
+      "answer": "Group discussion"
+    },
+    {
+      "question": "What is a teaching-learning material (TLM)?",
+      "option1": "Material used to support teaching and learning",
+      "option2": "A school attendance register",
+      "option3": "A teacher salary record",
+      "option4": "A school admission form",
+      "answer": "Material used to support teaching and learning"
+    },
+    {
+      "question": "Which is an example of audio-visual teaching material?",
+      "option1": "Educational video",
+      "option2": "Attendance register",
+      "option3": "Chalk only",
+      "option4": "Notebook",
+      "answer": "Educational video"
+    },
+    {
+      "question": "What is classroom management?",
+      "option1": "Organizing the classroom to support effective learning",
+      "option2": "Maintaining only school accounts",
+      "option3": "Preparing government budgets",
+      "option4": "Conducting only examinations",
+      "answer": "Organizing the classroom to support effective learning"
+    },
+    {
+      "question": "Which teaching method is based on solving real-life problems?",
+      "option1": "Problem-based learning",
+      "option2": "Lecture method",
+      "option3": "Dictation method",
+      "option4": "Rote learning",
+      "answer": "Problem-based learning"
+    },
+    {
+      "question": "What is experiential learning?",
+      "option1": "Learning through direct experience",
+      "option2": "Learning only through memorization",
+      "option3": "Learning only through lectures",
+      "option4": "Learning without activities",
+      "answer": "Learning through direct experience"
+    },
+    {
+      "question": "Which method encourages students to investigate a topic independently?",
+      "option1": "Inquiry-based learning",
+      "option2": "Dictation method",
+      "option3": "Lecture method",
+      "option4": "Drill method",
+      "answer": "Inquiry-based learning"
+    },
+    {
+      "question": "What is the main role of a teacher in a learner-centered classroom?",
+      "option1": "Facilitator of learning",
+      "option2": "Only lecturer",
+      "option3": "Strict examiner",
+      "option4": "Silent observer",
+      "answer": "Facilitator of learning"
+    },
+    {
+      "question": "Which approach encourages students to ask questions and discover answers?",
+      "option1": "Inquiry approach",
+      "option2": "Rote approach",
+      "option3": "Dictation approach",
+      "option4": "Lecture-only approach",
+      "answer": "Inquiry approach"
+    },
+    {
+      "question": "What is cooperative learning?",
+      "option1": "Learning through small-group collaboration",
+      "option2": "Learning without interaction",
+      "option3": "Learning only from a textbook",
+      "option4": "Learning through punishment",
+      "answer": "Learning through small-group collaboration"
+    },
+    {
+      "question": "Which factor is essential for effective communication in a classroom?",
+      "option1": "Clear language",
+      "option2": "Unclear instructions",
+      "option3": "Ignoring feedback",
+      "option4": "One-way communication only",
+      "answer": "Clear language"
+    },
+    {
+      "question": "What is feedback in the teaching-learning process?",
+      "option1": "Information about a learner's performance",
+      "option2": "A school holiday",
+      "option3": "A type of punishment",
+      "option4": "A classroom timetable",
+      "answer": "Information about a learner's performance"
+    },
+    {
+      "question": "Which type of feedback is most useful for improving student performance?",
+      "option1": "Specific and constructive feedback",
+      "option2": "Only criticism",
+      "option3": "No feedback",
+      "option4": "Unrelated comments",
+      "answer": "Specific and constructive feedback"
+    },
+    {
+      "question": "What is the purpose of an achievement test?",
+      "option1": "To measure learning outcomes",
+      "option2": "To measure school building quality",
+      "option3": "To select teachers",
+      "option4": "To measure attendance only",
+      "answer": "To measure learning outcomes"
+    },
+    {
+      "question": "What does reliability of a test mean?",
+      "option1": "Consistency of test results",
+      "option2": "Difficulty of the test",
+      "option3": "Length of the test",
+      "option4": "Number of questions only",
+      "answer": "Consistency of test results"
+    },
+    {
+      "question": "What does validity of a test indicate?",
+      "option1": "Whether the test measures what it is intended to measure",
+      "option2": "Whether the test is long",
+      "option3": "Whether the test is difficult",
+      "option4": "Whether students like the test",
+      "answer": "Whether the test measures what it is intended to measure"
+    },
+    {
+      "question": "Which assessment method uses a collection of a student's work over time?",
+      "option1": "Portfolio assessment",
+      "option2": "Oral examination",
+      "option3": "Entrance test",
+      "option4": "Final examination",
+      "answer": "Portfolio assessment"
+    },
+    {
+      "question": "What is self-assessment?",
+      "option1": "Students evaluating their own learning",
+      "option2": "Teachers evaluating themselves only",
+      "option3": "Parents evaluating teachers",
+      "option4": "Administrators evaluating schools",
+      "answer": "Students evaluating their own learning"
+    },
+    {
+      "question": "What is peer assessment?",
+      "option1": "Students assessing the work of other students",
+      "option2": "Teachers assessing administrators",
+      "option3": "Parents assessing teachers",
+      "option4": "Schools assessing textbooks",
+      "answer": "Students assessing the work of other students"
+    },
+    {
+      "question": "Which classroom practice helps develop creativity?",
+      "option1": "Encouraging multiple solutions",
+      "option2": "Allowing only one fixed answer",
+      "option3": "Discouraging questions",
+      "option4": "Using memorization only",
+      "answer": "Encouraging multiple solutions"
+    },
+    {
+      "question": "What is divergent thinking?",
+      "option1": "Generating multiple possible solutions",
+      "option2": "Memorizing one answer",
+      "option3": "Copying information",
+      "option4": "Repeating a teacher's words",
+      "answer": "Generating multiple possible solutions"
+    },
+    {
+      "question": "Which type of question has several possible acceptable answers?",
+      "option1": "Open-ended question",
+      "option2": "Yes-or-no question",
+      "option3": "True-or-false question",
+      "option4": "One-word question",
+      "answer": "Open-ended question"
+    },
+    {
+      "question": "What is the purpose of classroom questioning?",
+      "option1": "To check understanding and stimulate thinking",
+      "option2": "To punish students",
+      "option3": "To reduce participation",
+      "option4": "To avoid interaction",
+      "answer": "To check understanding and stimulate thinking"
+    },
+    {
+      "question": "Which teaching approach connects new knowledge with students' previous knowledge?",
+      "option1": "Constructivist approach",
+      "option2": "Punishment approach",
+      "option3": "Dictation approach",
+      "option4": "Rote-only approach",
+      "answer": "Constructivist approach"
+    },
+    {
+      "question": "According to constructivism, learners:",
+      "option1": "Construct knowledge through active learning",
+      "option2": "Only receive knowledge passively",
+      "option3": "Learn only through punishment",
+      "option4": "Should avoid interaction",
+      "answer": "Construct knowledge through active learning"
+    },
+    {
+      "question": "Which of the following is an example of collaborative learning?",
+      "option1": "Students working together on a project",
+      "option2": "Students copying notes individually",
+      "option3": "Students memorizing silently",
+      "option4": "Teacher giving a continuous lecture",
+      "answer": "Students working together on a project"
+    },
+    {
+      "question": "What is differentiated instruction?",
+      "option1": "Adapting teaching according to learners' needs",
+      "option2": "Using the same method for every learner",
+      "option3": "Teaching only high achievers",
+      "option4": "Avoiding assessment",
+      "answer": "Adapting teaching according to learners' needs"
+    },
+    {
+      "question": "Which classroom strategy is useful for students who learn at different speeds?",
+      "option1": "Flexible learning activities",
+      "option2": "Same fixed task for every learner",
+      "option3": "Ignoring slow learners",
+      "option4": "Punishing students who need more time",
+      "answer": "Flexible learning activities"
+    },
+    {
+      "question": "What is the primary purpose of educational objectives?",
+      "option1": "To specify expected learning outcomes",
+      "option2": "To prepare school budgets",
+      "option3": "To maintain attendance",
+      "option4": "To assign classrooms",
+      "answer": "To specify expected learning outcomes"
+    },
+    {
+      "question": "Which principle states that learners should be actively involved in the learning process?",
+      "option1": "Learning by doing",
+      "option2": "Learning by punishment",
+      "option3": "Learning by isolation",
+      "option4": "Learning by copying",
+      "answer": "Learning by doing"
+    },
+    {
+      "question": "Which method is especially useful for teaching practical skills?",
+      "option1": "Demonstration method",
+      "option2": "Lecture-only method",
+      "option3": "Dictation method",
+      "option4": "Memorization method",
+      "answer": "Demonstration method"
+    },
+    {
+      "question": "What is micro-teaching?",
+      "option1": "A scaled-down teaching practice focusing on specific skills",
+      "option2": "Teaching very small children only",
+      "option3": "Teaching without a lesson plan",
+      "option4": "Teaching through a mobile phone",
+      "answer": "A scaled-down teaching practice focusing on specific skills"
+    },
+    {
+      "question": "Which skill is commonly practiced through micro-teaching?",
+      "option1": "Questioning skill",
+      "option2": "Accounting skill",
+      "option3": "Typing skill",
+      "option4": "Drawing skill",
+      "answer": "Questioning skill"
+    },
+    {
+      "question": "What is reinforcement in learning?",
+      "option1": "A consequence that strengthens a behavior",
+      "option2": "A type of examination",
+      "option3": "A teaching timetable",
+      "option4": "A school record",
+      "answer": "A consequence that strengthens a behavior"
+    },
+    {
+      "question": "Which is an example of positive reinforcement?",
+      "option1": "Praising a student for good work",
+      "option2": "Ignoring all student responses",
+      "option3": "Giving extra punishment",
+      "option4": "Removing classroom activities",
+      "answer": "Praising a student for good work"
+    },
+    {
+      "question": "What is learning according to a general educational perspective?",
+      "option1": "A relatively lasting change in knowledge or behavior due to experience",
+      "option2": "A temporary change caused only by illness",
+      "option3": "A process limited to memorization",
+      "option4": "A process that occurs only in examinations",
+      "answer": "A relatively lasting change in knowledge or behavior due to experience"
+    },
+    {
+      "question": "Which factor can improve students' attention in class?",
+      "option1": "Interesting and relevant activities",
+      "option2": "Continuous monotonous lectures",
+      "option3": "Ignoring students",
+      "option4": "Frequent punishment",
+      "answer": "Interesting and relevant activities"
+    },
+    {
+      "question": "What is readiness to learn?",
+      "option1": "The learner's preparedness for a learning task",
+      "option2": "The teacher's attendance",
+      "option3": "The availability of school uniforms",
+      "option4": "The number of classrooms",
+      "answer": "The learner's preparedness for a learning task"
+    },
+    {
+      "question": "Which principle of learning emphasizes that previous knowledge influences new learning?",
+      "option1": "Principle of association",
+      "option2": "Principle of punishment",
+      "option3": "Principle of isolation",
+      "option4": "Principle of competition",
+      "answer": "Principle of association"
+    },
+    {
+      "question": "What is transfer of learning?",
+      "option1": "Using previous learning in a new situation",
+      "option2": "Changing schools",
+      "option3": "Changing teachers",
+      "option4": "Moving students between classrooms",
+      "answer": "Using previous learning in a new situation"
+    },
+    {
+      "question": "Which type of transfer occurs when previous learning helps new learning?",
+      "option1": "Positive transfer",
+      "option2": "Negative transfer",
+      "option3": "Zero transfer",
+      "option4": "Reverse transfer",
+      "answer": "Positive transfer"
+    },
+    {
+      "question": "Which type of memory stores information for a very short duration?",
+      "option1": "Short-term memory",
+      "option2": "Long-term memory",
+      "option3": "Permanent memory",
+      "option4": "Procedural memory",
+      "answer": "Short-term memory"
+    },
+    {
+      "question": "Which memory stores information for a long period?",
+      "option1": "Long-term memory",
+      "option2": "Sensory memory",
+      "option3": "Short-term memory",
+      "option4": "Immediate memory",
+      "answer": "Long-term memory"
+    },
+    {
+      "question": "Which technique can help students remember information effectively?",
+      "option1": "Spaced practice",
+      "option2": "Avoiding revision",
+      "option3": "Studying only once",
+      "option4": "Ignoring important concepts",
+      "answer": "Spaced practice"
+    },
+    {
+      "question": "What is attention in the learning process?",
+      "option1": "Focusing mental resources on relevant information",
+      "option2": "Ignoring the learning material",
+      "option3": "Memorizing without understanding",
+      "option4": "Avoiding classroom activities",
+      "answer": "Focusing mental resources on relevant information"
+    },
+    {
+      "question": "Which factor is important for effective learning?",
+      "option1": "Motivation",
+      "option2": "Fear alone",
+      "option3": "Confusion",
+      "option4": "Lack of feedback",
+      "answer": "Motivation"
+    },
+    {
+      "question": "What is intelligence generally understood as?",
+      "option1": "Ability to learn, reason, solve problems and adapt",
+      "option2": "Ability to memorize textbooks only",
+      "option3": "Ability to write quickly",
+      "option4": "Ability to score marks without understanding",
+      "answer": "Ability to learn, reason, solve problems and adapt"
+    },
+    {
+      "question": "Who proposed the theory of multiple intelligences?",
+      "option1": "Howard Gardner",
+      "option2": "Jean Piaget",
+      "option3": "B.F. Skinner",
+      "option4": "Ivan Pavlov",
+      "answer": "Howard Gardner"
+    },
+    {
+      "question": "Which intelligence involves understanding and using language effectively?",
+      "option1": "Linguistic intelligence",
+      "option2": "Spatial intelligence",
+      "option3": "Bodily-kinesthetic intelligence",
+      "option4": "Naturalistic intelligence",
+      "answer": "Linguistic intelligence"
+    },
+    {
+      "question": "Which intelligence involves understanding shapes, spaces and visual patterns?",
+      "option1": "Spatial intelligence",
+      "option2": "Linguistic intelligence",
+      "option3": "Interpersonal intelligence",
+      "option4": "Musical intelligence",
+      "answer": "Spatial intelligence"
+    },
+    {
+      "question": "Which intelligence involves understanding and interacting effectively with others?",
+      "option1": "Interpersonal intelligence",
+      "option2": "Intrapersonal intelligence",
+      "option3": "Spatial intelligence",
+      "option4": "Musical intelligence",
+      "answer": "Interpersonal intelligence"
+    },
+    {
+      "question": "Which intelligence involves understanding one's own feelings and thoughts?",
+      "option1": "Intrapersonal intelligence",
+      "option2": "Interpersonal intelligence",
+      "option3": "Spatial intelligence",
+      "option4": "Naturalistic intelligence",
+      "answer": "Intrapersonal intelligence"
+    },
+    {
+      "question": "What is creativity?",
+      "option1": "Ability to generate original and useful ideas",
+      "option2": "Ability to memorize every textbook",
+      "option3": "Ability to copy answers accurately",
+      "option4": "Ability to avoid new ideas",
+      "answer": "Ability to generate original and useful ideas"
+    },
+    {
+      "question": "Which classroom activity can best encourage creativity?",
+      "option1": "Project work with open-ended tasks",
+      "option2": "Copying the same answer repeatedly",
+      "option3": "Memorizing fixed responses",
+      "option4": "Avoiding student questions",
+      "answer": "Project work with open-ended tasks"
+    },
+     {
+      "question": "Which of the following best describes child development?",
+      "option1": "A continuous process of physical, cognitive, social and emotional growth",
+      "option2": "Only physical growth",
+      "option3": "Only academic improvement",
+      "option4": "A process that stops after childhood",
+      "answer": "A continuous process of physical, cognitive, social and emotional growth"
+    },
+    {
+      "question": "Which domain of development involves thinking, reasoning and problem-solving?",
+      "option1": "Cognitive development",
+      "option2": "Physical development",
+      "option3": "Emotional development",
+      "option4": "Social development",
+      "answer": "Cognitive development"
+    },
+    {
+      "question": "Which domain involves a child's ability to interact with others?",
+      "option1": "Social development",
+      "option2": "Physical development",
+      "option3": "Cognitive development",
+      "option4": "Motor development",
+      "answer": "Social development"
+    },
+    {
+      "question": "Which domain involves understanding and managing feelings?",
+      "option1": "Emotional development",
+      "option2": "Physical development",
+      "option3": "Language development",
+      "option4": "Motor development",
+      "answer": "Emotional development"
+    },
+    {
+      "question": "What is maturation?",
+      "option1": "Natural growth and development resulting from biological processes",
+      "option2": "Learning only through textbooks",
+      "option3": "Training for examinations",
+      "option4": "Learning through punishment",
+      "answer": "Natural growth and development resulting from biological processes"
+    },
+    {
+      "question": "Which factor contributes to child development?",
+      "option1": "Heredity and environment",
+      "option2": "School examinations only",
+      "option3": "Textbooks only",
+      "option4": "Homework only",
+      "answer": "Heredity and environment"
+    },
+    {
+      "question": "What is language development?",
+      "option1": "Growth in the ability to understand and use language",
+      "option2": "Growth in physical strength",
+      "option3": "Development of mathematical skills only",
+      "option4": "Development of handwriting only",
+      "answer": "Growth in the ability to understand and use language"
+    },
+    {
+      "question": "Which activity can promote language development in young learners?",
+      "option1": "Storytelling",
+      "option2": "Silent copying only",
+      "option3": "Avoiding conversation",
+      "option4": "Memorizing numbers only",
+      "answer": "Storytelling"
+    },
+    {
+      "question": "What is moral development concerned with?",
+      "option1": "Development of understanding about right and wrong",
+      "option2": "Development of physical strength",
+      "option3": "Development of handwriting",
+      "option4": "Development of mathematical formulas",
+      "answer": "Development of understanding about right and wrong"
+    },
+    {
+      "question": "Who is associated with the stages of moral development?",
+      "option1": "Lawrence Kohlberg",
+      "option2": "Albert Bandura",
+      "option3": "Ivan Pavlov",
+      "option4": "B.F. Skinner",
+      "answer": "Lawrence Kohlberg"
+    },
+    {
+      "question": "Which classroom practice promotes moral development?",
+      "option1": "Discussing ethical situations",
+      "option2": "Encouraging cheating",
+      "option3": "Ignoring student behavior",
+      "option4": "Using punishment for every mistake",
+      "answer": "Discussing ethical situations"
+    },
+    {
+      "question": "What is emotional intelligence?",
+      "option1": "Ability to understand and manage emotions",
+      "option2": "Ability to memorize facts",
+      "option3": "Ability to solve mathematical problems only",
+      "option4": "Ability to write quickly",
+      "answer": "Ability to understand and manage emotions"
+    },
+    {
+      "question": "Which classroom practice helps develop emotional intelligence?",
+      "option1": "Encouraging students to express and understand feelings",
+      "option2": "Ignoring emotions",
+      "option3": "Discouraging communication",
+      "option4": "Punishing students for expressing feelings",
+      "answer": "Encouraging students to express and understand feelings"
+    },
+    {
+      "question": "What is a learning disability?",
+      "option1": "A difficulty in acquiring or using specific academic skills",
+      "option2": "Lack of interest in sports",
+      "option3": "Temporary tiredness",
+      "option4": "Poor school attendance only",
+      "answer": "A difficulty in acquiring or using specific academic skills"
+    },
+    {
+      "question": "Dyslexia is primarily associated with difficulty in:",
+      "option1": "Reading",
+      "option2": "Walking",
+      "option3": "Hearing",
+      "option4": "Drawing",
+      "answer": "Reading"
+    },
+    {
+      "question": "Dyscalculia is primarily associated with difficulty in:",
+      "option1": "Mathematics",
+      "option2": "Reading",
+      "option3": "Speaking",
+      "option4": "Physical movement",
+      "answer": "Mathematics"
+    },
+    {
+      "question": "Dysgraphia is primarily associated with difficulty in:",
+      "option1": "Writing",
+      "option2": "Hearing",
+      "option3": "Running",
+      "option4": "Seeing",
+      "answer": "Writing"
+    },
+    {
+      "question": "What is giftedness in education?",
+      "option1": "Exceptionally high ability in one or more areas",
+      "option2": "Poor academic performance",
+      "option3": "Lack of motivation",
+      "option4": "Difficulty in communication",
+      "answer": "Exceptionally high ability in one or more areas"
+    },
+    {
+      "question": "How should a teacher support gifted learners?",
+      "option1": "Provide challenging and enriching activities",
+      "option2": "Give only repetitive tasks",
+      "option3": "Ignore their abilities",
+      "option4": "Prevent them from asking questions",
+      "answer": "Provide challenging and enriching activities"
+    },
+    {
+      "question": "What is inclusive classroom practice?",
+      "option1": "Providing opportunities for all learners to participate",
+      "option2": "Separating students based only on ability",
+      "option3": "Teaching only high achievers",
+      "option4": "Ignoring students with disabilities",
+      "answer": "Providing opportunities for all learners to participate"
+    },
+    {
+      "question": "Which teaching strategy is useful for children with visual impairment?",
+      "option1": "Use of tactile and audio materials",
+      "option2": "Only visual charts",
+      "option3": "Only written instructions",
+      "option4": "Avoiding classroom activities",
+      "answer": "Use of tactile and audio materials"
+    },
+    {
+      "question": "Which support is useful for learners with hearing impairment?",
+      "option1": "Visual communication and appropriate assistive resources",
+      "option2": "Only oral instructions",
+      "option3": "Speaking without facing the learner",
+      "option4": "Avoiding written material",
+      "answer": "Visual communication and appropriate assistive resources"
+    },
+    {
+      "question": "What is classroom diversity?",
+      "option1": "Presence of learners with different backgrounds, abilities and needs",
+      "option2": "Students having identical abilities",
+      "option3": "Students using the same learning style",
+      "option4": "Students belonging to one age group only",
+      "answer": "Presence of learners with different backgrounds, abilities and needs"
+    },
+    {
+      "question": "How can teachers effectively handle diverse learners?",
+      "option1": "Use varied teaching strategies",
+      "option2": "Use one method for everyone",
+      "option3": "Ignore individual needs",
+      "option4": "Teach only the fastest learners",
+      "answer": "Use varied teaching strategies"
+    },
+    {
+      "question": "What is the main purpose of guidance in education?",
+      "option1": "To help students make appropriate educational and personal decisions",
+      "option2": "To punish students",
+      "option3": "To replace classroom teaching",
+      "option4": "To conduct examinations",
+      "answer": "To help students make appropriate educational and personal decisions"
+    },
+    {
+      "question": "What is counselling in education?",
+      "option1": "A process of helping students understand and solve personal or educational problems",
+      "option2": "A method of conducting examinations",
+      "option3": "A method of maintaining attendance",
+      "option4": "A method of preparing school budgets",
+      "answer": "A process of helping students understand and solve personal or educational problems"
+    },
+    {
+      "question": "What is career guidance?",
+      "option1": "Helping students make informed career choices",
+      "option2": "Teaching only academic subjects",
+      "option3": "Conducting sports activities",
+      "option4": "Maintaining school records",
+      "answer": "Helping students make informed career choices"
+    },
+    {
+      "question": "Which quality is essential for an effective counsellor?",
+      "option1": "Good listening skills",
+      "option2": "Frequent criticism",
+      "option3": "Impatience",
+      "option4": "Ignoring student concerns",
+      "answer": "Good listening skills"
+    },
+    {
+      "question": "What is observation as an assessment technique?",
+      "option1": "Systematically watching and recording learner behavior",
+      "option2": "Conducting only written examinations",
+      "option3": "Giving homework every day",
+      "option4": "Reading textbooks aloud",
+      "answer": "Systematically watching and recording learner behavior"
+    },
+    {
+      "question": "Which tool is commonly used to record observed student behavior?",
+      "option1": "Checklist",
+      "option2": "Textbook",
+      "option3": "Timetable",
+      "option4": "Attendance certificate",
+      "answer": "Checklist"
+    },
+    {
+      "question": "What is a rubric?",
+      "option1": "A scoring guide containing criteria for evaluating performance",
+      "option2": "A school attendance register",
+      "option3": "A textbook index",
+      "option4": "A lesson timetable",
+      "answer": "A scoring guide containing criteria for evaluating performance"
+    },
+    {
+      "question": "Which assessment is based on real-world tasks?",
+      "option1": "Authentic assessment",
+      "option2": "Only objective testing",
+      "option3": "Entrance examination",
+      "option4": "Memory test",
+      "answer": "Authentic assessment"
+    },
+    {
+      "question": "Which assessment asks students to demonstrate a skill or perform a task?",
+      "option1": "Performance assessment",
+      "option2": "Attendance assessment",
+      "option3": "Admission test",
+      "option4": "Personality test",
+      "answer": "Performance assessment"
+    },
+    {
+      "question": "What is a diagnostic test usually conducted before instruction to:",
+      "option1": "Identify existing knowledge and learning needs",
+      "option2": "Award final certificates",
+      "option3": "Determine teacher salary",
+      "option4": "Prepare school schedules",
+      "answer": "Identify existing knowledge and learning needs"
+    },
+    {
+      "question": "What is criterion-referenced assessment?",
+      "option1": "Assessment based on predetermined learning criteria",
+      "option2": "Assessment based only on class rank",
+      "option3": "Assessment based on school location",
+      "option4": "Assessment based on student age",
+      "answer": "Assessment based on predetermined learning criteria"
+    },
+    {
+      "question": "What is norm-referenced assessment?",
+      "option1": "Comparing performance with that of a reference group",
+      "option2": "Comparing performance only with a textbook",
+      "option3": "Measuring attendance",
+      "option4": "Measuring classroom size",
+      "answer": "Comparing performance with that of a reference group"
+    },
+    {
+      "question": "Which type of question requires students to select one answer from given choices?",
+      "option1": "Multiple-choice question",
+      "option2": "Essay question",
+      "option3": "Project question",
+      "option4": "Open-ended question",
+      "answer": "Multiple-choice question"
+    },
+    {
+      "question": "Which question type allows students to provide answers in their own words?",
+      "option1": "Open-ended question",
+      "option2": "Multiple-choice question",
+      "option3": "True-or-false question",
+      "option4": "Matching question",
+      "answer": "Open-ended question"
+    },
+    {
+      "question": "Which teaching method is most suitable for developing teamwork skills?",
+      "option1": "Group work",
+      "option2": "Individual memorization",
+      "option3": "Dictation",
+      "option4": "Silent reading only",
+      "answer": "Group work"
+    },
+    {
+      "question": "Which activity is most suitable for developing leadership skills among students?",
+      "option1": "Group project with assigned responsibilities",
+      "option2": "Silent copying",
+      "option3": "Individual memorization",
+      "option4": "Reading without discussion",
+      "answer": "Group project with assigned responsibilities"
+    },
+    {
+      "question": "What is project-based learning?",
+      "option1": "Learning through investigation and completion of meaningful projects",
+      "option2": "Learning only through lectures",
+      "option3": "Learning only through memorization",
+      "option4": "Learning without student participation",
+      "answer": "Learning through investigation and completion of meaningful projects"
+    },
+    {
+      "question": "Which approach integrates knowledge from different subjects?",
+      "option1": "Interdisciplinary approach",
+      "option2": "Single-subject approach",
+      "option3": "Lecture-only approach",
+      "option4": "Rote approach",
+      "answer": "Interdisciplinary approach"
+    },
+    {
+      "question": "What is activity-based teaching?",
+      "option1": "Teaching through meaningful learner activities",
+      "option2": "Teaching only through textbooks",
+      "option3": "Teaching without student participation",
+      "option4": "Teaching through punishment",
+      "answer": "Teaching through meaningful learner activities"
+    },
+    {
+      "question": "Which method is useful for teaching a scientific process?",
+      "option1": "Demonstration",
+      "option2": "Dictation",
+      "option3": "Memorization only",
+      "option4": "Silent reading only",
+      "answer": "Demonstration"
+    },
+    {
+      "question": "What is the main purpose of using examples while teaching?",
+      "option1": "To make concepts easier to understand",
+      "option2": "To increase memorization without understanding",
+      "option3": "To reduce student participation",
+      "option4": "To avoid explanations",
+      "answer": "To make concepts easier to understand"
+    },
+    {
+      "question": "Which approach connects classroom learning with everyday life?",
+      "option1": "Contextual learning",
+      "option2": "Rote learning",
+      "option3": "Dictation method",
+      "option4": "Lecture-only method",
+      "answer": "Contextual learning"
+    },
+    {
+      "question": "What is peer tutoring?",
+      "option1": "Students helping other students learn",
+      "option2": "Teachers teaching other teachers",
+      "option3": "Parents conducting examinations",
+      "option4": "Administrators teaching students",
+      "answer": "Students helping other students learn"
+    },
+    {
+      "question": "Which practice can improve students' reading comprehension?",
+      "option1": "Asking questions about the meaning of a passage",
+      "option2": "Copying the passage repeatedly",
+      "option3": "Ignoring unfamiliar words",
+      "option4": "Reading without understanding",
+      "answer": "Asking questions about the meaning of a passage"
+    },
+    {
+      "question": "Which activity best develops writing skills?",
+      "option1": "Regular writing practice",
+      "option2": "Only listening to lectures",
+      "option3": "Avoiding written work",
+      "option4": "Memorizing answers only",
+      "answer": "Regular writing practice"
+    },
+    {
+      "question": "Which activity is most useful for developing speaking skills?",
+      "option1": "Debate and discussion",
+      "option2": "Silent reading",
+      "option3": "Copying notes",
+      "option4": "Written examination only",
+      "answer": "Debate and discussion"
+    },
+    {
+      "question": "Which method is useful for improving students' vocabulary?",
+      "option1": "Reading and using new words in context",
+      "option2": "Avoiding new words",
+      "option3": "Memorizing without examples",
+      "option4": "Only copying definitions",
+      "answer": "Reading and using new words in context"
+    },
+    {
+      "question": "Which activity is most suitable for developing listening skills?",
+      "option1": "Listening to a short passage and answering questions",
+      "option2": "Copying notes silently",
+      "option3": "Reading only",
+      "option4": "Writing an essay",
+      "answer": "Listening to a short passage and answering questions"
+    },
+    {
+      "question": "What is phonics?",
+      "option1": "A method of teaching reading through sound-letter relationships",
+      "option2": "A method of teaching mathematics",
+      "option3": "A method of teaching handwriting only",
+      "option4": "A method of teaching science",
+      "answer": "A method of teaching reading through sound-letter relationships"
+    },
+    {
+      "question": "Which skill is developed through regular mental-math activities?",
+      "option1": "Numerical fluency",
+      "option2": "Reading comprehension",
+      "option3": "Listening ability",
+      "option4": "Drawing ability",
+      "answer": "Numerical fluency"
+    },
+    {
+      "question": "Which approach is useful when teaching mathematics to young learners?",
+      "option1": "Using concrete objects and examples",
+      "option2": "Using formulas without explanation",
+      "option3": "Avoiding practical activities",
+      "option4": "Using memorization only",
+      "answer": "Using concrete objects and examples"
+    },
+    {
+      "question": "What is a manipulative in mathematics education?",
+      "option1": "A physical object used to understand mathematical concepts",
+      "option2": "A type of examination",
+      "option3": "A written report",
+      "option4": "A school timetable",
+      "answer": "A physical object used to understand mathematical concepts"
+    },
+    {
+      "question": "Which teaching aid can help explain fractions to young students?",
+      "option1": "Fraction strips",
+      "option2": "Attendance register",
+      "option3": "Dictionary only",
+      "option4": "School timetable",
+      "answer": "Fraction strips"
+    },
+    {
+      "question": "Which method can make science learning more meaningful?",
+      "option1": "Experiments and observation",
+      "option2": "Memorization only",
+      "option3": "Copying definitions",
+      "option4": "Avoiding practical work",
+      "answer": "Experiments and observation"
+    },
+    {
+      "question": "What is the purpose of a science experiment in school?",
+      "option1": "To provide practical understanding of concepts",
+      "option2": "To replace all theoretical learning",
+      "option3": "To test handwriting",
+      "option4": "To maintain attendance",
+      "answer": "To provide practical understanding of concepts"
+    },
+    {
+      "question": "Which method is useful for teaching social studies?",
+      "option1": "Maps, timelines and discussions",
+      "option2": "Memorization without context",
+      "option3": "Dictation only",
+      "option4": "Avoiding visual materials",
+      "answer": "Maps, timelines and discussions"
+    },
+    {
+      "question": "What is a timeline used for?",
+      "option1": "Showing events in chronological order",
+      "option2": "Measuring classroom size",
+      "option3": "Recording attendance",
+      "option4": "Calculating marks",
+      "answer": "Showing events in chronological order"
+    },
+    {
+      "question": "Which teaching aid is useful for understanding historical events?",
+      "option1": "Timeline",
+      "option2": "Calculator",
+      "option3": "Laboratory balance",
+      "option4": "Attendance register",
+      "answer": "Timeline"
+    },
+    {
+      "question": "What is environmental education mainly concerned with?",
+      "option1": "Understanding and protecting the environment",
+      "option2": "Learning only about computers",
+      "option3": "Learning only about mathematics",
+      "option4": "Preparing school accounts",
+      "answer": "Understanding and protecting the environment"
+    },
+    {
+      "question": "Which classroom activity can promote environmental awareness?",
+      "option1": "Tree-planting activity",
+      "option2": "Wasting water",
+      "option3": "Using unnecessary paper",
+      "option4": "Ignoring waste management",
+      "answer": "Tree-planting activity"
+    },
+    {
+      "question": "What is the main purpose of school-based assessment?",
+      "option1": "To understand and improve student learning",
+      "option2": "To punish students",
+      "option3": "To compare school buildings",
+      "option4": "To determine teacher salaries",
+      "answer": "To understand and improve student learning"
+    },
+    {
+      "question": "Which record helps a teacher monitor individual student progress?",
+      "option1": "Progress record",
+      "option2": "School building plan",
+      "option3": "Fee receipt",
+      "option4": "Transport register",
+      "answer": "Progress record"
+    },
+    {
+      "question": "What is a cumulative record?",
+      "option1": "A record containing important information about a student's progress over time",
+      "option2": "A daily school timetable",
+      "option3": "A teacher salary statement",
+      "option4": "A list of school holidays",
+      "answer": "A record containing important information about a student's progress over time"
+    },
+    {
+      "question": "Which practice promotes a positive teacher-student relationship?",
+      "option1": "Respectful communication",
+      "option2": "Frequent humiliation",
+      "option3": "Ignoring student concerns",
+      "option4": "Using fear as the main motivation",
+      "answer": "Respectful communication"
+    },
+    {
+      "question": "What should a teacher do when a student gives an incorrect answer?",
+      "option1": "Guide the student toward understanding the mistake",
+      "option2": "Humiliate the student",
+      "option3": "Stop the student from participating",
+      "option4": "Ignore the student permanently",
+      "answer": "Guide the student toward understanding the mistake"
+    },
+    {
+      "question": "Which classroom practice encourages participation?",
+      "option1": "Allowing students to ask questions",
+      "option2": "Discouraging questions",
+      "option3": "Allowing only the teacher to speak",
+      "option4": "Punishing mistakes",
+      "answer": "Allowing students to ask questions"
+    },
+    {
+      "question": "What is classroom interaction?",
+      "option1": "Communication and exchange of ideas among teacher and learners",
+      "option2": "Teacher working alone",
+      "option3": "Students studying without communication",
+      "option4": "Only written examinations",
+      "answer": "Communication and exchange of ideas among teacher and learners"
+    },
+    {
+      "question": "Which seating arrangement can support group activities?",
+      "option1": "Small groups or clusters",
+      "option2": "Strict individual rows only",
+      "option3": "Students facing away from each other",
+      "option4": "Random placement without purpose",
+      "answer": "Small groups or clusters"
+    },
+    {
+      "question": "What is time management in teaching?",
+      "option1": "Planning classroom activities within available time",
+      "option2": "Increasing school hours without planning",
+      "option3": "Ignoring lesson objectives",
+      "option4": "Skipping assessment",
+      "answer": "Planning classroom activities within available time"
+    },
+    {
+      "question": "Why is a teaching schedule important?",
+      "option1": "It helps organize lessons and activities systematically",
+      "option2": "It replaces lesson planning completely",
+      "option3": "It eliminates student participation",
+      "option4": "It is used only for attendance",
+      "answer": "It helps organize lessons and activities systematically"
+    },
+    {
+      "question": "Which practice supports effective homework?",
+      "option1": "Giving meaningful tasks related to learning objectives",
+      "option2": "Giving excessive repetitive work",
+      "option3": "Giving homework without instructions",
+      "option4": "Never reviewing homework",
+      "answer": "Giving meaningful tasks related to learning objectives"
+    },
+    {
+      "question": "What is the main purpose of homework?",
+      "option1": "To reinforce and extend classroom learning",
+      "option2": "To keep students busy without purpose",
+      "option3": "To replace classroom teaching",
+      "option4": "To punish students",
+      "answer": "To reinforce and extend classroom learning"
+    },
+    {
+      "question": "Which practice makes homework more effective?",
+      "option1": "Providing clear instructions",
+      "option2": "Giving tasks without explanation",
+      "option3": "Never checking the work",
+      "option4": "Giving unrelated tasks",
+      "answer": "Providing clear instructions"
+    },
+    {
+      "question": "What is reflective teaching?",
+      "option1": "Thinking critically about one's teaching practices to improve them",
+      "option2": "Repeating the same lesson without change",
+      "option3": "Avoiding feedback",
+      "option4": "Teaching without planning",
+      "answer": "Thinking critically about one's teaching practices to improve them"
+    },
+    {
+      "question": "Which activity helps teachers improve their professional skills?",
+      "option1": "Professional development programmes",
+      "option2": "Avoiding new teaching methods",
+      "option3": "Ignoring educational research",
+      "option4": "Using outdated methods only",
+      "answer": "Professional development programmes"
+    },
+    {
+      "question": "What is action research in education?",
+      "option1": "Systematic investigation by teachers to improve classroom practice",
+      "option2": "Research conducted only by government officials",
+      "option3": "A school examination",
+      "option4": "A method of student punishment",
+      "answer": "Systematic investigation by teachers to improve classroom practice"
+    },
+    {
+      "question": "Which is an important characteristic of action research?",
+      "option1": "It focuses on solving practical classroom problems",
+      "option2": "It avoids classroom problems",
+      "option3": "It is unrelated to teaching",
+      "option4": "It is conducted only for examinations",
+      "answer": "It focuses on solving practical classroom problems"
+    },
+    {
+      "question": "What is educational technology?",
+      "option1": "Use of technology and systematic methods to improve teaching and learning",
+      "option2": "Use of computers only for entertainment",
+      "option3": "A method of conducting sports",
+      "option4": "A school accounting system",
+      "answer": "Use of technology and systematic methods to improve teaching and learning"
+    },
+    {
+      "question": "Which technology can support online learning?",
+      "option1": "Learning Management System",
+      "option2": "Attendance register",
+      "option3": "Blackboard only",
+      "option4": "School uniform",
+      "answer": "Learning Management System"
+    },
+    {
+      "question": "What is blended learning?",
+      "option1": "Combination of face-to-face and online learning",
+      "option2": "Only classroom lectures",
+      "option3": "Only printed textbooks",
+      "option4": "Only examination-based learning",
+      "answer": "Combination of face-to-face and online learning"
+    },
+    {
+      "question": "Which is an advantage of digital learning resources?",
+      "option1": "Easy access to multimedia learning materials",
+      "option2": "Complete elimination of teachers",
+      "option3": "No need for assessment",
+      "option4": "No need for student participation",
+      "answer": "Easy access to multimedia learning materials"
+    },
+    {
+      "question": "What is digital literacy?",
+      "option1": "Ability to use digital technologies effectively and responsibly",
+      "option2": "Ability to write only with a pen",
+      "option3": "Ability to memorize computer terms",
+      "option4": "Ability to operate only a calculator",
+      "answer": "Ability to use digital technologies effectively and responsibly"
+    },
+    {
+      "question": "Which practice promotes safe digital learning?",
+      "option1": "Protecting passwords and personal information",
+      "option2": "Sharing passwords with everyone",
+      "option3": "Opening unknown links",
+      "option4": "Sharing private information publicly",
+      "answer": "Protecting passwords and personal information"
+    },
+    {
+      "question": "What is an online learning platform?",
+      "option1": "A digital system used to provide learning materials and activities",
+      "option2": "A school transport system",
+      "option3": "A physical classroom",
+      "option4": "A school fee register",
+      "answer": "A digital system used to provide learning materials and activities"
+    },
+    {
+      "question": "Which resource can help students understand difficult concepts visually?",
+      "option1": "Educational animation",
+      "option2": "Attendance register",
+      "option3": "Fee receipt",
+      "option4": "School calendar",
+      "answer": "Educational animation"
+    },
+    {
+      "question": "What is a concept map?",
+      "option1": "A visual representation of relationships among concepts",
+      "option2": "A geographical road map",
+      "option3": "A school attendance sheet",
+      "option4": "A timetable",
+      "answer": "A visual representation of relationships among concepts"
+    },
+    {
+      "question": "Which learning strategy involves connecting new information with existing knowledge?",
+      "option1": "Elaborative learning",
+      "option2": "Mechanical copying",
+      "option3": "Passive learning",
+      "option4": "Random memorization",
+      "answer": "Elaborative learning"
+    },
+    {
+      "question": "What is metacognition?",
+      "option1": "Awareness and regulation of one's own thinking and learning",
+      "option2": "Learning through punishment",
+      "option3": "Memorizing without understanding",
+      "option4": "Physical development",
+      "answer": "Awareness and regulation of one's own thinking and learning"
+    },
+    {
+      "question": "Which activity promotes metacognitive skills?",
+      "option1": "Asking students to explain how they solved a problem",
+      "option2": "Giving answers without explanation",
+      "option3": "Discouraging reflection",
+      "option4": "Using memorization only",
+      "answer": "Asking students to explain how they solved a problem"
+    },
+    {
+      "question": "What is critical thinking?",
+      "option1": "Carefully analyzing information before forming a conclusion",
+      "option2": "Accepting every statement without questioning",
+      "option3": "Memorizing facts only",
+      "option4": "Copying another person's opinion",
+      "answer": "Carefully analyzing information before forming a conclusion"
+    },
+    {
+      "question": "Which activity best develops critical thinking?",
+      "option1": "Comparing evidence and evaluating different viewpoints",
+      "option2": "Memorizing one answer",
+      "option3": "Copying notes",
+      "option4": "Avoiding discussion",
+      "answer": "Comparing evidence and evaluating different viewpoints"
+    },
+    {
+      "question": "What is problem-solving ability?",
+      "option1": "Ability to identify a problem and develop suitable solutions",
+      "option2": "Ability to memorize definitions",
+      "option3": "Ability to copy answers",
+      "option4": "Ability to avoid difficult tasks",
+      "answer": "Ability to identify a problem and develop suitable solutions"
+    },
+    {
+      "question": "Which classroom activity can develop problem-solving skills?",
+      "option1": "Real-life problem-solving tasks",
+      "option2": "Repeated copying",
+      "option3": "Silent memorization only",
+      "option4": "Dictation only",
+      "answer": "Real-life problem-solving tasks"
+    },
+    {
+      "question": "What is lifelong learning?",
+      "option1": "Continuous learning throughout life",
+      "option2": "Learning only during school years",
+      "option3": "Learning only before examinations",
+      "option4": "Learning only from textbooks",
+      "answer": "Continuous learning throughout life"
+    },
+    {
+      "question": "Which quality helps a teacher become an effective lifelong learner?",
+      "option1": "Willingness to learn and adapt",
+      "option2": "Resistance to new ideas",
+      "option3": "Avoiding professional development",
+      "option4": "Ignoring feedback",
+      "answer": "Willingness to learn and adapt"
+    },
+    {
+      "question": "What is the ultimate goal of effective teaching?",
+      "option1": "Promoting meaningful and lasting learning",
+      "option2": "Completing the textbook as quickly as possible",
+      "option3": "Increasing homework quantity",
+      "option4": "Conducting frequent examinations only",
+      "answer": "Promoting meaningful and lasting learning"
+    }
+  ]
+}

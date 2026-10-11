@@ -1,143 +1,774 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Answer Keys - Govt Jobs Portal</title>
+{% extends "jobportal/base.html" %}
 
-    <style>
-        body {
-            margin: 0;
-            font-family: Arial, sans-serif;
-            background: #f4f6f9;
-        }
+{% block content %}
 
-        .container {
-            max-width: 1100px;
-            margin: 40px auto;
-            padding: 20px;
-        }
+<style>
+.answer-page {
+    max-width: 1200px;
+    margin: 30px auto;
+    padding: 0 20px;
+}
 
-        h1 {
-            text-align: center;
-            color: #063b70;
-        }
+.answer-header {
+    background: linear-gradient(135deg, #003366, #0055a5);
+    color: white;
+    padding: 30px;
+    border-radius: 14px;
+    margin-bottom: 25px;
+}
 
-        .subtitle {
-            text-align: center;
-            color: #666;
-            margin-bottom: 35px;
-        }
+.answer-header h1 {
+    margin: 0 0 8px;
+    font-size: 30px;
+}
 
-        .keys-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-            gap: 25px;
-        }
+.answer-header p {
+    margin: 0;
+    opacity: 0.9;
+}
 
-        .key-card {
-            background: white;
-            padding: 25px;
-            border-radius: 12px;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.08);
-            text-align: center;
-        }
+.history-note {
+    margin-top: 15px;
+    padding: 10px 14px;
+    background: rgba(255,255,255,0.12);
+    border-radius: 7px;
+    font-size: 14px;
+}
 
-        .key-card h2 {
-            color: #063b70;
-            margin-bottom: 15px;
-        }
+.filter-box {
+    background: white;
+    border-radius: 14px;
+    padding: 22px;
+    margin-bottom: 25px;
+    box-shadow: 0 3px 15px rgba(0,0,0,0.08);
+}
 
-        .key-card p {
-            color: #666;
-            line-height: 1.6;
-        }
+.filter-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+    gap: 15px;
+}
 
-        .view-btn {
-            display: inline-block;
-            margin-top: 15px;
-            padding: 11px 22px;
-            background: #0866c6;
-            color: white;
-            text-decoration: none;
-            border-radius: 7px;
-            font-weight: bold;
-        }
+.filter-group label {
+    display: block;
+    font-weight: 600;
+    margin-bottom: 7px;
+    color: #333;
+}
 
-        .view-btn:hover {
-            background: #064f9c;
-        }
+.filter-group select {
+    width: 100%;
+    padding: 11px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background: white;
+    font-size: 15px;
+}
 
-        .empty {
-            text-align: center;
-            color: #777;
-            padding: 40px;
-        }
+.button-row {
+    margin-top: 18px;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
 
-        @media (max-width: 600px) {
-            .container {
-                margin: 20px auto;
-                padding: 15px;
-            }
+.btn-search {
+    background: #003366;
+    color: white;
+    border: none;
+    padding: 11px 22px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: 600;
+}
 
-            .keys-grid {
-                grid-template-columns: 1fr;
-            }
-        }
-    </style>
-</head>
+.btn-reset {
+    background: #eeeeee;
+    color: #333;
+    padding: 11px 22px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 600;
+}
 
-<body>
+.result-count {
+    margin-bottom: 18px;
+    font-weight: 600;
+    color: #555;
+}
 
-<div class="container">
+.answer-card {
+    background: white;
+    border-radius: 14px;
+    margin-bottom: 25px;
+    padding: 25px;
+    box-shadow: 0 3px 15px rgba(0,0,0,0.08);
+}
 
-    <h1>Official Answer Keys</h1>
+.card-title {
+    color: #003366;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
 
-    <p class="subtitle">
-        View official answer keys and examination updates.
-    </p>
+.meta-row {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin: 12px 0 20px;
+}
 
-    <div class="keys-grid">
+.badge {
+    background: #eef4fb;
+    color: #003366;
+    padding: 6px 11px;
+    border-radius: 20px;
+    font-size: 13px;
+    font-weight: 600;
+}
 
-        {% for key in keys %}
+.badge-green {
+    background: #e9f8ef;
+    color: #187a3d;
+}
 
-        <div class="key-card">
+.answer-title {
+    font-size: 18px;
+    font-weight: 700;
+    margin: 20px 0 12px;
+    color: #222;
+}
 
-            <h2>{{ key.exam_name }}</h2>
+/* Question display */
 
-            <p>
-                <strong>Category:</strong>
-                {{ key.category }}
-            </p>
+.question-list {
+    margin-top: 15px;
+}
 
-            <p>
-                <strong>Release Date:</strong>
-                {{ key.release_date }}
-            </p>
+.question-card {
+    border: 1px solid #e1e5ea;
+    border-radius: 10px;
+    padding: 18px;
+    margin-bottom: 15px;
+    background: #ffffff;
+}
 
-            {% if key.official_link %}
+.question-text {
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.6;
+    color: #222;
+    margin-bottom: 14px;
+}
 
-            <a href="{{ key.official_link }}"
-               class="view-btn"
-               target="_blank"
-               rel="noopener noreferrer">
-                View Official Answer Key
-            </a>
+.question-number {
+    color: #003366;
+    font-weight: 800;
+}
 
-            {% endif %}
+.options-list {
+    display: grid;
+    gap: 8px;
+}
 
+.option {
+    padding: 10px 13px;
+    border: 1px solid #ddd;
+    border-radius: 7px;
+    background: #fafafa;
+    line-height: 1.5;
+}
+
+.correct-option {
+    background: #e9f8ef;
+    border-color: #62b982;
+    color: #126b35;
+    font-weight: 700;
+}
+
+.correct-label {
+    margin-top: 12px;
+    padding: 10px 13px;
+    background: #f0f8f3;
+    border-left: 4px solid #00843d;
+    border-radius: 5px;
+    color: #126b35;
+    font-weight: 700;
+}
+
+.answer-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(85px, 1fr));
+    gap: 8px;
+}
+
+.answer-item {
+    border: 1px solid #ddd;
+    border-radius: 7px;
+    padding: 9px;
+    text-align: center;
+    background: #fafafa;
+}
+
+.answer-item .question-number {
+    display: block;
+    color: #555;
+}
+
+.correct-answer {
+    display: block;
+    font-size: 18px;
+    font-weight: 800;
+    color: #00843d;
+    margin-top: 3px;
+}
+
+.action-row {
+    margin-top: 20px;
+}
+
+.official-btn {
+    display: inline-block;
+    background: #003366;
+    color: white;
+    text-decoration: none;
+    padding: 10px 18px;
+    border-radius: 7px;
+    font-weight: 600;
+}
+
+.official-btn:hover {
+    background: #0055a5;
+    color: white;
+}
+
+.notes {
+    background: #f7f9fc;
+    border-left: 4px solid #003366;
+    padding: 12px 15px;
+    margin-top: 18px;
+    border-radius: 5px;
+}
+
+.no-results {
+    background: white;
+    padding: 40px;
+    text-align: center;
+    border-radius: 14px;
+    box-shadow: 0 3px 15px rgba(0,0,0,0.08);
+}
+
+.no-results h3 {
+    color: #003366;
+}
+
+@media(max-width:600px) {
+    .answer-page {
+        padding: 0 10px;
+    }
+
+    .answer-header {
+        padding: 22px;
+    }
+
+    .answer-header h1 {
+        font-size: 24px;
+    }
+
+    .answer-card {
+        padding: 17px;
+    }
+
+    .question-card {
+        padding: 14px;
+    }
+}
+</style>
+
+
+<div class="answer-page">
+
+    <!-- HEADER -->
+
+    <div class="answer-header">
+
+        <h1>📋 Government Exam Answer Keys</h1>
+
+        <p>
+            Previous-year examination answer keys
+            with year, shift, set and question details.
+        </p>
+
+        <div class="history-note">
+            📅 Showing historical answer keys up to
+            <strong>{{ max_answer_key_year }}</strong>.
+            Newer years are not displayed.
         </div>
-
-        {% empty %}
-
-        <div class="empty">
-            <h2>No Answer Keys Available</h2>
-            <p>Answer keys will be added soon.</p>
-        </div>
-
-        {% endfor %}
 
     </div>
 
+
+    <!-- FILTERS -->
+
+    <div class="filter-box">
+
+        <form method="get">
+
+            <div class="filter-grid">
+
+                <!-- EXAM -->
+
+                <div class="filter-group">
+
+                    <label>Examination</label>
+
+                    <select name="exam">
+
+                        <option value="">
+                            Select Examination
+                        </option>
+
+                        {% for exam in exam_catalog %}
+
+                            <option value="{{ exam }}"
+                                {% if selected_exam == exam %}
+                                    selected
+                                {% endif %}
+                            >
+                                {{ exam }}
+                            </option>
+
+                        {% endfor %}
+
+                    </select>
+
+                </div>
+
+
+                <!-- YEAR -->
+
+                <div class="filter-group">
+
+                    <label>Year</label>
+
+                    <select name="year">
+
+                        <option value="">
+                            All Historical Years
+                        </option>
+
+                        {% for year in years %}
+
+                            <option value="{{ year }}"
+                                {% if selected_year == year|stringformat:"s" %}
+                                    selected
+                                {% endif %}
+                            >
+                                {{ year }}
+                            </option>
+
+                        {% endfor %}
+
+                    </select>
+
+                </div>
+
+
+                <!-- SHIFT -->
+
+                <div class="filter-group">
+
+                    <label>Shift</label>
+
+                    <select name="shift">
+
+                        <option value="">
+                            All Shifts
+                        </option>
+
+                        {% for shift in shifts %}
+
+                            <option value="{{ shift }}"
+                                {% if selected_shift == shift %}
+                                    selected
+                                {% endif %}
+                            >
+                                {{ shift }}
+                            </option>
+
+                        {% endfor %}
+
+                    </select>
+
+                </div>
+
+
+                <!-- SET -->
+
+                <div class="filter-group">
+
+                    <label>Set / Booklet</label>
+
+                    <select name="set">
+
+                        <option value="">
+                            All Sets
+                        </option>
+
+                        {% for set_name in sets %}
+
+                            <option value="{{ set_name }}"
+                                {% if selected_set == set_name %}
+                                    selected
+                                {% endif %}
+                            >
+                                {{ set_name }}
+                            </option>
+
+                        {% endfor %}
+
+                    </select>
+
+                </div>
+
+            </div>
+
+
+            <div class="button-row">
+
+                <button type="submit" class="btn-search">
+                    🔍 Show Answer Keys
+                </button>
+
+                <a href="{% url 'answer_keys' %}" class="btn-reset">
+                    Reset
+                </a>
+
+            </div>
+
+        </form>
+
+    </div>
+
+
+    <!-- RESULT COUNT -->
+
+    {% if selected_exam %}
+
+        <div class="result-count">
+
+            {{ total_keys }}
+            historical answer key(s) found for
+            <strong>{{ selected_exam }}</strong>
+
+        </div>
+
+    {% endif %}
+
+
+    <!-- RESULTS -->
+
+    {% if answer_keys %}
+
+        {% for key in answer_keys %}
+
+            <div class="answer-card">
+
+                <h2 class="card-title">
+                    {{ key.exam_name }}
+                </h2>
+
+
+                <!-- META -->
+
+                <div class="meta-row">
+
+                    {% if key.year %}
+                        <span class="badge">
+                            📅 {{ key.year }}
+                        </span>
+                    {% endif %}
+
+                    {% if key.shift %}
+                        <span class="badge">
+                            🕐 {{ key.shift }}
+                        </span>
+                    {% endif %}
+
+                    {% if key.set_name %}
+                        <span class="badge">
+                            📘 Set {{ key.set_name }}
+                        </span>
+                    {% endif %}
+
+                    {% if key.paper_code %}
+                        <span class="badge">
+                            Paper {{ key.paper_code }}
+                        </span>
+                    {% endif %}
+
+                    {% if key.status %}
+                        <span class="badge badge-green">
+                            {{ key.status }}
+                        </span>
+                    {% endif %}
+
+                </div>
+
+
+                <!-- TITLE -->
+
+                {% if key.title %}
+
+                    <div class="answer-title">
+                        {{ key.title }}
+                    </div>
+
+                {% endif %}
+
+
+                <!-- QUESTIONS + OPTIONS -->
+
+                {% if key.question_data %}
+
+                    <div class="answer-title">
+                        Questions & Correct Answers
+                    </div>
+
+                    <div class="question-list">
+
+                        {% for question_number, question in key.question_data.items %}
+
+                            <div class="question-card">
+
+                                <div class="question-text">
+
+                                    <span class="question-number">
+                                        Q{{ question_number }}.
+                                    </span>
+
+                                    {{ question.question }}
+
+                                </div>
+
+
+                                <div class="options-list">
+
+                                    {% if question.options.A %}
+                                        <div class="option
+                                            {% if question.correct_answer == 'A' %}
+                                                correct-option
+                                            {% endif %}
+                                        ">
+                                            <strong>A)</strong>
+                                            {{ question.options.A }}
+                                        </div>
+                                    {% endif %}
+
+
+                                    {% if question.options.B %}
+                                        <div class="option
+                                            {% if question.correct_answer == 'B' %}
+                                                correct-option
+                                            {% endif %}
+                                        ">
+                                            <strong>B)</strong>
+                                            {{ question.options.B }}
+                                        </div>
+                                    {% endif %}
+
+
+                                    {% if question.options.C %}
+                                        <div class="option
+                                            {% if question.correct_answer == 'C' %}
+                                                correct-option
+                                            {% endif %}
+                                        ">
+                                            <strong>C)</strong>
+                                            {{ question.options.C }}
+                                        </div>
+                                    {% endif %}
+
+
+                                    {% if question.options.D %}
+                                        <div class="option
+                                            {% if question.correct_answer == 'D' %}
+                                                correct-option
+                                            {% endif %}
+                                        ">
+                                            <strong>D)</strong>
+                                            {{ question.options.D }}
+                                        </div>
+                                    {% endif %}
+
+                                </div>
+
+
+                                <div class="correct-label">
+
+                                    ✅ Correct Answer:
+                                    {{ question.correct_answer }}
+
+                                </div>
+
+                            </div>
+
+                        {% endfor %}
+
+                    </div>
+
+
+                {% elif key.answer_data %}
+
+                    <!-- FALLBACK FOR OLD ANSWER-ONLY RECORDS -->
+
+                    <div class="answer-title">
+                        Answer Key
+                    </div>
+
+                    <div class="answer-grid">
+
+                        {% for question, answer in key.answer_data.items %}
+
+                            <div class="answer-item">
+
+                                <span class="question-number">
+                                    Q{{ question }}
+                                </span>
+
+                                <span class="correct-answer">
+                                    {{ answer }}
+                                </span>
+
+                            </div>
+
+                        {% endfor %}
+
+                    </div>
+
+                    <div class="notes">
+
+                        <strong>Question paper:</strong>
+                        Question text and options have not yet been
+                        added to this answer-key record.
+
+                    </div>
+
+
+                {% else %}
+
+                    <div class="no-results">
+
+                        <h3>
+                            Answer data not available
+                        </h3>
+
+                        <p>
+                            The answer-key record exists, but
+                            question-wise answers have not been
+                            entered yet.
+                        </p>
+
+                    </div>
+
+                {% endif %}
+
+
+                <!-- OFFICIAL SOURCE -->
+
+                {% if key.answer_key_url %}
+
+                    <div class="action-row">
+
+                        <a href="{{ key.answer_key_url }}"
+                           target="_blank"
+                           rel="noopener"
+                           class="official-btn">
+
+                            📄 View / Download Official Answer Key
+
+                        </a>
+
+                    </div>
+
+                {% elif key.official_link %}
+
+                    <div class="action-row">
+
+                        <a href="{{ key.official_link }}"
+                           target="_blank"
+                           rel="noopener"
+                           class="official-btn">
+
+                            🌐 Official Source
+
+                        </a>
+
+                    </div>
+
+                {% endif %}
+
+
+                <!-- NOTES -->
+
+                {% if key.notes %}
+
+                    <div class="notes">
+
+                        <strong>Note:</strong>
+                        {{ key.notes }}
+
+                    </div>
+
+                {% endif %}
+
+            </div>
+
+        {% endfor %}
+
+
+    {% else %}
+
+        {% if selected_exam %}
+
+            <div class="no-results">
+
+                <h3>
+                    No historical answer key found
+                </h3>
+
+                <p>
+
+                    No answer-key record for
+                    <strong>{{ selected_exam }}</strong>
+                    exists for a year up to
+                    {{ max_answer_key_year }}.
+
+                </p>
+
+            </div>
+
+        {% else %}
+
+            <div class="no-results">
+
+                <h3>
+                    Select an Examination
+                </h3>
+
+                <p>
+
+                    Select one of the 34 examinations to view
+                    its historical answer keys.
+
+                </p>
+
+            </div>
+
+        {% endif %}
+
+    {% endif %}
+
 </div>
 
-</body>
-</html>
+{% endblock %}

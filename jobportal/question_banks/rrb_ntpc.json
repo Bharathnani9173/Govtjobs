@@ -1,0 +1,1605 @@
+{
+  "exam": "RRB NTPC",
+  "questions": [
+    {
+      "question": "Which is the capital of India?",
+      "option1": "Mumbai",
+      "option2": "New Delhi",
+      "option3": "Kolkata",
+      "option4": "Chennai",
+      "answer": "New Delhi"
+    },
+    {
+      "question": "Which is the largest state in India by area?",
+      "option1": "Maharashtra",
+      "option2": "Madhya Pradesh",
+      "option3": "Rajasthan",
+      "option4": "Uttar Pradesh",
+      "answer": "Rajasthan"
+    },
+    {
+      "question": "Which is the smallest state in India by area?",
+      "option1": "Goa",
+      "option2": "Sikkim",
+      "option3": "Tripura",
+      "option4": "Manipur",
+      "answer": "Goa"
+    },
+    {
+      "question": "Which river is known as the Sorrow of Bihar?",
+      "option1": "Ganga",
+      "option2": "Kosi",
+      "option3": "Yamuna",
+      "option4": "Son",
+      "answer": "Kosi"
+    },
+    {
+      "question": "Which is the longest river in India?",
+      "option1": "Yamuna",
+      "option2": "Ganga",
+      "option3": "Godavari",
+      "option4": "Narmada",
+      "answer": "Ganga"
+    },
+    {
+      "question": "Which city is known as the Pink City of India?",
+      "option1": "Jodhpur",
+      "option2": "Jaipur",
+      "option3": "Udaipur",
+      "option4": "Bikaner",
+      "answer": "Jaipur"
+    },
+    {
+      "question": "Which is the national animal of India?",
+      "option1": "Lion",
+      "option2": "Elephant",
+      "option3": "Bengal Tiger",
+      "option4": "Leopard",
+      "answer": "Bengal Tiger"
+    },
+    {
+      "question": "Which is the national bird of India?",
+      "option1": "Peacock",
+      "option2": "Sparrow",
+      "option3": "Eagle",
+      "option4": "Parrot",
+      "answer": "Peacock"
+    },
+    {
+      "question": "Which is the national flower of India?",
+      "option1": "Rose",
+      "option2": "Lotus",
+      "option3": "Sunflower",
+      "option4": "Jasmine",
+      "answer": "Lotus"
+    },
+    {
+      "question": "Who wrote the national anthem of India?",
+      "option1": "Bankim Chandra Chattopadhyay",
+      "option2": "Rabindranath Tagore",
+      "option3": "Sarojini Naidu",
+      "option4": "Subhas Chandra Bose",
+      "answer": "Rabindranath Tagore"
+    },
+    {
+      "question": "When did the Constitution of India come into force?",
+      "option1": "15 August 1947",
+      "option2": "26 November 1949",
+      "option3": "26 January 1950",
+      "option4": "2 October 1950",
+      "answer": "26 January 1950"
+    },
+    {
+      "question": "Who was the first President of independent India?",
+      "option1": "Dr. S. Radhakrishnan",
+      "option2": "Dr. Rajendra Prasad",
+      "option3": "Jawaharlal Nehru",
+      "option4": "Zakir Husain",
+      "answer": "Dr. Rajendra Prasad"
+    },
+    {
+      "question": "Who was the first Prime Minister of India?",
+      "option1": "Sardar Vallabhbhai Patel",
+      "option2": "Jawaharlal Nehru",
+      "option3": "Rajendra Prasad",
+      "option4": "Lal Bahadur Shastri",
+      "answer": "Jawaharlal Nehru"
+    },
+    {
+      "question": "Who is known as the Father of the Indian Constitution?",
+      "option1": "Mahatma Gandhi",
+      "option2": "Dr. B. R. Ambedkar",
+      "option3": "Jawaharlal Nehru",
+      "option4": "Rajendra Prasad",
+      "answer": "Dr. B. R. Ambedkar"
+    },
+    {
+      "question": "The Quit India Movement was launched in which year?",
+      "option1": "1930",
+      "option2": "1935",
+      "option3": "1942",
+      "option4": "1947",
+      "answer": "1942"
+    },
+    {
+      "question": "Who gave the slogan 'Do or Die'?",
+      "option1": "Subhas Chandra Bose",
+      "option2": "Mahatma Gandhi",
+      "option3": "Bhagat Singh",
+      "option4": "Bal Gangadhar Tilak",
+      "answer": "Mahatma Gandhi"
+    },
+    {
+      "question": "Who founded the Maurya Empire?",
+      "option1": "Ashoka",
+      "option2": "Chandragupta Maurya",
+      "option3": "Bindusara",
+      "option4": "Harsha",
+      "answer": "Chandragupta Maurya"
+    },
+    {
+      "question": "Who wrote the Arthashastra?",
+      "option1": "Kalidasa",
+      "option2": "Kautilya",
+      "option3": "Banabhatta",
+      "option4": "Megasthenes",
+      "answer": "Kautilya"
+    },
+    {
+      "question": "Which Mughal emperor built the Taj Mahal?",
+      "option1": "Akbar",
+      "option2": "Babur",
+      "option3": "Shah Jahan",
+      "option4": "Aurangzeb",
+      "answer": "Shah Jahan"
+    },
+    {
+      "question": "Who founded the Mughal Empire in India?",
+      "option1": "Akbar",
+      "option2": "Babur",
+      "option3": "Humayun",
+      "option4": "Shah Jahan",
+      "answer": "Babur"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "option1": "Venus",
+      "option2": "Mars",
+      "option3": "Mercury",
+      "option4": "Jupiter",
+      "answer": "Mars"
+    },
+    {
+      "question": "Which is the largest planet in the Solar System?",
+      "option1": "Earth",
+      "option2": "Saturn",
+      "option3": "Jupiter",
+      "option4": "Neptune",
+      "answer": "Jupiter"
+    },
+    {
+      "question": "Which planet is closest to the Sun?",
+      "option1": "Venus",
+      "option2": "Earth",
+      "option3": "Mercury",
+      "option4": "Mars",
+      "answer": "Mercury"
+    },
+    {
+      "question": "Which planet is famous for its prominent rings?",
+      "option1": "Mars",
+      "option2": "Jupiter",
+      "option3": "Saturn",
+      "option4": "Neptune",
+      "answer": "Saturn"
+    },
+    {
+      "question": "What is the natural satellite of Earth?",
+      "option1": "Mars",
+      "option2": "Moon",
+      "option3": "Venus",
+      "option4": "Sun",
+      "answer": "Moon"
+    },
+    {
+      "question": "What is the chemical formula of water?",
+      "option1": "CO2",
+      "option2": "H2O",
+      "option3": "O2",
+      "option4": "H2",
+      "answer": "H2O"
+    },
+    {
+      "question": "What is the chemical symbol of gold?",
+      "option1": "Ag",
+      "option2": "Au",
+      "option3": "Fe",
+      "option4": "Gd",
+      "answer": "Au"
+    },
+    {
+      "question": "Which gas is most abundant in Earth's atmosphere?",
+      "option1": "Oxygen",
+      "option2": "Nitrogen",
+      "option3": "Carbon dioxide",
+      "option4": "Hydrogen",
+      "answer": "Nitrogen"
+    },
+    {
+      "question": "What is the SI unit of force?",
+      "option1": "Joule",
+      "option2": "Newton",
+      "option3": "Watt",
+      "option4": "Pascal",
+      "answer": "Newton"
+    },
+    {
+      "question": "What is the SI unit of work?",
+      "option1": "Newton",
+      "option2": "Joule",
+      "option3": "Watt",
+      "option4": "Volt",
+      "answer": "Joule"
+    },
+    {
+      "question": "What is the SI unit of electric current?",
+      "option1": "Volt",
+      "option2": "Ohm",
+      "option3": "Ampere",
+      "option4": "Watt",
+      "answer": "Ampere"
+    },
+    {
+      "question": "Which instrument is used to measure temperature?",
+      "option1": "Barometer",
+      "option2": "Thermometer",
+      "option3": "Ammeter",
+      "option4": "Voltmeter",
+      "answer": "Thermometer"
+    },
+    {
+      "question": "Which instrument measures atmospheric pressure?",
+      "option1": "Barometer",
+      "option2": "Thermometer",
+      "option3": "Hygrometer",
+      "option4": "Anemometer",
+      "answer": "Barometer"
+    },
+    {
+      "question": "Which organ pumps blood throughout the human body?",
+      "option1": "Lungs",
+      "option2": "Heart",
+      "option3": "Kidney",
+      "option4": "Liver",
+      "answer": "Heart"
+    },
+    {
+      "question": "Which is the largest organ of the human body?",
+      "option1": "Heart",
+      "option2": "Liver",
+      "option3": "Skin",
+      "option4": "Brain",
+      "answer": "Skin"
+    },
+    {
+      "question": "Which organ controls most activities of the human body?",
+      "option1": "Heart",
+      "option2": "Brain",
+      "option3": "Liver",
+      "option4": "Kidney",
+      "answer": "Brain"
+    },
+    {
+      "question": "Which blood cells help fight infections?",
+      "option1": "Red blood cells",
+      "option2": "White blood cells",
+      "option3": "Platelets",
+      "option4": "Plasma",
+      "answer": "White blood cells"
+    },
+    {
+      "question": "Which blood cells carry oxygen?",
+      "option1": "White blood cells",
+      "option2": "Red blood cells",
+      "option3": "Platelets",
+      "option4": "Plasma",
+      "answer": "Red blood cells"
+    },
+    {
+      "question": "Which vitamin is produced in the body through sunlight exposure?",
+      "option1": "Vitamin A",
+      "option2": "Vitamin B",
+      "option3": "Vitamin C",
+      "option4": "Vitamin D",
+      "answer": "Vitamin D"
+    },
+    {
+      "question": "Which vitamin is important for blood clotting?",
+      "option1": "Vitamin A",
+      "option2": "Vitamin C",
+      "option3": "Vitamin D",
+      "option4": "Vitamin K",
+      "answer": "Vitamin K"
+    },
+    {
+      "question": "Which disease is caused by deficiency of Vitamin C?",
+      "option1": "Rickets",
+      "option2": "Scurvy",
+      "option3": "Beriberi",
+      "option4": "Night blindness",
+      "answer": "Scurvy"
+    },
+    {
+      "question": "Which disease is caused by deficiency of Vitamin D?",
+      "option1": "Scurvy",
+      "option2": "Rickets",
+      "option3": "Beriberi",
+      "option4": "Anaemia",
+      "answer": "Rickets"
+    },
+    {
+      "question": "Which part of a plant carries water from roots to leaves?",
+      "option1": "Phloem",
+      "option2": "Xylem",
+      "option3": "Stomata",
+      "option4": "Cambium",
+      "answer": "Xylem"
+    },
+    {
+      "question": "Which part of a plant transports food?",
+      "option1": "Xylem",
+      "option2": "Phloem",
+      "option3": "Root hair",
+      "option4": "Stomata",
+      "answer": "Phloem"
+    },
+    {
+      "question": "Which gas do plants absorb during photosynthesis?",
+      "option1": "Oxygen",
+      "option2": "Carbon dioxide",
+      "option3": "Nitrogen",
+      "option4": "Hydrogen",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "question": "Which gas is released during photosynthesis?",
+      "option1": "Oxygen",
+      "option2": "Nitrogen",
+      "option3": "Hydrogen",
+      "option4": "Methane",
+      "answer": "Oxygen"
+    },
+    {
+      "question": "What is the pH value of pure water at room temperature?",
+      "option1": "5",
+      "option2": "6",
+      "option3": "7",
+      "option4": "8",
+      "answer": "7"
+    },
+    {
+      "question": "Which acid is present in vinegar?",
+      "option1": "Citric acid",
+      "option2": "Acetic acid",
+      "option3": "Sulphuric acid",
+      "option4": "Hydrochloric acid",
+      "answer": "Acetic acid"
+    },
+    {
+      "question": "Which metal is liquid at room temperature?",
+      "option1": "Iron",
+      "option2": "Copper",
+      "option3": "Mercury",
+      "option4": "Aluminium",
+      "answer": "Mercury"
+    },
+    {
+      "question": "Which is the hardest natural substance?",
+      "option1": "Gold",
+      "option2": "Iron",
+      "option3": "Diamond",
+      "option4": "Quartz",
+      "answer": "Diamond"
+    },
+    {
+      "question": "Which vitamin is known as ascorbic acid?",
+      "option1": "Vitamin A",
+      "option2": "Vitamin B",
+      "option3": "Vitamin C",
+      "option4": "Vitamin D",
+      "answer": "Vitamin C"
+    },
+    {
+      "question": "Deficiency of Vitamin D causes which disease?",
+      "option1": "Scurvy",
+      "option2": "Rickets",
+      "option3": "Beriberi",
+      "option4": "Night blindness",
+      "answer": "Rickets"
+    },
+    {
+      "question": "Deficiency of Vitamin C causes which disease?",
+      "option1": "Rickets",
+      "option2": "Scurvy",
+      "option3": "Beriberi",
+      "option4": "Anaemia",
+      "answer": "Scurvy"
+    },
+    {
+      "question": "Which is the smallest unit of life?",
+      "option1": "Tissue",
+      "option2": "Organ",
+      "option3": "Cell",
+      "option4": "Atom",
+      "answer": "Cell"
+    },
+    {
+      "question": "How many chambers does the human heart have?",
+      "option1": "Two",
+      "option2": "Three",
+      "option3": "Four",
+      "option4": "Five",
+      "answer": "Four"
+    },
+    {
+      "question": "Which blood component helps in clotting?",
+      "option1": "Red blood cells",
+      "option2": "White blood cells",
+      "option3": "Platelets",
+      "option4": "Plasma",
+      "answer": "Platelets"
+    },
+    {
+      "question": "Which part of the plant mainly carries out photosynthesis?",
+      "option1": "Root",
+      "option2": "Stem",
+      "option3": "Leaf",
+      "option4": "Flower",
+      "answer": "Leaf"
+    },
+    {
+      "question": "What is the process by which green plants prepare food?",
+      "option1": "Respiration",
+      "option2": "Photosynthesis",
+      "option3": "Transpiration",
+      "option4": "Digestion",
+      "answer": "Photosynthesis"
+    },
+    {
+      "question": "Which gas is released by plants during photosynthesis?",
+      "option1": "Nitrogen",
+      "option2": "Oxygen",
+      "option3": "Hydrogen",
+      "option4": "Carbon dioxide",
+      "answer": "Oxygen"
+    },
+    {
+      "question": "Which organ is responsible for digestion of food?",
+      "option1": "Stomach",
+      "option2": "Heart",
+      "option3": "Lung",
+      "option4": "Kidney",
+      "answer": "Stomach"
+    },
+    {
+      "question": "Which organ produces bile?",
+      "option1": "Stomach",
+      "option2": "Liver",
+      "option3": "Kidney",
+      "option4": "Pancreas",
+      "answer": "Liver"
+    },
+    {
+      "question": "Which organ produces insulin?",
+      "option1": "Liver",
+      "option2": "Pancreas",
+      "option3": "Kidney",
+      "option4": "Stomach",
+      "answer": "Pancreas"
+    },
+    {
+      "question": "Which is the largest gland in the human body?",
+      "option1": "Pancreas",
+      "option2": "Thyroid",
+      "option3": "Liver",
+      "option4": "Pituitary",
+      "answer": "Liver"
+    },
+    {
+      "question": "What is the normal human body temperature approximately?",
+      "option1": "35°C",
+      "option2": "37°C",
+      "option3": "39°C",
+      "option4": "42°C",
+      "answer": "37°C"
+    },
+    {
+      "question": "Which disease is caused by deficiency of iron?",
+      "option1": "Anaemia",
+      "option2": "Scurvy",
+      "option3": "Rickets",
+      "option4": "Goitre",
+      "answer": "Anaemia"
+    },
+    {
+      "question": "Which disease is caused by iodine deficiency?",
+      "option1": "Scurvy",
+      "option2": "Goitre",
+      "option3": "Rickets",
+      "option4": "Beriberi",
+      "answer": "Goitre"
+    },
+    {
+      "question": "What is the SI unit of power?",
+      "option1": "Joule",
+      "option2": "Newton",
+      "option3": "Watt",
+      "option4": "Pascal",
+      "answer": "Watt"
+    },
+    {
+      "question": "What is the SI unit of pressure?",
+      "option1": "Newton",
+      "option2": "Pascal",
+      "option3": "Joule",
+      "option4": "Watt",
+      "answer": "Pascal"
+    },
+    {
+      "question": "What is the SI unit of energy?",
+      "option1": "Joule",
+      "option2": "Watt",
+      "option3": "Newton",
+      "option4": "Ampere",
+      "answer": "Joule"
+    },
+    {
+      "question": "Which device converts electrical energy into mechanical energy?",
+      "option1": "Generator",
+      "option2": "Electric motor",
+      "option3": "Transformer",
+      "option4": "Battery",
+      "answer": "Electric motor"
+    },
+    {
+      "question": "Which device converts mechanical energy into electrical energy?",
+      "option1": "Motor",
+      "option2": "Generator",
+      "option3": "Transformer",
+      "option4": "Battery",
+      "answer": "Generator"
+    },
+    {
+      "question": "Which mirror is used as a rear-view mirror in vehicles?",
+      "option1": "Plane mirror",
+      "option2": "Concave mirror",
+      "option3": "Convex mirror",
+      "option4": "Cylindrical mirror",
+      "answer": "Convex mirror"
+    },
+    {
+      "question": "Which lens is used to correct myopia?",
+      "option1": "Convex lens",
+      "option2": "Concave lens",
+      "option3": "Bifocal lens",
+      "option4": "Cylindrical lens",
+      "answer": "Concave lens"
+    },
+    {
+      "question": "Which lens is used to correct hypermetropia?",
+      "option1": "Concave lens",
+      "option2": "Convex lens",
+      "option3": "Plane lens",
+      "option4": "Cylindrical lens",
+      "answer": "Convex lens"
+    },
+    {
+      "question": "What is the speed of light in vacuum approximately?",
+      "option1": "3 × 10^6 m/s",
+      "option2": "3 × 10^7 m/s",
+      "option3": "3 × 10^8 m/s",
+      "option4": "3 × 10^9 m/s",
+      "answer": "3 × 10^8 m/s"
+    },
+    {
+      "question": "Which force opposes the motion of an object?",
+      "option1": "Gravitational force",
+      "option2": "Frictional force",
+      "option3": "Magnetic force",
+      "option4": "Nuclear force",
+      "answer": "Frictional force"
+    },
+    {
+      "question": "Which form of energy is possessed by a moving object?",
+      "option1": "Potential energy",
+      "option2": "Kinetic energy",
+      "option3": "Chemical energy",
+      "option4": "Nuclear energy",
+      "answer": "Kinetic energy"
+    },
+    {
+      "question": "Which form of energy is stored in a stretched rubber band?",
+      "option1": "Kinetic energy",
+      "option2": "Elastic potential energy",
+      "option3": "Heat energy",
+      "option4": "Chemical energy",
+      "answer": "Elastic potential energy"
+    },
+    {
+      "question": "Which metal is the best conductor of electricity?",
+      "option1": "Iron",
+      "option2": "Copper",
+      "option3": "Silver",
+      "option4": "Aluminium",
+      "answer": "Silver"
+    },
+    {
+      "question": "Which acid is present in lemon?",
+      "option1": "Acetic acid",
+      "option2": "Citric acid",
+      "option3": "Lactic acid",
+      "option4": "Formic acid",
+      "answer": "Citric acid"
+    },
+    {
+      "question": "What is the pH value of pure water?",
+      "option1": "5",
+      "option2": "6",
+      "option3": "7",
+      "option4": "8",
+      "answer": "7"
+    },
+    {
+      "question": "Which gas is commonly used in balloons because it is non-flammable?",
+      "option1": "Oxygen",
+      "option2": "Helium",
+      "option3": "Hydrogen",
+      "option4": "Carbon dioxide",
+      "answer": "Helium"
+    },
+    {
+      "question": "The Battle of Plassey was fought in which year?",
+      "option1": "1757",
+      "option2": "1764",
+      "option3": "1857",
+      "option4": "1748",
+      "answer": "1757"
+    },
+    {
+      "question": "The Revolt of 1857 started at which place?",
+      "option1": "Delhi",
+      "option2": "Meerut",
+      "option3": "Kanpur",
+      "option4": "Lucknow",
+      "answer": "Meerut"
+    },
+    {
+      "question": "The Jallianwala Bagh massacre took place in which year?",
+      "option1": "1917",
+      "option2": "1919",
+      "option3": "1921",
+      "option4": "1922",
+      "answer": "1919"
+    },
+    {
+      "question": "Who gave the slogan 'Jai Jawan Jai Kisan'?",
+      "option1": "Jawaharlal Nehru",
+      "option2": "Lal Bahadur Shastri",
+      "option3": "Mahatma Gandhi",
+      "option4": "Sardar Patel",
+      "answer": "Lal Bahadur Shastri"
+    },
+    {
+      "question": "Who wrote 'Vande Mataram'?",
+      "option1": "Rabindranath Tagore",
+      "option2": "Bankim Chandra Chattopadhyay",
+      "option3": "Mahatma Gandhi",
+      "option4": "Subhas Chandra Bose",
+      "answer": "Bankim Chandra Chattopadhyay"
+    },
+    {
+      "question": "Who is known as the Nightingale of India?",
+      "option1": "Sarojini Naidu",
+      "option2": "Annie Besant",
+      "option3": "Aruna Asaf Ali",
+      "option4": "Vijaya Lakshmi Pandit",
+      "answer": "Sarojini Naidu"
+    },
+    {
+      "question": "In which year was the Quit India Movement launched?",
+      "option1": "1930",
+      "option2": "1935",
+      "option3": "1942",
+      "option4": "1947",
+      "answer": "1942"
+    },
+    {
+      "question": "Who was the first Governor-General of independent India?",
+      "option1": "Lord Mountbatten",
+      "option2": "C. Rajagopalachari",
+      "option3": "Lord Canning",
+      "option4": "Warren Hastings",
+      "answer": "Lord Mountbatten"
+    },
+    {
+      "question": "Who was the last Governor-General of India?",
+      "option1": "Lord Mountbatten",
+      "option2": "C. Rajagopalachari",
+      "option3": "Lord Wavell",
+      "option4": "Lord Curzon",
+      "answer": "C. Rajagopalachari"
+    },
+    {
+      "question": "Who founded the Indian National Congress?",
+      "option1": "A. O. Hume",
+      "option2": "Mahatma Gandhi",
+      "option3": "Dadabhai Naoroji",
+      "option4": "Bal Gangadhar Tilak",
+      "answer": "A. O. Hume"
+    },
+    {
+      "question": "In which year was the Indian National Congress founded?",
+      "option1": "1885",
+      "option2": "1905",
+      "option3": "1919",
+      "option4": "1942",
+      "answer": "1885"
+    },
+    {
+      "question": "Who was the first President of the Indian National Congress?",
+      "option1": "W. C. Bonnerjee",
+      "option2": "Dadabhai Naoroji",
+      "option3": "Surendranath Banerjee",
+      "option4": "Gopal Krishna Gokhale",
+      "answer": "W. C. Bonnerjee"
+    },
+    {
+      "question": "Who is known as the Grand Old Man of India?",
+      "option1": "Dadabhai Naoroji",
+      "option2": "Mahatma Gandhi",
+      "option3": "Gopal Krishna Gokhale",
+      "option4": "Bal Gangadhar Tilak",
+      "answer": "Dadabhai Naoroji"
+    },
+    {
+      "question": "Who started the Home Rule Movement in India?",
+      "option1": "Annie Besant",
+      "option2": "Mahatma Gandhi",
+      "option3": "Subhas Chandra Bose",
+      "option4": "Jawaharlal Nehru",
+      "answer": "Annie Besant"
+    },
+    {
+      "question": "Who was popularly known as Lokmanya?",
+      "option1": "Bal Gangadhar Tilak",
+      "option2": "Lala Lajpat Rai",
+      "option3": "Bipin Chandra Pal",
+      "option4": "Gopal Krishna Gokhale",
+      "answer": "Bal Gangadhar Tilak"
+    },
+    {
+      "question": "Who founded the Servants of India Society?",
+      "option1": "Gopal Krishna Gokhale",
+      "option2": "Dadabhai Naoroji",
+      "option3": "Bal Gangadhar Tilak",
+      "option4": "M. G. Ranade",
+      "answer": "Gopal Krishna Gokhale"
+    },
+    {
+      "question": "The Dandi March was associated with which movement?",
+      "option1": "Non-Cooperation Movement",
+      "option2": "Civil Disobedience Movement",
+      "option3": "Quit India Movement",
+      "option4": "Swadeshi Movement",
+      "answer": "Civil Disobedience Movement"
+    },
+    {
+      "question": "In which year did the Dandi March begin?",
+      "option1": "1920",
+      "option2": "1930",
+      "option3": "1935",
+      "option4": "1942",
+      "answer": "1930"
+    },
+    {
+      "question": "Who led the Salt March?",
+      "option1": "Mahatma Gandhi",
+      "option2": "Jawaharlal Nehru",
+      "option3": "Sardar Patel",
+      "option4": "Subhas Chandra Bose",
+      "answer": "Mahatma Gandhi"
+    },
+    {
+      "question": "The Non-Cooperation Movement was launched in which year?",
+      "option1": "1919",
+      "option2": "1920",
+      "option3": "1930",
+      "option4": "1942",
+      "answer": "1920"
+    },
+    {
+      "question": "Why was the Non-Cooperation Movement withdrawn?",
+      "option1": "Jallianwala Bagh incident",
+      "option2": "Chauri Chaura incident",
+      "option3": "Dandi March",
+      "option4": "Simon Commission",
+      "answer": "Chauri Chaura incident"
+    },
+    {
+      "question": "The Chauri Chaura incident occurred in which year?",
+      "option1": "1920",
+      "option2": "1922",
+      "option3": "1930",
+      "option4": "1942",
+      "answer": "1922"
+    },
+    {
+      "question": "Who gave the slogan 'Inquilab Zindabad'?",
+      "option1": "Bhagat Singh",
+      "option2": "Mahatma Gandhi",
+      "option3": "Subhas Chandra Bose",
+      "option4": "Jawaharlal Nehru",
+      "answer": "Bhagat Singh"
+    },
+    {
+      "question": "Who founded the Azad Hind Fauj?",
+      "option1": "Subhas Chandra Bose",
+      "option2": "Bhagat Singh",
+      "option3": "Sardar Patel",
+      "option4": "Rajendra Prasad",
+      "answer": "Subhas Chandra Bose"
+    },
+    {
+      "question": "Who is popularly known as Netaji?",
+      "option1": "Subhas Chandra Bose",
+      "option2": "Jawaharlal Nehru",
+      "option3": "Sardar Patel",
+      "option4": "Bhagat Singh",
+      "answer": "Subhas Chandra Bose"
+    },
+    {
+      "question": "Who was known as the Iron Man of India?",
+      "option1": "Sardar Vallabhbhai Patel",
+      "option2": "Jawaharlal Nehru",
+      "option3": "Subhas Chandra Bose",
+      "option4": "Lal Bahadur Shastri",
+      "answer": "Sardar Vallabhbhai Patel"
+    },
+    {
+      "question": "Who is known as the Frontier Gandhi?",
+      "option1": "Khan Abdul Ghaffar Khan",
+      "option2": "Mahatma Gandhi",
+      "option3": "Maulana Abul Kalam Azad",
+      "option4": "Sardar Patel",
+      "answer": "Khan Abdul Ghaffar Khan"
+    },
+    {
+      "question": "Which Article deals with the Right to Life and Personal Liberty?",
+      "option1": "Article 14",
+      "option2": "Article 19",
+      "option3": "Article 21",
+      "option4": "Article 32",
+      "answer": "Article 21"
+    },
+    {
+      "question": "Which Article is known as the Right to Constitutional Remedies?",
+      "option1": "Article 14",
+      "option2": "Article 19",
+      "option3": "Article 21",
+      "option4": "Article 32",
+      "answer": "Article 32"
+    },
+    {
+      "question": "How many Fundamental Rights are currently guaranteed by the Indian Constitution?",
+      "option1": "5",
+      "option2": "6",
+      "option3": "7",
+      "option4": "8",
+      "answer": "6"
+    },
+    {
+      "question": "Who is the constitutional head of India?",
+      "option1": "Prime Minister",
+      "option2": "President",
+      "option3": "Chief Justice",
+      "option4": "Vice-President",
+      "answer": "President"
+    },
+    {
+      "question": "What is the minimum age to become the President of India?",
+      "option1": "25 years",
+      "option2": "30 years",
+      "option3": "35 years",
+      "option4": "40 years",
+      "answer": "35 years"
+    },
+    {
+      "question": "What is the minimum age to become a member of the Lok Sabha?",
+      "option1": "18 years",
+      "option2": "21 years",
+      "option3": "25 years",
+      "option4": "30 years",
+      "answer": "25 years"
+    },
+    {
+      "question": "What is the minimum age to become a member of the Rajya Sabha?",
+      "option1": "25 years",
+      "option2": "30 years",
+      "option3": "35 years",
+      "option4": "40 years",
+      "answer": "30 years"
+    },
+    {
+      "question": "Who presides over the Lok Sabha?",
+      "option1": "President",
+      "option2": "Prime Minister",
+      "option3": "Speaker",
+      "option4": "Vice-President",
+      "answer": "Speaker"
+    },
+    {
+      "question": "Who appoints the Prime Minister of India?",
+      "option1": "President",
+      "option2": "Chief Justice",
+      "option3": "Lok Sabha Speaker",
+      "option4": "Vice-President",
+      "answer": "President"
+    },
+    {
+      "question": "The Supreme Court of India is located in which city?",
+      "option1": "Mumbai",
+      "option2": "New Delhi",
+      "option3": "Kolkata",
+      "option4": "Chennai",
+      "answer": "New Delhi"
+    },
+    {
+      "question": "Who is the highest judicial authority in India?",
+      "option1": "High Court",
+      "option2": "Supreme Court",
+      "option3": "District Court",
+      "option4": "Sessions Court",
+      "answer": "Supreme Court"
+    },
+    {
+      "question": "Which constitutional amendment lowered the voting age from 21 to 18?",
+      "option1": "42nd Amendment",
+      "option2": "44th Amendment",
+      "option3": "61st Amendment",
+      "option4": "73rd Amendment",
+      "answer": "61st Amendment"
+    },
+    {
+      "question": "The Panchayati Raj system was given constitutional status by which amendment?",
+      "option1": "42nd Amendment",
+      "option2": "61st Amendment",
+      "option3": "73rd Amendment",
+      "option4": "74th Amendment",
+      "answer": "73rd Amendment"
+    },
+    {
+      "question": "Municipalities were given constitutional status by which amendment?",
+      "option1": "73rd Amendment",
+      "option2": "74th Amendment",
+      "option3": "86th Amendment",
+      "option4": "91st Amendment",
+      "answer": "74th Amendment"
+    },
+    {
+      "question": "Who is the head of a state in India?",
+      "option1": "Chief Minister",
+      "option2": "Governor",
+      "option3": "President",
+      "option4": "Chief Secretary",
+      "answer": "Governor"
+    },
+    {
+      "question": "Who is the real executive head of a state?",
+      "option1": "Governor",
+      "option2": "Chief Minister",
+      "option3": "President",
+      "option4": "Speaker",
+      "answer": "Chief Minister"
+    },
+    {
+      "question": "Which body is responsible for auditing government accounts in India?",
+      "option1": "RBI",
+      "option2": "CAG",
+      "option3": "SEBI",
+      "option4": "UPSC",
+      "answer": "CAG"
+    },
+    {
+      "question": "What does CAG stand for?",
+      "option1": "Controller and Auditor General",
+      "option2": "Comptroller and Auditor General",
+      "option3": "Central Audit General",
+      "option4": "Chief Accounts General",
+      "answer": "Comptroller and Auditor General"
+    },
+    {
+      "question": "Which organization conducts examinations for central government civil services?",
+      "option1": "SSC",
+      "option2": "UPSC",
+      "option3": "RBI",
+      "option4": "SEBI",
+      "answer": "UPSC"
+    },
+    {
+      "question": "What is the full form of UPSC?",
+      "option1": "Union Public Service Commission",
+      "option2": "United Public Service Commission",
+      "option3": "Union Private Service Commission",
+      "option4": "Universal Public Service Council",
+      "answer": "Union Public Service Commission"
+    },
+    {
+      "question": "What is the full form of SSC?",
+      "option1": "Staff Selection Commission",
+      "option2": "State Selection Commission",
+      "option3": "Service Selection Council",
+      "option4": "Staff Service Council",
+      "answer": "Staff Selection Commission"
+    },
+    {
+      "question": "Which organization conducts RRB examinations?",
+      "option1": "Railway Recruitment Boards",
+      "option2": "UPSC",
+      "option3": "SSC",
+      "option4": "IBPS",
+      "answer": "Railway Recruitment Boards"
+    },
+    {
+      "question": "What does RRB stand for?",
+      "option1": "Railway Recruitment Board",
+      "option2": "Railway Reservation Board",
+      "option3": "Railway Regulation Bureau",
+      "option4": "Railway Recruitment Bureau",
+      "answer": "Railway Recruitment Board"
+    },
+    {
+      "question": "Where is the headquarters of Indian Railways located?",
+      "option1": "Mumbai",
+      "option2": "New Delhi",
+      "option3": "Kolkata",
+      "option4": "Chennai",
+      "answer": "New Delhi"
+    },
+    {
+      "question": "Which is the fastest train service in India?",
+      "option1": "Vande Bharat Express",
+      "option2": "Rajdhani Express",
+      "option3": "Shatabdi Express",
+      "option4": "Duronto Express",
+      "answer": "Vande Bharat Express"
+    },
+    {
+      "question": "Which railway zone has its headquarters at Secunderabad?",
+      "option1": "South Central Railway",
+      "option2": "South Eastern Railway",
+      "option3": "Central Railway",
+      "option4": "East Coast Railway",
+      "answer": "South Central Railway"
+    },
+    {
+      "question": "What is the broad gauge width used by Indian Railways?",
+      "option1": "1000 mm",
+      "option2": "1435 mm",
+      "option3": "1676 mm",
+      "option4": "2000 mm",
+      "answer": "1676 mm"
+    },
+    {
+      "question": "Which city has the headquarters of South Central Railway?",
+      "option1": "Hyderabad",
+      "option2": "Secunderabad",
+      "option3": "Vijayawada",
+      "option4": "Warangal",
+      "answer": "Secunderabad"
+    },
+    {
+      "question": "Which railway station is known as the busiest railway station in India by passenger volume?",
+      "option1": "Howrah Junction",
+      "option2": "New Delhi Railway Station",
+      "option3": "Chennai Central",
+      "option4": "Mumbai Central",
+      "answer": "Howrah Junction"
+    },
+    {
+      "question": "Who was the first Indian Governor-General of India?",
+      "option1": "Dr. Rajendra Prasad",
+      "option2": "C. Rajagopalachari",
+      "option3": "Jawaharlal Nehru",
+      "option4": "Sardar Patel",
+      "answer": "C. Rajagopalachari"
+    },
+    {
+      "question": "Where was the first session of the Indian National Congress held?",
+      "option1": "Calcutta",
+      "option2": "Bombay",
+      "option3": "Madras",
+      "option4": "Delhi",
+      "answer": "Bombay"
+    },
+    {
+      "question": "Who started the Home Rule Movement in India along with Annie Besant?",
+      "option1": "Bal Gangadhar Tilak",
+      "option2": "Mahatma Gandhi",
+      "option3": "Jawaharlal Nehru",
+      "option4": "Sardar Patel",
+      "answer": "Bal Gangadhar Tilak"
+    },
+    {
+      "question": "The Civil Disobedience Movement was launched in which year?",
+      "option1": "1920",
+      "option2": "1925",
+      "option3": "1930",
+      "option4": "1942",
+      "answer": "1930"
+    },
+    {
+      "question": "Which movement was associated with the Dandi March?",
+      "option1": "Quit India Movement",
+      "option2": "Non-Cooperation Movement",
+      "option3": "Civil Disobedience Movement",
+      "option4": "Swadeshi Movement",
+      "answer": "Civil Disobedience Movement"
+    },
+    {
+      "question": "The Dandi March was related to which tax?",
+      "option1": "Land tax",
+      "option2": "Salt tax",
+      "option3": "Income tax",
+      "option4": "Water tax",
+      "answer": "Salt tax"
+    },
+    {
+      "question": "Who led the Dandi March?",
+      "option1": "Subhas Chandra Bose",
+      "option2": "Mahatma Gandhi",
+      "option3": "Jawaharlal Nehru",
+      "option4": "Sardar Patel",
+      "answer": "Mahatma Gandhi"
+    },
+    {
+      "question": "What was the slogan of Subhas Chandra Bose?",
+      "option1": "Do or Die",
+      "option2": "Jai Hind",
+      "option3": "Inquilab Zindabad",
+      "option4": "Swaraj is my birthright",
+      "answer": "Jai Hind"
+    },
+    {
+      "question": "Who founded the Brahmo Samaj?",
+      "option1": "Raja Ram Mohan Roy",
+      "option2": "Swami Dayanand Saraswati",
+      "option3": "Swami Vivekananda",
+      "option4": "Ishwar Chandra Vidyasagar",
+      "answer": "Raja Ram Mohan Roy"
+    },
+    {
+      "question": "Who founded the Arya Samaj?",
+      "option1": "Raja Ram Mohan Roy",
+      "option2": "Swami Dayanand Saraswati",
+      "option3": "Swami Vivekananda",
+      "option4": "Ramakrishna Paramahamsa",
+      "answer": "Swami Dayanand Saraswati"
+    },
+    {
+      "question": "Who founded the Ramakrishna Mission?",
+      "option1": "Swami Vivekananda",
+      "option2": "Raja Ram Mohan Roy",
+      "option3": "Swami Dayanand Saraswati",
+      "option4": "Annie Besant",
+      "answer": "Swami Vivekananda"
+    },
+    {
+      "question": "Which article of the Indian Constitution deals with Right to Life and Personal Liberty?",
+      "option1": "Article 14",
+      "option2": "Article 19",
+      "option3": "Article 21",
+      "option4": "Article 32",
+      "answer": "Article 21"
+    },
+    {
+      "question": "Who is the head of the Union Government in India?",
+      "option1": "President",
+      "option2": "Prime Minister",
+      "option3": "Vice-President",
+      "option4": "Speaker",
+      "answer": "Prime Minister"
+    },
+    {
+      "question": "What is the maximum strength of the Lok Sabha?",
+      "option1": "545",
+      "option2": "550",
+      "option3": "552",
+      "option4": "560",
+      "answer": "552"
+    },
+    {
+      "question": "What is the maximum strength of the Rajya Sabha?",
+      "option1": "238",
+      "option2": "245",
+      "option3": "250",
+      "option4": "260",
+      "answer": "250"
+    },
+    {
+      "question": "What is the minimum age required to become a member of the Lok Sabha?",
+      "option1": "18 years",
+      "option2": "21 years",
+      "option3": "25 years",
+      "option4": "30 years",
+      "answer": "25 years"
+    },
+    {
+      "question": "What is the minimum age required to become a member of the Rajya Sabha?",
+      "option1": "21 years",
+      "option2": "25 years",
+      "option3": "30 years",
+      "option4": "35 years",
+      "answer": "30 years"
+    },
+    {
+      "question": "What is the minimum age required to become the President of India?",
+      "option1": "25 years",
+      "option2": "30 years",
+      "option3": "35 years",
+      "option4": "40 years",
+      "answer": "35 years"
+    },
+    {
+      "question": "Who appoints the Chief Justice of India?",
+      "option1": "Prime Minister",
+      "option2": "President",
+      "option3": "Vice-President",
+      "option4": "Parliament",
+      "answer": "President"
+    },
+    {
+      "question": "Which constitutional body audits the accounts of the Government of India?",
+      "option1": "UPSC",
+      "option2": "CAG",
+      "option3": "RBI",
+      "option4": "Election Commission",
+      "answer": "CAG"
+    },
+    {
+      "question": "Which body conducts examinations for central government civil services?",
+      "option1": "SSC",
+      "option2": "UPSC",
+      "option3": "RBI",
+      "option4": "SEBI",
+      "answer": "UPSC"
+    },
+    {
+      "question": "What is the tenure of the President of India?",
+      "option1": "4 years",
+      "option2": "5 years",
+      "option3": "6 years",
+      "option4": "7 years",
+      "answer": "5 years"
+    },
+    {
+      "question": "What is the tenure of a Lok Sabha?",
+      "option1": "4 years",
+      "option2": "5 years",
+      "option3": "6 years",
+      "option4": "7 years",
+      "answer": "5 years"
+    },
+    {
+      "question": "Which House of Parliament is a permanent house?",
+      "option1": "Lok Sabha",
+      "option2": "Rajya Sabha",
+      "option3": "Both",
+      "option4": "Neither",
+      "answer": "Rajya Sabha"
+    },
+    {
+      "question": "How many members can the President nominate to the Rajya Sabha?",
+      "option1": "10",
+      "option2": "12",
+      "option3": "14",
+      "option4": "15",
+      "answer": "12"
+    },
+    {
+      "question": "Which schedule of the Constitution contains the list of official languages?",
+      "option1": "Sixth Schedule",
+      "option2": "Seventh Schedule",
+      "option3": "Eighth Schedule",
+      "option4": "Ninth Schedule",
+      "answer": "Eighth Schedule"
+    },
+    {
+      "question": "How many Fundamental Duties are currently listed in the Indian Constitution?",
+      "option1": "10",
+      "option2": "11",
+      "option3": "12",
+      "option4": "9",
+      "answer": "11"
+    },
+    {
+      "question": "Which amendment added Fundamental Duties to the Constitution?",
+      "option1": "42nd Amendment",
+      "option2": "44th Amendment",
+      "option3": "52nd Amendment",
+      "option4": "73rd Amendment",
+      "answer": "42nd Amendment"
+    },
+    {
+      "question": "Which amendment lowered the voting age from 21 to 18 years?",
+      "option1": "42nd Amendment",
+      "option2": "44th Amendment",
+      "option3": "61st Amendment",
+      "option4": "73rd Amendment",
+      "answer": "61st Amendment"
+    },
+    {
+      "question": "Who is the head of a state government in India?",
+      "option1": "Chief Minister",
+      "option2": "Governor",
+      "option3": "President",
+      "option4": "Speaker",
+      "answer": "Governor"
+    },
+    {
+      "question": "Who appoints the Governor of a state?",
+      "option1": "Prime Minister",
+      "option2": "President",
+      "option3": "Chief Minister",
+      "option4": "Chief Justice",
+      "answer": "President"
+    },
+    {
+      "question": "Who is the real executive head of a state government?",
+      "option1": "Governor",
+      "option2": "Chief Minister",
+      "option3": "President",
+      "option4": "Speaker",
+      "answer": "Chief Minister"
+    },
+    {
+      "question": "Which body replaced the Planning Commission of India?",
+      "option1": "Finance Commission",
+      "option2": "NITI Aayog",
+      "option3": "RBI",
+      "option4": "SEBI",
+      "answer": "NITI Aayog"
+    },
+    {
+      "question": "In which year was NITI Aayog established?",
+      "option1": "2012",
+      "option2": "2014",
+      "option3": "2015",
+      "option4": "2016",
+      "answer": "2015"
+    },
+    {
+      "question": "Which organization is responsible for conducting the Census of India?",
+      "option1": "Election Commission",
+      "option2": "Office of the Registrar General and Census Commissioner",
+      "option3": "NITI Aayog",
+      "option4": "UPSC",
+      "answer": "Office of the Registrar General and Census Commissioner"
+    },
+    {
+      "question": "Which is the largest public sector bank in India?",
+      "option1": "Punjab National Bank",
+      "option2": "Bank of Baroda",
+      "option3": "State Bank of India",
+      "option4": "Canara Bank",
+      "answer": "State Bank of India"
+    },
+    {
+      "question": "What does GST stand for?",
+      "option1": "Goods and Services Tax",
+      "option2": "General Sales Tax",
+      "option3": "Government Service Tax",
+      "option4": "Goods Supply Tax",
+      "answer": "Goods and Services Tax"
+    },
+    {
+      "question": "Who is known as the Father of the Indian Railways?",
+      "option1": "Lord Dalhousie",
+      "option2": "Lord Curzon",
+      "option3": "Lord Ripon",
+      "option4": "Lord Mountbatten",
+      "answer": "Lord Dalhousie"
+    },
+    {
+      "question": "In which year was the first railway line introduced in India?",
+      "option1": "1853",
+      "option2": "1857",
+      "option3": "1861",
+      "option4": "1870",
+      "answer": "1853"
+    },
+    {
+      "question": "The first train in India ran between which two places?",
+      "option1": "Delhi and Agra",
+      "option2": "Mumbai and Thane",
+      "option3": "Kolkata and Howrah",
+      "option4": "Chennai and Bengaluru",
+      "answer": "Mumbai and Thane"
+    },
+    {
+      "question": "What is the headquarters of Indian Railways?",
+      "option1": "Mumbai",
+      "option2": "New Delhi",
+      "option3": "Kolkata",
+      "option4": "Chennai",
+      "answer": "New Delhi"
+    },
+    {
+      "question": "How many railway zones are currently under Indian Railways?",
+      "option1": "16",
+      "option2": "17",
+      "option3": "18",
+      "option4": "19",
+      "answer": "18"
+    },
+    {
+      "question": "Which is the broadest railway gauge commonly used in India?",
+      "option1": "Metre Gauge",
+      "option2": "Broad Gauge",
+      "option3": "Narrow Gauge",
+      "option4": "Standard Gauge",
+      "answer": "Broad Gauge"
+    },
+    {
+      "question": "What is the width of Broad Gauge in India?",
+      "option1": "1000 mm",
+      "option2": "1435 mm",
+      "option3": "1676 mm",
+      "option4": "762 mm",
+      "answer": "1676 mm"
+    },
+    {
+      "question": "Which railway station is known for having one of the longest railway platforms in the world?",
+      "option1": "Gorakhpur",
+      "option2": "Howrah",
+      "option3": "New Delhi",
+      "option4": "Chennai Central",
+      "answer": "Gorakhpur"
+    },
+    {
+      "question": "Which is the longest railway platform in India?",
+      "option1": "Gorakhpur",
+      "option2": "Kharagpur",
+      "option3": "Howrah",
+      "option4": "Prayagraj",
+      "answer": "Gorakhpur"
+    },
+    {
+      "question": "Which train is known as India's first semi-high-speed train?",
+      "option1": "Rajdhani Express",
+      "option2": "Vande Bharat Express",
+      "option3": "Shatabdi Express",
+      "option4": "Duronto Express",
+      "answer": "Vande Bharat Express"
+    },
+    {
+      "question": "Where is the headquarters of the Railway Board located?",
+      "option1": "Mumbai",
+      "option2": "New Delhi",
+      "option3": "Kolkata",
+      "option4": "Chennai",
+      "answer": "New Delhi"
+    },
+    {
+      "question": "Which railway zone has its headquarters at Mumbai?",
+      "option1": "Northern Railway",
+      "option2": "Central Railway",
+      "option3": "Eastern Railway",
+      "option4": "Southern Railway",
+      "answer": "Central Railway"
+    },
+    {
+      "question": "Which railway zone has its headquarters at Chennai?",
+      "option1": "Southern Railway",
+      "option2": "South Central Railway",
+      "option3": "South Eastern Railway",
+      "option4": "South Western Railway",
+      "answer": "Southern Railway"
+    },
+    {
+      "question": "Which railway zone has its headquarters at Kolkata?",
+      "option1": "Eastern Railway",
+      "option2": "Northern Railway",
+      "option3": "Western Railway",
+      "option4": "Central Railway",
+      "answer": "Eastern Railway"
+    },
+    {
+      "question": "What does IRCTC stand for?",
+      "option1": "Indian Railway Catering and Tourism Corporation",
+      "option2": "Indian Railway Cargo and Transport Corporation",
+      "option3": "Indian Railways Catering and Travel Company",
+      "option4": "Indian Railway Communication and Tourism Corporation",
+      "answer": "Indian Railway Catering and Tourism Corporation"
+    },
+    {
+      "question": "Which organization manages railway ticket booking through its online platform?",
+      "option1": "IRCTC",
+      "option2": "RBI",
+      "option3": "SEBI",
+      "option4": "NITI Aayog",
+      "answer": "IRCTC"
+    },
+    {
+      "question": "Which is the highest railway bridge in India?",
+      "option1": "Bogibeel Bridge",
+      "option2": "Chenab Rail Bridge",
+      "option3": "Howrah Bridge",
+      "option4": "Pamban Bridge",
+      "answer": "Chenab Rail Bridge"
+    },
+    {
+      "question": "The Chenab Rail Bridge is located in which Union Territory?",
+      "option1": "Delhi",
+      "option2": "Jammu and Kashmir",
+      "option3": "Ladakh",
+      "option4": "Chandigarh",
+      "answer": "Jammu and Kashmir"
+    },
+    {
+      "question": "Which railway station is commonly associated with India's capital city?",
+      "option1": "Mumbai Central",
+      "option2": "New Delhi Railway Station",
+      "option3": "Howrah Junction",
+      "option4": "Chennai Central",
+      "answer": "New Delhi Railway Station"
+    },
+    {
+      "question": "Which train service connects major cities and is known for its premium service?",
+      "option1": "Rajdhani Express",
+      "option2": "Passenger Train",
+      "option3": "MEMU",
+      "option4": "Goods Train",
+      "answer": "Rajdhani Express"
+    },
+    {
+      "question": "Which train was introduced as India's first fully air-conditioned train?",
+      "option1": "Rajdhani Express",
+      "option2": "Shatabdi Express",
+      "option3": "Duronto Express",
+      "option4": "Vande Bharat Express",
+      "answer": "Rajdhani Express"
+    },
+    {
+      "question": "Which railway recruitment body conducts recruitment for various non-gazetted railway posts?",
+      "option1": "Railway Recruitment Board",
+      "option2": "Union Public Service Commission",
+      "option3": "Staff Selection Commission",
+      "option4": "State Public Service Commission",
+      "answer": "Railway Recruitment Board"
+    },
+    {
+      "question": "What does RRB stand for in railway recruitment?",
+      "option1": "Railway Recruitment Board",
+      "option2": "Railway Registration Bureau",
+      "option3": "Railway Reservation Board",
+      "option4": "Railway Regional Board",
+      "answer": "Railway Recruitment Board"
+    },
+    {
+      "question": "What does NTPC stand for in RRB NTPC?",
+      "option1": "National Transport and Passenger Corporation",
+      "option2": "Non-Technical Popular Categories",
+      "option3": "National Train Planning Committee",
+      "option4": "Non-Technical Public Categories",
+      "answer": "Non-Technical Popular Categories"
+    },
+    {
+      "question": "Which railway station is known as the busiest railway station in India by passenger traffic?",
+      "option1": "Howrah Junction",
+      "option2": "New Delhi Railway Station",
+      "option3": "Chennai Central",
+      "option4": "Mumbai Central",
+      "answer": "New Delhi Railway Station"
+    }
+  ]
+}

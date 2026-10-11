@@ -1,0 +1,1605 @@
+{
+  "exam": "Railway SI",
+  "questions": [
+    {
+      "question": "Who is known as the Father of the Indian Constitution?",
+      "option1": "Mahatma Gandhi",
+      "option2": "Dr. B. R. Ambedkar",
+      "option3": "Jawaharlal Nehru",
+      "option4": "Sardar Vallabhbhai Patel",
+      "answer": "Dr. B. R. Ambedkar"
+    },
+    {
+      "question": "When was the Constitution of India adopted?",
+      "option1": "15 August 1947",
+      "option2": "26 January 1950",
+      "option3": "26 November 1949",
+      "option4": "2 October 1949",
+      "answer": "26 November 1949"
+    },
+    {
+      "question": "Who was the first Vice-President of India?",
+      "option1": "Dr. S. Radhakrishnan",
+      "option2": "Dr. Rajendra Prasad",
+      "option3": "Jawaharlal Nehru",
+      "option4": "Dr. Zakir Husain",
+      "answer": "Dr. S. Radhakrishnan"
+    },
+    {
+      "question": "Which Article guarantees equality before law?",
+      "option1": "Article 12",
+      "option2": "Article 14",
+      "option3": "Article 16",
+      "option4": "Article 19",
+      "answer": "Article 14"
+    },
+    {
+      "question": "Who appoints the Governor of an Indian state?",
+      "option1": "Prime Minister",
+      "option2": "Chief Minister",
+      "option3": "President",
+      "option4": "Chief Justice of India",
+      "answer": "President"
+    },
+    {
+      "question": "Which is the highest judicial body in India?",
+      "option1": "High Court",
+      "option2": "Supreme Court",
+      "option3": "District Court",
+      "option4": "Sessions Court",
+      "answer": "Supreme Court"
+    },
+    {
+      "question": "What is the minimum age required to become the President of India?",
+      "option1": "25 years",
+      "option2": "30 years",
+      "option3": "35 years",
+      "option4": "40 years",
+      "answer": "35 years"
+    },
+    {
+      "question": "Which Fundamental Right protects freedom of speech and expression?",
+      "option1": "Article 14",
+      "option2": "Article 19",
+      "option3": "Article 21",
+      "option4": "Article 32",
+      "answer": "Article 19"
+    },
+    {
+      "question": "Who was the first woman President of India?",
+      "option1": "Indira Gandhi",
+      "option2": "Sarojini Naidu",
+      "option3": "Pratibha Patil",
+      "option4": "Droupadi Murmu",
+      "answer": "Pratibha Patil"
+    },
+    {
+      "question": "Which constitutional amendment lowered the voting age from 21 to 18 years?",
+      "option1": "42nd Amendment",
+      "option2": "44th Amendment",
+      "option3": "61st Amendment",
+      "option4": "73rd Amendment",
+      "answer": "61st Amendment"
+    },
+    {
+      "question": "Who founded the Maurya Empire?",
+      "option1": "Ashoka",
+      "option2": "Chandragupta Maurya",
+      "option3": "Bindusara",
+      "option4": "Harshavardhana",
+      "answer": "Chandragupta Maurya"
+    },
+    {
+      "question": "Who was the teacher and advisor of Chandragupta Maurya?",
+      "option1": "Kalidasa",
+      "option2": "Chanakya",
+      "option3": "Banabhatta",
+      "option4": "Megasthenes",
+      "answer": "Chanakya"
+    },
+    {
+      "question": "Which ruler embraced Buddhism after the Kalinga War?",
+      "option1": "Chandragupta Maurya",
+      "option2": "Ashoka",
+      "option3": "Samudragupta",
+      "option4": "Harsha",
+      "answer": "Ashoka"
+    },
+    {
+      "question": "Who built the Qutub Minar complex in Delhi?",
+      "option1": "Qutb-ud-din Aibak",
+      "option2": "Akbar",
+      "option3": "Shah Jahan",
+      "option4": "Alauddin Khilji",
+      "answer": "Qutb-ud-din Aibak"
+    },
+    {
+      "question": "The Battle of Plassey was fought in which year?",
+      "option1": "1757",
+      "option2": "1764",
+      "option3": "1857",
+      "option4": "1775",
+      "answer": "1757"
+    },
+    {
+      "question": "Who founded the Mughal Empire in India?",
+      "option1": "Akbar",
+      "option2": "Babur",
+      "option3": "Humayun",
+      "option4": "Aurangzeb",
+      "answer": "Babur"
+    },
+    {
+      "question": "Which movement was launched by Mahatma Gandhi in 1930?",
+      "option1": "Quit India Movement",
+      "option2": "Non-Cooperation Movement",
+      "option3": "Civil Disobedience Movement",
+      "option4": "Khilafat Movement",
+      "answer": "Civil Disobedience Movement"
+    },
+    {
+      "question": "Who gave the slogan 'Swaraj is my birthright and I shall have it'?",
+      "option1": "Bal Gangadhar Tilak",
+      "option2": "Mahatma Gandhi",
+      "option3": "Subhas Chandra Bose",
+      "option4": "Lala Lajpat Rai",
+      "answer": "Bal Gangadhar Tilak"
+    },
+    {
+      "question": "Which river is the longest in India?",
+      "option1": "Yamuna",
+      "option2": "Godavari",
+      "option3": "Ganga",
+      "option4": "Narmada",
+      "answer": "Ganga"
+    },
+    {
+      "question": "Which state is the largest in India by area?",
+      "option1": "Madhya Pradesh",
+      "option2": "Rajasthan",
+      "option3": "Maharashtra",
+      "option4": "Uttar Pradesh",
+      "answer": "Rajasthan"
+    },
+    {
+      "question": "Which is the highest peak in India?",
+      "option1": "Mount Everest",
+      "option2": "Kangchenjunga",
+      "option3": "Nanda Devi",
+      "option4": "Anamudi",
+      "answer": "Kangchenjunga"
+    },
+    {
+      "question": "Which Indian state is known as the 'Land of Rising Sun'?",
+      "option1": "Assam",
+      "option2": "Arunachal Pradesh",
+      "option3": "Sikkim",
+      "option4": "Manipur",
+      "answer": "Arunachal Pradesh"
+    },
+    {
+      "question": "Which soil is ideal for growing cotton?",
+      "option1": "Alluvial soil",
+      "option2": "Black soil",
+      "option3": "Laterite soil",
+      "option4": "Mountain soil",
+      "answer": "Black soil"
+    },
+    {
+      "question": "Which river is called the 'Sorrow of Bihar'?",
+      "option1": "Ganga",
+      "option2": "Kosi",
+      "option3": "Yamuna",
+      "option4": "Son",
+      "answer": "Kosi"
+    },
+    {
+      "question": "Which railway zone has its headquarters at Secunderabad?",
+      "option1": "South Central Railway",
+      "option2": "Southern Railway",
+      "option3": "South Western Railway",
+      "option4": "Central Railway",
+      "answer": "South Central Railway"
+    },
+     {
+      "question": "Which Article of the Constitution deals with the Right to Life and Personal Liberty?",
+      "option1": "Article 19",
+      "option2": "Article 20",
+      "option3": "Article 21",
+      "option4": "Article 22",
+      "answer": "Article 21"
+    },
+    {
+      "question": "Who presides over the Lok Sabha?",
+      "option1": "President",
+      "option2": "Speaker",
+      "option3": "Vice-President",
+      "option4": "Prime Minister",
+      "answer": "Speaker"
+    },
+    {
+      "question": "What is the normal term of the Lok Sabha?",
+      "option1": "4 years",
+      "option2": "5 years",
+      "option3": "6 years",
+      "option4": "7 years",
+      "answer": "5 years"
+    },
+    {
+      "question": "Which House of Parliament is known as the Upper House?",
+      "option1": "Lok Sabha",
+      "option2": "Rajya Sabha",
+      "option3": "Vidhan Sabha",
+      "option4": "Legislative Council",
+      "answer": "Rajya Sabha"
+    },
+    {
+      "question": "Who is the supreme commander of the Armed Forces of India?",
+      "option1": "Prime Minister",
+      "option2": "Defence Minister",
+      "option3": "President",
+      "option4": "Chief of Defence Staff",
+      "answer": "President"
+    },
+    {
+      "question": "Which body audits the accounts of the Union and State governments?",
+      "option1": "Election Commission",
+      "option2": "Finance Commission",
+      "option3": "Comptroller and Auditor General",
+      "option4": "NITI Aayog",
+      "answer": "Comptroller and Auditor General"
+    },
+    {
+      "question": "Who appoints the Prime Minister of India?",
+      "option1": "President",
+      "option2": "Vice-President",
+      "option3": "Chief Justice of India",
+      "option4": "Speaker of Lok Sabha",
+      "answer": "President"
+    },
+    {
+      "question": "Which part of the Constitution contains the Fundamental Duties?",
+      "option1": "Part III",
+      "option2": "Part IV",
+      "option3": "Part IVA",
+      "option4": "Part V",
+      "answer": "Part IVA"
+    },
+    {
+      "question": "How many Fundamental Rights are currently guaranteed by the Indian Constitution?",
+      "option1": "5",
+      "option2": "6",
+      "option3": "7",
+      "option4": "8",
+      "answer": "6"
+    },
+    {
+      "question": "Which institution is responsible for conducting elections in India?",
+      "option1": "Union Public Service Commission",
+      "option2": "Election Commission of India",
+      "option3": "Finance Commission",
+      "option4": "Parliament",
+      "answer": "Election Commission of India"
+    },
+    {
+      "question": "Who wrote the book 'Arthashastra'?",
+      "option1": "Kalidasa",
+      "option2": "Chanakya",
+      "option3": "Banabhatta",
+      "option4": "Megasthenes",
+      "answer": "Chanakya"
+    },
+    {
+      "question": "Which ancient Indian ruler is associated with the Gupta period and the title 'Vikramaditya'?",
+      "option1": "Chandragupta II",
+      "option2": "Samudragupta",
+      "option3": "Kumaragupta",
+      "option4": "Skandagupta",
+      "answer": "Chandragupta II"
+    },
+    {
+      "question": "Who founded the Brahmo Samaj?",
+      "option1": "Swami Dayanand Saraswati",
+      "option2": "Raja Ram Mohan Roy",
+      "option3": "Swami Vivekananda",
+      "option4": "Ishwar Chandra Vidyasagar",
+      "answer": "Raja Ram Mohan Roy"
+    },
+    {
+      "question": "Who founded the Arya Samaj?",
+      "option1": "Swami Dayanand Saraswati",
+      "option2": "Raja Ram Mohan Roy",
+      "option3": "Swami Vivekananda",
+      "option4": "Ramakrishna Paramahamsa",
+      "answer": "Swami Dayanand Saraswati"
+    },
+    {
+      "question": "Who was the last Governor-General of independent India?",
+      "option1": "Lord Mountbatten",
+      "option2": "C. Rajagopalachari",
+      "option3": "Lord Canning",
+      "option4": "Warren Hastings",
+      "answer": "C. Rajagopalachari"
+    },
+    {
+      "question": "In which year did the Revolt of 1857 begin?",
+      "option1": "1757",
+      "option2": "1857",
+      "option3": "1885",
+      "option4": "1942",
+      "answer": "1857"
+    },
+    {
+      "question": "Who was popularly known as the 'Nightingale of India'?",
+      "option1": "Sarojini Naidu",
+      "option2": "Annie Besant",
+      "option3": "Vijaya Lakshmi Pandit",
+      "option4": "Aruna Asaf Ali",
+      "answer": "Sarojini Naidu"
+    },
+    {
+      "question": "Who founded the Indian National Congress in 1885 along with other leaders?",
+      "option1": "A. O. Hume",
+      "option2": "Mahatma Gandhi",
+      "option3": "Bal Gangadhar Tilak",
+      "option4": "Dadabhai Naoroji",
+      "answer": "A. O. Hume"
+    },
+    {
+      "question": "Which city is known as the Pink City of India?",
+      "option1": "Jodhpur",
+      "option2": "Jaipur",
+      "option3": "Udaipur",
+      "option4": "Bikaner",
+      "answer": "Jaipur"
+    },
+    {
+      "question": "Which is the largest continent in the world?",
+      "option1": "Africa",
+      "option2": "Europe",
+      "option3": "Asia",
+      "option4": "North America",
+      "answer": "Asia"
+    },
+    {
+      "question": "Which ocean is the largest in the world?",
+      "option1": "Atlantic Ocean",
+      "option2": "Indian Ocean",
+      "option3": "Pacific Ocean",
+      "option4": "Arctic Ocean",
+      "answer": "Pacific Ocean"
+    },
+    {
+      "question": "Which line divides the Earth into the Northern and Southern Hemispheres?",
+      "option1": "Prime Meridian",
+      "option2": "Tropic of Cancer",
+      "option3": "Equator",
+      "option4": "Tropic of Capricorn",
+      "answer": "Equator"
+    },
+    {
+      "question": "Which planet is closest to the Sun?",
+      "option1": "Venus",
+      "option2": "Earth",
+      "option3": "Mercury",
+      "option4": "Mars",
+      "answer": "Mercury"
+    },
+    {
+      "question": "Which gas is present in the largest quantity in Earth's atmosphere?",
+      "option1": "Oxygen",
+      "option2": "Nitrogen",
+      "option3": "Carbon dioxide",
+      "option4": "Hydrogen",
+      "answer": "Nitrogen"
+    },
+    {
+      "question": "Which railway zone has its headquarters at Mumbai?",
+      "option1": "Western Railway",
+      "option2": "Central Railway",
+      "option3": "Northern Railway",
+      "option4": "Southern Railway",
+      "answer": "Central Railway"
+    },
+    {
+      "question": "Which Article of the Constitution deals with the Right to Constitutional Remedies?",
+      "option1": "Article 21",
+      "option2": "Article 32",
+      "option3": "Article 44",
+      "option4": "Article 51",
+      "answer": "Article 32"
+    },
+    {
+      "question": "Who described Article 32 as the 'heart and soul' of the Constitution?",
+      "option1": "Jawaharlal Nehru",
+      "option2": "Dr. B. R. Ambedkar",
+      "option3": "Sardar Patel",
+      "option4": "Rajendra Prasad",
+      "answer": "Dr. B. R. Ambedkar"
+    },
+    {
+      "question": "Which writ is issued to produce a person who has been unlawfully detained?",
+      "option1": "Mandamus",
+      "option2": "Habeas Corpus",
+      "option3": "Certiorari",
+      "option4": "Prohibition",
+      "answer": "Habeas Corpus"
+    },
+    {
+      "question": "Which writ commands a public authority to perform its legal duty?",
+      "option1": "Mandamus",
+      "option2": "Habeas Corpus",
+      "option3": "Quo Warranto",
+      "option4": "Certiorari",
+      "answer": "Mandamus"
+    },
+    {
+      "question": "Who can dissolve the Lok Sabha?",
+      "option1": "Prime Minister",
+      "option2": "President",
+      "option3": "Speaker",
+      "option4": "Chief Justice of India",
+      "answer": "President"
+    },
+    {
+      "question": "Which body recommends the distribution of tax revenues between the Centre and States?",
+      "option1": "Election Commission",
+      "option2": "Finance Commission",
+      "option3": "Planning Commission",
+      "option4": "NITI Aayog",
+      "answer": "Finance Commission"
+    },
+    {
+      "question": "Who is the head of the Union Council of Ministers?",
+      "option1": "President",
+      "option2": "Prime Minister",
+      "option3": "Vice-President",
+      "option4": "Home Minister",
+      "answer": "Prime Minister"
+    },
+    {
+      "question": "Which constitutional body conducts recruitment examinations for All India Services and Central Services?",
+      "option1": "SSC",
+      "option2": "UPSC",
+      "option3": "Election Commission",
+      "option4": "Finance Commission",
+      "answer": "UPSC"
+    },
+    {
+      "question": "What is the minimum age for becoming a member of the Rajya Sabha?",
+      "option1": "21 years",
+      "option2": "25 years",
+      "option3": "30 years",
+      "option4": "35 years",
+      "answer": "30 years"
+    },
+    {
+      "question": "Which part of the Constitution contains Directive Principles of State Policy?",
+      "option1": "Part II",
+      "option2": "Part III",
+      "option3": "Part IV",
+      "option4": "Part V",
+      "answer": "Part IV"
+    },
+    {
+      "question": "Who was the founder of the Delhi Sultanate?",
+      "option1": "Qutb-ud-din Aibak",
+      "option2": "Iltutmish",
+      "option3": "Balban",
+      "option4": "Alauddin Khilji",
+      "answer": "Qutb-ud-din Aibak"
+    },
+    {
+      "question": "Who was the first woman ruler of the Delhi Sultanate?",
+      "option1": "Nur Jahan",
+      "option2": "Razia Sultan",
+      "option3": "Chand Bibi",
+      "option4": "Rani Durgavati",
+      "answer": "Razia Sultan"
+    },
+    {
+      "question": "Who built the Taj Mahal?",
+      "option1": "Akbar",
+      "option2": "Jahangir",
+      "option3": "Shah Jahan",
+      "option4": "Aurangzeb",
+      "answer": "Shah Jahan"
+    },
+    {
+      "question": "Which Mughal emperor introduced the policy of religious tolerance known as Sulh-i-Kul?",
+      "option1": "Babur",
+      "option2": "Akbar",
+      "option3": "Jahangir",
+      "option4": "Aurangzeb",
+      "answer": "Akbar"
+    },
+    {
+      "question": "Who wrote 'Vande Mataram'?",
+      "option1": "Rabindranath Tagore",
+      "option2": "Bankim Chandra Chattopadhyay",
+      "option3": "Sarojini Naidu",
+      "option4": "Subramania Bharati",
+      "answer": "Bankim Chandra Chattopadhyay"
+    },
+    {
+      "question": "Where did Mahatma Gandhi launch the Dandi March?",
+      "option1": "Wardha",
+      "option2": "Sabarmati Ashram",
+      "option3": "Champaran",
+      "option4": "Porbandar",
+      "answer": "Sabarmati Ashram"
+    },
+    {
+      "question": "Who was the first Indian woman to become President of the Indian National Congress?",
+      "option1": "Annie Besant",
+      "option2": "Sarojini Naidu",
+      "option3": "Aruna Asaf Ali",
+      "option4": "Vijaya Lakshmi Pandit",
+      "answer": "Sarojini Naidu"
+    },
+    {
+      "question": "Which movement started with the Dandi March?",
+      "option1": "Quit India Movement",
+      "option2": "Civil Disobedience Movement",
+      "option3": "Non-Cooperation Movement",
+      "option4": "Swadeshi Movement",
+      "answer": "Civil Disobedience Movement"
+    },
+    {
+      "question": "Which river is known as the lifeline of Madhya Pradesh?",
+      "option1": "Narmada",
+      "option2": "Yamuna",
+      "option3": "Kaveri",
+      "option4": "Mahanadi",
+      "answer": "Narmada"
+    },
+    {
+      "question": "Which state is the largest producer of coffee in India?",
+      "option1": "Kerala",
+      "option2": "Tamil Nadu",
+      "option3": "Karnataka",
+      "option4": "Andhra Pradesh",
+      "answer": "Karnataka"
+    },
+    {
+      "question": "Which pass connects Srinagar with Leh?",
+      "option1": "Nathu La",
+      "option2": "Zoji La",
+      "option3": "Shipki La",
+      "option4": "Bomdi La",
+      "answer": "Zoji La"
+    },
+    {
+      "question": "Which Indian state has the longest coastline on the eastern coast?",
+      "option1": "Odisha",
+      "option2": "Andhra Pradesh",
+      "option3": "Tamil Nadu",
+      "option4": "West Bengal",
+      "answer": "Andhra Pradesh"
+    },
+    {
+      "question": "Which type of forest is commonly found in areas with heavy rainfall in India?",
+      "option1": "Tropical evergreen forest",
+      "option2": "Tropical thorn forest",
+      "option3": "Mangrove forest",
+      "option4": "Mountain forest",
+      "answer": "Tropical evergreen forest"
+    },
+    {
+      "question": "Which instrument is used to measure atmospheric humidity?",
+      "option1": "Barometer",
+      "option2": "Hygrometer",
+      "option3": "Anemometer",
+      "option4": "Seismograph",
+      "answer": "Hygrometer"
+    },
+    {
+      "question": "Which railway zone has its headquarters at Prayagraj?",
+      "option1": "North Central Railway",
+      "option2": "North Eastern Railway",
+      "option3": "Northern Railway",
+      "option4": "East Central Railway",
+      "answer": "North Central Railway"
+    },
+    {
+      "question": "Which Article deals with the procedure for amendment of the Constitution?",
+      "option1": "Article 352",
+      "option2": "Article 356",
+      "option3": "Article 368",
+      "option4": "Article 370",
+      "answer": "Article 368"
+    },
+    {
+      "question": "Which Fundamental Right was removed from the list of Fundamental Rights by the 44th Amendment?",
+      "option1": "Right to Equality",
+      "option2": "Right to Property",
+      "option3": "Right to Freedom",
+      "option4": "Right against Exploitation",
+      "answer": "Right to Property"
+    },
+    {
+      "question": "Who has the power to grant pardons for offences against laws to which the executive power of the Union extends?",
+      "option1": "Prime Minister",
+      "option2": "President",
+      "option3": "Chief Justice of India",
+      "option4": "Home Minister",
+      "answer": "President"
+    },
+    {
+      "question": "Which emergency is declared under Article 352?",
+      "option1": "Financial Emergency",
+      "option2": "National Emergency",
+      "option3": "State Emergency",
+      "option4": "Judicial Emergency",
+      "answer": "National Emergency"
+    },
+    {
+      "question": "Article 356 of the Constitution deals with:",
+      "option1": "Financial Emergency",
+      "option2": "President's Rule in a State",
+      "option3": "National Emergency",
+      "option4": "Election Emergency",
+      "answer": "President's Rule in a State"
+    },
+    {
+      "question": "Who appoints the Attorney General of India?",
+      "option1": "Prime Minister",
+      "option2": "President",
+      "option3": "Chief Justice of India",
+      "option4": "Parliament",
+      "answer": "President"
+    },
+    {
+      "question": "Which schedule of the Constitution deals with the allocation of seats in the Rajya Sabha?",
+      "option1": "First Schedule",
+      "option2": "Second Schedule",
+      "option3": "Fourth Schedule",
+      "option4": "Fifth Schedule",
+      "answer": "Fourth Schedule"
+    },
+    {
+      "question": "Who is the highest law officer of India?",
+      "option1": "Solicitor General",
+      "option2": "Attorney General",
+      "option3": "Chief Justice of India",
+      "option4": "Law Minister",
+      "answer": "Attorney General"
+    },
+    {
+      "question": "Which institution replaced the Planning Commission?",
+      "option1": "Finance Commission",
+      "option2": "NITI Aayog",
+      "option3": "National Development Council",
+      "option4": "Economic Advisory Council",
+      "answer": "NITI Aayog"
+    },
+    {
+      "question": "Which amendment is associated with Panchayati Raj institutions?",
+      "option1": "61st Amendment",
+      "option2": "73rd Amendment",
+      "option3": "74th Amendment",
+      "option4": "86th Amendment",
+      "answer": "73rd Amendment"
+    },
+    {
+      "question": "Who was the first Indian ruler to establish diplomatic relations with the Roman Empire?",
+      "option1": "Chandragupta Maurya",
+      "option2": "Ashoka",
+      "option3": "Kanishka",
+      "option4": "Harsha",
+      "answer": "Chandragupta Maurya"
+    },
+    {
+      "question": "Which dynasty built the Brihadeeswara Temple at Thanjavur?",
+      "option1": "Chola",
+      "option2": "Pallava",
+      "option3": "Chalukya",
+      "option4": "Gupta",
+      "answer": "Chola"
+    },
+    {
+      "question": "Who wrote the famous poem 'Sare Jahan Se Achha'?",
+      "option1": "Muhammad Iqbal",
+      "option2": "Rabindranath Tagore",
+      "option3": "Bankim Chandra Chattopadhyay",
+      "option4": "Harivansh Rai Bachchan",
+      "answer": "Muhammad Iqbal"
+    },
+    {
+      "question": "The Non-Cooperation Movement was launched in which year?",
+      "option1": "1915",
+      "option2": "1919",
+      "option3": "1920",
+      "option4": "1922",
+      "answer": "1920"
+    },
+    {
+      "question": "Who founded the Home Rule League in India along with Annie Besant?",
+      "option1": "Bal Gangadhar Tilak",
+      "option2": "Mahatma Gandhi",
+      "option3": "Gopal Krishna Gokhale",
+      "option4": "Lala Lajpat Rai",
+      "answer": "Bal Gangadhar Tilak"
+    },
+    {
+      "question": "Which session of the Indian National Congress declared 'Purna Swaraj' as its goal?",
+      "option1": "Lahore Session, 1929",
+      "option2": "Surat Session, 1907",
+      "option3": "Lucknow Session, 1916",
+      "option4": "Calcutta Session, 1906",
+      "answer": "Lahore Session, 1929"
+    },
+    {
+      "question": "Which Indian city is located on the banks of the Sabarmati River?",
+      "option1": "Ahmedabad",
+      "option2": "Surat",
+      "option3": "Vadodara",
+      "option4": "Rajkot",
+      "answer": "Ahmedabad"
+    },
+    {
+      "question": "Which river forms the Jog Falls?",
+      "option1": "Sharavathi",
+      "option2": "Krishna",
+      "option3": "Tungabhadra",
+      "option4": "Kaveri",
+      "answer": "Sharavathi"
+    },
+    {
+      "question": "Which state is home to the famous Valley of Flowers National Park?",
+      "option1": "Himachal Pradesh",
+      "option2": "Uttarakhand",
+      "option3": "Sikkim",
+      "option4": "Jammu and Kashmir",
+      "answer": "Uttarakhand"
+    },
+    {
+      "question": "Which crop requires a warm climate and high rainfall?",
+      "option1": "Wheat",
+      "option2": "Rice",
+      "option3": "Gram",
+      "option4": "Mustard",
+      "answer": "Rice"
+    },
+    {
+      "question": "What is the chemical symbol of potassium?",
+      "option1": "P",
+      "option2": "Pt",
+      "option3": "K",
+      "option4": "Po",
+      "answer": "K"
+    },
+    {
+      "question": "Which organ is primarily responsible for removing waste products from the blood?",
+      "option1": "Heart",
+      "option2": "Kidney",
+      "option3": "Lungs",
+      "option4": "Stomach",
+      "answer": "Kidney"
+    },
+    {
+      "question": "Which vitamin helps in blood clotting?",
+      "option1": "Vitamin A",
+      "option2": "Vitamin C",
+      "option3": "Vitamin D",
+      "option4": "Vitamin K",
+      "answer": "Vitamin K"
+    },
+    {
+      "question": "Which phenomenon causes a rainbow?",
+      "option1": "Reflection only",
+      "option2": "Dispersion of light",
+      "option3": "Diffusion only",
+      "option4": "Absorption of light",
+      "answer": "Dispersion of light"
+    },
+    {
+      "question": "Which railway zone has its headquarters at Hajipur?",
+      "option1": "East Central Railway",
+      "option2": "Eastern Railway",
+      "option3": "East Coast Railway",
+      "option4": "North Eastern Railway",
+      "answer": "East Central Railway"
+    },
+     {
+      "question": "101. Which Article of the Indian Constitution deals with equality of opportunity in public employment?",
+      "option1": "Article 14",
+      "option2": "Article 15",
+      "option3": "Article 16",
+      "option4": "Article 17",
+      "answer": "Article 16"
+    },
+    {
+      "question": "102. Who appoints the Chief Justice of India?",
+      "option1": "Prime Minister",
+      "option2": "President of India",
+      "option3": "Vice-President",
+      "option4": "Law Minister",
+      "answer": "President of India"
+    },
+    {
+      "question": "103. The Rajya Sabha can have a maximum of how many members?",
+      "option1": "238",
+      "option2": "245",
+      "option3": "250",
+      "option4": "252",
+      "answer": "250"
+    },
+    {
+      "question": "104. Which Constitutional Amendment introduced the Goods and Services Tax (GST)?",
+      "option1": "100th Amendment",
+      "option2": "101st Amendment",
+      "option3": "102nd Amendment",
+      "option4": "103rd Amendment",
+      "answer": "101st Amendment"
+    },
+    {
+      "question": "105. Who was the first Indian Governor-General of India?",
+      "option1": "Lord Mountbatten",
+      "option2": "Warren Hastings",
+      "option3": "C. Rajagopalachari",
+      "option4": "Dr. Rajendra Prasad",
+      "answer": "C. Rajagopalachari"
+    },
+    {
+      "question": "106. The Battle of Buxar was fought in which year?",
+      "option1": "1757",
+      "option2": "1761",
+      "option3": "1764",
+      "option4": "1772",
+      "answer": "1764"
+    },
+    {
+      "question": "107. Who founded the Sikh religion?",
+      "option1": "Guru Gobind Singh",
+      "option2": "Guru Nanak Dev",
+      "option3": "Guru Arjan Dev",
+      "option4": "Guru Tegh Bahadur",
+      "answer": "Guru Nanak Dev"
+    },
+    {
+      "question": "108. The Quit India Movement was launched in which year?",
+      "option1": "1939",
+      "option2": "1940",
+      "option3": "1942",
+      "option4": "1945",
+      "answer": "1942"
+    },
+    {
+      "question": "109. Who was known as the Iron Man of India?",
+      "option1": "Jawaharlal Nehru",
+      "option2": "Subhas Chandra Bose",
+      "option3": "Sardar Vallabhbhai Patel",
+      "option4": "Lal Bahadur Shastri",
+      "answer": "Sardar Vallabhbhai Patel"
+    },
+    {
+      "question": "110. Which river is known as the Dakshin Ganga?",
+      "option1": "Krishna",
+      "option2": "Godavari",
+      "option3": "Kaveri",
+      "option4": "Tungabhadra",
+      "answer": "Godavari"
+    },
+    {
+      "question": "111. Which Indian state has the longest coastline?",
+      "option1": "Maharashtra",
+      "option2": "Tamil Nadu",
+      "option3": "Gujarat",
+      "option4": "Andhra Pradesh",
+      "answer": "Gujarat"
+    },
+    {
+      "question": "112. Which is the largest freshwater lake in India?",
+      "option1": "Dal Lake",
+      "option2": "Wular Lake",
+      "option3": "Loktak Lake",
+      "option4": "Chilika Lake",
+      "answer": "Wular Lake"
+    },
+    {
+      "question": "113. What is the SI unit of force?",
+      "option1": "Joule",
+      "option2": "Watt",
+      "option3": "Newton",
+      "option4": "Pascal",
+      "answer": "Newton"
+    },
+    {
+      "question": "114. Which organ produces insulin in the human body?",
+      "option1": "Liver",
+      "option2": "Pancreas",
+      "option3": "Kidney",
+      "option4": "Stomach",
+      "answer": "Pancreas"
+    },
+    {
+      "question": "115. Which gas is essential for photosynthesis?",
+      "option1": "Oxygen",
+      "option2": "Nitrogen",
+      "option3": "Carbon dioxide",
+      "option4": "Hydrogen",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "question": "116. Which blood group is known as the universal donor?",
+      "option1": "AB positive",
+      "option2": "A positive",
+      "option3": "O negative",
+      "option4": "B negative",
+      "answer": "O negative"
+    },
+    {
+      "question": "117. What is the square root of 144?",
+      "option1": "10",
+      "option2": "11",
+      "option3": "12",
+      "option4": "14",
+      "answer": "12"
+    },
+    {
+      "question": "118. A train travels 120 km in 2 hours. What is its average speed?",
+      "option1": "40 km/h",
+      "option2": "50 km/h",
+      "option3": "60 km/h",
+      "option4": "80 km/h",
+      "answer": "60 km/h"
+    },
+    {
+      "question": "119. If 25% of a number is 50, what is the number?",
+      "option1": "100",
+      "option2": "150",
+      "option3": "200",
+      "option4": "250",
+      "answer": "200"
+    },
+    {
+      "question": "120. Find the next number: 2, 6, 12, 20, 30, ?",
+      "option1": "36",
+      "option2": "40",
+      "option3": "42",
+      "option4": "44",
+      "answer": "42"
+    },
+    {
+      "question": "121. If CAT is coded as DBU, how is DOG coded?",
+      "option1": "EPH",
+      "option2": "EOG",
+      "option3": "FPH",
+      "option4": "DPH",
+      "answer": "EPH"
+    },
+    {
+      "question": "122. Which railway zone has its headquarters at New Delhi?",
+      "option1": "Northern Railway",
+      "option2": "Western Railway",
+      "option3": "Eastern Railway",
+      "option4": "Northern Central Railway",
+      "answer": "Northern Railway"
+    },
+    {
+      "question": "123. Which railway station is commonly known as the headquarters of South Western Railway?",
+      "option1": "Bengaluru",
+      "option2": "Mysuru",
+      "option3": "Hubballi",
+      "option4": "Chennai",
+      "answer": "Hubballi"
+    },
+    {
+      "question": "124. What does the railway abbreviation 'IRCTC' stand for?",
+      "option1": "Indian Railway Catering and Tourism Corporation",
+      "option2": "Indian Rail Coach and Travel Corporation",
+      "option3": "Indian Railway Commercial and Ticket Corporation",
+      "option4": "Indian Railway Cargo and Transport Corporation",
+      "answer": "Indian Railway Catering and Tourism Corporation"
+    },
+    {
+      "question": "125. Which organization is responsible for recruitment to many Group A and Group B posts in the Indian Railways?",
+      "option1": "SSC",
+      "option2": "UPSC",
+      "option3": "IBPS",
+      "option4": "NTA",
+      "answer": "UPSC"
+    },
+    {
+      "question": "126. Which Article of the Indian Constitution deals with freedom of religion?",
+      "option1": "Article 19",
+      "option2": "Article 21",
+      "option3": "Article 25",
+      "option4": "Article 32",
+      "answer": "Article 25"
+    },
+    {
+      "question": "127. Who is the ex-officio Chairman of the Rajya Sabha?",
+      "option1": "President",
+      "option2": "Prime Minister",
+      "option3": "Vice-President",
+      "option4": "Speaker of Lok Sabha",
+      "answer": "Vice-President"
+    },
+    {
+      "question": "128. The Fundamental Duties were added to the Constitution on the recommendation of which committee?",
+      "option1": "Sarkaria Committee",
+      "option2": "Swaran Singh Committee",
+      "option3": "Mandal Commission",
+      "option4": "Balwant Rai Mehta Committee",
+      "answer": "Swaran Singh Committee"
+    },
+    {
+      "question": "129. Which Schedule of the Constitution contains provisions related to anti-defection?",
+      "option1": "Eighth Schedule",
+      "option2": "Ninth Schedule",
+      "option3": "Tenth Schedule",
+      "option4": "Eleventh Schedule",
+      "answer": "Tenth Schedule"
+    },
+    {
+      "question": "130. Who can remove the Vice-President of India from office?",
+      "option1": "President",
+      "option2": "Supreme Court",
+      "option3": "Parliament",
+      "option4": "Prime Minister",
+      "answer": "Parliament"
+    },
+    {
+      "question": "131. Who was the first President of the Indian National Congress?",
+      "option1": "Dadabhai Naoroji",
+      "option2": "W. C. Bonnerjee",
+      "option3": "A. O. Hume",
+      "option4": "Surendranath Banerjee",
+      "answer": "W. C. Bonnerjee"
+    },
+    {
+      "question": "132. The Jallianwala Bagh massacre took place in which year?",
+      "option1": "1917",
+      "option2": "1918",
+      "option3": "1919",
+      "option4": "1920",
+      "answer": "1919"
+    },
+    {
+      "question": "133. Who gave the slogan 'Jai Jawan Jai Kisan'?",
+      "option1": "Jawaharlal Nehru",
+      "option2": "Lal Bahadur Shastri",
+      "option3": "Mahatma Gandhi",
+      "option4": "Sardar Patel",
+      "answer": "Lal Bahadur Shastri"
+    },
+    {
+      "question": "134. The Permanent Settlement was introduced by which Governor-General?",
+      "option1": "Lord Cornwallis",
+      "option2": "Lord Wellesley",
+      "option3": "Lord Dalhousie",
+      "option4": "Lord Curzon",
+      "answer": "Lord Cornwallis"
+    },
+    {
+      "question": "135. Who founded the Ramakrishna Mission?",
+      "option1": "Raja Ram Mohan Roy",
+      "option2": "Swami Vivekananda",
+      "option3": "Swami Dayanand Saraswati",
+      "option4": "Sri Aurobindo",
+      "answer": "Swami Vivekananda"
+    },
+    {
+      "question": "136. Which Indian state is the largest producer of tea?",
+      "option1": "West Bengal",
+      "option2": "Kerala",
+      "option3": "Assam",
+      "option4": "Tamil Nadu",
+      "answer": "Assam"
+    },
+    {
+      "question": "137. Which is the largest desert in India?",
+      "option1": "Rann of Kutch",
+      "option2": "Thar Desert",
+      "option3": "Ladakh Desert",
+      "option4": "Spiti Valley",
+      "answer": "Thar Desert"
+    },
+    {
+      "question": "138. Which mountain range separates the Deccan Plateau from the coastal plains?",
+      "option1": "Aravalli Range",
+      "option2": "Western Ghats",
+      "option3": "Himalayas",
+      "option4": "Vindhya Range",
+      "answer": "Western Ghats"
+    },
+    {
+      "question": "139. Which river flows through the city of Delhi?",
+      "option1": "Ganga",
+      "option2": "Yamuna",
+      "option3": "Godavari",
+      "option4": "Narmada",
+      "answer": "Yamuna"
+    },
+    {
+      "question": "140. Which is the deepest ocean in the world?",
+      "option1": "Atlantic Ocean",
+      "option2": "Indian Ocean",
+      "option3": "Arctic Ocean",
+      "option4": "Pacific Ocean",
+      "answer": "Pacific Ocean"
+    },
+    {
+      "question": "141. What is the chemical symbol for sodium?",
+      "option1": "So",
+      "option2": "Sd",
+      "option3": "Na",
+      "option4": "S",
+      "answer": "Na"
+    },
+    {
+      "question": "142. Which part of the human eye controls the amount of light entering it?",
+      "option1": "Retina",
+      "option2": "Iris",
+      "option3": "Cornea",
+      "option4": "Lens",
+      "answer": "Iris"
+    },
+    {
+      "question": "143. Which vitamin is mainly produced in the skin when exposed to sunlight?",
+      "option1": "Vitamin A",
+      "option2": "Vitamin B12",
+      "option3": "Vitamin C",
+      "option4": "Vitamin D",
+      "answer": "Vitamin D"
+    },
+    {
+      "question": "144. Which device is used to measure atmospheric pressure?",
+      "option1": "Thermometer",
+      "option2": "Barometer",
+      "option3": "Hygrometer",
+      "option4": "Anemometer",
+      "answer": "Barometer"
+    },
+    {
+      "question": "145. What is the SI unit of electric current?",
+      "option1": "Volt",
+      "option2": "Ohm",
+      "option3": "Ampere",
+      "option4": "Watt",
+      "answer": "Ampere"
+    },
+    {
+      "question": "146. A shopkeeper buys an item for ₹500 and sells it for ₹600. What is the profit percentage?",
+      "option1": "10%",
+      "option2": "15%",
+      "option3": "20%",
+      "option4": "25%",
+      "answer": "20%"
+    },
+    {
+      "question": "147. What is the average of 10, 20, 30, 40 and 50?",
+      "option1": "25",
+      "option2": "30",
+      "option3": "35",
+      "option4": "40",
+      "answer": "30"
+    },
+    {
+      "question": "148. If 3 workers complete a task in 12 days, how many worker-days are required to complete the task?",
+      "option1": "24",
+      "option2": "30",
+      "option3": "36",
+      "option4": "42",
+      "answer": "36"
+    },
+    {
+      "question": "149. Find the odd one out: 16, 25, 36, 49, 63.",
+      "option1": "16",
+      "option2": "36",
+      "option3": "49",
+      "option4": "63",
+      "answer": "63"
+    },
+    {
+      "question": "150. If SOUTH is written as TPVUI, how is NORTH written using the same pattern?",
+      "option1": "OPSUI",
+      "option2": "OPSTI",
+      "option3": "NPSUI",
+      "option4": "OPRUI",
+      "answer": "OPSUI"
+    },
+     {
+      "question": "151. Which Article of the Constitution deals with the office of the President of India?",
+      "option1": "Article 52",
+      "option2": "Article 54",
+      "option3": "Article 56",
+      "option4": "Article 60",
+      "answer": "Article 52"
+    },
+    {
+      "question": "152. Who administers the oath of office to the President of India?",
+      "option1": "Prime Minister",
+      "option2": "Chief Justice of India",
+      "option3": "Vice-President",
+      "option4": "Speaker of Lok Sabha",
+      "answer": "Chief Justice of India"
+    },
+    {
+      "question": "153. What is the maximum period for which the President can promulgate an Ordinance without parliamentary approval?",
+      "option1": "3 months",
+      "option2": "6 weeks",
+      "option3": "6 months",
+      "option4": "1 year",
+      "answer": "6 weeks"
+    },
+    {
+      "question": "154. Which body conducts elections to the Parliament and State Legislatures?",
+      "option1": "UPSC",
+      "option2": "Election Commission of India",
+      "option3": "Finance Commission",
+      "option4": "Law Commission",
+      "answer": "Election Commission of India"
+    },
+    {
+      "question": "155. The concept of Fundamental Rights in the Indian Constitution was inspired by the Constitution of which country?",
+      "option1": "United Kingdom",
+      "option2": "Ireland",
+      "option3": "United States of America",
+      "option4": "Canada",
+      "answer": "United States of America"
+    },
+    {
+      "question": "156. Which part of the Indian Constitution deals with Union and its Territory?",
+      "option1": "Part I",
+      "option2": "Part II",
+      "option3": "Part III",
+      "option4": "Part IV",
+      "answer": "Part I"
+    },
+    {
+      "question": "157. Who was the first woman Governor of an Indian state?",
+      "option1": "Sarojini Naidu",
+      "option2": "Vijaya Lakshmi Pandit",
+      "option3": "Sucheta Kriplani",
+      "option4": "Indira Gandhi",
+      "answer": "Sarojini Naidu"
+    },
+    {
+      "question": "158. Which committee recommended the three-tier Panchayati Raj system?",
+      "option1": "Sarkaria Committee",
+      "option2": "Balwant Rai Mehta Committee",
+      "option3": "Swaran Singh Committee",
+      "option4": "Kothari Commission",
+      "answer": "Balwant Rai Mehta Committee"
+    },
+    {
+      "question": "159. Who was the first Speaker of the Lok Sabha?",
+      "option1": "G. V. Mavalankar",
+      "option2": "Ananthasayanam Ayyangar",
+      "option3": "Hukam Singh",
+      "option4": "Balram Jakhar",
+      "answer": "G. V. Mavalankar"
+    },
+    {
+      "question": "160. Which Article provides for the establishment of the Supreme Court of India?",
+      "option1": "Article 124",
+      "option2": "Article 136",
+      "option3": "Article 141",
+      "option4": "Article 148",
+      "answer": "Article 124"
+    },
+    {
+      "question": "161. Who established the Gupta Empire?",
+      "option1": "Samudragupta",
+      "option2": "Chandragupta I",
+      "option3": "Chandragupta II",
+      "option4": "Skandagupta",
+      "answer": "Chandragupta I"
+    },
+    {
+      "question": "162. Who is known as the Napoleon of India?",
+      "option1": "Chandragupta Maurya",
+      "option2": "Samudragupta",
+      "option3": "Ashoka",
+      "option4": "Harshavardhana",
+      "answer": "Samudragupta"
+    },
+    {
+      "question": "163. Which ancient university was located in present-day Bihar?",
+      "option1": "Takshashila",
+      "option2": "Nalanda",
+      "option3": "Vikramashila",
+      "option4": "Valabhi",
+      "answer": "Nalanda"
+    },
+    {
+      "question": "164. Who built the Red Fort in Delhi?",
+      "option1": "Akbar",
+      "option2": "Jahangir",
+      "option3": "Shah Jahan",
+      "option4": "Aurangzeb",
+      "answer": "Shah Jahan"
+    },
+    {
+      "question": "165. The Treaty of Seringapatam was signed after which war?",
+      "option1": "First Anglo-Mysore War",
+      "option2": "Second Anglo-Mysore War",
+      "option3": "Third Anglo-Mysore War",
+      "option4": "Fourth Anglo-Mysore War",
+      "answer": "Third Anglo-Mysore War"
+    },
+    {
+      "question": "166. Which movement was launched by Mahatma Gandhi in 1940 as an individual protest?",
+      "option1": "Quit India Movement",
+      "option2": "Individual Satyagraha",
+      "option3": "Non-Cooperation Movement",
+      "option4": "Civil Disobedience Movement",
+      "answer": "Individual Satyagraha"
+    },
+    {
+      "question": "167. Which city is known as the Silicon Valley of India?",
+      "option1": "Hyderabad",
+      "option2": "Pune",
+      "option3": "Bengaluru",
+      "option4": "Chennai",
+      "answer": "Bengaluru"
+    },
+    {
+      "question": "168. Which Indian state is famous for the Sundarbans?",
+      "option1": "Odisha",
+      "option2": "West Bengal",
+      "option3": "Assam",
+      "option4": "Bihar",
+      "answer": "West Bengal"
+    },
+    {
+      "question": "169. Which is the longest river flowing entirely within India?",
+      "option1": "Ganga",
+      "option2": "Godavari",
+      "option3": "Yamuna",
+      "option4": "Krishna",
+      "answer": "Godavari"
+    },
+    {
+      "question": "170. Which soil is most suitable for growing cotton?",
+      "option1": "Alluvial soil",
+      "option2": "Black soil",
+      "option3": "Laterite soil",
+      "option4": "Red soil",
+      "answer": "Black soil"
+    },
+    {
+      "question": "171. Which instrument is used to measure wind speed?",
+      "option1": "Barometer",
+      "option2": "Anemometer",
+      "option3": "Hygrometer",
+      "option4": "Seismograph",
+      "answer": "Anemometer"
+    },
+    {
+      "question": "172. Which metal is liquid at room temperature?",
+      "option1": "Iron",
+      "option2": "Copper",
+      "option3": "Mercury",
+      "option4": "Aluminium",
+      "answer": "Mercury"
+    },
+    {
+      "question": "173. Which type of lens is used to correct short-sightedness?",
+      "option1": "Convex lens",
+      "option2": "Concave lens",
+      "option3": "Cylindrical lens",
+      "option4": "Plane lens",
+      "answer": "Concave lens"
+    },
+    {
+      "question": "174. Which acid is present in vinegar?",
+      "option1": "Citric acid",
+      "option2": "Acetic acid",
+      "option3": "Lactic acid",
+      "option4": "Sulphuric acid",
+      "answer": "Acetic acid"
+    },
+    {
+      "question": "175. Which part of the plant carries water from roots to leaves?",
+      "option1": "Phloem",
+      "option2": "Xylem",
+      "option3": "Cambium",
+      "option4": "Epidermis",
+      "answer": "Xylem"
+    },
+     {
+      "question": "176. If the ratio of two numbers is 3:5 and their sum is 64, what is the smaller number?",
+      "option1": "20",
+      "option2": "24",
+      "option3": "28",
+      "option4": "30",
+      "answer": "24"
+    },
+    {
+      "question": "177. A man travels 150 km in 3 hours. What is his average speed?",
+      "option1": "40 km/h",
+      "option2": "45 km/h",
+      "option3": "50 km/h",
+      "option4": "60 km/h",
+      "answer": "50 km/h"
+    },
+    {
+      "question": "178. What is 15% of 240?",
+      "option1": "24",
+      "option2": "30",
+      "option3": "36",
+      "option4": "40",
+      "answer": "36"
+    },
+    {
+      "question": "179. The simple interest on ₹2,000 at 5% per annum for 3 years is:",
+      "option1": "₹200",
+      "option2": "₹250",
+      "option3": "₹300",
+      "option4": "₹350",
+      "answer": "₹300"
+    },
+    {
+      "question": "180. What is the HCF of 36 and 48?",
+      "option1": "6",
+      "option2": "8",
+      "option3": "12",
+      "option4": "16",
+      "answer": "12"
+    },
+    {
+      "question": "181. What is the LCM of 12 and 18?",
+      "option1": "24",
+      "option2": "30",
+      "option3": "36",
+      "option4": "48",
+      "answer": "36"
+    },
+    {
+      "question": "182. Find the next number: 5, 10, 20, 40, ?",
+      "option1": "60",
+      "option2": "70",
+      "option3": "80",
+      "option4": "90",
+      "answer": "80"
+    },
+    {
+      "question": "183. Find the odd one out: Apple, Mango, Potato, Banana.",
+      "option1": "Apple",
+      "option2": "Mango",
+      "option3": "Potato",
+      "option4": "Banana",
+      "answer": "Potato"
+    },
+    {
+      "question": "184. If PEN is coded as QFO, how is BOOK coded?",
+      "option1": "CPPL",
+      "option2": "CQQM",
+      "option3": "BPPL",
+      "option4": "DPPM",
+      "answer": "CPPL"
+    },
+    {
+      "question": "185. A is the brother of B. B is the sister of C. How is A related to C?",
+      "option1": "Father",
+      "option2": "Brother",
+      "option3": "Uncle",
+      "option4": "Cousin",
+      "answer": "Brother"
+    },
+    {
+      "question": "186. Which railway zone has its headquarters at Kolkata?",
+      "option1": "Eastern Railway",
+      "option2": "Northern Railway",
+      "option3": "Western Railway",
+      "option4": "Southern Railway",
+      "answer": "Eastern Railway"
+    },
+    {
+      "question": "187. Which railway zone has its headquarters at Chennai?",
+      "option1": "Southern Railway",
+      "option2": "South Central Railway",
+      "option3": "South Western Railway",
+      "option4": "East Coast Railway",
+      "answer": "Southern Railway"
+    },
+    {
+      "question": "188. Which railway zone has its headquarters at Bhubaneswar?",
+      "option1": "East Central Railway",
+      "option2": "East Coast Railway",
+      "option3": "South Eastern Railway",
+      "option4": "Eastern Railway",
+      "answer": "East Coast Railway"
+    },
+    {
+      "question": "189. Which railway zone has its headquarters at Jaipur?",
+      "option1": "North Western Railway",
+      "option2": "Northern Railway",
+      "option3": "Western Railway",
+      "option4": "North Central Railway",
+      "answer": "North Western Railway"
+    },
+    {
+      "question": "190. Which railway zone has its headquarters at Gorakhpur?",
+      "option1": "North Eastern Railway",
+      "option2": "Northern Railway",
+      "option3": "North Central Railway",
+      "option4": "East Central Railway",
+      "answer": "North Eastern Railway"
+    },
+    {
+      "question": "191. Which is the national animal of India?",
+      "option1": "Lion",
+      "option2": "Elephant",
+      "option3": "Bengal Tiger",
+      "option4": "Leopard",
+      "answer": "Bengal Tiger"
+    },
+    {
+      "question": "192. What is the national aquatic animal of India?",
+      "option1": "Blue Whale",
+      "option2": "Ganges River Dolphin",
+      "option3": "Crocodile",
+      "option4": "Olive Ridley Turtle",
+      "answer": "Ganges River Dolphin"
+    },
+    {
+      "question": "193. Which is the national flower of India?",
+      "option1": "Rose",
+      "option2": "Lotus",
+      "option3": "Jasmine",
+      "option4": "Sunflower",
+      "answer": "Lotus"
+    },
+    {
+      "question": "194. Who wrote the Indian National Anthem?",
+      "option1": "Bankim Chandra Chattopadhyay",
+      "option2": "Rabindranath Tagore",
+      "option3": "Sarojini Naidu",
+      "option4": "Muhammad Iqbal",
+      "answer": "Rabindranath Tagore"
+    },
+    {
+      "question": "195. What is the currency of Japan?",
+      "option1": "Won",
+      "option2": "Yuan",
+      "option3": "Yen",
+      "option4": "Ringgit",
+      "answer": "Yen"
+    },
+    {
+      "question": "196. Which country is known as the Land of the Midnight Sun?",
+      "option1": "Norway",
+      "option2": "Japan",
+      "option3": "Brazil",
+      "option4": "Egypt",
+      "answer": "Norway"
+    },
+    {
+      "question": "197. Which planet is known as the Red Planet?",
+      "option1": "Venus",
+      "option2": "Mars",
+      "option3": "Jupiter",
+      "option4": "Saturn",
+      "answer": "Mars"
+    },
+    {
+      "question": "198. Which is the largest planet in the Solar System?",
+      "option1": "Earth",
+      "option2": "Saturn",
+      "option3": "Jupiter",
+      "option4": "Neptune",
+      "answer": "Jupiter"
+    },
+    {
+      "question": "199. Which layer of the atmosphere contains the ozone layer?",
+      "option1": "Troposphere",
+      "option2": "Stratosphere",
+      "option3": "Mesosphere",
+      "option4": "Thermosphere",
+      "answer": "Stratosphere"
+    },
+    {
+      "question": "200. Which is the fastest land animal?",
+      "option1": "Lion",
+      "option2": "Tiger",
+      "option3": "Cheetah",
+      "option4": "Leopard",
+      "answer": "Cheetah"
+    }
+  ]
+}

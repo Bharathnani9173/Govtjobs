@@ -1,0 +1,4565 @@
+{
+  "exam": "IBPS Clerk",
+  "questions": [
+    {
+      "question": "What is the full form of IBPS?",
+      "option1": "Institute of Banking Personnel Selection",
+      "option2": "Indian Banking Personnel Service",
+      "option3": "Institute of Bank Processing System",
+      "option4": "Indian Banking Placement Service",
+      "answer": "Institute of Banking Personnel Selection"
+    },
+    {
+      "question": "Which organization conducts the Common Recruitment Process for bank clerical posts?",
+      "option1": "RBI",
+      "option2": "IBPS",
+      "option3": "SEBI",
+      "option4": "SBI",
+      "answer": "IBPS"
+    },
+    {
+      "question": "What is the full form of RBI?",
+      "option1": "Reserve Bank of India",
+      "option2": "Regional Bank of India",
+      "option3": "Reserve Banking Institution",
+      "option4": "Rural Bank of India",
+      "answer": "Reserve Bank of India"
+    },
+    {
+      "question": "Where is the headquarters of RBI located?",
+      "option1": "New Delhi",
+      "option2": "Mumbai",
+      "option3": "Chennai",
+      "option4": "Kolkata",
+      "answer": "Mumbai"
+    },
+    {
+      "question": "Which institution is known as the central bank of India?",
+      "option1": "SBI",
+      "option2": "RBI",
+      "option3": "SEBI",
+      "option4": "NABARD",
+      "answer": "RBI"
+    },
+    {
+      "question": "What is the full form of SBI?",
+      "option1": "State Bank of India",
+      "option2": "State Banking Institution",
+      "option3": "Systematic Bank of India",
+      "option4": "Standard Bank of India",
+      "answer": "State Bank of India"
+    },
+    {
+      "question": "Which bank is India's largest public sector bank?",
+      "option1": "Bank of Baroda",
+      "option2": "Punjab National Bank",
+      "option3": "State Bank of India",
+      "option4": "Canara Bank",
+      "answer": "State Bank of India"
+    },
+    {
+      "question": "What is the full form of NEFT?",
+      "option1": "National Electronic Funds Transfer",
+      "option2": "National Exchange Fund Transfer",
+      "option3": "New Electronic Financial Transfer",
+      "option4": "National Electronic Finance Transaction",
+      "answer": "National Electronic Funds Transfer"
+    },
+    {
+      "question": "What is the full form of RTGS?",
+      "option1": "Real Time Gross Settlement",
+      "option2": "Rapid Transfer Gross System",
+      "option3": "Real Transfer Government Settlement",
+      "option4": "Reserve Transaction Gross Settlement",
+      "answer": "Real Time Gross Settlement"
+    },
+    {
+      "question": "What is the full form of IMPS?",
+      "option1": "Immediate Payment Service",
+      "option2": "Indian Money Processing System",
+      "option3": "Immediate Money Processing Service",
+      "option4": "Integrated Payment Settlement",
+      "answer": "Immediate Payment Service"
+    },
+    {
+      "question": "What is the full form of UPI?",
+      "option1": "Unified Payments Interface",
+      "option2": "Universal Payment India",
+      "option3": "Unified Processing Interface",
+      "option4": "Universal Payments Institution",
+      "answer": "Unified Payments Interface"
+    },
+    {
+      "question": "Which organization operates UPI?",
+      "option1": "RBI",
+      "option2": "NPCI",
+      "option3": "SEBI",
+      "option4": "SBI",
+      "answer": "NPCI"
+    },
+    {
+      "question": "What is the full form of NPCI?",
+      "option1": "National Payments Corporation of India",
+      "option2": "National Processing Corporation of India",
+      "option3": "National Payment Council of India",
+      "option4": "National Public Corporation of India",
+      "answer": "National Payments Corporation of India"
+    },
+    {
+      "question": "What is the full form of KYC?",
+      "option1": "Know Your Customer",
+      "option2": "Keep Your Customer",
+      "option3": "Know Your Credit",
+      "option4": "Keep Your Credit",
+      "answer": "Know Your Customer"
+    },
+    {
+      "question": "What is the primary purpose of KYC?",
+      "option1": "To increase interest rates",
+      "option2": "To identify and verify customers",
+      "option3": "To provide loans automatically",
+      "option4": "To calculate taxes",
+      "answer": "To identify and verify customers"
+    },
+    {
+      "question": "What is a savings account mainly designed for?",
+      "option1": "Personal savings",
+      "option2": "Large industrial borrowing",
+      "option3": "Government taxation",
+      "option4": "Stock trading only",
+      "answer": "Personal savings"
+    },
+    {
+      "question": "Which account is generally used by businesses for frequent transactions?",
+      "option1": "Savings account",
+      "option2": "Current account",
+      "option3": "Fixed deposit account",
+      "option4": "Recurring deposit account",
+      "answer": "Current account"
+    },
+    {
+      "question": "What is a fixed deposit?",
+      "option1": "A loan account",
+      "option2": "A deposit kept for a fixed period",
+      "option3": "A current account",
+      "option4": "A stock investment",
+      "answer": "A deposit kept for a fixed period"
+    },
+    {
+      "question": "What is a recurring deposit?",
+      "option1": "A deposit made regularly for a fixed period",
+      "option2": "A one-time loan",
+      "option3": "A current account",
+      "option4": "A type of insurance",
+      "answer": "A deposit made regularly for a fixed period"
+    },
+    {
+      "question": "What is the full form of ATM?",
+      "option1": "Automated Teller Machine",
+      "option2": "Automatic Transfer Machine",
+      "option3": "Automated Transaction Method",
+      "option4": "Any Time Money",
+      "answer": "Automated Teller Machine"
+    },
+    {
+      "question": "What is the full form of PIN?",
+      "option1": "Personal Identification Number",
+      "option2": "Personal Identity Name",
+      "option3": "Private Identification Network",
+      "option4": "Payment Identification Number",
+      "answer": "Personal Identification Number"
+    },
+    {
+      "question": "What is the full form of IFSC?",
+      "option1": "Indian Financial System Code",
+      "option2": "Indian Finance Service Code",
+      "option3": "International Financial System Code",
+      "option4": "Indian Fund Settlement Code",
+      "answer": "Indian Financial System Code"
+    },
+    {
+      "question": "What is the purpose of an IFSC code?",
+      "option1": "To identify bank branches for electronic transactions",
+      "option2": "To calculate income tax",
+      "option3": "To identify customers",
+      "option4": "To issue passports",
+      "answer": "To identify bank branches for electronic transactions"
+    },
+    {
+      "question": "What is the full form of MICR?",
+      "option1": "Magnetic Ink Character Recognition",
+      "option2": "Magnetic Indian Currency Recognition",
+      "option3": "Money Identification Code Reader",
+      "option4": "Magnetic Information Credit Record",
+      "answer": "Magnetic Ink Character Recognition"
+    },
+    {
+      "question": "Which number identifies a bank branch in electronic fund transfers?",
+      "option1": "IFSC",
+      "option2": "PIN",
+      "option3": "PAN",
+      "option4": "CIN",
+      "answer": "IFSC"
+    },
+    {
+      "question": "What is the full form of PAN?",
+      "option1": "Permanent Account Number",
+      "option2": "Personal Account Number",
+      "option3": "Permanent Assessment Number",
+      "option4": "Public Account Number",
+      "answer": "Permanent Account Number"
+    },
+    {
+      "question": "Which authority issues PAN in India?",
+      "option1": "RBI",
+      "option2": "Income Tax Department",
+      "option3": "SEBI",
+      "option4": "SBI",
+      "answer": "Income Tax Department"
+    },
+    {
+      "question": "What is the full form of GST?",
+      "option1": "Goods and Services Tax",
+      "option2": "General Sales Tax",
+      "option3": "Goods Supply Tax",
+      "option4": "Government Service Tax",
+      "answer": "Goods and Services Tax"
+    },
+    {
+      "question": "Which institution regulates the securities market in India?",
+      "option1": "RBI",
+      "option2": "SEBI",
+      "option3": "NABARD",
+      "option4": "SIDBI",
+      "answer": "SEBI"
+    },
+    {
+      "question": "What is the full form of SEBI?",
+      "option1": "Securities and Exchange Board of India",
+      "option2": "Security Exchange Bank of India",
+      "option3": "Securities Economic Board of India",
+      "option4": "Stock Exchange Board of India",
+      "answer": "Securities and Exchange Board of India"
+    },
+    {
+      "question": "Which institution primarily supports agriculture and rural development finance?",
+      "option1": "NABARD",
+      "option2": "SEBI",
+      "option3": "IRDAI",
+      "option4": "EXIM Bank",
+      "answer": "NABARD"
+    },
+    {
+      "question": "What is the full form of NABARD?",
+      "option1": "National Bank for Agriculture and Rural Development",
+      "option2": "National Banking Authority for Rural Development",
+      "option3": "National Agricultural Bank and Rural Department",
+      "option4": "National Bank for Administrative Rural Development",
+      "answer": "National Bank for Agriculture and Rural Development"
+    },
+    {
+      "question": "Which institution regulates insurance in India?",
+      "option1": "RBI",
+      "option2": "IRDAI",
+      "option3": "SEBI",
+      "option4": "NABARD",
+      "answer": "IRDAI"
+    },
+    {
+      "question": "What is the full form of IRDAI?",
+      "option1": "Insurance Regulatory and Development Authority of India",
+      "option2": "Indian Regulatory Development Authority of Insurance",
+      "option3": "Insurance Research and Development Authority of India",
+      "option4": "Indian Risk Development Authority of Insurance",
+      "answer": "Insurance Regulatory and Development Authority of India"
+    },
+    {
+      "question": "What is inflation?",
+      "option1": "A general rise in prices",
+      "option2": "A fall in employment only",
+      "option3": "A decrease in money supply",
+      "option4": "A fall in prices",
+      "answer": "A general rise in prices"
+    },
+    {
+      "question": "What is deflation?",
+      "option1": "A sustained fall in the general price level",
+      "option2": "A rise in prices",
+      "option3": "A rise in interest rates",
+      "option4": "An increase in money supply",
+      "answer": "A sustained fall in the general price level"
+    },
+    {
+      "question": "What is GDP?",
+      "option1": "Gross Domestic Product",
+      "option2": "General Domestic Production",
+      "option3": "Gross Development Product",
+      "option4": "Government Domestic Product",
+      "answer": "Gross Domestic Product"
+    },
+    {
+      "question": "GDP measures the value of what?",
+      "option1": "Final goods and services produced within a country",
+      "option2": "Only agricultural goods",
+      "option3": "Only exports",
+      "option4": "Only government services",
+      "answer": "Final goods and services produced within a country"
+    },
+    {
+      "question": "What is repo rate?",
+      "option1": "Rate at which RBI lends to banks against eligible securities",
+      "option2": "Rate paid on savings accounts",
+      "option3": "Rate charged by banks on deposits",
+      "option4": "Rate of income tax",
+      "answer": "Rate at which RBI lends to banks against eligible securities"
+    },
+    {
+      "question": "What is reverse repo rate?",
+      "option1": "Rate at which RBI borrows funds from banks under the relevant framework",
+      "option2": "Rate at which banks lend to customers",
+      "option3": "Rate charged on credit cards",
+      "option4": "Rate of GST",
+      "answer": "Rate at which RBI borrows funds from banks under the relevant framework"
+    },
+    {
+      "question": "What is CRR?",
+      "option1": "Cash Reserve Ratio",
+      "option2": "Credit Reserve Rate",
+      "option3": "Cash Regulation Ratio",
+      "option4": "Central Reserve Rate",
+      "answer": "Cash Reserve Ratio"
+    },
+    {
+      "question": "What is SLR?",
+      "option1": "Statutory Liquidity Ratio",
+      "option2": "State Liquidity Rate",
+      "option3": "Statutory Lending Ratio",
+      "option4": "Security Liquidity Reserve",
+      "answer": "Statutory Liquidity Ratio"
+    },
+    {
+      "question": "Which bank is known as the banker to the government?",
+      "option1": "RBI",
+      "option2": "SBI",
+      "option3": "PNB",
+      "option4": "NABARD",
+      "answer": "RBI"
+    },
+    {
+      "question": "What is a non-performing asset commonly called?",
+      "option1": "NPA",
+      "option2": "NPL",
+      "option3": "NDA",
+      "option4": "NPC",
+      "answer": "NPA"
+    },
+    {
+      "question": "What does NPA stand for?",
+      "option1": "Non-Performing Asset",
+      "option2": "National Payment Account",
+      "option3": "Net Performing Asset",
+      "option4": "Non-Payment Arrangement",
+      "answer": "Non-Performing Asset"
+    },
+    {
+      "question": "What is a bank overdraft?",
+      "option1": "A facility allowing withdrawal beyond the available account balance up to an approved limit",
+      "option2": "A fixed deposit",
+      "option3": "A savings scheme",
+      "option4": "A type of insurance",
+      "answer": "A facility allowing withdrawal beyond the available account balance up to an approved limit"
+    },
+    {
+      "question": "What is a loan?",
+      "option1": "Money borrowed that is generally repaid with applicable interest or charges",
+      "option2": "A bank deposit",
+      "option3": "A government grant only",
+      "option4": "A type of tax",
+      "answer": "Money borrowed that is generally repaid with applicable interest or charges"
+    },
+    {
+      "question": "What is collateral?",
+      "option1": "An asset pledged to secure a loan",
+      "option2": "Bank interest",
+      "option3": "A savings account",
+      "option4": "A tax receipt",
+      "answer": "An asset pledged to secure a loan"
+    },
+    {
+      "question": "What is EMI?",
+      "option1": "Equated Monthly Instalment",
+      "option2": "Equal Money Interest",
+      "option3": "Electronic Monthly Income",
+      "option4": "Equated Money Investment",
+      "answer": "Equated Monthly Instalment"
+    },
+    {
+      "question": "Which of the following is a negotiable instrument?",
+      "option1": "Cheque",
+      "option2": "Passport",
+      "option3": "Driving licence",
+      "option4": "Aadhaar card",
+      "answer": "Cheque"
+    },
+    {
+      "question": "A cheque is primarily an instruction to:",
+      "option1": "A bank to pay a specified amount",
+      "option2": "A government office to issue currency",
+      "option3": "A company to issue shares",
+      "option4": "An insurer to pay premium",
+      "answer": "A bank to pay a specified amount"
+    },
+    {
+      "question": "What is a crossed cheque?",
+      "option1": "A cheque marked for payment through a bank account rather than direct cash payment",
+      "option2": "A cheque without a signature",
+      "option3": "A cancelled cheque",
+      "option4": "A cheque issued by RBI",
+      "answer": "A cheque marked for payment through a bank account rather than direct cash payment"
+    },
+    {
+      "question": "What is a demand draft?",
+      "option1": "A prepaid bank instrument used to make a payment",
+      "option2": "A type of credit card",
+      "option3": "A loan agreement",
+      "option4": "A tax document",
+      "answer": "A prepaid bank instrument used to make a payment"
+    },
+    {
+      "question": "Which payment system settles transactions individually on a real-time basis?",
+      "option1": "RTGS",
+      "option2": "NEFT",
+      "option3": "UPI",
+      "option4": "Cheque clearing",
+      "answer": "RTGS"
+    },
+    {
+      "question": "Which payment method commonly allows instant bank-to-bank transfers using a mobile application?",
+      "option1": "UPI",
+      "option2": "Demand Draft",
+      "option3": "Cheque",
+      "option4": "Fixed Deposit",
+      "answer": "UPI"
+    },
+    {
+      "question": "What is financial inclusion?",
+      "option1": "Providing affordable financial services to wider sections of society",
+      "option2": "Increasing taxes on banks",
+      "option3": "Closing rural branches",
+      "option4": "Restricting digital payments",
+      "answer": "Providing affordable financial services to wider sections of society"
+    },
+    {
+      "question": "Which scheme is associated with financial inclusion through basic bank accounts?",
+      "option1": "Pradhan Mantri Jan Dhan Yojana",
+      "option2": "Make in India",
+      "option3": "Swachh Bharat Mission",
+      "option4": "Digital India",
+      "answer": "Pradhan Mantri Jan Dhan Yojana"
+    },
+    {
+      "question": "What is a debit card?",
+      "option1": "A card that generally deducts money from the linked bank account",
+      "option2": "A card providing only a loan",
+      "option3": "A government identity card",
+      "option4": "A fixed deposit certificate",
+      "answer": "A card that generally deducts money from the linked bank account"
+    },
+    {
+      "question": "What is a credit card?",
+      "option1": "A payment card that provides access to a line of credit",
+      "option2": "A savings account card",
+      "option3": "A debit-only card",
+      "option4": "A tax card",
+      "answer": "A payment card that provides access to a line of credit"
+    },
+    {
+      "question": "What is the full form of OTP?",
+      "option1": "One Time Password",
+      "option2": "Online Transaction Password",
+      "option3": "One Transfer Protocol",
+      "option4": "Official Transaction PIN",
+      "answer": "One Time Password"
+    },
+    {
+      "question": "What is phishing?",
+      "option1": "A fraudulent attempt to obtain sensitive information",
+      "option2": "A banking deposit method",
+      "option3": "A computer backup process",
+      "option4": "A data compression technique",
+      "answer": "A fraudulent attempt to obtain sensitive information"
+    },
+    {
+      "question": "What is malware?",
+      "option1": "Malicious software",
+      "option2": "Banking software",
+      "option3": "Spreadsheet software",
+      "option4": "Operating system software",
+      "answer": "Malicious software"
+    },
+    {
+      "question": "What is a firewall?",
+      "option1": "A security system that monitors and controls network traffic",
+      "option2": "A printer device",
+      "option3": "A storage device",
+      "option4": "A spreadsheet program",
+      "answer": "A security system that monitors and controls network traffic"
+    },
+    {
+      "question": "What is the full form of CPU?",
+      "option1": "Central Processing Unit",
+      "option2": "Central Program Utility",
+      "option3": "Computer Processing User",
+      "option4": "Central Peripheral Unit",
+      "answer": "Central Processing Unit"
+    },
+    {
+      "question": "Which component performs most processing operations in a computer?",
+      "option1": "CPU",
+      "option2": "Monitor",
+      "option3": "Keyboard",
+      "option4": "Printer",
+      "answer": "CPU"
+    },
+    {
+      "question": "Which memory is volatile?",
+      "option1": "RAM",
+      "option2": "ROM",
+      "option3": "Hard disk",
+      "option4": "SSD",
+      "answer": "RAM"
+    },
+    {
+      "question": "What is the full form of RAM?",
+      "option1": "Random Access Memory",
+      "option2": "Read Access Memory",
+      "option3": "Rapid Access Module",
+      "option4": "Random Application Memory",
+      "answer": "Random Access Memory"
+    },
+    {
+      "question": "What is the full form of ROM?",
+      "option1": "Read Only Memory",
+      "option2": "Random Only Memory",
+      "option3": "Read Open Memory",
+      "option4": "Remote Operating Memory",
+      "answer": "Read Only Memory"
+    },
+    {
+      "question": "Which device is used to enter text into a computer?",
+      "option1": "Keyboard",
+      "option2": "Monitor",
+      "option3": "Speaker",
+      "option4": "Projector",
+      "answer": "Keyboard"
+    },
+    {
+      "question": "Which device displays visual output?",
+      "option1": "Monitor",
+      "option2": "Keyboard",
+      "option3": "Mouse",
+      "option4": "Scanner",
+      "answer": "Monitor"
+    },
+    {
+      "question": "Which shortcut is commonly used to copy selected text?",
+      "option1": "Ctrl+C",
+      "option2": "Ctrl+V",
+      "option3": "Ctrl+X",
+      "option4": "Ctrl+Z",
+      "answer": "Ctrl+C"
+    },
+    {
+      "question": "Which shortcut is commonly used to paste copied text?",
+      "option1": "Ctrl+V",
+      "option2": "Ctrl+C",
+      "option3": "Ctrl+P",
+      "option4": "Ctrl+S",
+      "answer": "Ctrl+V"
+    },
+    {
+      "question": "Which shortcut is used to undo an action?",
+      "option1": "Ctrl+Z",
+      "option2": "Ctrl+Y",
+      "option3": "Ctrl+U",
+      "option4": "Ctrl+A",
+      "answer": "Ctrl+Z"
+    },
+    {
+      "question": "Which shortcut selects all content?",
+      "option1": "Ctrl+A",
+      "option2": "Ctrl+S",
+      "option3": "Ctrl+E",
+      "option4": "Ctrl+D",
+      "answer": "Ctrl+A"
+    },
+    {
+      "question": "What is an operating system?",
+      "option1": "Software that manages computer hardware and software resources",
+      "option2": "A type of printer",
+      "option3": "A web browser",
+      "option4": "A storage cable",
+      "answer": "Software that manages computer hardware and software resources"
+    },
+    {
+      "question": "Which of the following is an operating system?",
+      "option1": "Windows",
+      "option2": "Google",
+      "option3": "Yahoo",
+      "option4": "Chrome",
+      "answer": "Windows"
+    },
+    {
+      "question": "What is a web browser?",
+      "option1": "Software used to access websites",
+      "option2": "A computer processor",
+      "option3": "A storage device",
+      "option4": "A printer driver",
+      "answer": "Software used to access websites"
+    },
+    {
+      "question": "Which of the following is a web browser?",
+      "option1": "Google Chrome",
+      "option2": "Windows",
+      "option3": "Linux",
+      "option4": "Android",
+      "answer": "Google Chrome"
+    },
+    {
+      "question": "What is URL?",
+      "option1": "Uniform Resource Locator",
+      "option2": "Universal Record Link",
+      "option3": "Uniform Routing Language",
+      "option4": "Universal Resource Link",
+      "answer": "Uniform Resource Locator"
+    },
+    {
+      "question": "What does HTTP stand for?",
+      "option1": "Hypertext Transfer Protocol",
+      "option2": "Hyper Transfer Text Program",
+      "option3": "High Text Transfer Protocol",
+      "option4": "Hyperlink Transfer Process",
+      "answer": "Hypertext Transfer Protocol"
+    },
+    {
+      "question": "What is the secure version of HTTP?",
+      "option1": "HTTPS",
+      "option2": "HTP",
+      "option3": "SHTTPX",
+      "option4": "HTTPX",
+      "answer": "HTTPS"
+    },
+    {
+      "question": "What is cloud computing?",
+      "option1": "Delivery of computing resources over a network, usually the internet",
+      "option2": "Computing only during rainfall",
+      "option3": "A type of keyboard",
+      "option4": "A printer technology",
+      "answer": "Delivery of computing resources over a network, usually the internet"
+    },
+    {
+      "question": "What is the full form of PDF?",
+      "option1": "Portable Document Format",
+      "option2": "Public Document File",
+      "option3": "Personal Data Format",
+      "option4": "Portable Data File",
+      "answer": "Portable Document Format"
+    },
+    {
+      "question": "What is the full form of USB?",
+      "option1": "Universal Serial Bus",
+      "option2": "Universal System Bus",
+      "option3": "Unified Serial Board",
+      "option4": "Universal Storage Board",
+      "answer": "Universal Serial Bus"
+    },
+    {
+      "question": "Which device is commonly used for permanent data storage?",
+      "option1": "Hard disk",
+      "option2": "RAM",
+      "option3": "Cache",
+      "option4": "Register",
+      "answer": "Hard disk"
+    },
+    {
+      "question": "What is a database?",
+      "option1": "An organized collection of data",
+      "option2": "A computer monitor",
+      "option3": "A network cable",
+      "option4": "A keyboard layout",
+      "answer": "An organized collection of data"
+    },
+    {
+      "question": "What is the full form of SQL?",
+      "option1": "Structured Query Language",
+      "option2": "System Query Language",
+      "option3": "Structured Question Language",
+      "option4": "Sequential Query Logic",
+      "answer": "Structured Query Language"
+    },
+    {
+      "question": "Which language is widely used for querying relational databases?",
+      "option1": "SQL",
+      "option2": "HTML",
+      "option3": "CSS",
+      "option4": "XML",
+      "answer": "SQL"
+    },
+    {
+      "question": "What is an IP address?",
+      "option1": "A numerical identifier assigned to a device or network interface",
+      "option2": "A bank account number",
+      "option3": "A password",
+      "option4": "A file extension",
+      "answer": "A numerical identifier assigned to a device or network interface"
+    },
+    {
+      "question": "What is email?",
+      "option1": "Electronic mail",
+      "option2": "Electronic money",
+      "option3": "Emergency mail",
+      "option4": "Encrypted message only",
+      "answer": "Electronic mail"
+    },
+    {
+      "question": "Which symbol is commonly used in an email address?",
+      "option1": "@",
+      "option2": "#",
+      "option3": "$",
+      "option4": "%",
+      "answer": "@"
+    },
+    {
+      "question": "What is spam email?",
+      "option1": "Unsolicited or unwanted email",
+      "option2": "Encrypted email",
+      "option3": "Official government email",
+      "option4": "A banking receipt",
+      "answer": "Unsolicited or unwanted email"
+    },
+    {
+      "question": "Which type of attack attempts to overwhelm a service with excessive traffic?",
+      "option1": "DDoS attack",
+      "option2": "Phishing",
+      "option3": "Keylogging",
+      "option4": "Spoof printing",
+      "answer": "DDoS attack"
+    },
+    {
+      "question": "What is encryption?",
+      "option1": "Converting information into a coded form",
+      "option2": "Deleting files",
+      "option3": "Printing documents",
+      "option4": "Formatting a hard disk",
+      "answer": "Converting information into a coded form"
+    },
+    {
+      "question": "What is authentication?",
+      "option1": "Verifying the identity of a user or system",
+      "option2": "Deleting a user account",
+      "option3": "Compressing data",
+      "option4": "Formatting a document",
+      "answer": "Verifying the identity of a user or system"
+    },
+    {
+      "question": "What is authorization?",
+      "option1": "Determining what an authenticated user is allowed to access",
+      "option2": "Creating a password",
+      "option3": "Scanning a document",
+      "option4": "Changing an IP address",
+      "answer": "Determining what an authenticated user is allowed to access"
+    },
+    {
+      "question": "If 25% of a number is 80, what is the number?",
+      "option1": "240",
+      "option2": "280",
+      "option3": "320",
+      "option4": "360",
+      "answer": "320"
+    },
+    {
+      "question": "What is 15% of 200?",
+      "option1": "20",
+      "option2": "25",
+      "option3": "30",
+      "option4": "35",
+      "answer": "30"
+    },
+    {
+      "question": "A number is increased from 200 to 240. What is the percentage increase?",
+      "option1": "15%",
+      "option2": "20%",
+      "option3": "25%",
+      "option4": "30%",
+      "answer": "20%"
+    },
+    {
+      "question": "What is 3/5 expressed as a percentage?",
+      "option1": "40%",
+      "option2": "50%",
+      "option3": "60%",
+      "option4": "75%",
+      "answer": "60%"
+    },
+    {
+      "question": "What is the average of 10, 20, 30, 40 and 50?",
+      "option1": "25",
+      "option2": "30",
+      "option3": "35",
+      "option4": "40",
+      "answer": "30"
+    },
+    {
+      "question": "The average of 5 numbers is 20. What is their total?",
+      "option1": "80",
+      "option2": "90",
+      "option3": "100",
+      "option4": "120",
+      "answer": "100"
+    },
+    {
+      "question": "What is the simple interest on ₹5,000 at 10% per annum for 2 years?",
+      "option1": "₹500",
+      "option2": "₹750",
+      "option3": "₹1,000",
+      "option4": "₹1,500",
+      "answer": "₹1,000"
+    },
+    {
+      "question": "What is the amount on ₹2,000 at 5% simple interest for 3 years?",
+      "option1": "₹2,200",
+      "option2": "₹2,250",
+      "option3": "₹2,300",
+      "option4": "₹2,350",
+      "answer": "₹2,300"
+    },
+    {
+      "question": "If the cost price is ₹500 and selling price is ₹600, what is the profit percentage?",
+      "option1": "10%",
+      "option2": "15%",
+      "option3": "20%",
+      "option4": "25%",
+      "answer": "20%"
+    },
+    {
+      "question": "If an article bought for ₹800 is sold for ₹720, what is the loss percentage?",
+      "option1": "5%",
+      "option2": "10%",
+      "option3": "12%",
+      "option4": "15%",
+      "answer": "10%"
+    },
+    {
+      "question": "What is the ratio 24:36 in simplest form?",
+      "option1": "2:3",
+      "option2": "3:4",
+      "option3": "4:5",
+      "option4": "5:6",
+      "answer": "2:3"
+    },
+    {
+      "question": "If A:B = 3:5 and B:C = 10:7, what is A:C?",
+      "option1": "3:7",
+      "option2": "6:7",
+      "option3": "5:7",
+      "option4": "7:6",
+      "answer": "6:7"
+    },
+    {
+      "question": "A train travels 240 km in 4 hours. What is its average speed?",
+      "option1": "50 km/h",
+      "option2": "60 km/h",
+      "option3": "70 km/h",
+      "option4": "80 km/h",
+      "answer": "60 km/h"
+    },
+    {
+      "question": "How much time is needed to travel 150 km at 50 km/h?",
+      "option1": "2 hours",
+      "option2": "3 hours",
+      "option3": "4 hours",
+      "option4": "5 hours",
+      "answer": "3 hours"
+    },
+    {
+      "question": "A can complete a work in 10 days. What fraction of the work does A complete in one day?",
+      "option1": "1/5",
+      "option2": "1/10",
+      "option3": "1/15",
+      "option4": "1/20",
+      "answer": "1/10"
+    },
+    {
+      "question": "A and B can complete a work in 10 and 15 days respectively. How much work do they complete together in one day?",
+      "option1": "1/5",
+      "option2": "1/6",
+      "option3": "1/8",
+      "option4": "1/10",
+      "answer": "1/6"
+    },
+    {
+      "question": "What is the HCF of 24 and 36?",
+      "option1": "6",
+      "option2": "8",
+      "option3": "12",
+      "option4": "18",
+      "answer": "12"
+    },
+    {
+      "question": "What is the LCM of 8 and 12?",
+      "option1": "16",
+      "option2": "20",
+      "option3": "24",
+      "option4": "32",
+      "answer": "24"
+    },
+    {
+      "question": "What is 17 × 6?",
+      "option1": "92",
+      "option2": "102",
+      "option3": "112",
+      "option4": "122",
+      "answer": "102"
+    },
+    {
+      "question": "What is 144 ÷ 12?",
+      "option1": "10",
+      "option2": "11",
+      "option3": "12",
+      "option4": "14",
+      "answer": "12"
+    },
+    {
+      "question": "What is the square of 15?",
+      "option1": "125",
+      "option2": "200",
+      "option3": "225",
+      "option4": "250",
+      "answer": "225"
+    },
+    {
+      "question": "What is the cube of 5?",
+      "option1": "25",
+      "option2": "75",
+      "option3": "100",
+      "option4": "125",
+      "answer": "125"
+    },
+    {
+      "question": "What is the next number in the series 2, 4, 8, 16, ?",
+      "option1": "20",
+      "option2": "24",
+      "option3": "32",
+      "option4": "36",
+      "answer": "32"
+    },
+    {
+      "question": "What is the next number in the series 5, 10, 20, 40, ?",
+      "option1": "60",
+      "option2": "70",
+      "option3": "80",
+      "option4": "90",
+      "answer": "80"
+    },
+    {
+      "question": "What is the next number in the series 3, 6, 11, 18, ?",
+      "option1": "25",
+      "option2": "26",
+      "option3": "27",
+      "option4": "28",
+      "answer": "27"
+    },
+    {
+      "question": "If x + 7 = 15, what is x?",
+      "option1": "6",
+      "option2": "7",
+      "option3": "8",
+      "option4": "9",
+      "answer": "8"
+    },
+    {
+      "question": "If 3x = 27, what is x?",
+      "option1": "6",
+      "option2": "7",
+      "option3": "8",
+      "option4": "9",
+      "answer": "9"
+    },
+    {
+      "question": "What is the value of 2² + 3²?",
+      "option1": "11",
+      "option2": "12",
+      "option3": "13",
+      "option4": "14",
+      "answer": "13"
+    },
+    {
+      "question": "A shop gives a 10% discount on an article marked ₹1,000. What is the selling price?",
+      "option1": "₹850",
+      "option2": "₹900",
+      "option3": "₹950",
+      "option4": "₹990",
+      "answer": "₹900"
+    },
+    {
+      "question": "A sum of ₹1,000 is divided in the ratio 2:3. What is the larger share?",
+      "option1": "₹400",
+      "option2": "₹500",
+      "option3": "₹600",
+      "option4": "₹700",
+      "answer": "₹600"
+    },
+    {
+      "question": "If 4 workers complete a task in 12 days, how many worker-days are required?",
+      "option1": "36",
+      "option2": "48",
+      "option3": "52",
+      "option4": "60",
+      "answer": "48"
+    },
+    {
+      "question": "What is 40% of 350?",
+      "option1": "120",
+      "option2": "130",
+      "option3": "140",
+      "option4": "150",
+      "answer": "140"
+    },
+    {
+      "question": "What is the median of 3, 5, 7, 9 and 11?",
+      "option1": "5",
+      "option2": "7",
+      "option3": "8",
+      "option4": "9",
+      "answer": "7"
+    },
+    {
+      "question": "What is the mode of 2, 3, 3, 4 and 5?",
+      "option1": "2",
+      "option2": "3",
+      "option3": "4",
+      "option4": "5",
+      "answer": "3"
+    },
+    {
+      "question": "What is the perimeter of a square with side 8 cm?",
+      "option1": "16 cm",
+      "option2": "24 cm",
+      "option3": "32 cm",
+      "option4": "64 cm",
+      "answer": "32 cm"
+    },
+    {
+      "question": "What is the area of a rectangle of length 12 cm and breadth 5 cm?",
+      "option1": "50 cm²",
+      "option2": "60 cm²",
+      "option3": "70 cm²",
+      "option4": "80 cm²",
+      "answer": "60 cm²"
+    },
+    {
+      "question": "What is the circumference of a circle with radius r?",
+      "option1": "πr²",
+      "option2": "2πr",
+      "option3": "πr",
+      "option4": "4πr",
+      "answer": "2πr"
+    },
+    {
+      "question": "What is the probability of getting a head when a fair coin is tossed once?",
+      "option1": "0",
+      "option2": "1/4",
+      "option3": "1/2",
+      "option4": "1",
+      "answer": "1/2"
+    },
+    {
+      "question": "What is the probability of rolling a 6 on a fair die?",
+      "option1": "1/2",
+      "option2": "1/3",
+      "option3": "1/6",
+      "option4": "1/12",
+      "answer": "1/6"
+    },
+    {
+      "question": "If 20 men can complete a work in 15 days, how many man-days are required?",
+      "option1": "200",
+      "option2": "250",
+      "option3": "300",
+      "option4": "350",
+      "answer": "300"
+    },
+    {
+      "question": "A number increased by 20% becomes 240. What was the original number?",
+      "option1": "180",
+      "option2": "200",
+      "option3": "220",
+      "option4": "240",
+      "answer": "200"
+    },
+    {
+      "question": "If the ratio of boys to girls is 3:2 and there are 30 boys, how many girls are there?",
+      "option1": "15",
+      "option2": "20",
+      "option3": "25",
+      "option4": "30",
+      "answer": "20"
+    },
+    {
+      "question": "A car covers 90 km in 1.5 hours. What is its speed?",
+      "option1": "45 km/h",
+      "option2": "50 km/h",
+      "option3": "60 km/h",
+      "option4": "75 km/h",
+      "answer": "60 km/h"
+    },
+    {
+      "question": "What is 12.5% of 800?",
+      "option1": "80",
+      "option2": "90",
+      "option3": "100",
+      "option4": "120",
+      "answer": "100"
+    },
+    {
+      "question": "What is the compound interest on ₹1,000 at 10% per annum for 2 years?",
+      "option1": "₹200",
+      "option2": "₹210",
+      "option3": "₹220",
+      "option4": "₹240",
+      "answer": "₹210"
+    },
+    {
+      "question": "If a:b = 4:7 and b:c = 14:9, what is a:c?",
+      "option1": "4:9",
+      "option2": "8:9",
+      "option3": "7:9",
+      "option4": "9:8",
+      "answer": "8:9"
+    },
+    {
+      "question": "A man spends 70% of his income. If his income is ₹20,000, how much does he save?",
+      "option1": "₹4,000",
+      "option2": "₹5,000",
+      "option3": "₹6,000",
+      "option4": "₹7,000",
+      "answer": "₹6,000"
+    },
+    {
+      "question": "What is the next number in 1, 4, 9, 16, 25, ?",
+      "option1": "30",
+      "option2": "36",
+      "option3": "42",
+      "option4": "49",
+      "answer": "36"
+    },
+    {
+      "question": "What is the next number in 2, 6, 12, 20, 30, ?",
+      "option1": "40",
+      "option2": "42",
+      "option3": "44",
+      "option4": "46",
+      "answer": "42"
+    },
+    {
+      "question": "If 5 pens cost ₹100, what is the cost of 8 pens?",
+      "option1": "₹120",
+      "option2": "₹140",
+      "option3": "₹160",
+      "option4": "₹180",
+      "answer": "₹160"
+    },
+    {
+      "question": "What is the smallest prime number?",
+      "option1": "0",
+      "option2": "1",
+      "option3": "2",
+      "option4": "3",
+      "answer": "2"
+    },
+    {
+      "question": "Which of the following is an even number?",
+      "option1": "17",
+      "option2": "23",
+      "option3": "31",
+      "option4": "42",
+      "answer": "42"
+    },
+    {
+      "question": "If today is Monday, what day will it be after 10 days?",
+      "option1": "Wednesday",
+      "option2": "Thursday",
+      "option3": "Friday",
+      "option4": "Saturday",
+      "answer": "Thursday"
+    },
+    {
+      "question": "How many degrees are there in a right angle?",
+      "option1": "45",
+      "option2": "90",
+      "option3": "180",
+      "option4": "360",
+      "answer": "90"
+    },
+    {
+      "question": "What is the sum of angles in a triangle?",
+      "option1": "90°",
+      "option2": "180°",
+      "option3": "270°",
+      "option4": "360°",
+      "answer": "180°"
+    },
+    {
+      "question": "What is the square root of 169?",
+      "option1": "11",
+      "option2": "12",
+      "option3": "13",
+      "option4": "14",
+      "answer": "13"
+    },
+    {
+      "question": "If 7x - 5 = 30, what is x?",
+      "option1": "4",
+      "option2": "5",
+      "option3": "6",
+      "option4": "7",
+      "answer": "5"
+    },
+    {
+      "question": "What is 2/3 of 90?",
+      "option1": "50",
+      "option2": "60",
+      "option3": "70",
+      "option4": "80",
+      "answer": "60"
+    },
+    {
+      "question": "A person walks 5 km north and then 5 km east. In which direction is the person from the starting point?",
+      "option1": "North-West",
+      "option2": "South-East",
+      "option3": "North-East",
+      "option4": "South-West",
+      "answer": "North-East"
+    },
+    {
+      "question": "If A is the brother of B and B is the sister of C, how is A related to C?",
+      "option1": "Brother",
+      "option2": "Sister",
+      "option3": "Father",
+      "option4": "Uncle",
+      "answer": "Brother"
+    },
+    {
+      "question": "If CAT is coded as DBU, how is DOG coded using the same pattern?",
+      "option1": "EPH",
+      "option2": "EOG",
+      "option3": "FPH",
+      "option4": "DPH",
+      "answer": "EPH"
+    },
+    {
+      "question": "Find the odd one out: Apple, Mango, Banana, Carrot.",
+      "option1": "Apple",
+      "option2": "Mango",
+      "option3": "Banana",
+      "option4": "Carrot",
+      "answer": "Carrot"
+    },
+    {
+      "question": "Find the odd one out: Dog, Cat, Cow, Rose.",
+      "option1": "Dog",
+      "option2": "Cat",
+      "option3": "Cow",
+      "option4": "Rose",
+      "answer": "Rose"
+    },
+    {
+      "question": "If all roses are flowers and some flowers are red, which conclusion definitely follows?",
+      "option1": "All roses are red",
+      "option2": "Some roses are red",
+      "option3": "All roses are flowers",
+      "option4": "No flowers are roses",
+      "answer": "All roses are flowers"
+    },
+    {
+      "question": "In a row, Ravi is 10th from the left and 15th from the right. How many people are in the row?",
+      "option1": "24",
+      "option2": "25",
+      "option3": "26",
+      "option4": "27",
+      "answer": "24"
+    },
+    {
+      "question": "If P is taller than Q and Q is taller than R, who is the shortest?",
+      "option1": "P",
+      "option2": "Q",
+      "option3": "R",
+      "option4": "Cannot be determined",
+      "answer": "R"
+    },
+    {
+      "question": "Which letter comes next in the series A, C, E, G, ?",
+      "option1": "H",
+      "option2": "I",
+      "option3": "J",
+      "option4": "K",
+      "answer": "I"
+    },
+    {
+      "question": "Which letter comes next in the series Z, X, V, T, ?",
+      "option1": "R",
+      "option2": "S",
+      "option3": "Q",
+      "option4": "P",
+      "answer": "R"
+    },
+    {
+      "question": "If NORTH is coded as OPSUI, what is EAST coded as?",
+      "option1": "FBTU",
+      "option2": "FASU",
+      "option3": "EATU",
+      "option4": "GBUV",
+      "answer": "FBTU"
+    },
+    {
+      "question": "A person facing east turns right and then right again. Which direction is the person facing?",
+      "option1": "North",
+      "option2": "South",
+      "option3": "East",
+      "option4": "West",
+      "answer": "West"
+    },
+    {
+      "question": "A person facing north turns left. Which direction is the person facing?",
+      "option1": "East",
+      "option2": "West",
+      "option3": "South",
+      "option4": "North",
+      "answer": "West"
+    },
+    {
+      "question": "If today is Wednesday, what day was it 5 days ago?",
+      "option1": "Friday",
+      "option2": "Saturday",
+      "option3": "Sunday",
+      "option4": "Monday",
+      "answer": "Friday"
+    },
+    {
+      "question": "If 1 January is Monday, what day is 8 January?",
+      "option1": "Sunday",
+      "option2": "Monday",
+      "option3": "Tuesday",
+      "option4": "Wednesday",
+      "answer": "Monday"
+    },
+    {
+      "question": "Which number replaces the question mark: 3, 9, 27, 81, ?",
+      "option1": "162",
+      "option2": "243",
+      "option3": "324",
+      "option4": "729",
+      "answer": "243"
+    },
+    {
+      "question": "Which number replaces the question mark: 100, 90, 80, 70, ?",
+      "option1": "50",
+      "option2": "55",
+      "option3": "60",
+      "option4": "65",
+      "answer": "60"
+    },
+    {
+      "question": "If all pens are books and all books are papers, which statement is definitely true?",
+      "option1": "All pens are papers",
+      "option2": "All papers are pens",
+      "option3": "No pens are papers",
+      "option4": "Some papers are not books",
+      "answer": "All pens are papers"
+    },
+    {
+      "question": "Which word cannot be formed from the letters of BANKING?",
+      "option1": "KING",
+      "option2": "BANK",
+      "option3": "GAIN",
+      "option4": "BOOK",
+      "answer": "BOOK"
+    },
+    {
+      "question": "If A is coded as 1, B as 2 and C as 3, what is the code for CAB?",
+      "option1": "312",
+      "option2": "321",
+      "option3": "213",
+      "option4": "231",
+      "answer": "312"
+    },
+    {
+      "question": "Which pair is different from the others?",
+      "option1": "Bird : Fly",
+      "option2": "Fish : Swim",
+      "option3": "Horse : Run",
+      "option4": "Snake : Milk",
+      "answer": "Snake : Milk"
+    },
+    {
+      "question": "If M is the mother of N and N is the father of P, how is M related to P?",
+      "option1": "Mother",
+      "option2": "Grandmother",
+      "option3": "Aunt",
+      "option4": "Sister",
+      "answer": "Grandmother"
+    },
+    {
+      "question": "Which number is missing: 4, 8, 16, 32, ?",
+      "option1": "48",
+      "option2": "56",
+      "option3": "64",
+      "option4": "72",
+      "answer": "64"
+    },
+    {
+      "question": "If 5 + 3 = 28 and 4 + 2 = 18 under a certain pattern, what is 6 + 2?",
+      "option1": "32",
+      "option2": "38",
+      "option3": "40",
+      "option4": "44",
+      "answer": "40"
+    },
+    {
+      "question": "Which one is different: 2, 3, 5, 7, 9?",
+      "option1": "2",
+      "option2": "5",
+      "option3": "7",
+      "option4": "9",
+      "answer": "9"
+    },
+    {
+      "question": "In a class, Anu ranks 7th from the top and 13th from the bottom. How many students are there?",
+      "option1": "18",
+      "option2": "19",
+      "option3": "20",
+      "option4": "21",
+      "answer": "19"
+    },
+    {
+      "question": "What is the mirror image of a clock showing 3:00?",
+      "option1": "3:00",
+      "option2": "6:00",
+      "option3": "9:00",
+      "option4": "12:00",
+      "answer": "9:00"
+    },
+    {
+      "question": "What is the opposite direction of South-East?",
+      "option1": "North-East",
+      "option2": "North-West",
+      "option3": "South-West",
+      "option4": "West",
+      "answer": "North-West"
+    },
+    {
+      "question": "Choose the word most similar in meaning to 'Rapid'.",
+      "option1": "Slow",
+      "option2": "Quick",
+      "option3": "Weak",
+      "option4": "Late",
+      "answer": "Quick"
+    },
+    {
+      "question": "Choose the word opposite in meaning to 'Ancient'.",
+      "option1": "Old",
+      "option2": "Historic",
+      "option3": "Modern",
+      "option4": "Past",
+      "answer": "Modern"
+    },
+    {
+      "question": "Choose the correct spelling.",
+      "option1": "Accomodation",
+      "option2": "Accommodation",
+      "option3": "Acommodation",
+      "option4": "Accommadation",
+      "answer": "Accommodation"
+    },
+    {
+      "question": "Choose the correct spelling.",
+      "option1": "Separate",
+      "option2": "Seperate",
+      "option3": "Separete",
+      "option4": "Seperrate",
+      "answer": "Separate"
+    },
+    {
+      "question": "Fill in the blank: She ___ to school every day.",
+      "option1": "go",
+      "option2": "goes",
+      "option3": "going",
+      "option4": "gone",
+      "answer": "goes"
+    },
+    {
+      "question": "Fill in the blank: They ___ playing cricket.",
+      "option1": "is",
+      "option2": "was",
+      "option3": "are",
+      "option4": "be",
+      "answer": "are"
+    },
+    {
+      "question": "Choose the correct article: He is ___ honest man.",
+      "option1": "a",
+      "option2": "an",
+      "option3": "the",
+      "option4": "no article",
+      "answer": "an"
+    },
+    {
+      "question": "Choose the correct preposition: The book is ___ the table.",
+      "option1": "on",
+      "option2": "at",
+      "option3": "by",
+      "option4": "from",
+      "answer": "on"
+    },
+    {
+      "question": "Choose the correct preposition: She is good ___ mathematics.",
+      "option1": "in",
+      "option2": "at",
+      "option3": "on",
+      "option4": "by",
+      "answer": "at"
+    },
+    {
+      "question": "Choose the correct conjunction: Work hard ___ you will succeed.",
+      "option1": "but",
+      "option2": "or",
+      "option3": "and",
+      "option4": "because",
+      "answer": "and"
+    },
+    {
+      "question": "Choose the correct form: Neither Ram nor Shyam ___ present.",
+      "option1": "are",
+      "option2": "were",
+      "option3": "is",
+      "option4": "be",
+      "answer": "is"
+    },
+    {
+      "question": "What is the plural of 'child'?",
+      "option1": "Childs",
+      "option2": "Children",
+      "option3": "Childes",
+      "option4": "Childrens",
+      "answer": "Children"
+    },
+    {
+      "question": "What is the plural of 'mouse'?",
+      "option1": "Mouses",
+      "option2": "Mouse",
+      "option3": "Mice",
+      "option4": "Meese",
+      "answer": "Mice"
+    },
+    {
+      "question": "What is the past tense of 'go'?",
+      "option1": "Goed",
+      "option2": "Gone",
+      "option3": "Went",
+      "option4": "Going",
+      "answer": "Went"
+    },
+    {
+      "question": "What is the past participle of 'write'?",
+      "option1": "Wrote",
+      "option2": "Written",
+      "option3": "Writing",
+      "option4": "Writes",
+      "answer": "Written"
+    },
+    {
+      "question": "Choose the synonym of 'Brave'.",
+      "option1": "Cowardly",
+      "option2": "Courageous",
+      "option3": "Weak",
+      "option4": "Timid",
+      "answer": "Courageous"
+    },
+    {
+      "question": "Choose the antonym of 'Expand'.",
+      "option1": "Increase",
+      "option2": "Extend",
+      "option3": "Contract",
+      "option4": "Grow",
+      "answer": "Contract"
+    },
+    {
+      "question": "Choose the synonym of 'Begin'.",
+      "option1": "Start",
+      "option2": "Finish",
+      "option3": "Stop",
+      "option4": "End",
+      "answer": "Start"
+    },
+    {
+      "question": "Choose the antonym of 'Victory'.",
+      "option1": "Success",
+      "option2": "Triumph",
+      "option3": "Defeat",
+      "option4": "Achievement",
+      "answer": "Defeat"
+    },
+    {
+      "question": "Identify the noun in the sentence: 'The boy plays football.'",
+      "option1": "The",
+      "option2": "Boy",
+      "option3": "Plays",
+      "option4": "The",
+      "answer": "Boy"
+    },
+    {
+      "question": "Identify the adjective in: 'She has a beautiful dress.'",
+      "option1": "She",
+      "option2": "Has",
+      "option3": "Beautiful",
+      "option4": "Dress",
+      "answer": "Beautiful"
+    },
+    {
+      "question": "Identify the adverb in: 'He runs quickly.'",
+      "option1": "He",
+      "option2": "Runs",
+      "option3": "Quickly",
+      "option4": "None",
+      "answer": "Quickly"
+    },
+    {
+      "question": "Choose the correct passive voice: 'Ram wrote a letter.'",
+      "option1": "A letter was written by Ram.",
+      "option2": "A letter is written by Ram.",
+      "option3": "A letter has written by Ram.",
+      "option4": "A letter wrote Ram.",
+      "answer": "A letter was written by Ram."
+    },
+    {
+      "question": "Choose the correct active voice: 'The work was completed by Ravi.'",
+      "option1": "Ravi completes the work.",
+      "option2": "Ravi completed the work.",
+      "option3": "Ravi has complete the work.",
+      "option4": "Ravi completing the work.",
+      "answer": "Ravi completed the work."
+    },
+    {
+      "question": "Choose the correctly punctuated sentence.",
+      "option1": "What a beautiful day!",
+      "option2": "What a beautiful day.",
+      "option3": "What a beautiful day?",
+      "option4": "What a beautiful day,",
+      "answer": "What a beautiful day!"
+    },
+    {
+      "question": "Choose the correct indirect speech: He said, 'I am tired.'",
+      "option1": "He said that he was tired.",
+      "option2": "He said that I am tired.",
+      "option3": "He says that he was tired.",
+      "option4": "He said he is tired always.",
+      "answer": "He said that he was tired."
+    },
+    {
+      "question": "Choose the correct sentence.",
+      "option1": "She do her work.",
+      "option2": "She does her work.",
+      "option3": "She doing her work.",
+      "option4": "She done her work.",
+      "answer": "She does her work."
+    },
+    {
+      "question": "Choose the correct sentence.",
+      "option1": "He have two books.",
+      "option2": "He has two books.",
+      "option3": "He having two books.",
+      "option4": "He had has two books.",
+      "answer": "He has two books."
+    },
+    {
+      "question": "What does the idiom 'A piece of cake' mean?",
+      "option1": "Something very difficult",
+      "option2": "Something very easy",
+      "option3": "A food item only",
+      "option4": "A celebration",
+      "answer": "Something very easy"
+    },
+    {
+      "question": "What does the idiom 'Break the ice' mean?",
+      "option1": "To start a friendly conversation",
+      "option2": "To break something",
+      "option3": "To become angry",
+      "option4": "To stop talking",
+      "answer": "To start a friendly conversation"
+    },
+    {
+      "question": "What does the phrase 'In spite of' indicate?",
+      "option1": "Contrast",
+      "option2": "Cause only",
+      "option3": "Time only",
+      "option4": "Place only",
+      "answer": "Contrast"
+    },
+    {
+      "question": "Which word is a synonym of 'Assist'?",
+      "option1": "Help",
+      "option2": "Harm",
+      "option3": "Stop",
+      "option4": "Ignore",
+      "answer": "Help"
+    },
+    {
+      "question": "Which word is an antonym of 'Accept'?",
+      "option1": "Receive",
+      "option2": "Reject",
+      "option3": "Allow",
+      "option4": "Approve",
+      "answer": "Reject"
+    },
+    {
+      "question": "Which sentence uses the word 'stationary' correctly?",
+      "option1": "The car remained stationary.",
+      "option2": "The car remained stationery.",
+      "option3": "She bought stationary at the shop.",
+      "option4": "He was stationary writing.",
+      "answer": "The car remained stationary."
+    },
+    {
+      "question": "Which word means a place where books are kept for public use?",
+      "option1": "Laboratory",
+      "option2": "Library",
+      "option3": "Museum",
+      "option4": "Auditorium",
+      "answer": "Library"
+    },
+    {
+      "question": "Which word means 'a person who writes books'?",
+      "option1": "Author",
+      "option2": "Editor",
+      "option3": "Reader",
+      "option4": "Publisher",
+      "answer": "Author"
+    },
+    {
+      "question": "Choose the correct word: The medicine had a positive ___ on the patient.",
+      "option1": "affect",
+      "option2": "effect",
+      "option3": "except",
+      "option4": "accept",
+      "answer": "effect"
+    },
+    {
+      "question": "Choose the correct word: Everyone was present ___ Ravi.",
+      "option1": "accept",
+      "option2": "except",
+      "option3": "effect",
+      "option4": "affect",
+      "answer": "except"
+    },
+    {
+      "question": "Which word is correctly spelled?",
+      "option1": "Necessary",
+      "option2": "Neccessary",
+      "option3": "Necassary",
+      "option4": "Necessery",
+      "answer": "Necessary"
+    },
+    {
+      "question": "Which word is correctly spelled?",
+      "option1": "Government",
+      "option2": "Goverment",
+      "option3": "Govarnment",
+      "option4": "Governmant",
+      "answer": "Government"
+    },
+    {
+      "question": "Choose the correct sentence: 'Each of the boys ___ a book.'",
+      "option1": "have",
+      "option2": "has",
+      "option3": "having",
+      "option4": "are having",
+      "answer": "has"
+    },
+    {
+      "question": "Choose the correct sentence.",
+      "option1": "The news are true.",
+      "option2": "The news is true.",
+      "option3": "The news were true.",
+      "option4": "The news have true.",
+      "answer": "The news is true."
+    },
+    {
+      "question": "What is the full form of GDP?",
+      "option1": "Gross Domestic Product",
+      "option2": "Gross Development Production",
+      "option3": "General Domestic Product",
+      "option4": "Government Domestic Production",
+      "answer": "Gross Domestic Product"
+    },
+    {
+      "question": "What is the full form of GNP?",
+      "option1": "Gross National Product",
+      "option2": "General National Production",
+      "option3": "Gross Net Product",
+      "option4": "Government National Product",
+      "answer": "Gross National Product"
+    },
+    {
+      "question": "What is the full form of CPI?",
+      "option1": "Consumer Price Index",
+      "option2": "Consumer Product Indicator",
+      "option3": "Central Price Index",
+      "option4": "Consumer Payment Index",
+      "answer": "Consumer Price Index"
+    },
+    {
+      "question": "What does CPI primarily measure?",
+      "option1": "Changes in consumer prices",
+      "option2": "Bank profits",
+      "option3": "Stock market volume",
+      "option4": "Foreign exchange reserves",
+      "answer": "Changes in consumer prices"
+    },
+    {
+      "question": "Which market deals mainly with short-term funds?",
+      "option1": "Money market",
+      "option2": "Capital market",
+      "option3": "Commodity market",
+      "option4": "Real estate market",
+      "answer": "Money market"
+    },
+    {
+      "question": "Which market deals mainly with long-term funds?",
+      "option1": "Money market",
+      "option2": "Capital market",
+      "option3": "Call market",
+      "option4": "Cash market",
+      "answer": "Capital market"
+    },
+    {
+      "question": "What is a bond?",
+      "option1": "A debt instrument",
+      "option2": "A savings account",
+      "option3": "A payment card",
+      "option4": "A tax receipt",
+      "answer": "A debt instrument"
+    },
+    {
+      "question": "What is a share?",
+      "option1": "A unit representing ownership in a company",
+      "option2": "A bank loan",
+      "option3": "A tax document",
+      "option4": "A deposit certificate",
+      "answer": "A unit representing ownership in a company"
+    },
+    {
+      "question": "What is a dividend?",
+      "option1": "A distribution of company profits to shareholders",
+      "option2": "A bank loan",
+      "option3": "A government tax",
+      "option4": "An insurance premium",
+      "answer": "A distribution of company profits to shareholders"
+    },
+    {
+      "question": "What is a mutual fund?",
+      "option1": "An investment vehicle that pools money from investors",
+      "option2": "A bank savings account",
+      "option3": "A type of insurance",
+      "option4": "A government department",
+      "answer": "An investment vehicle that pools money from investors"
+    },
+    {
+      "question": "What does ATM stand for?",
+      "option1": "Automated Teller Machine",
+      "option2": "Automatic Transfer Method",
+      "option3": "Account Transfer Machine",
+      "option4": "Automated Transaction Method",
+      "answer": "Automated Teller Machine"
+    },
+    {
+      "question": "What is the purpose of a passbook?",
+      "option1": "To record bank account transactions",
+      "option2": "To apply for a passport",
+      "option3": "To issue a credit card",
+      "option4": "To calculate GST",
+      "answer": "To record bank account transactions"
+    },
+    {
+      "question": "What is a bank statement?",
+      "option1": "A record of transactions in a bank account",
+      "option2": "A loan agreement",
+      "option3": "An insurance certificate",
+      "option4": "A tax invoice only",
+      "answer": "A record of transactions in a bank account"
+    },
+    {
+      "question": "What is a dormant account?",
+      "option1": "An account with no customer-initiated transactions for the applicable period",
+      "option2": "A newly opened account",
+      "option3": "A loan account",
+      "option4": "A closed account",
+      "answer": "An account with no customer-initiated transactions for the applicable period"
+    },
+    {
+      "question": "What is a joint account?",
+      "option1": "An account held by two or more persons",
+      "option2": "An account held only by a company",
+      "option3": "An account held by RBI",
+      "option4": "A government account",
+      "answer": "An account held by two or more persons"
+    },
+    {
+      "question": "What is a nominee in a bank account?",
+      "option1": "A person designated to receive proceeds according to applicable rules after the account holder's death",
+      "option2": "The bank manager",
+      "option3": "The loan officer",
+      "option4": "The account auditor",
+      "answer": "A person designated to receive proceeds according to applicable rules after the account holder's death"
+    },
+    {
+      "question": "What is the full form of ECS?",
+      "option1": "Electronic Clearing Service",
+      "option2": "Electronic Credit System",
+      "option3": "Electronic Cash Settlement",
+      "option4": "Electronic Customer Service",
+      "answer": "Electronic Clearing Service"
+    },
+    {
+      "question": "What is the full form of POS in banking?",
+      "option1": "Point of Sale",
+      "option2": "Payment of Service",
+      "option3": "Point of Security",
+      "option4": "Payment Operating System",
+      "answer": "Point of Sale"
+    },
+    {
+      "question": "What does POS terminal allow customers to do?",
+      "option1": "Make electronic payments at a merchant",
+      "option2": "Open a bank branch",
+      "option3": "Print currency",
+      "option4": "Issue passports",
+      "answer": "Make electronic payments at a merchant"
+    },
+    {
+      "question": "What is a QR code?",
+      "option1": "A machine-readable two-dimensional code",
+      "option2": "A bank account",
+      "option3": "A type of cheque",
+      "option4": "A computer virus",
+      "answer": "A machine-readable two-dimensional code"
+    },
+    {
+      "question": "What is the full form of QR?",
+      "option1": "Quick Response",
+      "option2": "Quick Record",
+      "option3": "Quality Response",
+      "option4": "Query Record",
+      "answer": "Quick Response"
+    },
+    {
+      "question": "What is digital banking?",
+      "option1": "Banking services provided through digital channels",
+      "option2": "Banking only through cash",
+      "option3": "Banking without records",
+      "option4": "Banking only at the central bank",
+      "answer": "Banking services provided through digital channels"
+    },
+    {
+      "question": "What is mobile banking?",
+      "option1": "Accessing banking services through a mobile device",
+      "option2": "Banking only by telephone calls",
+      "option3": "Banking at a mobile shop",
+      "option4": "Banking without an account",
+      "answer": "Accessing banking services through a mobile device"
+    },
+    {
+      "question": "Which of the following is an example of two-factor authentication?",
+      "option1": "Password plus OTP",
+      "option2": "Username only",
+      "option3": "PIN only",
+      "option4": "Account number only",
+      "answer": "Password plus OTP"
+    },
+    {
+      "question": "What should a customer do with an OTP?",
+      "option1": "Keep it confidential",
+      "option2": "Share it with strangers",
+      "option3": "Post it publicly",
+      "option4": "Write it on social media",
+      "answer": "Keep it confidential"
+    },
+    {
+      "question": "Which of the following is a strong password?",
+      "option1": "123456",
+      "option2": "password",
+      "option3": "Bharath@2026#X",
+      "option4": "abcdef",
+      "answer": "Bharath@2026#X"
+    },
+    {
+      "question": "What is a backup?",
+      "option1": "A copy of data kept for recovery",
+      "option2": "A computer virus",
+      "option3": "A type of monitor",
+      "option4": "A network cable",
+      "answer": "A copy of data kept for recovery"
+    },
+    {
+      "question": "Which storage device generally uses flash memory and has no moving mechanical parts?",
+      "option1": "SSD",
+      "option2": "Floppy disk",
+      "option3": "Magnetic tape",
+      "option4": "CD-ROM",
+      "answer": "SSD"
+    },
+    {
+      "question": "What is the full form of SSD?",
+      "option1": "Solid State Drive",
+      "option2": "System Storage Device",
+      "option3": "Secure Storage Disk",
+      "option4": "Solid Storage Data",
+      "answer": "Solid State Drive"
+    },
+    {
+      "question": "Which protocol is commonly used to send email?",
+      "option1": "SMTP",
+      "option2": "HTTP",
+      "option3": "FTP",
+      "option4": "HTML",
+      "answer": "SMTP"
+    },
+    {
+      "question": "What is the full form of SMTP?",
+      "option1": "Simple Mail Transfer Protocol",
+      "option2": "Secure Mail Transmission Program",
+      "option3": "Simple Message Transfer Process",
+      "option4": "System Mail Transfer Protocol",
+      "answer": "Simple Mail Transfer Protocol"
+    },
+    {
+      "question": "Which protocol is commonly used to transfer files over a network?",
+      "option1": "FTP",
+      "option2": "SMTP",
+      "option3": "POP3",
+      "option4": "IMAP",
+      "answer": "FTP"
+    },
+    {
+      "question": "What is the full form of FTP?",
+      "option1": "File Transfer Protocol",
+      "option2": "Fast Transfer Program",
+      "option3": "File Transmission Process",
+      "option4": "File Transport Platform",
+      "answer": "File Transfer Protocol"
+    },
+    {
+      "question": "What is a computer virus?",
+      "option1": "A malicious program that can replicate or spread by infecting files or systems",
+      "option2": "A hardware component",
+      "option3": "An antivirus application",
+      "option4": "A web browser",
+      "answer": "A malicious program that can replicate or spread by infecting files or systems"
+    },
+    {
+      "question": "Which software helps detect and remove malicious software?",
+      "option1": "Antivirus software",
+      "option2": "Spreadsheet software",
+      "option3": "Word processor",
+      "option4": "Media player",
+      "answer": "Antivirus software"
+    },
+    {
+      "question": "What is Microsoft Excel mainly used for?",
+      "option1": "Spreadsheets and data analysis",
+      "option2": "Web browsing",
+      "option3": "Video calling",
+      "option4": "Operating system management",
+      "answer": "Spreadsheets and data analysis"
+    },
+    {
+      "question": "What is Microsoft Word mainly used for?",
+      "option1": "Word processing",
+      "option2": "Database networking",
+      "option3": "Antivirus scanning",
+      "option4": "Operating system installation",
+      "answer": "Word processing"
+    },
+    {
+      "question": "What is a spreadsheet cell?",
+      "option1": "The intersection of a row and a column",
+      "option2": "A computer folder",
+      "option3": "A network address",
+      "option4": "A printer command",
+      "answer": "The intersection of a row and a column"
+    },
+    {
+      "question": "Which symbol usually begins a formula in Excel?",
+      "option1": "=",
+      "option2": "#",
+      "option3": "@",
+      "option4": "&",
+      "answer": "="
+    },
+    {
+      "question": "Which function adds numbers in Excel?",
+      "option1": "SUM",
+      "option2": "ADDALL",
+      "option3": "TOTALS",
+      "option4": "PLUS",
+      "answer": "SUM"
+    },
+    {
+      "question": "Which function calculates the average in Excel?",
+      "option1": "MEAN",
+      "option2": "AVERAGE",
+      "option3": "AVGALL",
+      "option4": "MID",
+      "answer": "AVERAGE"
+    },
+    {
+      "question": "What does Ctrl+S commonly do?",
+      "option1": "Save",
+      "option2": "Search",
+      "option3": "Select",
+      "option4": "Send",
+      "answer": "Save"
+    },
+    {
+      "question": "What does Ctrl+P commonly do?",
+      "option1": "Print",
+      "option2": "Paste",
+      "option3": "Preview only",
+      "option4": "Protect",
+      "answer": "Print"
+    },
+    {
+      "question": "What does Ctrl+F commonly do?",
+      "option1": "Find",
+      "option2": "Format",
+      "option3": "Forward",
+      "option4": "File",
+      "answer": "Find"
+    },
+    {
+      "question": "What is the full form of LAN?",
+      "option1": "Local Area Network",
+      "option2": "Large Area Network",
+      "option3": "Local Access Node",
+      "option4": "Long Area Network",
+      "answer": "Local Area Network"
+    },
+    {
+      "question": "What is the full form of WAN?",
+      "option1": "Wide Area Network",
+      "option2": "Wireless Access Network",
+      "option3": "World Area Node",
+      "option4": "Wide Access Node",
+      "answer": "Wide Area Network"
+    },
+    {
+      "question": "Which device forwards data packets between different networks?",
+      "option1": "Router",
+      "option2": "Keyboard",
+      "option3": "Monitor",
+      "option4": "Scanner",
+      "answer": "Router"
+    },
+    {
+      "question": "Which device is commonly used to connect devices within a local network?",
+      "option1": "Switch",
+      "option2": "Printer",
+      "option3": "Scanner",
+      "option4": "Speaker",
+      "answer": "Switch"
+    },
+    {
+      "question": "What is the main purpose of a modem?",
+      "option1": "To modulate and demodulate signals for communication",
+      "option2": "To print documents",
+      "option3": "To store files",
+      "option4": "To scan images",
+      "answer": "To modulate and demodulate signals for communication"
+    },
+    {
+      "question": "What is BIOS?",
+      "option1": "Firmware that initializes hardware during the boot process",
+      "option2": "A web browser",
+      "option3": "A word processor",
+      "option4": "A database",
+      "answer": "Firmware that initializes hardware during the boot process"
+    },
+    {
+      "question": "What is the booting process?",
+      "option1": "Starting a computer and loading the operating system",
+      "option2": "Deleting all files",
+      "option3": "Printing a document",
+      "option4": "Connecting a printer",
+      "answer": "Starting a computer and loading the operating system"
+    },
+    {
+      "question": "Which unit is commonly used to measure computer storage?",
+      "option1": "Byte",
+      "option2": "Volt",
+      "option3": "Ampere",
+      "option4": "Hertz only",
+      "answer": "Byte"
+    },
+    {
+      "question": "How many bits are in one byte?",
+      "option1": "4",
+      "option2": "8",
+      "option3": "16",
+      "option4": "32",
+      "answer": "8"
+    },
+    {
+      "question": "Which number system uses only 0 and 1?",
+      "option1": "Decimal",
+      "option2": "Binary",
+      "option3": "Octal",
+      "option4": "Hexadecimal",
+      "answer": "Binary"
+    },
+    {
+      "question": "What is the decimal value of binary 1010?",
+      "option1": "8",
+      "option2": "9",
+      "option3": "10",
+      "option4": "12",
+      "answer": "10"
+    },
+    {
+      "question": "Which of the following is an input device?",
+      "option1": "Scanner",
+      "option2": "Monitor",
+      "option3": "Printer",
+      "option4": "Speaker",
+      "answer": "Scanner"
+    },
+    {
+      "question": "Which of the following is an output device?",
+      "option1": "Keyboard",
+      "option2": "Mouse",
+      "option3": "Printer",
+      "option4": "Scanner",
+      "answer": "Printer"
+    },
+    {
+      "question": "What is OCR?",
+      "option1": "Optical Character Recognition",
+      "option2": "Online Character Reader",
+      "option3": "Optical Code Reader",
+      "option4": "Online Character Recognition",
+      "answer": "Optical Character Recognition"
+    },
+    {
+      "question": "What is the purpose of OCR?",
+      "option1": "To convert images of text into machine-readable text",
+      "option2": "To encrypt files",
+      "option3": "To compress videos",
+      "option4": "To create passwords",
+      "answer": "To convert images of text into machine-readable text"
+    },
+    {
+      "question": "What is CAPTCHA primarily used for?",
+      "option1": "Distinguishing humans from automated bots",
+      "option2": "Encrypting emails",
+      "option3": "Increasing internet speed",
+      "option4": "Creating spreadsheets",
+      "answer": "Distinguishing humans from automated bots"
+    },
+    {
+      "question": "What is digital signature?",
+      "option1": "A cryptographic mechanism used to authenticate digital data or a signer",
+      "option2": "A scanned handwritten signature only",
+      "option3": "A bank cheque",
+      "option4": "A password",
+      "answer": "A cryptographic mechanism used to authenticate digital data or a signer"
+    },
+    {
+      "question": "What is blockchain?",
+      "option1": "A distributed digital ledger technology",
+      "option2": "A type of printer",
+      "option3": "A computer keyboard",
+      "option4": "A spreadsheet function",
+      "answer": "A distributed digital ledger technology"
+    },
+    {
+      "question": "Which technology is commonly associated with cryptocurrencies?",
+      "option1": "Blockchain",
+      "option2": "Bluetooth",
+      "option3": "OCR",
+      "option4": "BIOS",
+      "answer": "Blockchain"
+    },
+    {
+      "question": "What is Bluetooth?",
+      "option1": "A short-range wireless communication technology",
+      "option2": "A web browser",
+      "option3": "A storage device",
+      "option4": "A computer virus",
+      "answer": "A short-range wireless communication technology"
+    },
+    {
+      "question": "What is Wi-Fi?",
+      "option1": "Wireless networking technology",
+      "option2": "A type of hard disk",
+      "option3": "A programming language",
+      "option4": "A printer cartridge",
+      "answer": "Wireless networking technology"
+    },
+    {
+      "question": "What is the main function of an operating system?",
+      "option1": "Manage hardware and provide services for applications",
+      "option2": "Only browse the internet",
+      "option3": "Only create documents",
+      "option4": "Only play music",
+      "answer": "Manage hardware and provide services for applications"
+    },
+    {
+      "question": "Which of the following is open-source operating system software?",
+      "option1": "Linux",
+      "option2": "Windows",
+      "option3": "iOS",
+      "option4": "macOS",
+      "answer": "Linux"
+    },
+    {
+      "question": "Which company developed the Windows operating system?",
+      "option1": "Microsoft",
+      "option2": "Apple",
+      "option3": "IBM",
+      "option4": "Google",
+      "answer": "Microsoft"
+    },
+    {
+      "question": "Which company developed the Android operating system?",
+      "option1": "Google",
+      "option2": "Microsoft",
+      "option3": "IBM",
+      "option4": "Intel",
+      "answer": "Google"
+    },
+    {
+      "question": "What is artificial intelligence?",
+      "option1": "Technology that enables machines to perform tasks associated with human intelligence",
+      "option2": "A type of keyboard",
+      "option3": "A storage device",
+      "option4": "A computer cable",
+      "answer": "Technology that enables machines to perform tasks associated with human intelligence"
+    },
+    {
+      "question": "What is machine learning?",
+      "option1": "A method where computers learn patterns from data",
+      "option2": "A computer repair method",
+      "option3": "A printer technology",
+      "option4": "A storage format",
+      "answer": "A method where computers learn patterns from data"
+    },
+    {
+      "question": "Which of the following is a common example of biometric authentication?",
+      "option1": "Fingerprint",
+      "option2": "Username",
+      "option3": "PIN",
+      "option4": "Password",
+      "answer": "Fingerprint"
+    },
+    {
+      "question": "What is cloud storage?",
+      "option1": "Storing data on remote servers accessible through a network",
+      "option2": "Storing files only in RAM",
+      "option3": "Printing documents online",
+      "option4": "Storing files only on a keyboard",
+      "answer": "Storing data on remote servers accessible through a network"
+    },
+    {
+      "question": "Which of the following is a common cloud storage service?",
+      "option1": "Google Drive",
+      "option2": "Notepad",
+      "option3": "Calculator",
+      "option4": "Paint",
+      "answer": "Google Drive"
+    },
+    {
+      "question": "What is the full form of PDF?",
+      "option1": "Portable Document Format",
+      "option2": "Personal Data File",
+      "option3": "Public Document File",
+      "option4": "Program Data Format",
+      "answer": "Portable Document Format"
+    },
+    {
+      "question": "Which file extension is commonly associated with Microsoft Word documents?",
+      "option1": ".docx",
+      "option2": ".xlsx",
+      "option3": ".pptx",
+      "option4": ".exe",
+      "answer": ".docx"
+    },
+    {
+      "question": "Which file extension is commonly associated with Excel workbooks?",
+      "option1": ".docx",
+      "option2": ".xlsx",
+      "option3": ".pptx",
+      "option4": ".jpg",
+      "answer": ".xlsx"
+    },
+    {
+      "question": "Which file extension is commonly associated with PowerPoint presentations?",
+      "option1": ".pptx",
+      "option2": ".docx",
+      "option3": ".xlsx",
+      "option4": ".txt",
+      "answer": ".pptx"
+    },
+    {
+      "question": "Which keyboard key is commonly used to refresh a webpage in Windows browsers?",
+      "option1": "F5",
+      "option2": "F1",
+      "option3": "F2",
+      "option4": "F12",
+      "answer": "F5"
+    },
+    {
+      "question": "Which key is commonly used to open Help in many Windows applications?",
+      "option1": "F1",
+      "option2": "F2",
+      "option3": "F5",
+      "option4": "F10",
+      "answer": "F1"
+    },
+    {
+      "question": "What is a spreadsheet row?",
+      "option1": "A horizontal arrangement of cells",
+      "option2": "A vertical arrangement of cells",
+      "option3": "A workbook",
+      "option4": "A formula",
+      "answer": "A horizontal arrangement of cells"
+    },
+    {
+      "question": "What is a spreadsheet column?",
+      "option1": "A vertical arrangement of cells",
+      "option2": "A horizontal arrangement of cells",
+      "option3": "A formula",
+      "option4": "A workbook",
+      "answer": "A vertical arrangement of cells"
+    },
+    {
+      "question": "What is a computer network?",
+      "option1": "A group of connected devices that communicate and share resources",
+      "option2": "A single computer",
+      "option3": "A printer cartridge",
+      "option4": "A keyboard layout",
+      "answer": "A group of connected devices that communicate and share resources"
+    },
+    {
+      "question": "Which protocol is used for secure web communication?",
+      "option1": "HTTPS",
+      "option2": "FTP",
+      "option3": "SMTP",
+      "option4": "POP3",
+      "answer": "HTTPS"
+    },
+    {
+      "question": "What is the full form of PDF?",
+      "option1": "Portable Document Format",
+      "option2": "Personal Document Folder",
+      "option3": "Public Data Format",
+      "option4": "Program Document File",
+      "answer": "Portable Document Format"
+    },
+    {
+      "question": "Which organization is responsible for monetary policy in India?",
+      "option1": "RBI",
+      "option2": "SEBI",
+      "option3": "IRDAI",
+      "option4": "NABARD",
+      "answer": "RBI"
+    },
+    {
+      "question": "What is monetary policy?",
+      "option1": "Policy concerning money supply, interest rates and related monetary conditions",
+      "option2": "Policy concerning only agriculture",
+      "option3": "Policy concerning school education",
+      "option4": "Policy concerning road construction",
+      "answer": "Policy concerning money supply, interest rates and related monetary conditions"
+    },
+    {
+      "question": "What is fiscal policy?",
+      "option1": "Government policy concerning taxation and public expenditure",
+      "option2": "Bank policy concerning passwords",
+      "option3": "RBI policy concerning only ATMs",
+      "option4": "Insurance policy",
+      "answer": "Government policy concerning taxation and public expenditure"
+    },
+    {
+      "question": "What is a budget?",
+      "option1": "A financial plan of expected receipts and expenditure",
+      "option2": "A bank cheque",
+      "option3": "A loan document",
+      "option4": "A credit card",
+      "answer": "A financial plan of expected receipts and expenditure"
+    },
+    {
+      "question": "What is a fiscal deficit?",
+      "option1": "The excess of total government expenditure over receipts excluding borrowings",
+      "option2": "The total bank deposits",
+      "option3": "The total exports",
+      "option4": "The total tax collection only",
+      "answer": "The excess of total government expenditure over receipts excluding borrowings"
+    },
+    {
+      "question": "What is foreign exchange?",
+      "option1": "Currency of another country used in international transactions",
+      "option2": "Domestic currency only",
+      "option3": "A bank deposit",
+      "option4": "A government bond",
+      "answer": "Currency of another country used in international transactions"
+    },
+    {
+      "question": "What are foreign exchange reserves?",
+      "option1": "External assets held by a country's monetary authority",
+      "option2": "Only gold held by households",
+      "option3": "Domestic bank deposits",
+      "option4": "Tax collections",
+      "answer": "External assets held by a country's monetary authority"
+    },
+    {
+      "question": "What is a bank rate?",
+      "option1": "A policy rate associated with the central bank's lending framework",
+      "option2": "The interest paid on every savings account",
+      "option3": "The price of shares",
+      "option4": "The GST rate",
+      "answer": "A policy rate associated with the central bank's lending framework"
+    },
+    {
+      "question": "What is liquidity?",
+      "option1": "The ease with which an asset can be converted into cash",
+      "option2": "The profitability of a company",
+      "option3": "The amount of tax paid",
+      "option4": "The number of employees",
+      "answer": "The ease with which an asset can be converted into cash"
+    },
+    {
+      "question": "Which asset is generally considered highly liquid?",
+      "option1": "Cash",
+      "option2": "Land",
+      "option3": "Building",
+      "option4": "Machinery",
+      "answer": "Cash"
+    },
+    {
+      "question": "What is credit?",
+      "option1": "The ability to borrow money or obtain goods/services with payment later",
+      "option2": "A cash deposit",
+      "option3": "A bank branch",
+      "option4": "A tax receipt",
+      "answer": "The ability to borrow money or obtain goods/services with payment later"
+    },
+    {
+      "question": "What is a credit score used for?",
+      "option1": "Assessing creditworthiness",
+      "option2": "Measuring internet speed",
+      "option3": "Calculating GST",
+      "option4": "Identifying a bank branch",
+      "answer": "Assessing creditworthiness"
+    },
+    {
+      "question": "What is CIBIL commonly associated with?",
+      "option1": "Credit information and credit scores",
+      "option2": "Insurance regulation",
+      "option3": "Stock exchange regulation",
+      "option4": "Currency printing",
+      "answer": "Credit information and credit scores"
+    },
+    {
+      "question": "What is a microfinance institution primarily associated with?",
+      "option1": "Providing small-scale financial services",
+      "option2": "Managing stock exchanges",
+      "option3": "Printing currency",
+      "option4": "Regulating insurance",
+      "answer": "Providing small-scale financial services"
+    },
+    {
+      "question": "What is priority sector lending?",
+      "option1": "Directed lending to specified sectors considered important for the economy and development",
+      "option2": "Loans only to large corporations",
+      "option3": "Loans only to foreign companies",
+      "option4": "Loans without documentation",
+      "answer": "Directed lending to specified sectors considered important for the economy and development"
+    },
+    {
+      "question": "Which sector is traditionally included under priority sector lending?",
+      "option1": "Agriculture",
+      "option2": "Luxury tourism only",
+      "option3": "Film production only",
+      "option4": "Foreign exchange trading only",
+      "answer": "Agriculture"
+    },
+    {
+      "question": "What is financial literacy?",
+      "option1": "Knowledge and understanding of financial concepts and decisions",
+      "option2": "Knowledge of computer games",
+      "option3": "Knowledge of geography only",
+      "option4": "Knowledge of programming only",
+      "answer": "Knowledge and understanding of financial concepts and decisions"
+    },
+    {
+      "question": "Which institution protects the interests of depositors through the deposit insurance framework in India?",
+      "option1": "DICGC",
+      "option2": "SEBI",
+      "option3": "IRDAI",
+      "option4": "NPCI",
+      "answer": "DICGC"
+    },
+    {
+      "question": "What is the full form of DICGC?",
+      "option1": "Deposit Insurance and Credit Guarantee Corporation",
+      "option2": "Deposit Investment and Credit Growth Corporation",
+      "option3": "Digital Insurance and Credit Guarantee Council",
+      "option4": "Deposit Insurance Credit Growth Council",
+      "answer": "Deposit Insurance and Credit Guarantee Corporation"
+    },
+    {
+      "question": "What is the main function of a commercial bank?",
+      "option1": "Accept deposits and provide credit and other banking services",
+      "option2": "Print all currency",
+      "option3": "Make laws",
+      "option4": "Conduct elections",
+      "answer": "Accept deposits and provide credit and other banking services"
+    },
+    {
+      "question": "What is a bank branch?",
+      "option1": "A physical or service location through which a bank provides services",
+      "option2": "A type of loan",
+      "option3": "A stock exchange",
+      "option4": "A currency note",
+      "answer": "A physical or service location through which a bank provides services"
+    },
+    {
+      "question": "What is core banking?",
+      "option1": "A centralized banking system that enables customers to access services across connected branches and channels",
+      "option2": "Banking without computers",
+      "option3": "Only cash transactions",
+      "option4": "Only rural banking",
+      "answer": "A centralized banking system that enables customers to access services across connected branches and channels"
+    },
+    {
+      "question": "What does CBS stand for in banking?",
+      "option1": "Core Banking Solution",
+      "option2": "Central Bank Service",
+      "option3": "Customer Banking System",
+      "option4": "Computer Banking Service",
+      "answer": "Core Banking Solution"
+    },
+    {
+      "question": "What is bancassurance?",
+      "option1": "Distribution of insurance products through banks",
+      "option2": "Banking through ATMs only",
+      "option3": "Insurance without premiums",
+      "option4": "A type of bank loan",
+      "answer": "Distribution of insurance products through banks"
+    },
+    {
+      "question": "What is an insurance premium?",
+      "option1": "Amount paid for insurance coverage",
+      "option2": "Amount borrowed from a bank",
+      "option3": "Dividend from shares",
+      "option4": "Tax refund",
+      "answer": "Amount paid for insurance coverage"
+    },
+    {
+      "question": "What is the principle of utmost good faith in insurance?",
+      "option1": "Both parties should disclose material facts honestly",
+      "option2": "Only the insurer must disclose facts",
+      "option3": "Only the customer must pay tax",
+      "option4": "No information needs to be disclosed",
+      "answer": "Both parties should disclose material facts honestly"
+    },
+    {
+      "question": "What is a term deposit?",
+      "option1": "A deposit held for a specified period",
+      "option2": "A current account",
+      "option3": "A credit card",
+      "option4": "A demand loan",
+      "answer": "A deposit held for a specified period"
+    },
+    {
+      "question": "What is a bank reconciliation statement used for?",
+      "option1": "Reconciling bank records with an organization's cash book",
+      "option2": "Applying for a loan",
+      "option3": "Calculating income tax only",
+      "option4": "Opening a savings account",
+      "answer": "Reconciling bank records with an organization's cash book"
+    },
+    {
+      "question": "What is a debit in accounting?",
+      "option1": "An entry made on the debit side of an account",
+      "option2": "Always a cash withdrawal",
+      "option3": "Always a bank deposit",
+      "option4": "A tax payment only",
+      "answer": "An entry made on the debit side of an account"
+    },
+    {
+      "question": "What is a credit in accounting?",
+      "option1": "An entry made on the credit side of an account",
+      "option2": "Always a cash withdrawal",
+      "option3": "Always a tax payment",
+      "option4": "A bank charge only",
+      "answer": "An entry made on the credit side of an account"
+    },
+    {
+      "question": "What is an asset?",
+      "option1": "A resource controlled by an entity that has economic value",
+      "option2": "A liability only",
+      "option3": "An expense only",
+      "option4": "A tax",
+      "answer": "A resource controlled by an entity that has economic value"
+    },
+    {
+      "question": "What is a liability?",
+      "option1": "An obligation owed by an entity",
+      "option2": "An asset owned by a customer",
+      "option3": "A bank deposit only",
+      "option4": "A profit",
+      "answer": "An obligation owed by an entity"
+    },
+    {
+      "question": "What is profit?",
+      "option1": "Excess of revenue over expenses",
+      "option2": "Excess of expenses over revenue",
+      "option3": "Total assets only",
+      "option4": "Total liabilities only",
+      "answer": "Excess of revenue over expenses"
+    },
+    {
+      "question": "What is loss?",
+      "option1": "Excess of expenses over revenue",
+      "option2": "Excess of revenue over expenses",
+      "option3": "Total cash balance",
+      "option4": "Total bank deposits",
+      "answer": "Excess of expenses over revenue"
+    },
+    {
+      "question": "What is a balance sheet?",
+      "option1": "A statement showing financial position at a particular date",
+      "option2": "A list of bank branches",
+      "option3": "A tax return only",
+      "option4": "A cash receipt",
+      "answer": "A statement showing financial position at a particular date"
+    },
+    {
+      "question": "What is a profit and loss account used for?",
+      "option1": "Determining profit or loss for an accounting period",
+      "option2": "Recording only bank deposits",
+      "option3": "Listing shareholders only",
+      "option4": "Recording only assets",
+      "answer": "Determining profit or loss for an accounting period"
+    },
+    {
+      "question": "What is depreciation?",
+      "option1": "Systematic allocation of the depreciable amount of an asset over its useful life",
+      "option2": "Increase in asset value only",
+      "option3": "A bank deposit",
+      "option4": "A tax refund",
+      "answer": "Systematic allocation of the depreciable amount of an asset over its useful life"
+    },
+    {
+      "question": "What is working capital?",
+      "option1": "Current assets minus current liabilities",
+      "option2": "Fixed assets minus loans",
+      "option3": "Total assets only",
+      "option4": "Total revenue only",
+      "answer": "Current assets minus current liabilities"
+    },
+    {
+      "question": "What is the full form of GSTN?",
+      "option1": "Goods and Services Tax Network",
+      "option2": "Government Services Tax Network",
+      "option3": "Goods Sales Tax Number",
+      "option4": "General Services Tax Network",
+      "answer": "Goods and Services Tax Network"
+    },
+    {
+      "question": "What is the full form of TDS?",
+      "option1": "Tax Deducted at Source",
+      "option2": "Tax Deposit System",
+      "option3": "Total Deduction Service",
+      "option4": "Tax Data Service",
+      "answer": "Tax Deducted at Source"
+    },
+    {
+      "question": "What is the full form of PAN in banking and taxation?",
+      "option1": "Permanent Account Number",
+      "option2": "Personal Access Number",
+      "option3": "Public Account Name",
+      "option4": "Permanent Access Network",
+      "answer": "Permanent Account Number"
+    },
+    {
+      "question": "What is the purpose of a cheque leaf?",
+      "option1": "To instruct the bank to make a payment from the account",
+      "option2": "To create an email account",
+      "option3": "To open a demat account automatically",
+      "option4": "To calculate GST",
+      "answer": "To instruct the bank to make a payment from the account"
+    },
+    {
+      "question": "What is a stale cheque?",
+      "option1": "A cheque presented after its validity period",
+      "option2": "A cheque without a signature",
+      "option3": "A cheque with two signatures",
+      "option4": "A cheque issued by RBI",
+      "answer": "A cheque presented after its validity period"
+    },
+    {
+      "question": "What is a post-dated cheque?",
+      "option1": "A cheque bearing a future date",
+      "option2": "A cheque without a date",
+      "option3": "A cheque already cancelled",
+      "option4": "A cheque with no signature",
+      "answer": "A cheque bearing a future date"
+    },
+    {
+      "question": "What is a bearer cheque?",
+      "option1": "A cheque payable to the person who presents it, subject to applicable banking rules",
+      "option2": "A cheque payable only to RBI",
+      "option3": "A cheque payable only by card",
+      "option4": "A cheque that cannot be transferred",
+      "answer": "A cheque payable to the person who presents it, subject to applicable banking rules"
+    },
+    {
+      "question": "What is an account payee cheque?",
+      "option1": "A cheque intended for credit to the account of the named payee",
+      "option2": "A cheque payable to anyone",
+      "option3": "A cheque without a payee",
+      "option4": "A cheque issued by RBI",
+      "answer": "A cheque intended for credit to the account of the named payee"
+    },
+    {
+      "question": "What is cheque truncation?",
+      "option1": "Electronic processing of cheque images instead of physically moving the cheque",
+      "option2": "Destroying a cheque",
+      "option3": "Writing a cheque without a signature",
+      "option4": "Printing a new cheque",
+      "answer": "Electronic processing of cheque images instead of physically moving the cheque"
+    },
+    {
+      "question": "What does CTS stand for in cheque processing?",
+      "option1": "Cheque Truncation System",
+      "option2": "Cheque Transfer Service",
+      "option3": "Central Transaction System",
+      "option4": "Cash Transfer System",
+      "answer": "Cheque Truncation System"
+    },
+    {
+      "question": "Which institution operates the National Financial Switch?",
+      "option1": "NPCI",
+      "option2": "SEBI",
+      "option3": "IRDAI",
+      "option4": "NABARD",
+      "answer": "NPCI"
+    },
+    {
+      "question": "What is the National Financial Switch mainly associated with?",
+      "option1": "Interoperable ATM transactions",
+      "option2": "Insurance claims",
+      "option3": "Stock trading",
+      "option4": "Income tax filing",
+      "answer": "Interoperable ATM transactions"
+    },
+    {
+      "question": "What is AePS?",
+      "option1": "Aadhaar Enabled Payment System",
+      "option2": "Automated Electronic Payment Service",
+      "option3": "Aadhaar Electronic Processing System",
+      "option4": "Automated e-Pension Service",
+      "answer": "Aadhaar Enabled Payment System"
+    },
+    {
+      "question": "What is the full form of BBPS?",
+      "option1": "Bharat Bill Payment System",
+      "option2": "Bank Bill Processing Service",
+      "option3": "Bharat Banking Payment Service",
+      "option4": "Bill Banking Processing System",
+      "answer": "Bharat Bill Payment System"
+    },
+    {
+      "question": "What is BBPS used for?",
+      "option1": "Integrated bill payment services",
+      "option2": "Issuing passports",
+      "option3": "Trading shares only",
+      "option4": "Printing currency",
+      "answer": "Integrated bill payment services"
+    },
+    {
+      "question": "What is the full form of FASTag?",
+      "option1": "FASTag is an electronic toll collection system using RFID technology",
+      "option2": "Financial Access System Tag",
+      "option3": "Fast Banking Tag",
+      "option4": "Federal Automated Security Tag",
+      "answer": "FASTag is an electronic toll collection system using RFID technology"
+    },
+    {
+      "question": "What technology is used by FASTag for toll collection?",
+      "option1": "RFID",
+      "option2": "Bluetooth only",
+      "option3": "NFC only",
+      "option4": "GPS only",
+      "answer": "RFID"
+    },
+    {
+      "question": "What does RFID stand for?",
+      "option1": "Radio Frequency Identification",
+      "option2": "Radio Finance Identification",
+      "option3": "Remote Frequency Information Device",
+      "option4": "Radio File Identification",
+      "answer": "Radio Frequency Identification"
+    },
+    {
+      "question": "What is the primary purpose of a bank locker?",
+      "option1": "Safekeeping valuables under bank locker arrangements",
+      "option2": "Holding daily cash withdrawals",
+      "option3": "Processing UPI payments",
+      "option4": "Issuing debit cards",
+      "answer": "Safekeeping valuables under bank locker arrangements"
+    },
+    {
+      "question": "What is customer service in banking primarily concerned with?",
+      "option1": "Helping customers access and resolve issues related to banking services",
+      "option2": "Printing currency",
+      "option3": "Setting national tax rates",
+      "option4": "Managing stock exchanges",
+      "answer": "Helping customers access and resolve issues related to banking services"
+    },
+    {
+      "question": "What is grievance redressal?",
+      "option1": "A process for addressing customer complaints",
+      "option2": "A method of opening accounts",
+      "option3": "A type of investment",
+      "option4": "A tax calculation",
+      "answer": "A process for addressing customer complaints"
+    },
+    {
+      "question": "Which channel is commonly used for resolving bank customer complaints before escalation to external mechanisms?",
+      "option1": "The bank's grievance redressal system",
+      "option2": "Social media only",
+      "option3": "Stock exchange",
+      "option4": "Passport office",
+      "answer": "The bank's grievance redressal system"
+    },
+    {
+      "question": "What is the full form of AML in banking?",
+      "option1": "Anti-Money Laundering",
+      "option2": "Automated Money Lending",
+      "option3": "Annual Money Ledger",
+      "option4": "Asset Management Law",
+      "answer": "Anti-Money Laundering"
+    },
+    {
+      "question": "What is money laundering?",
+      "option1": "Process of disguising the illicit origin of funds",
+      "option2": "Depositing salary into a bank",
+      "option3": "Changing foreign currency legally",
+      "option4": "Paying an electricity bill",
+      "answer": "Process of disguising the illicit origin of funds"
+    },
+    {
+      "question": "What is the full form of FATF?",
+      "option1": "Financial Action Task Force",
+      "option2": "Financial Account Transfer Forum",
+      "option3": "Federal Anti-Tax Force",
+      "option4": "Finance Action Transfer Framework",
+      "answer": "Financial Action Task Force"
+    },
+    {
+      "question": "What is the primary objective of AML measures?",
+      "option1": "Prevent and detect money laundering and related financial crimes",
+      "option2": "Increase ATM withdrawals",
+      "option3": "Increase bank holidays",
+      "option4": "Reduce internet speed",
+      "answer": "Prevent and detect money laundering and related financial crimes"
+    },
+    {
+      "question": "What is a suspicious transaction?",
+      "option1": "A transaction that may indicate unlawful activity or unusual behavior requiring examination",
+      "option2": "Every cash deposit",
+      "option3": "Every ATM withdrawal",
+      "option4": "Every salary payment",
+      "answer": "A transaction that may indicate unlawful activity or unusual behavior requiring examination"
+    },
+    {
+      "question": "What is a demat account used for?",
+      "option1": "Holding securities in electronic form",
+      "option2": "Holding physical cash",
+      "option3": "Receiving salary only",
+      "option4": "Paying utility bills only",
+      "answer": "Holding securities in electronic form"
+    },
+    {
+      "question": "What is a trading account?",
+      "option1": "An account used for buying and selling securities through a market intermediary",
+      "option2": "A savings account",
+      "option3": "A loan account",
+      "option4": "A fixed deposit account",
+      "answer": "An account used for buying and selling securities through a market intermediary"
+    },
+    {
+      "question": "What is an IPO?",
+      "option1": "Initial Public Offering",
+      "option2": "Indian Public Operation",
+      "option3": "Initial Private Offering",
+      "option4": "Investment Public Option",
+      "answer": "Initial Public Offering"
+    },
+    {
+      "question": "What is an IPO?",
+      "option1": "An offering through which a company offers securities to the public for the first time",
+      "option2": "A bank loan",
+      "option3": "An insurance policy",
+      "option4": "A tax return",
+      "answer": "An offering through which a company offers securities to the public for the first time"
+    },
+    {
+      "question": "Which index represents 30 major companies listed on the BSE?",
+      "option1": "Sensex",
+      "option2": "Nifty Bank",
+      "option3": "Nifty IT",
+      "option4": "Nifty 50",
+      "answer": "Sensex"
+    },
+    {
+      "question": "Which index tracks 50 major companies listed on the NSE?",
+      "option1": "Sensex",
+      "option2": "Nifty 50",
+      "option3": "Bankex",
+      "option4": "BSE 100",
+      "answer": "Nifty 50"
+    },
+    {
+      "question": "What is a stock exchange?",
+      "option1": "A regulated marketplace for trading securities",
+      "option2": "A bank branch",
+      "option3": "An insurance company",
+      "option4": "A tax department",
+      "answer": "A regulated marketplace for trading securities"
+    },
+    {
+      "question": "What is diversification in investment?",
+      "option1": "Spreading investments across different assets to reduce concentration risk",
+      "option2": "Investing all money in one asset",
+      "option3": "Avoiding all investments",
+      "option4": "Borrowing from several banks",
+      "answer": "Spreading investments across different assets to reduce concentration risk"
+    },
+    {
+      "question": "What is risk in investment?",
+      "option1": "Possibility that actual returns differ from expected returns",
+      "option2": "Guaranteed profit",
+      "option3": "A fixed deposit",
+      "option4": "A tax exemption",
+      "answer": "Possibility that actual returns differ from expected returns"
+    },
+    {
+      "question": "What is a secured loan?",
+      "option1": "A loan backed by collateral",
+      "option2": "A loan without documentation",
+      "option3": "A loan with no repayment",
+      "option4": "A government grant",
+      "answer": "A loan backed by collateral"
+    },
+    {
+      "question": "What is an unsecured loan?",
+      "option1": "A loan not backed by specific collateral",
+      "option2": "A loan secured by gold only",
+      "option3": "A fixed deposit",
+      "option4": "A government bond",
+      "answer": "A loan not backed by specific collateral"
+    },
+    {
+      "question": "What is a mortgage?",
+      "option1": "A security interest in immovable property for a loan",
+      "option2": "A savings account",
+      "option3": "A credit card",
+      "option4": "A type of cheque",
+      "answer": "A security interest in immovable property for a loan"
+    },
+    {
+      "question": "What is a home loan generally used for?",
+      "option1": "Purchase, construction or related financing of a home",
+      "option2": "Buying groceries only",
+      "option3": "Paying a credit card bill only",
+      "option4": "Buying foreign currency only",
+      "answer": "Purchase, construction or related financing of a home"
+    },
+    {
+      "question": "What is an education loan generally used for?",
+      "option1": "Financing eligible education expenses",
+      "option2": "Buying shares only",
+      "option3": "Buying a vehicle only",
+      "option4": "Paying electricity bills",
+      "answer": "Financing eligible education expenses"
+    },
+    {
+      "question": "What is a vehicle loan?",
+      "option1": "A loan used to finance the purchase of a vehicle",
+      "option2": "A loan for education",
+      "option3": "A deposit account",
+      "option4": "An insurance policy",
+      "answer": "A loan used to finance the purchase of a vehicle"
+    },
+    {
+      "question": "What is loan tenure?",
+      "option1": "The period over which a loan is scheduled to be repaid",
+      "option2": "The loan interest rate",
+      "option3": "The loan processing fee",
+      "option4": "The collateral value",
+      "answer": "The period over which a loan is scheduled to be repaid"
+    },
+    {
+      "question": "What is interest?",
+      "option1": "The cost of borrowing or return earned on money lent or deposited",
+      "option2": "A tax document",
+      "option3": "A bank branch",
+      "option4": "A type of cheque",
+      "answer": "The cost of borrowing or return earned on money lent or deposited"
+    },
+    {
+      "question": "What is simple interest calculated on?",
+      "option1": "The principal amount",
+      "option2": "Only the interest amount",
+      "option3": "Only the tax amount",
+      "option4": "Only the final amount",
+      "answer": "The principal amount"
+    },
+    {
+      "question": "What is compound interest?",
+      "option1": "Interest calculated on principal plus accumulated interest",
+      "option2": "Interest calculated only once",
+      "option3": "Interest without principal",
+      "option4": "Interest paid only by government",
+      "answer": "Interest calculated on principal plus accumulated interest"
+    },
+    {
+      "question": "If a bank receives ₹10,000 as a deposit and pays 5% annual interest, how much simple interest is earned in one year?",
+      "option1": "₹400",
+      "option2": "₹500",
+      "option3": "₹600",
+      "option4": "₹700",
+      "answer": "₹500"
+    },
+    {
+      "question": "If the price of an item falls from ₹500 to ₹450, what is the percentage decrease?",
+      "option1": "5%",
+      "option2": "10%",
+      "option3": "15%",
+      "option4": "20%",
+      "answer": "10%"
+    },
+    {
+      "question": "If a salary increases from ₹20,000 to ₹24,000, what is the percentage increase?",
+      "option1": "10%",
+      "option2": "15%",
+      "option3": "20%",
+      "option4": "25%",
+      "answer": "20%"
+    },
+    {
+      "question": "A shopkeeper buys an item for ₹1,000 and marks it at ₹1,200. What is the markup percentage on cost price?",
+      "option1": "10%",
+      "option2": "15%",
+      "option3": "20%",
+      "option4": "25%",
+      "answer": "20%"
+    },
+    {
+      "question": "If a product is sold for ₹900 after a 10% discount, what was its marked price?",
+      "option1": "₹950",
+      "option2": "₹1,000",
+      "option3": "₹1,050",
+      "option4": "₹1,100",
+      "answer": "₹1,000"
+    },
+    {
+      "question": "A man can complete a work in 12 days. What percentage of the work does he complete in one day?",
+      "option1": "8.33%",
+      "option2": "10%",
+      "option3": "12%",
+      "option4": "15%",
+      "answer": "8.33%"
+    },
+    {
+      "question": "If 6 machines produce 600 units in a day, how many units will 10 machines produce at the same rate?",
+      "option1": "800",
+      "option2": "900",
+      "option3": "1,000",
+      "option4": "1,200",
+      "answer": "1,000"
+    },
+    {
+      "question": "A boat travels 30 km downstream in 2 hours. What is its downstream speed?",
+      "option1": "10 km/h",
+      "option2": "15 km/h",
+      "option3": "20 km/h",
+      "option4": "25 km/h",
+      "answer": "15 km/h"
+    },
+    {
+      "question": "What is 0.75 expressed as a percentage?",
+      "option1": "25%",
+      "option2": "50%",
+      "option3": "75%",
+      "option4": "80%",
+      "answer": "75%"
+    },
+    {
+      "question": "What is 7/8 expressed as a percentage?",
+      "option1": "75%",
+      "option2": "80%",
+      "option3": "87.5%",
+      "option4": "90%",
+      "answer": "87.5%"
+    },
+    {
+      "question": "If 4x + 8 = 24, what is x?",
+      "option1": "2",
+      "option2": "3",
+      "option3": "4",
+      "option4": "5",
+      "answer": "4"
+    },
+    {
+      "question": "What is the value of 25²?",
+      "option1": "525",
+      "option2": "600",
+      "option3": "625",
+      "option4": "650",
+      "answer": "625"
+    },
+    {
+      "question": "What is the cube root of 216?",
+      "option1": "4",
+      "option2": "5",
+      "option3": "6",
+      "option4": "7",
+      "answer": "6"
+    },
+    {
+      "question": "What is the HCF of 18 and 30?",
+      "option1": "3",
+      "option2": "6",
+      "option3": "9",
+      "option4": "12",
+      "answer": "6"
+    },
+    {
+      "question": "What is the LCM of 15 and 20?",
+      "option1": "40",
+      "option2": "50",
+      "option3": "60",
+      "option4": "80",
+      "answer": "60"
+    },
+    {
+      "question": "What is the average of 12, 18 and 24?",
+      "option1": "16",
+      "option2": "18",
+      "option3": "20",
+      "option4": "22",
+      "answer": "18"
+    },
+    {
+      "question": "A sum of ₹600 is divided between A and B in the ratio 1:2. What is A's share?",
+      "option1": "₹150",
+      "option2": "₹200",
+      "option3": "₹300",
+      "option4": "₹400",
+      "answer": "₹200"
+    },
+    {
+      "question": "If 30% of a number is 90, what is the number?",
+      "option1": "200",
+      "option2": "250",
+      "option3": "300",
+      "option4": "350",
+      "answer": "300"
+    },
+    {
+      "question": "A person buys an article for ₹400 and sells it for ₹500. What is the profit?",
+      "option1": "₹50",
+      "option2": "₹75",
+      "option3": "₹100",
+      "option4": "₹125",
+      "answer": "₹100"
+    },
+    {
+      "question": "What is the profit percentage in the previous question?",
+      "option1": "20%",
+      "option2": "25%",
+      "option3": "30%",
+      "option4": "40%",
+      "answer": "25%"
+    },
+    {
+      "question": "A man travels 120 km at 40 km/h. How much time does he take?",
+      "option1": "2 hours",
+      "option2": "3 hours",
+      "option3": "4 hours",
+      "option4": "5 hours",
+      "answer": "3 hours"
+    },
+    {
+      "question": "What is the simple interest on ₹4,000 at 8% per annum for 2 years?",
+      "option1": "₹480",
+      "option2": "₹560",
+      "option3": "₹640",
+      "option4": "₹720",
+      "answer": "₹640"
+    },
+    {
+      "question": "What is the amount on ₹4,000 at 8% simple interest for 2 years?",
+      "option1": "₹4,320",
+      "option2": "₹4,480",
+      "option3": "₹4,640",
+      "option4": "₹4,800",
+      "answer": "₹4,640"
+    },
+    {
+      "question": "If 8 workers complete a job in 15 days, how many days will 12 workers take at the same rate?",
+      "option1": "8 days",
+      "option2": "10 days",
+      "option3": "12 days",
+      "option4": "15 days",
+      "answer": "10 days"
+    },
+    {
+      "question": "What is 35% of 400?",
+      "option1": "120",
+      "option2": "130",
+      "option3": "140",
+      "option4": "150",
+      "answer": "140"
+    },
+    {
+      "question": "A number is divided by 5 and the result is 12. What is the number?",
+      "option1": "50",
+      "option2": "55",
+      "option3": "60",
+      "option4": "65",
+      "answer": "60"
+    },
+    {
+      "question": "Which number is divisible by both 3 and 5?",
+      "option1": "20",
+      "option2": "25",
+      "option3": "30",
+      "option4": "35",
+      "answer": "30"
+    },
+    {
+      "question": "What is the sum of the first five natural numbers?",
+      "option1": "10",
+      "option2": "15",
+      "option3": "20",
+      "option4": "25",
+      "answer": "15"
+    },
+    {
+      "question": "What is the next prime number after 11?",
+      "option1": "12",
+      "option2": "13",
+      "option3": "14",
+      "option4": "15",
+      "answer": "13"
+    },
+    {
+      "question": "Which of the following is a perfect square?",
+      "option1": "48",
+      "option2": "49",
+      "option3": "50",
+      "option4": "51",
+      "answer": "49"
+    },
+    {
+      "question": "What is 18 × 5?",
+      "option1": "80",
+      "option2": "90",
+      "option3": "100",
+      "option4": "110",
+      "answer": "90"
+    },
+    {
+      "question": "What is 225 ÷ 15?",
+      "option1": "10",
+      "option2": "12",
+      "option3": "15",
+      "option4": "18",
+      "answer": "15"
+    },
+    {
+      "question": "If x/4 = 9, what is x?",
+      "option1": "27",
+      "option2": "32",
+      "option3": "36",
+      "option4": "40",
+      "answer": "36"
+    },
+    {
+      "question": "What is 2.5 + 3.75?",
+      "option1": "5.75",
+      "option2": "6.00",
+      "option3": "6.25",
+      "option4": "6.50",
+      "answer": "6.25"
+    },
+    {
+      "question": "What is 15 × 15?",
+      "option1": "200",
+      "option2": "215",
+      "option3": "225",
+      "option4": "250",
+      "answer": "225"
+    },
+    {
+      "question": "What is the next number in 7, 14, 28, 56, ?",
+      "option1": "84",
+      "option2": "98",
+      "option3": "112",
+      "option4": "120",
+      "answer": "112"
+    },
+    {
+      "question": "If a person walks 4 km south and then 3 km west, in which direction is the person from the starting point?",
+      "option1": "North-East",
+      "option2": "South-West",
+      "option3": "South-East",
+      "option4": "North-West",
+      "answer": "South-West"
+    },
+    {
+      "question": "If P is the son of Q and Q is the daughter of R, how is R related to P?",
+      "option1": "Grandparent",
+      "option2": "Brother",
+      "option3": "Uncle",
+      "option4": "Cousin",
+      "answer": "Grandparent"
+    },
+    {
+      "question": "Find the odd one out: January, March, May, June.",
+      "option1": "January",
+      "option2": "March",
+      "option3": "May",
+      "option4": "June",
+      "answer": "June"
+    },
+    {
+      "question": "If BOOK is coded as CPPL, how is PEN coded?",
+      "option1": "QFO",
+      "option2": "QEN",
+      "option3": "PFM",
+      "option4": "RFO",
+      "answer": "QFO"
+    },
+    {
+      "question": "Which number comes next: 11, 22, 33, 44, ?",
+      "option1": "50",
+      "option2": "55",
+      "option3": "66",
+      "option4": "77",
+      "answer": "55"
+    },
+    {
+      "question": "If all cats are animals and some animals are black, which conclusion definitely follows?",
+      "option1": "All cats are black",
+      "option2": "Some cats are black",
+      "option3": "All cats are animals",
+      "option4": "No cats are animals",
+      "answer": "All cats are animals"
+    },
+    {
+      "question": "In a row of 30 students, Ravi is 12th from the left. What is his position from the right?",
+      "option1": "18th",
+      "option2": "19th",
+      "option3": "20th",
+      "option4": "21st",
+      "answer": "19th"
+    },
+    {
+      "question": "If today is Friday, what day will it be after 14 days?",
+      "option1": "Thursday",
+      "option2": "Friday",
+      "option3": "Saturday",
+      "option4": "Sunday",
+      "answer": "Friday"
+    },
+    {
+      "question": "Which direction is opposite to North-East?",
+      "option1": "South-East",
+      "option2": "South-West",
+      "option3": "North-West",
+      "option4": "West",
+      "answer": "South-West"
+    },
+    {
+      "question": "If A is older than B and B is older than C, who is the youngest?",
+      "option1": "A",
+      "option2": "B",
+      "option3": "C",
+      "option4": "Cannot be determined",
+      "answer": "C"
+    },
+    {
+      "question": "Which letter comes next: B, E, H, K, ?",
+      "option1": "M",
+      "option2": "N",
+      "option3": "O",
+      "option4": "P",
+      "answer": "N"
+    },
+    {
+      "question": "Which letter comes next: C, F, I, L, ?",
+      "option1": "M",
+      "option2": "N",
+      "option3": "O",
+      "option4": "P",
+      "answer": "O"
+    },
+    {
+      "question": "If all doctors are educated and Ravi is a doctor, what follows?",
+      "option1": "Ravi is educated",
+      "option2": "Ravi is a teacher",
+      "option3": "Ravi is a lawyer",
+      "option4": "Ravi is a student only",
+      "answer": "Ravi is educated"
+    },
+    {
+      "question": "Which one does not belong: Square, Triangle, Circle, Cube?",
+      "option1": "Square",
+      "option2": "Triangle",
+      "option3": "Circle",
+      "option4": "Cube",
+      "answer": "Cube"
+    },
+    {
+      "question": "If SOUTH is coded as TPVUI, what is NORTH coded as?",
+      "option1": "OPSUI",
+      "option2": "OPSTI",
+      "option3": "NPSUI",
+      "option4": "OQTUI",
+      "answer": "OPSUI"
+    },
+    {
+      "question": "A person facing west turns left. Which direction is the person facing?",
+      "option1": "North",
+      "option2": "South",
+      "option3": "East",
+      "option4": "West",
+      "answer": "South"
+    },
+    {
+      "question": "A person facing south turns right. Which direction is the person facing?",
+      "option1": "East",
+      "option2": "West",
+      "option3": "North",
+      "option4": "South",
+      "answer": "West"
+    },
+    {
+      "question": "If the first day of a month is Tuesday, what day is the 15th?",
+      "option1": "Monday",
+      "option2": "Tuesday",
+      "option3": "Wednesday",
+      "option4": "Thursday",
+      "answer": "Tuesday"
+    },
+    {
+      "question": "Find the missing number: 2, 5, 10, 17, 26, ?",
+      "option1": "35",
+      "option2": "36",
+      "option3": "37",
+      "option4": "38",
+      "answer": "37"
+    },
+    {
+      "question": "Find the missing number: 1, 8, 27, 64, ?",
+      "option1": "100",
+      "option2": "125",
+      "option3": "144",
+      "option4": "216",
+      "answer": "125"
+    },
+    {
+      "question": "If 2 is related to 8 in a certain way, and 3 is related to 27 in the same way, then 4 is related to:",
+      "option1": "32",
+      "option2": "48",
+      "option3": "64",
+      "option4": "81",
+      "answer": "64"
+    },
+    {
+      "question": "Which pair has the same relationship as Book : Read?",
+      "option1": "Food : Eat",
+      "option2": "Pen : Walk",
+      "option3": "Chair : Run",
+      "option4": "Car : Sleep",
+      "answer": "Food : Eat"
+    },
+    {
+      "question": "If A = 1, B = 2, C = 3, what is the value of CAB?",
+      "option1": "5",
+      "option2": "6",
+      "option3": "7",
+      "option4": "8",
+      "answer": "6"
+    },
+    {
+      "question": "Which number is different from the others: 16, 25, 36, 49, 55?",
+      "option1": "16",
+      "option2": "25",
+      "option3": "49",
+      "option4": "55",
+      "answer": "55"
+    },
+    {
+      "question": "If 10 people are standing in a line, how many people are there between the 3rd and 8th positions?",
+      "option1": "3",
+      "option2": "4",
+      "option3": "5",
+      "option4": "6",
+      "answer": "4"
+    },
+    {
+      "question": "If P is immediately left of Q and Q is immediately left of R, who is in the middle?",
+      "option1": "P",
+      "option2": "Q",
+      "option3": "R",
+      "option4": "Cannot be determined",
+      "answer": "Q"
+    },
+    {
+      "question": "What is the full form of CRM?",
+      "option1": "Customer Relationship Management",
+      "option2": "Customer Record Management",
+      "option3": "Credit Relationship Method",
+      "option4": "Central Relationship Management",
+      "answer": "Customer Relationship Management"
+    },
+    {
+      "question": "What is CRM used for in banking?",
+      "option1": "Managing customer interactions and relationships",
+      "option2": "Printing currency",
+      "option3": "Calculating inflation",
+      "option4": "Managing stock exchanges",
+      "answer": "Managing customer interactions and relationships"
+    },
+    {
+      "question": "What is the full form of MIS?",
+      "option1": "Management Information System",
+      "option2": "Money Information Service",
+      "option3": "Management Investment System",
+      "option4": "Marketing Information Service",
+      "answer": "Management Information System"
+    },
+    {
+      "question": "What is MIS mainly used for?",
+      "option1": "Providing information to support management and decision-making",
+      "option2": "Printing banknotes",
+      "option3": "Issuing passports",
+      "option4": "Operating ATMs only",
+      "answer": "Providing information to support management and decision-making"
+    },
+    {
+      "question": "What is the full form of ICT?",
+      "option1": "Information and Communication Technology",
+      "option2": "Internet Communication Tool",
+      "option3": "Information Computer Technology",
+      "option4": "Integrated Communication Technology",
+      "answer": "Information and Communication Technology"
+    },
+    {
+      "question": "Which of the following is an example of digital fraud?",
+      "option1": "Phishing",
+      "option2": "Printing a receipt",
+      "option3": "Opening a savings account",
+      "option4": "Depositing cash at a branch",
+      "answer": "Phishing"
+    },
+    {
+      "question": "What is social engineering in cybersecurity?",
+      "option1": "Manipulating people to disclose confidential information or perform unsafe actions",
+      "option2": "Building social media websites",
+      "option3": "Designing computer hardware",
+      "option4": "Improving internet speed",
+      "answer": "Manipulating people to disclose confidential information or perform unsafe actions"
+    },
+    {
+      "question": "Which information should generally never be shared with an unknown caller?",
+      "option1": "OTP",
+      "option2": "Public bank branch address",
+      "option3": "Bank working hours",
+      "option4": "General customer-care number",
+      "answer": "OTP"
+    },
+    {
+      "question": "What should a customer do after noticing an unauthorized banking transaction?",
+      "option1": "Report it to the bank promptly through official channels",
+      "option2": "Ignore it",
+      "option3": "Share the OTP publicly",
+      "option4": "Delete all bank messages",
+      "answer": "Report it to the bank promptly through official channels"
+    },
+    {
+      "question": "What is a banking ombudsman framework associated with?",
+      "option1": "Customer complaint redressal",
+      "option2": "Currency printing",
+      "option3": "Stock listing",
+      "option4": "Loan creation",
+      "answer": "Customer complaint redressal"
+    },
+    {
+      "question": "What is the full form of RBI Ombudsman?",
+      "option1": "A complaint redressal mechanism under RBI's regulatory framework",
+      "option2": "A private insurance company",
+      "option3": "A stock exchange",
+      "option4": "A commercial bank",
+      "answer": "A complaint redressal mechanism under RBI's regulatory framework"
+    },
+    {
+      "question": "Which of the following is a basic principle of good banking security?",
+      "option1": "Keep passwords and authentication credentials confidential",
+      "option2": "Share PINs with friends",
+      "option3": "Use the same password everywhere",
+      "option4": "Click unknown links",
+      "answer": "Keep passwords and authentication credentials confidential"
+    },
+    {
+      "question": "What is the main purpose of a bank's IFSC code?",
+      "option1": "Identify a specific bank branch for electronic fund transfers",
+      "option2": "Identify a customer's credit score",
+      "option3": "Identify a debit card",
+      "option4": "Calculate interest",
+      "answer": "Identify a specific bank branch for electronic fund transfers"
+    },
+    {
+      "question": "What does UPI PIN authenticate?",
+      "option1": "Authorization of UPI transactions",
+      "option2": "Bank branch location",
+      "option3": "PAN application",
+      "option4": "Email account",
+      "answer": "Authorization of UPI transactions"
+    },
+    {
+      "question": "What is a UPI ID?",
+      "option1": "A virtual payment address used for UPI transactions",
+      "option2": "A bank branch code",
+      "option3": "A cheque number",
+      "option4": "A credit score",
+      "answer": "A virtual payment address used for UPI transactions"
+    },
+    {
+      "question": "Which organization developed and operates UPI infrastructure?",
+      "option1": "NPCI",
+      "option2": "SEBI",
+      "option3": "IRDAI",
+      "option4": "NABARD",
+      "answer": "NPCI"
+    },
+    {
+      "question": "What is the full form of BHIM?",
+      "option1": "Bharat Interface for Money",
+      "option2": "Banking Hub for Indian Money",
+      "option3": "Bharat Internet Money",
+      "option4": "Bank Interface for Mobile",
+      "answer": "Bharat Interface for Money"
+    },
+    {
+      "question": "BHIM is primarily associated with which payment system?",
+      "option1": "UPI",
+      "option2": "RTGS",
+      "option3": "Cheque",
+      "option4": "Demand Draft",
+      "answer": "UPI"
+    },
+    {
+      "question": "What is the full form of NACH?",
+      "option1": "National Automated Clearing House",
+      "option2": "National Account Clearing Hub",
+      "option3": "New Automated Cash Handling",
+      "option4": "National Automated Credit Handling",
+      "answer": "National Automated Clearing House"
+    },
+    {
+      "question": "NACH is mainly used for:",
+      "option1": "Bulk recurring electronic transactions",
+      "option2": "Printing currency",
+      "option3": "Stock exchange trading only",
+      "option4": "Issuing passports",
+      "answer": "Bulk recurring electronic transactions"
+    },
+    {
+      "question": "What is ECS commonly used for?",
+      "option1": "Recurring or bulk electronic payments and collections",
+      "option2": "Stock trading",
+      "option3": "Currency printing",
+      "option4": "Passport verification",
+      "answer": "Recurring or bulk electronic payments and collections"
+    },
+    {
+      "question": "What is the full form of POS?",
+      "option1": "Point of Sale",
+      "option2": "Payment Operating System",
+      "option3": "Point of Security",
+      "option4": "Payment Order Service",
+      "answer": "Point of Sale"
+    },
+    {
+      "question": "Which payment method uses a card at a merchant terminal?",
+      "option1": "POS transaction",
+      "option2": "Demand draft",
+      "option3": "Fixed deposit",
+      "option4": "Cheque clearing",
+      "answer": "POS transaction"
+    },
+    {
+      "question": "What is the main purpose of a credit card statement?",
+      "option1": "To show transactions, amounts due and payment information",
+      "option2": "To register a company",
+      "option3": "To calculate GDP",
+      "option4": "To issue currency",
+      "answer": "To show transactions, amounts due and payment information"
+    },
+    {
+      "question": "What is a minimum amount due on a credit card?",
+      "option1": "The minimum payment required by the issuer by the due date",
+      "option2": "The full credit limit",
+      "option3": "The total amount ever spent",
+      "option4": "The annual income of the customer",
+      "answer": "The minimum payment required by the issuer by the due date"
+    },
+    {
+      "question": "What is a credit limit?",
+      "option1": "The maximum amount that can generally be borrowed or spent using a credit facility",
+      "option2": "The customer's savings balance",
+      "option3": "The bank's cash reserve",
+      "option4": "The loan interest rate",
+      "answer": "The maximum amount that can generally be borrowed or spent using a credit facility"
+    },
+    {
+      "question": "What is an interest-free period on a credit card?",
+      "option1": "A period during which eligible purchases may avoid interest if the required balance is paid as specified",
+      "option2": "A period when the card cannot be used",
+      "option3": "A period when the account is closed",
+      "option4": "A tax exemption period",
+      "answer": "A period during which eligible purchases may avoid interest if the required balance is paid as specified"
+    },
+    {
+      "question": "What is a bank's branch code?",
+      "option1": "A code used to identify a particular branch",
+      "option2": "A customer's PIN",
+      "option3": "A card CVV",
+      "option4": "A loan number",
+      "answer": "A code used to identify a particular branch"
+    },
+    {
+      "question": "What is CVV commonly associated with?",
+      "option1": "Card security verification",
+      "option2": "Bank branch identification",
+      "option3": "Loan tenure",
+      "option4": "Account interest",
+      "answer": "Card security verification"
+    },
+    {
+      "question": "What does ATM stand for in banking?",
+      "option1": "Automated Teller Machine",
+      "option2": "Automatic Transaction Method",
+      "option3": "Account Transfer Machine",
+      "option4": "Automated Transfer Module",
+      "answer": "Automated Teller Machine"
+    },
+    {
+      "question": "Which service allows customers to withdraw cash without visiting a bank counter?",
+      "option1": "ATM",
+      "option2": "Locker",
+      "option3": "Passbook",
+      "option4": "Cheque book",
+      "answer": "ATM"
+    },
+    {
+      "question": "What is a cash deposit machine?",
+      "option1": "A machine that allows customers to deposit cash electronically into eligible accounts",
+      "option2": "A machine that prints shares",
+      "option3": "A machine that issues passports",
+      "option4": "A machine that creates loans automatically",
+      "answer": "A machine that allows customers to deposit cash electronically into eligible accounts"
+    },
+    {
+      "question": "What is internet banking?",
+      "option1": "Banking services accessed through a website or online platform",
+      "option2": "Banking only at an ATM",
+      "option3": "Banking without authentication",
+      "option4": "Banking only with cash",
+      "answer": "Banking services accessed through a website or online platform"
+    },
+    {
+      "question": "What is the main advantage of electronic banking?",
+      "option1": "Convenient access to banking services through digital channels",
+      "option2": "Elimination of all security risks",
+      "option3": "No need for authentication",
+      "option4": "Guaranteed profits",
+      "answer": "Convenient access to banking services through digital channels"
+    },
+    {
+      "question": "Which of the following is not normally a banking service?",
+      "option1": "Accepting deposits",
+      "option2": "Providing loans",
+      "option3": "Facilitating payments",
+      "option4": "Issuing driving licences",
+      "answer": "Issuing driving licences"
+    },
+    {
+      "question": "What is the primary purpose of a bank's customer identification process?",
+      "option1": "To verify customer identity and meet regulatory requirements",
+      "option2": "To increase electricity usage",
+      "option3": "To calculate GDP",
+      "option4": "To determine stock prices",
+      "answer": "To verify customer identity and meet regulatory requirements"
+    },
+    {
+      "question": "Which document is commonly accepted as proof of identity, subject to applicable rules?",
+      "option1": "Aadhaar card",
+      "option2": "Shopping list",
+      "option3": "Movie ticket",
+      "option4": "Newspaper",
+      "answer": "Aadhaar card"
+    },
+    {
+      "question": "What is e-KYC?",
+      "option1": "Electronic Know Your Customer process",
+      "option2": "Electronic Key Yield Calculation",
+      "option3": "Easy Knowledge Customer",
+      "option4": "Electronic Knowledge Certificate",
+      "answer": "Electronic Know Your Customer process"
+    },
+    {
+      "question": "What is CKYC?",
+      "option1": "Central KYC",
+      "option2": "Customer Key Yield Code",
+      "option3": "Central Knowledge Yearly Certificate",
+      "option4": "Common Key Yield Calculation",
+      "answer": "Central KYC"
+    },
+    {
+      "question": "What is a financial transaction?",
+      "option1": "An activity involving movement or transfer of money or financial value",
+      "option2": "A computer restart",
+      "option3": "A printer operation",
+      "option4": "A website visit only",
+      "answer": "An activity involving movement or transfer of money or financial value"
+    },
+    {
+      "question": "What is a transaction ID?",
+      "option1": "A unique reference identifying a particular transaction",
+      "option2": "A customer's password",
+      "option3": "A bank branch name",
+      "option4": "A debit card PIN",
+      "answer": "A unique reference identifying a particular transaction"
+    },
+    {
+      "question": "What is a failed transaction?",
+      "option1": "A transaction that was not successfully completed",
+      "option2": "A successful transaction",
+      "option3": "A fixed deposit",
+      "option4": "A bank statement",
+      "answer": "A transaction that was not successfully completed"
+    },
+    {
+      "question": "What is a transaction reversal?",
+      "option1": "A transaction being reversed or returned according to the payment system's process",
+      "option2": "A new loan application",
+      "option3": "A new bank account",
+      "option4": "A password reset only",
+      "answer": "A transaction being reversed or returned according to the payment system's process"
+    },
+    {
+      "question": "What is a bank reconciliation?",
+      "option1": "Comparing and matching bank records with accounting records",
+      "option2": "Opening a new account",
+      "option3": "Closing a bank branch",
+      "option4": "Issuing a credit card",
+      "answer": "Comparing and matching bank records with accounting records"
+    },
+    {
+      "question": "What is the purpose of a bank audit?",
+      "option1": "To independently examine financial records, controls and compliance as applicable",
+      "option2": "To issue passports",
+      "option3": "To print currency",
+      "option4": "To set stock prices",
+      "answer": "To independently examine financial records, controls and compliance as applicable"
+    },
+    {
+      "question": "What is an audit trail?",
+      "option1": "A record that helps trace activities or transactions",
+      "option2": "A bank holiday list",
+      "option3": "A customer password",
+      "option4": "A type of cheque",
+      "answer": "A record that helps trace activities or transactions"
+    },
+    {
+      "question": "What is data privacy?",
+      "option1": "Protection and proper handling of personal or sensitive information",
+      "option2": "Deleting all information",
+      "option3": "Sharing passwords publicly",
+      "option4": "Increasing storage capacity",
+      "answer": "Protection and proper handling of personal or sensitive information"
+    },
+    {
+      "question": "Which principle is important when handling customer data?",
+      "option1": "Confidentiality",
+      "option2": "Public disclosure",
+      "option3": "Password sharing",
+      "option4": "Unrestricted access",
+      "answer": "Confidentiality"
+    },
+    {
+      "question": "What is a data breach?",
+      "option1": "Unauthorized access to or disclosure of protected data",
+      "option2": "A successful backup",
+      "option3": "A normal login",
+      "option4": "A software update",
+      "answer": "Unauthorized access to or disclosure of protected data"
+    },
+    {
+      "question": "What is cybersecurity?",
+      "option1": "Protection of systems, networks and data from digital threats",
+      "option2": "Designing bank buildings",
+      "option3": "Printing banknotes",
+      "option4": "Calculating interest",
+      "answer": "Protection of systems, networks and data from digital threats"
+    },
+    {
+      "question": "What is a Trojan horse in cybersecurity?",
+      "option1": "Malicious software disguised as legitimate software",
+      "option2": "A banking deposit",
+      "option3": "A secure password",
+      "option4": "A network cable",
+      "answer": "Malicious software disguised as legitimate software"
+    },
+    {
+      "question": "What is ransomware?",
+      "option1": "Malware that can block access to data or systems and demand payment",
+      "option2": "A bank loan",
+      "option3": "A backup system",
+      "option4": "A firewall",
+      "answer": "Malware that can block access to data or systems and demand payment"
+    },
+    {
+      "question": "What is spyware?",
+      "option1": "Software designed to secretly monitor or collect information",
+      "option2": "A spreadsheet program",
+      "option3": "An antivirus update",
+      "option4": "A printer driver",
+      "answer": "Software designed to secretly monitor or collect information"
+    },
+    {
+      "question": "What is a VPN?",
+      "option1": "Virtual Private Network",
+      "option2": "Virtual Payment Network",
+      "option3": "Verified Private Node",
+      "option4": "Virtual Public Network",
+      "answer": "Virtual Private Network"
+    },
+    {
+      "question": "What is the purpose of a VPN?",
+      "option1": "To create a protected network connection over a public network",
+      "option2": "To print documents",
+      "option3": "To increase RAM",
+      "option4": "To create bank accounts",
+      "answer": "To create a protected network connection over a public network"
+    },
+    {
+      "question": "What is DNS?",
+      "option1": "Domain Name System",
+      "option2": "Digital Network Service",
+      "option3": "Domain Number Service",
+      "option4": "Data Name System",
+      "answer": "Domain Name System"
+    },
+    {
+      "question": "What is the main function of DNS?",
+      "option1": "Translate domain names into IP addresses",
+      "option2": "Encrypt all files",
+      "option3": "Print web pages",
+      "option4": "Store passwords",
+      "answer": "Translate domain names into IP addresses"
+    },
+    {
+      "question": "What is a domain name?",
+      "option1": "A human-readable address used to identify a website or internet service",
+      "option2": "A bank account number",
+      "option3": "A computer password",
+      "option4": "A file extension",
+      "answer": "A human-readable address used to identify a website or internet service"
+    },
+    {
+      "question": "Which of the following is an example of a domain extension?",
+      "option1": ".com",
+      "option2": "@",
+      "option3": "#",
+      "option4": "://",
+      "answer": ".com"
+    },
+    {
+      "question": "What is HTML?",
+      "option1": "HyperText Markup Language",
+      "option2": "High Transfer Machine Language",
+      "option3": "Hyperlink Text Management Language",
+      "option4": "Home Tool Markup Language",
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "question": "What is CSS mainly used for?",
+      "option1": "Styling web pages",
+      "option2": "Managing bank accounts",
+      "option3": "Sending email",
+      "option4": "Storing databases only",
+      "answer": "Styling web pages"
+    },
+    {
+      "question": "What is a hyperlink?",
+      "option1": "A clickable reference to another location or resource",
+      "option2": "A computer virus",
+      "option3": "A bank account",
+      "option4": "A password",
+      "answer": "A clickable reference to another location or resource"
+    },
+    {
+      "question": "What is a search engine?",
+      "option1": "A service used to find information on the web",
+      "option2": "A computer processor",
+      "option3": "A storage device",
+      "option4": "A bank server",
+      "answer": "A service used to find information on the web"
+    },
+    {
+      "question": "Which of the following is a search engine?",
+      "option1": "Google",
+      "option2": "Windows",
+      "option3": "Excel",
+      "option4": "Linux",
+      "answer": "Google"
+    },
+    {
+      "question": "What is a cookie in web browsing?",
+      "option1": "A small piece of data stored by a website in a user's browser",
+      "option2": "A computer virus",
+      "option3": "A bank cheque",
+      "option4": "A type of keyboard",
+      "answer": "A small piece of data stored by a website in a user's browser"
+    },
+    {
+      "question": "What is cache?",
+      "option1": "Temporary storage used to speed up access to frequently used data",
+      "option2": "A permanent bank account",
+      "option3": "A printer",
+      "option4": "A password",
+      "answer": "Temporary storage used to speed up access to frequently used data"
+    },
+    {
+      "question": "What is a spreadsheet workbook?",
+      "option1": "A file containing one or more worksheets",
+      "option2": "A computer virus",
+      "option3": "A bank statement",
+      "option4": "A web browser",
+      "answer": "A file containing one or more worksheets"
+    },
+    {
+      "question": "What is a database table?",
+      "option1": "A structured collection of related data arranged in rows and columns",
+      "option2": "A computer monitor",
+      "option3": "A web browser",
+      "option4": "A printer queue",
+      "answer": "A structured collection of related data arranged in rows and columns"
+    },
+    {
+      "question": "What is a primary key in a database?",
+      "option1": "A field or combination of fields that uniquely identifies a record",
+      "option2": "A password",
+      "option3": "A file extension",
+      "option4": "A network cable",
+      "answer": "A field or combination of fields that uniquely identifies a record"
+    },
+    {
+      "question": "What is a query in a database?",
+      "option1": "A request to retrieve or manipulate data",
+      "option2": "A computer virus",
+      "option3": "A printer command",
+      "option4": "A password",
+      "answer": "A request to retrieve or manipulate data"
+    },
+    {
+      "question": "Which of the following is a relational database management system?",
+      "option1": "MySQL",
+      "option2": "Chrome",
+      "option3": "Windows",
+      "option4": "PowerPoint",
+      "answer": "MySQL"
+    },
+    {
+      "question": "What is the full form of DBMS?",
+      "option1": "Database Management System",
+      "option2": "Data Backup Management Service",
+      "option3": "Digital Banking Management System",
+      "option4": "Database Monitoring Service",
+      "answer": "Database Management System"
+    },
+    {
+      "question": "What is a server?",
+      "option1": "A computer or system that provides services or resources to other computers",
+      "option2": "A keyboard",
+      "option3": "A printer",
+      "option4": "A bank card",
+      "answer": "A computer or system that provides services or resources to other computers"
+    },
+    {
+      "question": "What is a client in networking?",
+      "option1": "A device or application that requests services from a server",
+      "option2": "A bank manager",
+      "option3": "A printer cartridge",
+      "option4": "A computer virus",
+      "answer": "A device or application that requests services from a server"
+    },
+    {
+      "question": "What is bandwidth?",
+      "option1": "The data-carrying capacity of a communication channel",
+      "option2": "Computer storage size only",
+      "option3": "Screen resolution",
+      "option4": "CPU temperature",
+      "answer": "The data-carrying capacity of a communication channel"
+    },
+    {
+      "question": "What is latency?",
+      "option1": "The time delay in transmitting data",
+      "option2": "The amount of RAM",
+      "option3": "The size of a hard disk",
+      "option4": "The speed of a printer",
+      "answer": "The time delay in transmitting data"
+    },
+    {
+      "question": "What is a packet in computer networking?",
+      "option1": "A unit of data transmitted over a network",
+      "option2": "A computer monitor",
+      "option3": "A bank cheque",
+      "option4": "A password",
+      "answer": "A unit of data transmitted over a network"
+    },
+    {
+      "question": "What is a router's primary function?",
+      "option1": "Forward packets between networks",
+      "option2": "Display images",
+      "option3": "Store files permanently",
+      "option4": "Print documents",
+      "answer": "Forward packets between networks"
+    },
+    {
+      "question": "What is an intranet?",
+      "option1": "A private network within an organization",
+      "option2": "The public internet",
+      "option3": "A computer virus",
+      "option4": "A banking card",
+      "answer": "A private network within an organization"
+    },
+    {
+      "question": "What is an extranet?",
+      "option1": "A private network that provides controlled access to authorized external users",
+      "option2": "A public search engine",
+      "option3": "A computer virus",
+      "option4": "A printer",
+      "answer": "A private network that provides controlled access to authorized external users"
+    },
+    {
+      "question": "What is the full form of VPN?",
+      "option1": "Virtual Private Network",
+      "option2": "Verified Public Network",
+      "option3": "Virtual Payment Node",
+      "option4": "Virtual Processing Network",
+      "answer": "Virtual Private Network"
+    },
+    {
+      "question": "What is the purpose of antivirus updates?",
+      "option1": "To improve detection of newer threats",
+      "option2": "To increase monitor size",
+      "option3": "To increase keyboard speed",
+      "option4": "To change bank account numbers",
+      "answer": "To improve detection of newer threats"
+    },
+    {
+      "question": "What is software?",
+      "option1": "Programs and instructions that tell a computer what to do",
+      "option2": "Physical computer components",
+      "option3": "Only cables",
+      "option4": "Only storage devices",
+      "answer": "Programs and instructions that tell a computer what to do"
+    },
+    {
+      "question": "What is hardware?",
+      "option1": "Physical components of a computer system",
+      "option2": "Computer programs",
+      "option3": "Websites",
+      "option4": "Passwords",
+      "answer": "Physical components of a computer system"
+    },
+    {
+      "question": "Which of the following is hardware?",
+      "option1": "Keyboard",
+      "option2": "Windows",
+      "option3": "Chrome",
+      "option4": "Excel",
+      "answer": "Keyboard"
+    },
+    {
+      "question": "Which of the following is software?",
+      "option1": "Microsoft Word",
+      "option2": "Keyboard",
+      "option3": "Mouse",
+      "option4": "Monitor",
+      "answer": "Microsoft Word"
+    },
+    {
+      "question": "What is firmware?",
+      "option1": "Software stored in hardware that provides low-level control",
+      "option2": "A type of bank account",
+      "option3": "A web browser",
+      "option4": "A printer",
+      "answer": "Software stored in hardware that provides low-level control"
+    },
+    {
+      "question": "What is open-source software?",
+      "option1": "Software whose source code is available under terms allowing inspection and modification",
+      "option2": "Software that is always free of cost",
+      "option3": "Software without code",
+      "option4": "Software that cannot be changed",
+      "answer": "Software whose source code is available under terms allowing inspection and modification"
+    },
+    {
+      "question": "Which of the following is an example of open-source software?",
+      "option1": "Linux",
+      "option2": "Microsoft Windows",
+      "option3": "Adobe Photoshop",
+      "option4": "Microsoft Excel",
+      "answer": "Linux"
+    },
+    {
+      "question": "What is a compiler?",
+      "option1": "A program that translates source code into another form such as machine code",
+      "option2": "A storage device",
+      "option3": "A web browser",
+      "option4": "A printer",
+      "answer": "A program that translates source code into another form such as machine code"
+    },
+    {
+      "question": "What is an algorithm?",
+      "option1": "A step-by-step procedure for solving a problem",
+      "option2": "A hardware device",
+      "option3": "A bank account",
+      "option4": "A computer virus",
+      "answer": "A step-by-step procedure for solving a problem"
+    },
+    {
+      "question": "What is the purpose of a flowchart?",
+      "option1": "To graphically represent steps in a process or algorithm",
+      "option2": "To store passwords",
+      "option3": "To print documents",
+      "option4": "To transfer money",
+      "answer": "To graphically represent steps in a process or algorithm"
+    },
+    {
+      "question": "Which symbol is commonly used for a decision in a flowchart?",
+      "option1": "Diamond",
+      "option2": "Circle",
+      "option3": "Rectangle",
+      "option4": "Triangle",
+      "answer": "Diamond"
+    },
+    {
+      "question": "Which symbol is commonly used for a process in a flowchart?",
+      "option1": "Rectangle",
+      "option2": "Diamond",
+      "option3": "Circle",
+      "option4": "Arrow",
+      "answer": "Rectangle"
+    },
+    {
+      "question": "What is the full form of AI?",
+      "option1": "Artificial Intelligence",
+      "option2": "Automated Internet",
+      "option3": "Advanced Information",
+      "option4": "Artificial Internet",
+      "answer": "Artificial Intelligence"
+    },
+    {
+      "question": "Which technology is used to recognize a person's face?",
+      "option1": "Facial recognition",
+      "option2": "Disk formatting",
+      "option3": "File compression",
+      "option4": "Data sorting",
+      "answer": "Facial recognition"
+    },
+    {
+      "question": "What is cloud computing useful for?",
+      "option1": "On-demand access to computing resources",
+      "option2": "Only offline calculations",
+      "option3": "Printing currency",
+      "option4": "Replacing all bank branches",
+      "answer": "On-demand access to computing resources"
+    },
+    {
+      "question": "What is SaaS?",
+      "option1": "Software as a Service",
+      "option2": "System as a Service",
+      "option3": "Storage as a System",
+      "option4": "Security as a Software",
+      "answer": "Software as a Service"
+    },
+    {
+      "question": "What is IaaS?",
+      "option1": "Infrastructure as a Service",
+      "option2": "Internet as a Service",
+      "option3": "Information as a System",
+      "option4": "Infrastructure and Application System",
+      "answer": "Infrastructure as a Service"
+    },
+    {
+      "question": "What is PaaS?",
+      "option1": "Platform as a Service",
+      "option2": "Program as a System",
+      "option3": "Processing as a Service",
+      "option4": "Platform and Application System",
+      "answer": "Platform as a Service"
+    },
+    {
+      "question": "What is virtualization?",
+      "option1": "Creating virtual versions of computing resources",
+      "option2": "Printing virtual documents",
+      "option3": "Scanning documents",
+      "option4": "Sending emails",
+      "answer": "Creating virtual versions of computing resources"
+    },
+    {
+      "question": "What is data compression?",
+      "option1": "Reducing the size of data",
+      "option2": "Increasing monitor size",
+      "option3": "Deleting the operating system",
+      "option4": "Increasing keyboard speed",
+      "answer": "Reducing the size of data"
+    },
+    {
+      "question": "What is a ZIP file commonly used for?",
+      "option1": "Compressing and packaging files",
+      "option2": "Playing music",
+      "option3": "Running an operating system",
+      "option4": "Sending SMS",
+      "answer": "Compressing and packaging files"
+    },
+    {
+      "question": "Which file format is commonly used for compressed archives?",
+      "option1": ".zip",
+      "option2": ".txt",
+      "option3": ".docx",
+      "option4": ".html",
+      "answer": ".zip"
+    },
+    {
+      "question": "What is a folder in a computer?",
+      "option1": "A container used to organize files and other folders",
+      "option2": "A computer virus",
+      "option3": "A network protocol",
+      "option4": "A bank account",
+      "answer": "A container used to organize files and other folders"
+    },
+    {
+      "question": "What is a file extension?",
+      "option1": "A suffix indicating a file's type or format",
+      "option2": "A computer password",
+      "option3": "A network address",
+      "option4": "A bank code",
+      "answer": "A suffix indicating a file's type or format"
+    },
+    {
+      "question": "Which file extension commonly represents a plain text file?",
+      "option1": ".txt",
+      "option2": ".jpg",
+      "option3": ".mp3",
+      "option4": ".exe",
+      "answer": ".txt"
+    },
+    {
+      "question": "Which file extension commonly represents an image?",
+      "option1": ".jpg",
+      "option2": ".exe",
+      "option3": ".docx",
+      "option4": ".xlsx",
+      "answer": ".jpg"
+    },
+    {
+      "question": "Which file extension commonly represents an executable file in Windows?",
+      "option1": ".exe",
+      "option2": ".txt",
+      "option3": ".jpg",
+      "option4": ".pdf",
+      "answer": ".exe"
+    },
+    {
+      "question": "What does Ctrl+X commonly do?",
+      "option1": "Cut",
+      "option2": "Copy",
+      "option3": "Paste",
+      "option4": "Undo",
+      "answer": "Cut"
+    },
+    {
+      "question": "What does Ctrl+Y commonly do?",
+      "option1": "Redo",
+      "option2": "Undo",
+      "option3": "Copy",
+      "option4": "Paste",
+      "answer": "Redo"
+    },
+    {
+      "question": "What does Ctrl+B commonly do in many word processors?",
+      "option1": "Bold",
+      "option2": "Break",
+      "option3": "Bookmark",
+      "option4": "Backup",
+      "answer": "Bold"
+    },
+    {
+      "question": "What does Ctrl+I commonly do in many word processors?",
+      "option1": "Italic",
+      "option2": "Insert",
+      "option3": "Inspect",
+      "option4": "Import",
+      "answer": "Italic"
+    },
+    {
+      "question": "What does Ctrl+U commonly do in many word processors?",
+      "option1": "Underline",
+      "option2": "Upload",
+      "option3": "Undo",
+      "option4": "Update",
+      "answer": "Underline"
+    },
+    {
+      "question": "What is the full form of PDF?",
+      "option1": "Portable Document Format",
+      "option2": "Public Data File",
+      "option3": "Personal Document Folder",
+      "option4": "Portable Data Folder",
+      "answer": "Portable Document Format"
+    }
+  ]
+}

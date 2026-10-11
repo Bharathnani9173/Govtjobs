@@ -1,0 +1,1605 @@
+{
+  "exam": "High Court",
+  "questions": [
+    {
+      "question": "Which Article of the Indian Constitution provides for the establishment of High Courts in the states?",
+      "option1": "Article 214",
+      "option2": "Article 215",
+      "option3": "Article 216",
+      "option4": "Article 217",
+      "answer": "Article 214"
+    },
+    {
+      "question": "Who appoints the Chief Justice of a High Court?",
+      "option1": "Prime Minister",
+      "option2": "President of India",
+      "option3": "Governor of the State",
+      "option4": "Chief Justice of India",
+      "answer": "President of India"
+    },
+    {
+      "question": "Which Article deals with the appointment and conditions of service of High Court judges?",
+      "option1": "Article 214",
+      "option2": "Article 216",
+      "option3": "Article 217",
+      "option4": "Article 226",
+      "answer": "Article 217"
+    },
+    {
+      "question": "What is the retirement age of a High Court judge in India?",
+      "option1": "60 years",
+      "option2": "62 years",
+      "option3": "65 years",
+      "option4": "68 years",
+      "answer": "62 years"
+    },
+    {
+      "question": "Which Article gives High Courts the power to issue writs?",
+      "option1": "Article 32",
+      "option2": "Article 136",
+      "option3": "Article 226",
+      "option4": "Article 227",
+      "answer": "Article 226"
+    },
+    {
+      "question": "Which writ is used to produce a person who has been unlawfully detained before the court?",
+      "option1": "Mandamus",
+      "option2": "Habeas Corpus",
+      "option3": "Certiorari",
+      "option4": "Quo Warranto",
+      "answer": "Habeas Corpus"
+    },
+    {
+      "question": "Which writ means 'we command'?",
+      "option1": "Mandamus",
+      "option2": "Prohibition",
+      "option3": "Certiorari",
+      "option4": "Habeas Corpus",
+      "answer": "Mandamus"
+    },
+    {
+      "question": "Which writ is issued to prevent a lower court from exceeding its jurisdiction?",
+      "option1": "Mandamus",
+      "option2": "Prohibition",
+      "option3": "Quo Warranto",
+      "option4": "Habeas Corpus",
+      "answer": "Prohibition"
+    },
+    {
+      "question": "Which writ is generally used to quash an order of a lower court or tribunal?",
+      "option1": "Certiorari",
+      "option2": "Mandamus",
+      "option3": "Habeas Corpus",
+      "option4": "Quo Warranto",
+      "answer": "Certiorari"
+    },
+    {
+      "question": "Which writ questions the legal authority of a person holding a public office?",
+      "option1": "Prohibition",
+      "option2": "Mandamus",
+      "option3": "Quo Warranto",
+      "option4": "Certiorari",
+      "answer": "Quo Warranto"
+    },
+    {
+      "question": "Which Article makes every High Court a court of record?",
+      "option1": "Article 214",
+      "option2": "Article 215",
+      "option3": "Article 216",
+      "option4": "Article 217",
+      "answer": "Article 215"
+    },
+    {
+      "question": "Who can transfer a judge from one High Court to another?",
+      "option1": "Prime Minister",
+      "option2": "President of India",
+      "option3": "Governor",
+      "option4": "Chief Justice of India",
+      "answer": "President of India"
+    },
+    {
+      "question": "Which Article deals with the power of superintendence of a High Court over subordinate courts?",
+      "option1": "Article 226",
+      "option2": "Article 227",
+      "option3": "Article 228",
+      "option4": "Article 229",
+      "answer": "Article 227"
+    },
+    {
+      "question": "Who administers the oath of office to a High Court judge?",
+      "option1": "President",
+      "option2": "Governor of the State",
+      "option3": "Chief Justice of India",
+      "option4": "Chief Minister",
+      "answer": "Governor of the State"
+    },
+    {
+      "question": "Which Article deals with the appointment of officers and employees of a High Court?",
+      "option1": "Article 226",
+      "option2": "Article 227",
+      "option3": "Article 229",
+      "option4": "Article 230",
+      "answer": "Article 229"
+    },
+    {
+      "question": "A High Court can punish for contempt of itself because it is a:",
+      "option1": "Court of appeal",
+      "option2": "Court of record",
+      "option3": "Revenue court",
+      "option4": "District court",
+      "answer": "Court of record"
+    },
+    {
+      "question": "Which court is generally the highest court in a state judicial system?",
+      "option1": "District Court",
+      "option2": "Sessions Court",
+      "option3": "High Court",
+      "option4": "Civil Court",
+      "answer": "High Court"
+    },
+    {
+      "question": "Which constitutional provision allows Parliament to establish a common High Court for two or more states?",
+      "option1": "Article 214",
+      "option2": "Article 231",
+      "option3": "Article 226",
+      "option4": "Article 227",
+      "answer": "Article 231"
+    },
+    {
+      "question": "Which body recommends the transfer of High Court judges?",
+      "option1": "Election Commission",
+      "option2": "Supreme Court Collegium",
+      "option3": "Finance Commission",
+      "option4": "Union Public Service Commission",
+      "answer": "Supreme Court Collegium"
+    },
+    {
+      "question": "The original jurisdiction of a High Court refers to cases that are:",
+      "option1": "Heard by the High Court directly",
+      "option2": "Always transferred from the Supreme Court",
+      "option3": "Heard only after appeal",
+      "option4": "Heard only by district courts",
+      "answer": "Heard by the High Court directly"
+    },
+    {
+      "question": "Which jurisdiction allows a High Court to hear appeals from subordinate courts?",
+      "option1": "Original jurisdiction",
+      "option2": "Appellate jurisdiction",
+      "option3": "Advisory jurisdiction",
+      "option4": "Legislative jurisdiction",
+      "answer": "Appellate jurisdiction"
+    },
+    {
+      "question": "Judicial review by High Courts primarily means the power to:",
+      "option1": "Make laws",
+      "option2": "Review the constitutional validity of laws and actions",
+      "option3": "Conduct elections",
+      "option4": "Prepare the Union Budget",
+      "answer": "Review the constitutional validity of laws and actions"
+    },
+    {
+      "question": "Which Article provides the Supreme Court's power to issue writs for enforcement of Fundamental Rights?",
+      "option1": "Article 32",
+      "option2": "Article 226",
+      "option3": "Article 227",
+      "option4": "Article 136",
+      "answer": "Article 32"
+    },
+    {
+      "question": "Compared with Article 32, the writ jurisdiction of High Courts under Article 226 is:",
+      "option1": "Narrower",
+      "option2": "Limited only to criminal cases",
+      "option3": "Wider",
+      "option4": "Limited only to Fundamental Rights",
+      "answer": "Wider"
+    },
+    {
+      "question": "Which authority formally appoints a High Court judge after the constitutional process is completed?",
+      "option1": "President of India",
+      "option2": "Governor",
+      "option3": "Chief Minister",
+      "option4": "Chief Justice of the High Court",
+      "answer": "President of India"
+    },
+    {
+      "question": "Which Article deals with the constitution of a High Court?",
+      "option1": "Article 214",
+      "option2": "Article 216",
+      "option3": "Article 217",
+      "option4": "Article 220",
+      "answer": "Article 216"
+    },
+    {
+      "question": "Who determines the number of judges in a High Court?",
+      "option1": "President of India",
+      "option2": "Parliament",
+      "option3": "State Legislature",
+      "option4": "Governor alone",
+      "answer": "President of India"
+    },
+    {
+      "question": "A person must be a citizen of India to be eligible for appointment as a:",
+      "option1": "High Court judge",
+      "option2": "District Collector",
+      "option3": "Member of Parliament",
+      "option4": "Governor",
+      "answer": "High Court judge"
+    },
+    {
+      "question": "Which of the following is a qualification for appointment as a High Court judge?",
+      "option1": "Five years as a Member of Parliament",
+      "option2": "Ten years of judicial office or ten years as an advocate of a High Court",
+      "option3": "Ten years as a government employee",
+      "option4": "Five years as a district collector",
+      "answer": "Ten years of judicial office or ten years as an advocate of a High Court"
+    },
+    {
+      "question": "A High Court judge submits resignation to the:",
+      "option1": "Governor",
+      "option2": "Chief Justice of India",
+      "option3": "President of India",
+      "option4": "Chief Minister",
+      "answer": "President of India"
+    },
+    {
+      "question": "The salary and allowances of High Court judges are charged upon the:",
+      "option1": "Consolidated Fund of India",
+      "option2": "Consolidated Fund of the State",
+      "option3": "Contingency Fund of India",
+      "option4": "Public Account of India",
+      "answer": "Consolidated Fund of the State"
+    },
+    {
+      "question": "Can the salary of a High Court judge be reduced after appointment?",
+      "option1": "Yes, by the Governor",
+      "option2": "Yes, by Parliament at any time",
+      "option3": "No, except as provided by the Constitution",
+      "option4": "Yes, by the Chief Justice",
+      "answer": "No, except as provided by the Constitution"
+    },
+    {
+      "question": "A High Court judge can be removed from office by:",
+      "option1": "Governor alone",
+      "option2": "President after the required parliamentary process",
+      "option3": "Chief Justice of India alone",
+      "option4": "Chief Minister",
+      "answer": "President after the required parliamentary process"
+    },
+    {
+      "question": "Removal of a High Court judge is based on:",
+      "option1": "Political disagreement",
+      "option2": "Proved misbehaviour or incapacity",
+      "option3": "Poor attendance alone",
+      "option4": "Change of government",
+      "answer": "Proved misbehaviour or incapacity"
+    },
+    {
+      "question": "Which type of majority is required in each House of Parliament for removal of a judge?",
+      "option1": "Simple majority",
+      "option2": "Special majority",
+      "option3": "Majority of one-third members",
+      "option4": "Unanimous majority",
+      "answer": "Special majority"
+    },
+    {
+      "question": "Which court has the power to review its own judgments in appropriate cases?",
+      "option1": "High Court",
+      "option2": "District Court only",
+      "option3": "Lok Adalat only",
+      "option4": "Revenue Court only",
+      "answer": "High Court"
+    },
+    {
+      "question": "Which Article deals with the transfer of High Court judges?",
+      "option1": "Article 217",
+      "option2": "Article 222",
+      "option3": "Article 224",
+      "option4": "Article 226",
+      "answer": "Article 222"
+    },
+    {
+      "question": "Under Article 224, the Chief Justice of a High Court may request the appointment of:",
+      "option1": "Additional judges",
+      "option2": "District collectors",
+      "option3": "Members of Parliament",
+      "option4": "Governors",
+      "answer": "Additional judges"
+    },
+    {
+      "question": "Additional judges of a High Court are appointed for a period not exceeding:",
+      "option1": "One year",
+      "option2": "Two years",
+      "option3": "Three years",
+      "option4": "Five years",
+      "answer": "Two years"
+    },
+    {
+      "question": "Which Article deals with the appointment of acting Chief Justice of a High Court?",
+      "option1": "Article 223",
+      "option2": "Article 224",
+      "option3": "Article 225",
+      "option4": "Article 226",
+      "answer": "Article 223"
+    },
+    {
+      "question": "When the office of Chief Justice of a High Court is vacant, who may act as Chief Justice?",
+      "option1": "Any district judge",
+      "option2": "Another judge of that High Court as appointed under the Constitution",
+      "option3": "The Governor",
+      "option4": "The Chief Minister",
+      "answer": "Another judge of that High Court as appointed under the Constitution"
+    },
+    {
+      "question": "Which Article preserves the existing jurisdiction and powers of High Courts, subject to constitutional provisions?",
+      "option1": "Article 225",
+      "option2": "Article 226",
+      "option3": "Article 227",
+      "option4": "Article 228",
+      "answer": "Article 225"
+    },
+    {
+      "question": "Under Article 228, a High Court may withdraw a case from a subordinate court when the case involves:",
+      "option1": "A question of constitutional interpretation",
+      "option2": "A tax dispute only",
+      "option3": "A property dispute only",
+      "option4": "A service dispute only",
+      "answer": "A question of constitutional interpretation"
+    },
+    {
+      "question": "Which Article deals with the extension of jurisdiction of a High Court to a Union Territory?",
+      "option1": "Article 230",
+      "option2": "Article 231",
+      "option3": "Article 232",
+      "option4": "Article 233",
+      "answer": "Article 230"
+    },
+    {
+      "question": "A High Court can issue writs under Article 226 against:",
+      "option1": "Only private individuals",
+      "option2": "Only Parliament",
+      "option3": "Authorities within its jurisdiction in appropriate cases",
+      "option4": "Only foreign governments",
+      "answer": "Authorities within its jurisdiction in appropriate cases"
+    },
+    {
+      "question": "Which writ is commonly used to compel a public authority to perform a legal duty?",
+      "option1": "Mandamus",
+      "option2": "Habeas Corpus",
+      "option3": "Certiorari",
+      "option4": "Quo Warranto",
+      "answer": "Mandamus"
+    },
+    {
+      "question": "Which writ is generally issued against a person unlawfully holding a public office?",
+      "option1": "Habeas Corpus",
+      "option2": "Quo Warranto",
+      "option3": "Prohibition",
+      "option4": "Mandamus",
+      "answer": "Quo Warranto"
+    },
+    {
+      "question": "Which writ is preventive in nature and stops a lower judicial body from continuing proceedings beyond its jurisdiction?",
+      "option1": "Prohibition",
+      "option2": "Certiorari",
+      "option3": "Mandamus",
+      "option4": "Habeas Corpus",
+      "answer": "Prohibition"
+    },
+    {
+      "question": "Which writ is mainly corrective and may quash an order already passed by a lower court or tribunal?",
+      "option1": "Certiorari",
+      "option2": "Prohibition",
+      "option3": "Mandamus",
+      "option4": "Quo Warranto",
+      "answer": "Certiorari"
+    },
+    {
+      "question": "Which writ protects a person's liberty against unlawful detention?",
+      "option1": "Mandamus",
+      "option2": "Habeas Corpus",
+      "option3": "Certiorari",
+      "option4": "Prohibition",
+      "answer": "Habeas Corpus"
+    },
+     {
+      "question": "Which part of the Constitution deals with the Union Judiciary?",
+      "option1": "Part V",
+      "option2": "Part VI",
+      "option3": "Part III",
+      "option4": "Part IV",
+      "answer": "Part V"
+    },
+    {
+      "question": "Which part of the Constitution deals with the High Courts?",
+      "option1": "Part V",
+      "option2": "Part VI",
+      "option3": "Part III",
+      "option4": "Part XI",
+      "answer": "Part VI"
+    },
+    {
+      "question": "Which Article provides that there shall be a High Court for each State?",
+      "option1": "Article 214",
+      "option2": "Article 215",
+      "option3": "Article 216",
+      "option4": "Article 217",
+      "answer": "Article 214"
+    },
+    {
+      "question": "The strength of judges in a High Court is determined according to:",
+      "option1": "The Constitution and applicable law",
+      "option2": "The decision of the Chief Minister alone",
+      "option3": "The Governor's personal decision",
+      "option4": "The district court",
+      "answer": "The Constitution and applicable law"
+    },
+    {
+      "question": "Which of the following is NOT a requirement for appointment as a High Court judge?",
+      "option1": "Citizen of India",
+      "option2": "Ten years of judicial office",
+      "option3": "Ten years as an advocate of a High Court",
+      "option4": "Five years as a Member of Parliament",
+      "answer": "Five years as a Member of Parliament"
+    },
+    {
+      "question": "Which Article deals with the oath or affirmation by judges of High Courts?",
+      "option1": "Article 219",
+      "option2": "Article 220",
+      "option3": "Article 221",
+      "option4": "Article 222",
+      "answer": "Article 219"
+    },
+    {
+      "question": "Before entering office, a High Court judge must take an oath or affirmation before the:",
+      "option1": "Governor or a person appointed by the Governor",
+      "option2": "Prime Minister",
+      "option3": "Chief Minister",
+      "option4": "Speaker of the Assembly",
+      "answer": "Governor or a person appointed by the Governor"
+    },
+    {
+      "question": "Which Article restricts practice after retirement for a permanent High Court judge?",
+      "option1": "Article 220",
+      "option2": "Article 221",
+      "option3": "Article 222",
+      "option4": "Article 223",
+      "answer": "Article 220"
+    },
+    {
+      "question": "A permanent High Court judge cannot plead or act in:",
+      "option1": "Any court in India",
+      "option2": "Any court or authority in India except the Supreme Court and other High Courts",
+      "option3": "The Supreme Court",
+      "option4": "Only the High Court where the judge served",
+      "answer": "Any court or authority in India except the Supreme Court and other High Courts"
+    },
+    {
+      "question": "Which Article deals with the salaries of High Court judges?",
+      "option1": "Article 219",
+      "option2": "Article 220",
+      "option3": "Article 221",
+      "option4": "Article 222",
+      "answer": "Article 221"
+    },
+    {
+      "question": "Which constitutional article provides for the appointment of retired judges to sit and act as judges of a High Court?",
+      "option1": "Article 224A",
+      "option2": "Article 225",
+      "option3": "Article 226",
+      "option4": "Article 227",
+      "answer": "Article 224A"
+    },
+    {
+      "question": "Under Article 224A, a retired High Court judge may sit as a judge with the consent of the:",
+      "option1": "President",
+      "option2": "Governor",
+      "option3": "Chief Justice of the High Court",
+      "option4": "Chief Minister",
+      "answer": "Chief Justice of the High Court"
+    },
+    {
+      "question": "Which authority has administrative control over the subordinate courts in a state?",
+      "option1": "High Court",
+      "option2": "Parliament",
+      "option3": "Governor alone",
+      "option4": "State Legislature",
+      "answer": "High Court"
+    },
+    {
+      "question": "The power of superintendence under Article 227 extends over:",
+      "option1": "Only the Supreme Court",
+      "option2": "All courts and tribunals within the High Court's territorial jurisdiction, subject to constitutional limitations",
+      "option3": "Foreign courts",
+      "option4": "Only tribunals of the Union Government",
+      "answer": "All courts and tribunals within the High Court's territorial jurisdiction, subject to constitutional limitations"
+    },
+    {
+      "question": "Which court generally hears appeals against decisions of subordinate courts in a state?",
+      "option1": "High Court",
+      "option2": "Lok Sabha",
+      "option3": "Election Commission",
+      "option4": "Governor's office",
+      "answer": "High Court"
+    },
+    {
+      "question": "What is meant by territorial jurisdiction of a High Court?",
+      "option1": "The geographical area within which its judicial authority operates",
+      "option2": "Its authority over foreign countries",
+      "option3": "Its authority over Parliament",
+      "option4": "Its financial powers",
+      "answer": "The geographical area within which its judicial authority operates"
+    },
+    {
+      "question": "Which of the following is an example of appellate jurisdiction?",
+      "option1": "Hearing an appeal against a lower court judgment",
+      "option2": "Making a law",
+      "option3": "Conducting an election",
+      "option4": "Preparing the state budget",
+      "answer": "Hearing an appeal against a lower court judgment"
+    },
+    {
+      "question": "A High Court may exercise writ jurisdiction for the enforcement of:",
+      "option1": "Fundamental Rights and for other purposes",
+      "option2": "Only Directive Principles",
+      "option3": "Only Fundamental Duties",
+      "option4": "Only ordinary contracts",
+      "answer": "Fundamental Rights and for other purposes"
+    },
+    {
+      "question": "Which writ literally means 'by what authority'?",
+      "option1": "Certiorari",
+      "option2": "Mandamus",
+      "option3": "Quo Warranto",
+      "option4": "Prohibition",
+      "answer": "Quo Warranto"
+    },
+    {
+      "question": "Which writ literally means 'to have the body'?",
+      "option1": "Habeas Corpus",
+      "option2": "Mandamus",
+      "option3": "Certiorari",
+      "option4": "Prohibition",
+      "answer": "Habeas Corpus"
+    },
+    {
+      "question": "Which writ literally means 'to be certified' or 'to be informed'?",
+      "option1": "Mandamus",
+      "option2": "Certiorari",
+      "option3": "Habeas Corpus",
+      "option4": "Quo Warranto",
+      "answer": "Certiorari"
+    },
+    {
+      "question": "Which writ literally means 'to forbid'?",
+      "option1": "Prohibition",
+      "option2": "Mandamus",
+      "option3": "Certiorari",
+      "option4": "Habeas Corpus",
+      "answer": "Prohibition"
+    },
+    {
+      "question": "Which writ is generally issued against a public authority to perform a statutory duty?",
+      "option1": "Mandamus",
+      "option2": "Habeas Corpus",
+      "option3": "Prohibition",
+      "option4": "Certiorari",
+      "answer": "Mandamus"
+    },
+    {
+      "question": "Which of the following is NOT a writ mentioned in Article 226?",
+      "option1": "Habeas Corpus",
+      "option2": "Mandamus",
+      "option3": "Injunction",
+      "option4": "Certiorari",
+      "answer": "Injunction"
+    },
+    {
+      "question": "The power of judicial review enables a High Court to examine whether:",
+      "option1": "A law or executive action is consistent with the Constitution",
+      "option2": "A political party has enough members",
+      "option3": "A person should contest an election",
+      "option4": "A government should collect taxes",
+      "answer": "A law or executive action is consistent with the Constitution"
+    },
+     {
+      "question": "Which Article provides for the power of High Courts to issue certain writs?",
+      "option1": "Article 32",
+      "option2": "Article 226",
+      "option3": "Article 136",
+      "option4": "Article 143",
+      "answer": "Article 226"
+    },
+    {
+      "question": "Which Article deals with the power of High Courts to issue writs for purposes other than enforcement of Fundamental Rights also?",
+      "option1": "Article 226",
+      "option2": "Article 227",
+      "option3": "Article 228",
+      "option4": "Article 229",
+      "answer": "Article 226"
+    },
+    {
+      "question": "Which constitutional provision gives High Courts supervisory jurisdiction over subordinate courts?",
+      "option1": "Article 225",
+      "option2": "Article 226",
+      "option3": "Article 227",
+      "option4": "Article 230",
+      "answer": "Article 227"
+    },
+    {
+      "question": "Which court generally exercises control over the posting and promotion of district judges?",
+      "option1": "High Court",
+      "option2": "Supreme Court",
+      "option3": "Parliament",
+      "option4": "State Legislature",
+      "answer": "High Court"
+    },
+    {
+      "question": "Who appoints district judges in a state?",
+      "option1": "President in consultation with the Supreme Court",
+      "option2": "Governor in consultation with the High Court",
+      "option3": "Chief Minister alone",
+      "option4": "Chief Justice of India",
+      "answer": "Governor in consultation with the High Court"
+    },
+    {
+      "question": "Which Article deals with the appointment of district judges?",
+      "option1": "Article 233",
+      "option2": "Article 234",
+      "option3": "Article 235",
+      "option4": "Article 236",
+      "answer": "Article 233"
+    },
+    {
+      "question": "Which Article deals with the recruitment of persons other than district judges to the judicial service of a state?",
+      "option1": "Article 233",
+      "option2": "Article 234",
+      "option3": "Article 235",
+      "option4": "Article 237",
+      "answer": "Article 234"
+    },
+    {
+      "question": "Which Article gives the High Court control over subordinate courts?",
+      "option1": "Article 233",
+      "option2": "Article 234",
+      "option3": "Article 235",
+      "option4": "Article 236",
+      "answer": "Article 235"
+    },
+    {
+      "question": "The term 'district judge' includes which of the following under the Constitution?",
+      "option1": "Judge of a city civil court",
+      "option2": "Only a village officer",
+      "option3": "Only a magistrate",
+      "option4": "Only a revenue officer",
+      "answer": "Judge of a city civil court"
+    },
+    {
+      "question": "Which constitutional Article defines the term 'district judge'?",
+      "option1": "Article 233",
+      "option2": "Article 234",
+      "option3": "Article 236",
+      "option4": "Article 237",
+      "answer": "Article 236"
+    },
+    {
+      "question": "Which principle requires the judiciary to function independently from the executive?",
+      "option1": "Judicial independence",
+      "option2": "Collective responsibility",
+      "option3": "Cabinet responsibility",
+      "option4": "Federal taxation",
+      "answer": "Judicial independence"
+    },
+    {
+      "question": "Separation of judiciary from executive is mentioned in which Directive Principle?",
+      "option1": "Article 44",
+      "option2": "Article 45",
+      "option3": "Article 50",
+      "option4": "Article 51",
+      "answer": "Article 50"
+    },
+    {
+      "question": "Which Fundamental Right is closely associated with equality before law?",
+      "option1": "Article 14",
+      "option2": "Article 19",
+      "option3": "Article 21",
+      "option4": "Article 32",
+      "answer": "Article 14"
+    },
+    {
+      "question": "Which Article guarantees protection of life and personal liberty?",
+      "option1": "Article 14",
+      "option2": "Article 19",
+      "option3": "Article 21",
+      "option4": "Article 22",
+      "answer": "Article 21"
+    },
+    {
+      "question": "Which Article provides protection against arrest and detention in certain cases?",
+      "option1": "Article 19",
+      "option2": "Article 20",
+      "option3": "Article 21",
+      "option4": "Article 22",
+      "answer": "Article 22"
+    },
+    {
+      "question": "Which principle states that no person should be deprived of liberty except according to procedure established by law?",
+      "option1": "Article 14",
+      "option2": "Article 19",
+      "option3": "Article 21",
+      "option4": "Article 25",
+      "answer": "Article 21"
+    },
+    {
+      "question": "Which court can hear a petition challenging the violation of Fundamental Rights within its jurisdiction?",
+      "option1": "High Court",
+      "option2": "Lok Sabha",
+      "option3": "Election Commission",
+      "option4": "State Legislature",
+      "answer": "High Court"
+    },
+    {
+      "question": "Which constitutional remedy allows a person to approach a High Court for protection of legal rights?",
+      "option1": "Writ jurisdiction",
+      "option2": "Legislative privilege",
+      "option3": "Executive order",
+      "option4": "Financial procedure",
+      "answer": "Writ jurisdiction"
+    },
+    {
+      "question": "A petition filed directly before a High Court under Article 226 is commonly called a:",
+      "option1": "Writ petition",
+      "option2": "Money bill",
+      "option3": "Review bill",
+      "option4": "Finance petition",
+      "answer": "Writ petition"
+    },
+    {
+      "question": "Which court can transfer a constitutional case from a subordinate court to itself under Article 228?",
+      "option1": "High Court",
+      "option2": "District Court",
+      "option3": "Lok Adalat",
+      "option4": "Tribunal",
+      "answer": "High Court"
+    },
+    {
+      "question": "What is meant by 'contempt of court'?",
+      "option1": "Disobedience of or interference with the authority of a court",
+      "option2": "Filing a civil case",
+      "option3": "Appealing a judgment",
+      "option4": "Giving evidence in court",
+      "answer": "Disobedience of or interference with the authority of a court"
+    },
+    {
+      "question": "Which constitutional status enables a High Court to punish for contempt of itself?",
+      "option1": "Court of record",
+      "option2": "Court of first instance",
+      "option3": "Revenue authority",
+      "option4": "Administrative tribunal",
+      "answer": "Court of record"
+    },
+    {
+      "question": "Which court is normally the final court of appeal within a state, subject to the jurisdiction of the Supreme Court?",
+      "option1": "High Court",
+      "option2": "District Court",
+      "option3": "Civil Judge Court",
+      "option4": "Lok Adalat",
+      "answer": "High Court"
+    },
+    {
+      "question": "Which type of case generally concerns disputes between individuals or organizations over rights and obligations?",
+      "option1": "Civil case",
+      "option2": "Criminal case",
+      "option3": "Constitutional amendment",
+      "option4": "Election notification",
+      "answer": "Civil case"
+    },
+    {
+      "question": "Which type of case generally concerns an alleged offence against law?",
+      "option1": "Civil case",
+      "option2": "Criminal case",
+      "option3": "Administrative order",
+      "option4": "Contract registration",
+      "answer": "Criminal case"
+    },
+    {
+      "question": "Which Article of the Constitution provides for the establishment of a common High Court for two or more states or for two or more states and a Union Territory?",
+      "option1": "Article 229",
+      "option2": "Article 230",
+      "option3": "Article 231",
+      "option4": "Article 232",
+      "answer": "Article 231"
+    },
+    {
+      "question": "Which court has jurisdiction over constitutional matters arising within its territorial jurisdiction?",
+      "option1": "High Court",
+      "option2": "District Court only",
+      "option3": "Revenue Court only",
+      "option4": "Lok Adalat only",
+      "answer": "High Court"
+    },
+    {
+      "question": "What is the main purpose of an appellate court?",
+      "option1": "To review decisions of lower courts",
+      "option2": "To make laws",
+      "option3": "To conduct elections",
+      "option4": "To collect taxes",
+      "answer": "To review decisions of lower courts"
+    },
+    {
+      "question": "Which jurisdiction allows a High Court to hear certain cases in the first instance?",
+      "option1": "Original jurisdiction",
+      "option2": "Appellate jurisdiction",
+      "option3": "Advisory jurisdiction",
+      "option4": "Legislative jurisdiction",
+      "answer": "Original jurisdiction"
+    },
+    {
+      "question": "Which jurisdiction allows a High Court to examine decisions of subordinate courts?",
+      "option1": "Appellate jurisdiction",
+      "option2": "Original jurisdiction only",
+      "option3": "Advisory jurisdiction",
+      "option4": "Legislative jurisdiction",
+      "answer": "Appellate jurisdiction"
+    },
+    {
+      "question": "A court exercising supervisory jurisdiction primarily checks whether a subordinate court has:",
+      "option1": "Acted within its jurisdiction",
+      "option2": "Collected taxes",
+      "option3": "Passed the annual budget",
+      "option4": "Conducted elections",
+      "answer": "Acted within its jurisdiction"
+    },
+    {
+      "question": "Which constitutional provision is associated with the independence of the subordinate judiciary from the executive?",
+      "option1": "Article 50",
+      "option2": "Article 51",
+      "option3": "Article 52",
+      "option4": "Article 53",
+      "answer": "Article 50"
+    },
+    {
+      "question": "Which body is generally responsible for the administration of the High Court?",
+      "option1": "The High Court itself through its Chief Justice and judges",
+      "option2": "The Election Commission",
+      "option3": "The Finance Commission",
+      "option4": "The Parliament Secretariat",
+      "answer": "The High Court itself through its Chief Justice and judges"
+    },
+    {
+      "question": "Who is the head of the judicial administration of a High Court?",
+      "option1": "Chief Justice",
+      "option2": "Governor",
+      "option3": "Chief Minister",
+      "option4": "Advocate General",
+      "answer": "Chief Justice"
+    },
+    {
+      "question": "The Advocate General of a state is appointed by the:",
+      "option1": "President",
+      "option2": "Governor",
+      "option3": "Chief Justice of the High Court",
+      "option4": "Chief Minister",
+      "answer": "Governor"
+    },
+    {
+      "question": "Which Article deals with the Advocate General for a state?",
+      "option1": "Article 163",
+      "option2": "Article 164",
+      "option3": "Article 165",
+      "option4": "Article 166",
+      "answer": "Article 165"
+    },
+    {
+      "question": "The Advocate General has the right to speak in the proceedings of the state legislature but normally does not have the right to:",
+      "option1": "Vote",
+      "option2": "Speak",
+      "option3": "Participate in discussions",
+      "option4": "Appear before courts",
+      "answer": "Vote"
+    },
+    {
+      "question": "Who is the highest law officer of a state?",
+      "option1": "Attorney General of India",
+      "option2": "Advocate General",
+      "option3": "Solicitor General",
+      "option4": "Public Prosecutor",
+      "answer": "Advocate General"
+    },
+    {
+      "question": "Who is the highest law officer of India?",
+      "option1": "Advocate General",
+      "option2": "Attorney General of India",
+      "option3": "Solicitor General",
+      "option4": "Law Secretary",
+      "answer": "Attorney General of India"
+    },
+    {
+      "question": "Which Article provides for the Attorney General of India?",
+      "option1": "Article 74",
+      "option2": "Article 75",
+      "option3": "Article 76",
+      "option4": "Article 77",
+      "answer": "Article 76"
+    },
+    {
+      "question": "Which principle prevents a court from deciding a matter when it has no legal authority over it?",
+      "option1": "Jurisdiction",
+      "option2": "Legislation",
+      "option3": "Delegation",
+      "option4": "Representation",
+      "answer": "Jurisdiction"
+    },
+    {
+      "question": "What does 'jurisdiction' mean in the context of a court?",
+      "option1": "Legal authority to hear and decide a case",
+      "option2": "Power to make the Constitution",
+      "option3": "Power to conduct elections",
+      "option4": "Power to collect revenue",
+      "answer": "Legal authority to hear and decide a case"
+    },
+    {
+      "question": "Which principle requires a judge to decide a case fairly and without personal interest?",
+      "option1": "Natural justice",
+      "option2": "Collective responsibility",
+      "option3": "Cabinet secrecy",
+      "option4": "Financial control",
+      "answer": "Natural justice"
+    },
+    {
+      "question": "Which principle means that no person should be condemned without being given an opportunity to be heard?",
+      "option1": "Audi alteram partem",
+      "option2": "Res judicata",
+      "option3": "Stare decisis",
+      "option4": "Ratio decidendi",
+      "answer": "Audi alteram partem"
+    },
+    {
+      "question": "The principle 'nemo judex in causa sua' means:",
+      "option1": "No one should be a judge in their own cause",
+      "option2": "Every case must be appealed",
+      "option3": "Every person must have a lawyer",
+      "option4": "A judgment must be written",
+      "answer": "No one should be a judge in their own cause"
+    },
+    {
+      "question": "What is meant by 'res judicata'?",
+      "option1": "A matter already finally decided by a competent court",
+      "option2": "A matter awaiting trial",
+      "option3": "A newly filed criminal case",
+      "option4": "A case transferred to another state",
+      "answer": "A matter already finally decided by a competent court"
+    },
+    {
+      "question": "What does the principle of 'stare decisis' generally mean?",
+      "option1": "Following established judicial precedents",
+      "option2": "Rejecting all previous judgments",
+      "option3": "Avoiding constitutional cases",
+      "option4": "Transferring all cases",
+      "answer": "Following established judicial precedents"
+    },
+    {
+      "question": "The binding part of a judicial decision that establishes a legal principle is known as:",
+      "option1": "Ratio decidendi",
+      "option2": "Obiter dictum",
+      "option3": "Preamble",
+      "option4": "Affidavit",
+      "answer": "Ratio decidendi"
+    },
+    {
+      "question": "A statement made by a judge that is not essential to the decision is generally called:",
+      "option1": "Ratio decidendi",
+      "option2": "Obiter dictum",
+      "option3": "Decree",
+      "option4": "Writ",
+      "answer": "Obiter dictum"
+    },
+    {
+      "question": "Which Article states that the law declared by the Supreme Court shall be binding on all courts in India?",
+      "option1": "Article 136",
+      "option2": "Article 141",
+      "option3": "Article 142",
+      "option4": "Article 144",
+      "answer": "Article 141"
+    },
+    {
+      "question": "Which Article requires all authorities, civil and judicial, in India to act in aid of the Supreme Court?",
+      "option1": "Article 141",
+      "option2": "Article 142",
+      "option3": "Article 144",
+      "option4": "Article 145",
+      "answer": "Article 144"
+    },
+    {
+      "question": "Which constitutional principle allows courts to invalidate laws that violate the Constitution?",
+      "option1": "Judicial review",
+      "option2": "Judicial appointment",
+      "option3": "Judicial transfer",
+      "option4": "Judicial administration",
+      "answer": "Judicial review"
+    },
+    {
+      "question": "Which Fundamental Right is most directly connected with the right to approach the courts for enforcement of Fundamental Rights?",
+      "option1": "Right to Equality",
+      "option2": "Right to Freedom",
+      "option3": "Right to Constitutional Remedies",
+      "option4": "Right against Exploitation",
+      "answer": "Right to Constitutional Remedies"
+    },
+    {
+      "question": "Which Article is associated with the Right to Constitutional Remedies?",
+      "option1": "Article 30",
+      "option2": "Article 32",
+      "option3": "Article 35",
+      "option4": "Article 36",
+      "answer": "Article 32"
+    },
+    {
+      "question": "Which court has wider writ jurisdiction under the Constitution in terms of the purposes for which writs may be issued?",
+      "option1": "High Court",
+      "option2": "District Court",
+      "option3": "Lok Adalat",
+      "option4": "Revenue Court",
+      "answer": "High Court"
+    },
+    {
+      "question": "A High Court may refuse to exercise writ jurisdiction when an effective:",
+      "option1": "Alternative remedy is available in appropriate circumstances",
+      "option2": "Election is pending",
+      "option3": "Government changes",
+      "option4": "Parliament is in session",
+      "answer": "Alternative remedy is available in appropriate circumstances"
+    },
+    {
+      "question": "Which court normally hears appeals from decisions of a District and Sessions Court?",
+      "option1": "High Court",
+      "option2": "Village Court",
+      "option3": "Lok Sabha",
+      "option4": "Revenue Board only",
+      "answer": "High Court"
+    },
+    {
+      "question": "The Chief Justice of a High Court is appointed by the:",
+      "option1": "President of India",
+      "option2": "Governor",
+      "option3": "Chief Minister",
+      "option4": "Chief Justice of India alone",
+      "answer": "President of India"
+    },
+    {
+      "question": "In appointing a High Court judge, the President consults the:",
+      "option1": "Chief Justice of India and other constitutionally specified authorities",
+      "option2": "Election Commission only",
+      "option3": "Finance Commission only",
+      "option4": "Lok Sabha Speaker only",
+      "answer": "Chief Justice of India and other constitutionally specified authorities"
+    },
+    {
+      "question": "Which authority is constitutionally consulted when a judge is appointed to a High Court for a particular state?",
+      "option1": "Governor of the State",
+      "option2": "Mayor of the State capital",
+      "option3": "District Collector",
+      "option4": "State Election Commissioner",
+      "answer": "Governor of the State"
+    },
+    {
+      "question": "A High Court judge normally holds office until attaining the age of:",
+      "option1": "60 years",
+      "option2": "62 years",
+      "option3": "65 years",
+      "option4": "70 years",
+      "answer": "62 years"
+    },
+    {
+      "question": "Which of the following can be a ground for removal of a High Court judge?",
+      "option1": "Proved misbehaviour",
+      "option2": "Disagreement with a lawyer",
+      "option3": "Change in government",
+      "option4": "Change in residence",
+      "answer": "Proved misbehaviour"
+    },
+    {
+      "question": "Who issues the final order of removal of a High Court judge after the required parliamentary process?",
+      "option1": "President of India",
+      "option2": "Governor",
+      "option3": "Chief Justice of India",
+      "option4": "Prime Minister",
+      "answer": "President of India"
+    },
+    {
+      "question": "The procedure for removal of a High Court judge is similar to that of a:",
+      "option1": "Supreme Court judge",
+      "option2": "District Collector",
+      "option3": "Member of a Municipal Corporation",
+      "option4": "Governor",
+      "answer": "Supreme Court judge"
+    },
+    {
+      "question": "Which body conducts the proceedings for considering a motion for removal of a judge in Parliament?",
+      "option1": "Parliament",
+      "option2": "State Legislature",
+      "option3": "Election Commission",
+      "option4": "Supreme Court registry",
+      "answer": "Parliament"
+    },
+    {
+      "question": "Which constitutional provision protects the independence of the judiciary by separating it from the executive?",
+      "option1": "Article 50",
+      "option2": "Article 51A",
+      "option3": "Article 52",
+      "option4": "Article 53",
+      "answer": "Article 50"
+    },
+    {
+      "question": "Which of the following is an important function of a High Court?",
+      "option1": "Interpreting laws and the Constitution",
+      "option2": "Passing the Union Budget",
+      "option3": "Conducting parliamentary elections",
+      "option4": "Appointing the President",
+      "answer": "Interpreting laws and the Constitution"
+    },
+    {
+      "question": "Which court can exercise constitutional judicial review over actions of state authorities?",
+      "option1": "High Court",
+      "option2": "Gram Panchayat",
+      "option3": "Municipal Corporation",
+      "option4": "State Election Commission",
+      "answer": "High Court"
+    },
+    {
+      "question": "What is a 'stay order' issued by a court?",
+      "option1": "An order temporarily suspending an action or proceeding",
+      "option2": "A final judgment in every case",
+      "option3": "A law passed by Parliament",
+      "option4": "An election notification",
+      "answer": "An order temporarily suspending an action or proceeding"
+    },
+    {
+      "question": "What is an affidavit?",
+      "option1": "A written statement sworn to be true",
+      "option2": "A court building",
+      "option3": "A type of judgment",
+      "option4": "A legislative bill",
+      "answer": "A written statement sworn to be true"
+    },
+    {
+      "question": "Who usually represents the government of a state in legal proceedings before the High Court?",
+      "option1": "Government advocate or law officer",
+      "option2": "District Collector",
+      "option3": "Police Commissioner only",
+      "option4": "Speaker of the Assembly",
+      "answer": "Government advocate or law officer"
+    },
+    {
+      "question": "What is a 'bench' in a High Court?",
+      "option1": "A judge or group of judges hearing a case",
+      "option2": "A government department",
+      "option3": "A police unit",
+      "option4": "A legislative committee",
+      "answer": "A judge or group of judges hearing a case"
+    },
+    {
+      "question": "A bench consisting of more than one judge is commonly called a:",
+      "option1": "Division Bench",
+      "option2": "Single Bench",
+      "option3": "Revenue Bench",
+      "option4": "Village Bench",
+      "answer": "Division Bench"
+    },
+    {
+      "question": "A case heard by only one judge of a High Court is generally heard by a:",
+      "option1": "Single Bench",
+      "option2": "Division Bench",
+      "option3": "Full Parliament Bench",
+      "option4": "Constitutional Assembly Bench",
+      "answer": "Single Bench"
+    },
+    {
+      "question": "A larger bench constituted to decide an important question of law may be called a:",
+      "option1": "Full Bench",
+      "option2": "Revenue Bench",
+      "option3": "Election Bench",
+      "option4": "Administrative Committee",
+      "answer": "Full Bench"
+    },
+    {
+      "question": "What is meant by a 'constitutional bench'?",
+      "option1": "A bench constituted to hear cases involving substantial questions of constitutional interpretation",
+      "option2": "A bench dealing only with property disputes",
+      "option3": "A bench dealing only with tax matters",
+      "option4": "A bench of district judges",
+      "answer": "A bench constituted to hear cases involving substantial questions of constitutional interpretation"
+    },
+    {
+      "question": "Which Article deals with the transfer of cases involving substantial constitutional questions to a High Court?",
+      "option1": "Article 226",
+      "option2": "Article 227",
+      "option3": "Article 228",
+      "option4": "Article 229",
+      "answer": "Article 228"
+    },
+    {
+      "question": "What is meant by 'legal aid'?",
+      "option1": "Free legal assistance to eligible persons",
+      "option2": "Payment of court fees by judges",
+      "option3": "Government funding for political parties",
+      "option4": "A court penalty",
+      "answer": "Free legal assistance to eligible persons"
+    },
+    {
+      "question": "Which constitutional provision directs the State to provide free legal aid?",
+      "option1": "Article 39A",
+      "option2": "Article 40",
+      "option3": "Article 41",
+      "option4": "Article 42",
+      "answer": "Article 39A"
+    },
+    {
+      "question": "The main objective of free legal aid is to ensure:",
+      "option1": "Equal access to justice",
+      "option2": "Higher court fees",
+      "option3": "Faster elections",
+      "option4": "More government employees",
+      "answer": "Equal access to justice"
+    },
+    {
+      "question": "What is Lok Adalat primarily intended for?",
+      "option1": "Amicable settlement of disputes",
+      "option2": "Conducting criminal investigations",
+      "option3": "Making constitutional amendments",
+      "option4": "Appointing judges",
+      "answer": "Amicable settlement of disputes"
+    },
+    {
+      "question": "Which authority generally organizes Lok Adalats at the state level?",
+      "option1": "State Legal Services Authority",
+      "option2": "Election Commission",
+      "option3": "State Public Service Commission",
+      "option4": "Finance Commission",
+      "answer": "State Legal Services Authority"
+    },
+    {
+      "question": "What is the main advantage of alternative dispute resolution?",
+      "option1": "It can reduce time and expense in resolving disputes",
+      "option2": "It eliminates all courts",
+      "option3": "It changes the Constitution",
+      "option4": "It replaces Parliament",
+      "answer": "It can reduce time and expense in resolving disputes"
+    },
+    {
+      "question": "Which of the following is an alternative dispute resolution method?",
+      "option1": "Mediation",
+      "option2": "Legislation",
+      "option3": "Election",
+      "option4": "Referendum",
+      "answer": "Mediation"
+    },
+    {
+      "question": "In mediation, the mediator primarily:",
+      "option1": "Helps parties reach a mutually acceptable settlement",
+      "option2": "Acts as a police officer",
+      "option3": "Passes a criminal sentence",
+      "option4": "Makes laws",
+      "answer": "Helps parties reach a mutually acceptable settlement"
+    },
+    {
+      "question": "What is arbitration?",
+      "option1": "A process where a neutral arbitrator decides a dispute according to the applicable procedure",
+      "option2": "A parliamentary debate",
+      "option3": "A police investigation",
+      "option4": "A constitutional amendment",
+      "answer": "A process where a neutral arbitrator decides a dispute according to the applicable procedure"
+    },
+    {
+      "question": "What is a decree in civil procedure?",
+      "option1": "A formal expression of an adjudication conclusively determining rights of parties",
+      "option2": "A police report",
+      "option3": "A legislative bill",
+      "option4": "An election result",
+      "answer": "A formal expression of an adjudication conclusively determining rights of parties"
+    },
+    {
+      "question": "What is a judgment?",
+      "option1": "The statement of the grounds for a decree or order",
+      "option2": "A police complaint",
+      "option3": "A legislative notification",
+      "option4": "A government budget",
+      "answer": "The statement of the grounds for a decree or order"
+    },
+    {
+      "question": "What is an appeal?",
+      "option1": "A request to a higher court to examine a decision of a lower court",
+      "option2": "A request to Parliament to make a law",
+      "option3": "A police investigation",
+      "option4": "A government appointment",
+      "answer": "A request to a higher court to examine a decision of a lower court"
+    },
+    {
+      "question": "What is a review petition?",
+      "option1": "A request to the same court to reconsider its judgment on legally recognized grounds",
+      "option2": "An appeal to the Election Commission",
+      "option3": "A request to the police to reopen every case",
+      "option4": "A legislative proposal",
+      "answer": "A request to the same court to reconsider its judgment on legally recognized grounds"
+    },
+    {
+      "question": "What is a revision petition generally concerned with?",
+      "option1": "Supervisory examination of certain orders or proceedings of subordinate courts",
+      "option2": "Appointment of judges",
+      "option3": "Conduct of elections",
+      "option4": "Preparation of budgets",
+      "answer": "Supervisory examination of certain orders or proceedings of subordinate courts"
+    },
+    {
+      "question": "What is a caveat in legal proceedings?",
+      "option1": "A request to a court that no order be passed without hearing the person lodging the caveat",
+      "option2": "A criminal sentence",
+      "option3": "A police warrant",
+      "option4": "A tax notice",
+      "answer": "A request to a court that no order be passed without hearing the person lodging the caveat"
+    },
+    {
+      "question": "What is an interim order?",
+      "option1": "A temporary order passed during the pendency of a case",
+      "option2": "A final constitutional amendment",
+      "option3": "A permanent law",
+      "option4": "An election result",
+      "answer": "A temporary order passed during the pendency of a case"
+    },
+    {
+      "question": "What is an ex parte order?",
+      "option1": "An order passed in the absence of one party",
+      "option2": "An order passed by Parliament",
+      "option3": "An order passed by a police officer",
+      "option4": "An order passed by a governor",
+      "answer": "An order passed in the absence of one party"
+    },
+    {
+      "question": "What is a public interest litigation commonly known as?",
+      "option1": "PIL",
+      "option2": "FIR",
+      "option3": "RTI",
+      "option4": "ADR",
+      "answer": "PIL"
+    },
+    {
+      "question": "The main purpose of Public Interest Litigation is to:",
+      "option1": "Address matters affecting public interest and protect legal or constitutional rights",
+      "option2": "Settle private business contracts only",
+      "option3": "Conduct elections",
+      "option4": "Collect government revenue",
+      "answer": "Address matters affecting public interest and protect legal or constitutional rights"
+    },
+    {
+      "question": "Which court can entertain a PIL under Article 226?",
+      "option1": "High Court",
+      "option2": "District Court only",
+      "option3": "Revenue Court only",
+      "option4": "Lok Adalat only",
+      "answer": "High Court"
+    },
+    {
+      "question": "What is an 'amicus curiae'?",
+      "option1": "A person who assists the court by providing relevant information or legal assistance",
+      "option2": "A court clerk",
+      "option3": "A police officer",
+      "option4": "A government minister",
+      "answer": "A person who assists the court by providing relevant information or legal assistance"
+    },
+    {
+      "question": "What is meant by 'bail'?",
+      "option1": "Temporary release of an accused subject to conditions",
+      "option2": "Final acquittal in every case",
+      "option3": "Permanent cancellation of charges",
+      "option4": "A civil decree",
+      "answer": "Temporary release of an accused subject to conditions"
+    },
+    {
+      "question": "Which court may hear an appeal against certain bail orders passed by subordinate courts?",
+      "option1": "High Court",
+      "option2": "Election Commission",
+      "option3": "Parliament",
+      "option4": "Governor's office",
+      "answer": "High Court"
+    },
+     {
+      "question": "What is an FIR?",
+      "option1": "First Information Report",
+      "option2": "Final Investigation Record",
+      "option3": "Federal Investigation Rule",
+      "option4": "First Judicial Review",
+      "answer": "First Information Report"
+    },
+    {
+      "question": "An FIR is generally registered in connection with:",
+      "option1": "A cognizable offence",
+      "option2": "A civil contract",
+      "option3": "A property registration",
+      "option4": "A tax assessment",
+      "answer": "A cognizable offence"
+    },
+    {
+      "question": "What is a charge sheet?",
+      "option1": "A police report submitted after investigation alleging commission of an offence",
+      "option2": "A civil court judgment",
+      "option3": "A High Court writ",
+      "option4": "A legislative bill",
+      "answer": "A police report submitted after investigation alleging commission of an offence"
+    },
+    {
+      "question": "What is meant by 'beyond reasonable doubt'?",
+      "option1": "The standard generally applied for proving guilt in a criminal trial",
+      "option2": "The standard for passing a budget",
+      "option3": "The standard for filing a civil suit",
+      "option4": "The standard for appointing judges",
+      "answer": "The standard generally applied for proving guilt in a criminal trial"
+    },
+    {
+      "question": "In a criminal case, the burden of proving the accused's guilt generally lies on the:",
+      "option1": "Prosecution",
+      "option2": "Judge",
+      "option3": "Defence lawyer",
+      "option4": "Court clerk",
+      "answer": "Prosecution"
+    },
+    {
+      "question": "The principle that an accused is considered innocent until proven guilty is known as:",
+      "option1": "Presumption of innocence",
+      "option2": "Judicial review",
+      "option3": "Res judicata",
+      "option4": "Natural justice",
+      "answer": "Presumption of innocence"
+    },
+    {
+      "question": "What is an acquittal?",
+      "option1": "A judgment finding the accused not guilty",
+      "option2": "An order of arrest",
+      "option3": "A civil decree",
+      "option4": "A writ petition",
+      "answer": "A judgment finding the accused not guilty"
+    },
+    {
+      "question": "What is a conviction?",
+      "option1": "A finding that an accused is guilty of an offence",
+      "option2": "A temporary release from custody",
+      "option3": "A civil settlement",
+      "option4": "A constitutional amendment",
+      "answer": "A finding that an accused is guilty of an offence"
+    },
+    {
+      "question": "What is an injunction?",
+      "option1": "A court order directing a person to do or refrain from doing a specified act",
+      "option2": "A police complaint",
+      "option3": "A legislative debate",
+      "option4": "A tax return",
+      "answer": "A court order directing a person to do or refrain from doing a specified act"
+    },
+    {
+      "question": "What is a summons?",
+      "option1": "A formal order requiring a person to appear before a court",
+      "option2": "A final judgment",
+      "option3": "A constitutional amendment",
+      "option4": "A police licence",
+      "answer": "A formal order requiring a person to appear before a court"
+    },
+    {
+      "question": "What is a warrant?",
+      "option1": "A legal authorization issued by a competent authority, such as a court",
+      "option2": "A civil agreement",
+      "option3": "A court judgment in every case",
+      "option4": "A parliamentary resolution",
+      "answer": "A legal authorization issued by a competent authority, such as a court"
+    },
+    {
+      "question": "What is meant by 'contempt of court' in relation to a court order?",
+      "option1": "Wilful disobedience of a court order may amount to civil contempt",
+      "option2": "Filing an appeal",
+      "option3": "Giving evidence",
+      "option4": "Hiring a lawyer",
+      "answer": "Wilful disobedience of a court order may amount to civil contempt"
+    },
+    {
+      "question": "Which Article is associated with the power of the High Court to punish for contempt of itself?",
+      "option1": "Article 215",
+      "option2": "Article 216",
+      "option3": "Article 217",
+      "option4": "Article 218",
+      "answer": "Article 215"
+    },
+    {
+      "question": "Which Article deals with the transfer of a judge from one High Court to another?",
+      "option1": "Article 220",
+      "option2": "Article 221",
+      "option3": "Article 222",
+      "option4": "Article 223",
+      "answer": "Article 222"
+    },
+    {
+      "question": "Which Article deals with the appointment of an acting Chief Justice of a High Court?",
+      "option1": "Article 221",
+      "option2": "Article 222",
+      "option3": "Article 223",
+      "option4": "Article 224",
+      "answer": "Article 223"
+    },
+    {
+      "question": "Which Article deals with additional and acting judges of High Courts?",
+      "option1": "Article 222",
+      "option2": "Article 223",
+      "option3": "Article 224",
+      "option4": "Article 225",
+      "answer": "Article 224"
+    },
+    {
+      "question": "Which Article deals with the jurisdiction and powers of existing High Courts?",
+      "option1": "Article 224",
+      "option2": "Article 225",
+      "option3": "Article 226",
+      "option4": "Article 227",
+      "answer": "Article 225"
+    },
+    {
+      "question": "Which Article deals with the power of High Courts to issue certain writs?",
+      "option1": "Article 225",
+      "option2": "Article 226",
+      "option3": "Article 227",
+      "option4": "Article 228",
+      "answer": "Article 226"
+    },
+    {
+      "question": "Which Article deals with the High Court's power of superintendence?",
+      "option1": "Article 226",
+      "option2": "Article 227",
+      "option3": "Article 228",
+      "option4": "Article 229",
+      "answer": "Article 227"
+    },
+    {
+      "question": "Which Article deals with the transfer of certain cases from subordinate courts to High Courts?",
+      "option1": "Article 227",
+      "option2": "Article 228",
+      "option3": "Article 229",
+      "option4": "Article 230",
+      "answer": "Article 228"
+    },
+    {
+      "question": "Which Article deals with officers and servants of High Courts?",
+      "option1": "Article 228",
+      "option2": "Article 229",
+      "option3": "Article 230",
+      "option4": "Article 231",
+      "answer": "Article 229"
+    },
+    {
+      "question": "Which Article permits Parliament to extend the jurisdiction of a High Court to a Union Territory?",
+      "option1": "Article 229",
+      "option2": "Article 230",
+      "option3": "Article 231",
+      "option4": "Article 232",
+      "answer": "Article 230"
+    },
+    {
+      "question": "Which Article provides for a common High Court for two or more states or states and a Union Territory?",
+      "option1": "Article 229",
+      "option2": "Article 230",
+      "option3": "Article 231",
+      "option4": "Article 232",
+      "answer": "Article 231"
+    },
+    {
+      "question": "Which constitutional provision deals with the appointment of persons to the state judicial service other than district judges?",
+      "option1": "Article 233",
+      "option2": "Article 234",
+      "option3": "Article 235",
+      "option4": "Article 236",
+      "answer": "Article 234"
+    },
+    {
+      "question": "Which Article gives the High Court control over district courts and courts subordinate to it?",
+      "option1": "Article 233",
+      "option2": "Article 234",
+      "option3": "Article 235",
+      "option4": "Article 236",
+      "answer": "Article 235"
+    }
+  ]
+}

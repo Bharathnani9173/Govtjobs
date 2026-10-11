@@ -1,0 +1,1769 @@
+{
+  "exam": "SSC CHSL",
+  "questions": [
+    {
+      "question": "Find the odd one out: Apple, Mango, Banana, Carrot",
+      "option1": "Apple",
+      "option2": "Mango",
+      "option3": "Banana",
+      "option4": "Carrot",
+      "answer": "Carrot"
+    },
+    {
+      "question": "Find the odd one out: 2, 3, 5, 9",
+      "option1": "2",
+      "option2": "3",
+      "option3": "5",
+      "option4": "9",
+      "answer": "9"
+    },
+    {
+      "question": "Book is related to Reading in the same way as Food is related to:",
+      "option1": "Cooking",
+      "option2": "Eating",
+      "option3": "Buying",
+      "option4": "Serving",
+      "answer": "Eating"
+    },
+    {
+      "question": "Doctor is related to Hospital in the same way as Teacher is related to:",
+      "option1": "School",
+      "option2": "Court",
+      "option3": "Bank",
+      "option4": "Market",
+      "answer": "School"
+    },
+    {
+      "question": "If CAT is coded as DBU, how is DOG coded?",
+      "option1": "EPH",
+      "option2": "EOH",
+      "option3": "FPH",
+      "option4": "DPG",
+      "answer": "EPH"
+    },
+    {
+      "question": "If PEN is coded as QFO, how is BOOK coded?",
+      "option1": "CPPL",
+      "option2": "CQQM",
+      "option3": "BPPL",
+      "option4": "CQPL",
+      "answer": "CPPL"
+    },
+    {
+      "question": "Complete the series: 2, 4, 8, 16, ?",
+      "option1": "24",
+      "option2": "30",
+      "option3": "32",
+      "option4": "36",
+      "answer": "32"
+    },
+    {
+      "question": "Complete the series: 5, 10, 15, 20, ?",
+      "option1": "22",
+      "option2": "25",
+      "option3": "30",
+      "option4": "35",
+      "answer": "25"
+    },
+    {
+      "question": "Complete the series: 3, 6, 12, 24, ?",
+      "option1": "36",
+      "option2": "42",
+      "option3": "48",
+      "option4": "54",
+      "answer": "48"
+    },
+    {
+      "question": "Complete the series: 81, 27, 9, 3, ?",
+      "option1": "1",
+      "option2": "2",
+      "option3": "0",
+      "option4": "6",
+      "answer": "1"
+    },
+    {
+      "question": "Complete the alphabet series: A, C, E, G, ?",
+      "option1": "H",
+      "option2": "I",
+      "option3": "J",
+      "option4": "K",
+      "answer": "I"
+    },
+    {
+      "question": "Complete the alphabet series: B, E, H, K, ?",
+      "option1": "M",
+      "option2": "N",
+      "option3": "O",
+      "option4": "P",
+      "answer": "N"
+    },
+    {
+      "question": "Complete the series: 1, 4, 9, 16, ?",
+      "option1": "20",
+      "option2": "24",
+      "option3": "25",
+      "option4": "30",
+      "answer": "25"
+    },
+    {
+      "question": "Complete the series: 2, 6, 12, 20, ?",
+      "option1": "28",
+      "option2": "30",
+      "option3": "32",
+      "option4": "36",
+      "answer": "30"
+    },
+    {
+      "question": "If A = 1, B = 2, C = 3, what is the value of CAB?",
+      "option1": "5",
+      "option2": "6",
+      "option3": "7",
+      "option4": "8",
+      "answer": "6"
+    },
+    {
+      "question": "Which word cannot be formed from the letters of 'COMPUTER'?",
+      "option1": "COME",
+      "option2": "MUTE",
+      "option3": "TERM",
+      "option4": "ROPE",
+      "answer": "ROPE"
+    },
+    {
+      "question": "If SOUTH is written as HTUOS, how is NORTH written?",
+      "option1": "HTRON",
+      "option2": "HTRON",
+      "option3": "NHTRO",
+      "option4": "TNRHO",
+      "answer": "HTRON"
+    },
+    {
+      "question": "Ravi walks 5 km north and then 3 km east. In which direction is he from his starting point?",
+      "option1": "North-East",
+      "option2": "North-West",
+      "option3": "South-East",
+      "option4": "South-West",
+      "answer": "North-East"
+    },
+    {
+      "question": "A person walks 4 km south and then 4 km west. In which direction is he from the starting point?",
+      "option1": "North-East",
+      "option2": "North-West",
+      "option3": "South-East",
+      "option4": "South-West",
+      "answer": "South-West"
+    },
+    {
+      "question": "A man faces east. He turns left, then left again. Which direction is he facing?",
+      "option1": "East",
+      "option2": "West",
+      "option3": "North",
+      "option4": "South",
+      "answer": "West"
+    },
+    {
+      "question": "A man faces north. He turns right and then right again. Which direction is he facing?",
+      "option1": "North",
+      "option2": "South",
+      "option3": "East",
+      "option4": "West",
+      "answer": "South"
+    },
+    {
+      "question": "Pointing to a man, Ravi says, 'He is the son of my father's only son.' How is the man related to Ravi?",
+      "option1": "Brother",
+      "option2": "Son",
+      "option3": "Father",
+      "option4": "Uncle",
+      "answer": "Son"
+    },
+    {
+      "question": "A is the brother of B. B is the sister of C. How is A related to C?",
+      "option1": "Brother",
+      "option2": "Sister",
+      "option3": "Father",
+      "option4": "Uncle",
+      "answer": "Brother"
+    },
+    {
+      "question": "P is the mother of Q. Q is the father of R. How is P related to R?",
+      "option1": "Mother",
+      "option2": "Grandmother",
+      "option3": "Sister",
+      "option4": "Aunt",
+      "answer": "Grandmother"
+    },
+    {
+      "question": "If today is Monday, what day will it be after 10 days?",
+      "option1": "Wednesday",
+      "option2": "Thursday",
+      "option3": "Friday",
+      "option4": "Saturday",
+      "answer": "Thursday"
+    },
+    {
+      "question": "If 1 January is Monday, what day is 8 January?",
+      "option1": "Sunday",
+      "option2": "Monday",
+      "option3": "Tuesday",
+      "option4": "Wednesday",
+      "answer": "Monday"
+    },
+    {
+      "question": "Which number replaces the question mark? 7, 14, 28, 56, ?",
+      "option1": "84",
+      "option2": "96",
+      "option3": "112",
+      "option4": "120",
+      "answer": "112"
+    },
+    {
+      "question": "Which number replaces the question mark? 100, 90, 80, 70, ?",
+      "option1": "50",
+      "option2": "55",
+      "option3": "60",
+      "option4": "65",
+      "answer": "60"
+    },
+    {
+      "question": "Find the missing number: 4, 9, 14, 19, ?",
+      "option1": "22",
+      "option2": "23",
+      "option3": "24",
+      "option4": "25",
+      "answer": "24"
+    },
+    {
+      "question": "Find the missing number: 6, 12, 24, 48, ?",
+      "option1": "72",
+      "option2": "84",
+      "option3": "96",
+      "option4": "108",
+      "answer": "96"
+    },
+    {
+      "question": "Find the odd pair:",
+      "option1": "Dog - Puppy",
+      "option2": "Cat - Kitten",
+      "option3": "Cow - Calf",
+      "option4": "Horse - Cub",
+      "answer": "Horse - Cub"
+    },
+    {
+      "question": "Find the odd one out: January, March, May, June",
+      "option1": "January",
+      "option2": "March",
+      "option3": "May",
+      "option4": "June",
+      "answer": "June"
+    },
+    {
+      "question": "Which is the smallest number? 0.5, 0.05, 0.55, 0.505",
+      "option1": "0.5",
+      "option2": "0.05",
+      "option3": "0.55",
+      "option4": "0.505",
+      "answer": "0.05"
+    },
+    {
+      "question": "If all roses are flowers and some flowers are red, which conclusion is definitely true?",
+      "option1": "All roses are red",
+      "option2": "Some roses are red",
+      "option3": "Roses are flowers",
+      "option4": "No roses are red",
+      "answer": "Roses are flowers"
+    },
+    {
+      "question": "If all cats are animals and all animals need food, which conclusion follows?",
+      "option1": "All cats need food",
+      "option2": "No cats need food",
+      "option3": "Some cats are not animals",
+      "option4": "All animals are cats",
+      "answer": "All cats need food"
+    },
+    {
+      "question": "In a row, Amit is 7th from the left and 9th from the right. How many people are there in the row?",
+      "option1": "15",
+      "option2": "16",
+      "option3": "17",
+      "option4": "18",
+      "answer": "15"
+    },
+    {
+      "question": "In a class, Raju ranks 12th from the top and 18th from the bottom. How many students are there?",
+      "option1": "29",
+      "option2": "30",
+      "option3": "31",
+      "option4": "32",
+      "answer": "29"
+    },
+    {
+      "question": "Five persons A, B, C, D and E stand in a line. A is before B, B is before C, C is before D and D is before E. Who is in the middle?",
+      "option1": "A",
+      "option2": "B",
+      "option3": "C",
+      "option4": "D",
+      "answer": "C"
+    },
+    {
+      "question": "If '+' means '−' and '−' means '+', what is 15 + 8 − 3?",
+      "option1": "10",
+      "option2": "16",
+      "option3": "20",
+      "option4": "26",
+      "answer": "10"
+    },
+    {
+      "question": "If '×' means '+' and '+' means '×', what is 4 × 5 + 2?",
+      "option1": "12",
+      "option2": "14",
+      "option3": "22",
+      "option4": "30",
+      "answer": "22"
+    },
+    {
+      "question": "Find the missing letter: AZ, BY, CX, DW, ?",
+      "option1": "EV",
+      "option2": "FU",
+      "option3": "EW",
+      "option4": "EX",
+      "answer": "EV"
+    },
+    {
+      "question": "Find the missing pair: AB, DE, GH, JK, ?",
+      "option1": "LM",
+      "option2": "MN",
+      "option3": "NO",
+      "option4": "OP",
+      "answer": "MN"
+    },
+    {
+      "question": "If DELHI is coded as 45189, what is the code for HIDE?",
+      "option1": "8945",
+      "option2": "8451",
+      "option3": "8954",
+      "option4": "8491",
+      "answer": "8945"
+    },
+    {
+      "question": "A clock shows 3:00. What is the angle between the hour and minute hands?",
+      "option1": "60°",
+      "option2": "90°",
+      "option3": "120°",
+      "option4": "180°",
+      "answer": "90°"
+    },
+    {
+      "question": "A clock shows 6:00. What is the angle between the hour and minute hands?",
+      "option1": "90°",
+      "option2": "120°",
+      "option3": "180°",
+      "option4": "360°",
+      "answer": "180°"
+    },
+    {
+      "question": "Which figure has no line of symmetry?",
+      "option1": "Square",
+      "option2": "Rectangle",
+      "option3": "Circle",
+      "option4": "Scalene triangle",
+      "answer": "Scalene triangle"
+    },
+    {
+      "question": "How many sides does a hexagon have?",
+      "option1": "5",
+      "option2": "6",
+      "option3": "7",
+      "option4": "8",
+      "answer": "6"
+    },
+    {
+      "question": "How many diagonals does a square have?",
+      "option1": "1",
+      "option2": "2",
+      "option3": "3",
+      "option4": "4",
+      "answer": "2"
+    },
+    {
+      "question": "Which number is different from the others?",
+      "option1": "16",
+      "option2": "25",
+      "option3": "36",
+      "option4": "48",
+      "answer": "48"
+    },
+    {
+      "question": "If 8 + 4 = 96 and 7 + 3 = 70 according to a certain rule, then 6 + 2 = ?",
+      "option1": "24",
+      "option2": "36",
+      "option3": "48",
+      "option4": "64",
+      "answer": "48"
+    },
+    {
+      "question": "Find the next term: 11, 22, 44, 88, ?",
+      "option1": "132",
+      "option2": "154",
+      "option3": "176",
+      "option4": "180",
+      "answer": "176"
+    },
+    {
+      "question": "Find the next term: 121, 144, 169, 196, ?",
+      "option1": "210",
+      "option2": "225",
+      "option3": "230",
+      "option4": "240",
+      "answer": "225"
+    },
+
+   {
+    "question": "Who was the first President of independent India?",
+    "option1": "Jawaharlal Nehru",
+    "option2": "Dr. Rajendra Prasad",
+    "option3": "Sardar Vallabhbhai Patel",
+    "option4": "Dr. S. Radhakrishnan",
+    "answer": "Dr. Rajendra Prasad"
+  },
+  {
+    "question": "Who was the first Prime Minister of India?",
+    "option1": "Mahatma Gandhi",
+    "option2": "Sardar Vallabhbhai Patel",
+    "option3": "Jawaharlal Nehru",
+    "option4": "Rajendra Prasad",
+    "answer": "Jawaharlal Nehru"
+  },
+  {
+    "question": "The Constitution of India came into force on which date?",
+    "option1": "15 August 1947",
+    "option2": "26 January 1950",
+    "option3": "26 November 1949",
+    "option4": "2 October 1950",
+    "answer": "26 January 1950"
+  },
+  {
+    "question": "Who is known as the Father of the Indian Constitution?",
+    "option1": "Mahatma Gandhi",
+    "option2": "Dr. B. R. Ambedkar",
+    "option3": "Jawaharlal Nehru",
+    "option4": "Rajendra Prasad",
+    "answer": "Dr. B. R. Ambedkar"
+  },
+  {
+    "question": "Which Fundamental Right is abolished as a fundamental right by the 44th Amendment?",
+    "option1": "Right to Equality",
+    "option2": "Right to Freedom",
+    "option3": "Right to Property",
+    "option4": "Right against Exploitation",
+    "answer": "Right to Property"
+  },
+  {
+    "question": "How many Fundamental Duties are currently listed in the Constitution of India?",
+    "option1": "9",
+    "option2": "10",
+    "option3": "11",
+    "option4": "12",
+    "answer": "11"
+  },
+  {
+    "question": "Which Article deals with equality before law?",
+    "option1": "Article 14",
+    "option2": "Article 19",
+    "option3": "Article 21",
+    "option4": "Article 32",
+    "answer": "Article 14"
+  },
+  {
+    "question": "Who appoints the Prime Minister of India?",
+    "option1": "Chief Justice of India",
+    "option2": "President of India",
+    "option3": "Lok Sabha Speaker",
+    "option4": "Vice-President",
+    "answer": "President of India"
+  },
+  {
+    "question": "What is the maximum strength of the Lok Sabha as provided by the Constitution?",
+    "option1": "545",
+    "option2": "550",
+    "option3": "552",
+    "option4": "560",
+    "answer": "552"
+  },
+  {
+    "question": "Which house of Parliament is known as the Upper House?",
+    "option1": "Lok Sabha",
+    "option2": "Rajya Sabha",
+    "option3": "Vidhan Sabha",
+    "option4": "Legislative Assembly",
+    "answer": "Rajya Sabha"
+  },
+  {
+    "question": "Who is the ex-officio Chairman of the Rajya Sabha?",
+    "option1": "President",
+    "option2": "Prime Minister",
+    "option3": "Vice-President",
+    "option4": "Speaker of Lok Sabha",
+    "answer": "Vice-President"
+  },
+  {
+    "question": "Which body conducts elections in India?",
+    "option1": "UPSC",
+    "option2": "Election Commission of India",
+    "option3": "Finance Commission",
+    "option4": "Parliament",
+    "answer": "Election Commission of India"
+  },
+  {
+    "question": "Who was the founder of the Maurya Empire?",
+    "option1": "Ashoka",
+    "option2": "Chandragupta Maurya",
+    "option3": "Bindusara",
+    "option4": "Harshavardhana",
+    "answer": "Chandragupta Maurya"
+  },
+  {
+    "question": "Who wrote the Arthashastra?",
+    "option1": "Kalidasa",
+    "option2": "Kautilya",
+    "option3": "Banabhatta",
+    "option4": "Megasthenes",
+    "answer": "Kautilya"
+  },
+  {
+    "question": "Which ancient university was located in present-day Bihar?",
+    "option1": "Taxila",
+    "option2": "Nalanda",
+    "option3": "Vikramashila",
+    "option4": "Valabhi",
+    "answer": "Nalanda"
+  },
+  {
+    "question": "Who gave the slogan 'Do or Die' during the Indian freedom movement?",
+    "option1": "Subhas Chandra Bose",
+    "option2": "Mahatma Gandhi",
+    "option3": "Bhagat Singh",
+    "option4": "Bal Gangadhar Tilak",
+    "answer": "Mahatma Gandhi"
+  },
+  {
+    "question": "The Quit India Movement was launched in which year?",
+    "option1": "1930",
+    "option2": "1935",
+    "option3": "1942",
+    "option4": "1947",
+    "answer": "1942"
+  },
+  {
+    "question": "The Jallianwala Bagh massacre took place in which year?",
+    "option1": "1917",
+    "option2": "1919",
+    "option3": "1921",
+    "option4": "1922",
+    "answer": "1919"
+  },
+  {
+    "question": "Who founded the Indian National Congress?",
+    "option1": "A. O. Hume",
+    "option2": "Mahatma Gandhi",
+    "option3": "Dadabhai Naoroji",
+    "option4": "Surendranath Banerjee",
+    "answer": "A. O. Hume"
+  },
+  {
+    "question": "Who was known as the 'Nightingale of India'?",
+    "option1": "Sarojini Naidu",
+    "option2": "Annie Besant",
+    "option3": "Vijaya Lakshmi Pandit",
+    "option4": "Aruna Asaf Ali",
+    "answer": "Sarojini Naidu"
+  },
+  {
+    "question": "Which is the largest state in India by area?",
+    "option1": "Madhya Pradesh",
+    "option2": "Maharashtra",
+    "option3": "Rajasthan",
+    "option4": "Uttar Pradesh",
+    "answer": "Rajasthan"
+  },
+  {
+    "question": "Which is the smallest state in India by area?",
+    "option1": "Goa",
+    "option2": "Sikkim",
+    "option3": "Tripura",
+    "option4": "Mizoram",
+    "answer": "Goa"
+  },
+  {
+    "question": "Which is the longest river in India?",
+    "option1": "Yamuna",
+    "option2": "Ganga",
+    "option3": "Godavari",
+    "option4": "Narmada",
+    "answer": "Ganga"
+  },
+  {
+    "question": "Which is the highest mountain peak in India?",
+    "option1": "Nanda Devi",
+    "option2": "Kanchenjunga",
+    "option3": "Anamudi",
+    "option4": "Kamet",
+    "answer": "Kanchenjunga"
+  },
+  {
+    "question": "Which river is known as the 'Sorrow of Bihar'?",
+    "option1": "Ganga",
+    "option2": "Kosi",
+    "option3": "Yamuna",
+    "option4": "Son",
+    "answer": "Kosi"
+  },
+  {
+    "question": "The Thar Desert is mainly located in which Indian state?",
+    "option1": "Gujarat",
+    "option2": "Rajasthan",
+    "option3": "Haryana",
+    "option4": "Punjab",
+    "answer": "Rajasthan"
+  },
+  {
+    "question": "Which Indian state has the longest coastline?",
+    "option1": "Maharashtra",
+    "option2": "Tamil Nadu",
+    "option3": "Gujarat",
+    "option4": "Andhra Pradesh",
+    "answer": "Gujarat"
+  },
+  {
+    "question": "Which soil is most suitable for cotton cultivation?",
+    "option1": "Alluvial soil",
+    "option2": "Black soil",
+    "option3": "Laterite soil",
+    "option4": "Red soil",
+    "answer": "Black soil"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "option1": "Venus",
+    "option2": "Mars",
+    "option3": "Jupiter",
+    "option4": "Saturn",
+    "answer": "Mars"
+  },
+  {
+    "question": "Which is the largest planet in the Solar System?",
+    "option1": "Earth",
+    "option2": "Saturn",
+    "option3": "Jupiter",
+    "option4": "Neptune",
+    "answer": "Jupiter"
+  },
+  {
+    "question": "What is the chemical symbol of gold?",
+    "option1": "Ag",
+    "option2": "Au",
+    "option3": "Gd",
+    "option4": "Go",
+    "answer": "Au"
+  },
+  {
+    "question": "What is the chemical formula of water?",
+    "option1": "CO2",
+    "option2": "O2",
+    "option3": "H2O",
+    "option4": "H2O2",
+    "answer": "H2O"
+  },
+  {
+    "question": "Which gas is most abundant in Earth's atmosphere?",
+    "option1": "Oxygen",
+    "option2": "Carbon dioxide",
+    "option3": "Nitrogen",
+    "option4": "Hydrogen",
+    "answer": "Nitrogen"
+  },
+  {
+    "question": "Which organ purifies blood in the human body?",
+    "option1": "Heart",
+    "option2": "Kidney",
+    "option3": "Lung",
+    "option4": "Stomach",
+    "answer": "Kidney"
+  },
+  {
+    "question": "Which vitamin is mainly produced in the human body through sunlight exposure?",
+    "option1": "Vitamin A",
+    "option2": "Vitamin B12",
+    "option3": "Vitamin C",
+    "option4": "Vitamin D",
+    "answer": "Vitamin D"
+  },
+  {
+    "question": "What is the SI unit of force?",
+    "option1": "Joule",
+    "option2": "Newton",
+    "option3": "Watt",
+    "option4": "Pascal",
+    "answer": "Newton"
+  },
+  {
+    "question": "What is the SI unit of electric current?",
+    "option1": "Volt",
+    "option2": "Ohm",
+    "option3": "Ampere",
+    "option4": "Watt",
+    "answer": "Ampere"
+  },
+  {
+    "question": "Which instrument is used to measure atmospheric pressure?",
+    "option1": "Thermometer",
+    "option2": "Barometer",
+    "option3": "Hygrometer",
+    "option4": "Anemometer",
+    "answer": "Barometer"
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "option1": "Won",
+    "option2": "Yuan",
+    "option3": "Yen",
+    "option4": "Ringgit",
+    "answer": "Yen"
+  },
+  {
+    "question": "Where is the headquarters of the Reserve Bank of India?",
+    "option1": "New Delhi",
+    "option2": "Mumbai",
+    "option3": "Kolkata",
+    "option4": "Chennai",
+    "answer": "Mumbai"
+  },
+  {
+    "question": "Which institution issues currency notes in India, except the one-rupee note?",
+    "option1": "Ministry of Finance",
+    "option2": "Reserve Bank of India",
+    "option3": "State Bank of India",
+    "option4": "NITI Aayog",
+    "answer": "Reserve Bank of India"
+  },
+  {
+    "question": "What is the full form of GDP?",
+    "option1": "Gross Domestic Product",
+    "option2": "General Domestic Product",
+    "option3": "Gross Development Plan",
+    "option4": "General Development Product",
+    "answer": "Gross Domestic Product"
+  },
+  {
+    "question": "Which sector is known as the primary sector of the economy?",
+    "option1": "Manufacturing",
+    "option2": "Agriculture",
+    "option3": "Banking",
+    "option4": "Transport",
+    "answer": "Agriculture"
+  },
+  {
+    "question": "Who is known as the Father of Green Revolution in India?",
+    "option1": "M. S. Swaminathan",
+    "option2": "Norman Borlaug",
+    "option3": "Verghese Kurien",
+    "option4": "C. Subramaniam",
+    "answer": "M. S. Swaminathan"
+  },
+  {
+    "question": "Which is the national animal of India?",
+    "option1": "Lion",
+    "option2": "Elephant",
+    "option3": "Bengal Tiger",
+    "option4": "Leopard",
+    "answer": "Bengal Tiger"
+  },
+  {
+    "question": "Which is the national bird of India?",
+    "option1": "Peacock",
+    "option2": "Sparrow",
+    "option3": "Parrot",
+    "option4": "Eagle",
+    "answer": "Peacock"
+  },
+  {
+    "question": "Which is the national aquatic animal of India?",
+    "option1": "Blue Whale",
+    "option2": "Ganges River Dolphin",
+    "option3": "Crocodile",
+    "option4": "Sea Turtle",
+    "answer": "Ganges River Dolphin"
+  },
+  {
+    "question": "Which Indian city is known as the Pink City?",
+    "option1": "Udaipur",
+    "option2": "Jaipur",
+    "option3": "Jodhpur",
+    "option4": "Bikaner",
+    "answer": "Jaipur"
+  },
+  {
+    "question": "Which Indian city is known as the City of Lakes?",
+    "option1": "Jaipur",
+    "option2": "Udaipur",
+    "option3": "Jodhpur",
+    "option4": "Kota",
+    "answer": "Udaipur"
+  },
+  {
+    "question": "Which festival is known as the Festival of Lights?",
+    "option1": "Holi",
+    "option2": "Diwali",
+    "option3": "Dussehra",
+    "option4": "Onam",
+    "answer": "Diwali"
+  },
+  {
+    "question": "Which classical dance form originated in Kerala?",
+    "option1": "Bharatanatyam",
+    "option2": "Kathak",
+    "option3": "Kathakali",
+    "option4": "Odissi",
+    "answer": "Kathakali"
+  },
+  {
+    "question": "Who wrote the national anthem of India?",
+    "option1": "Bankim Chandra Chattopadhyay",
+    "option2": "Rabindranath Tagore",
+    "option3": "Sarojini Naidu",
+    "option4": "Subramania Bharati",
+    "answer": "Rabindranath Tagore"
+  },
+  {
+    "question": "What is 25% of 240?",
+    "option1": "50",
+    "option2": "60",
+    "option3": "70",
+    "option4": "80",
+    "answer": "60"
+  },
+  {
+    "question": "If 12 men can complete a work in 10 days, how many days will 6 men take, assuming the same efficiency?",
+    "option1": "5",
+    "option2": "10",
+    "option3": "15",
+    "option4": "20",
+    "answer": "20"
+  },
+  {
+    "question": "What is the average of 10, 20, 30, 40 and 50?",
+    "option1": "25",
+    "option2": "30",
+    "option3": "35",
+    "option4": "40",
+    "answer": "30"
+  },
+  {
+    "question": "A shopkeeper buys an article for ₹500 and sells it for ₹600. What is the profit percentage?",
+    "option1": "10%",
+    "option2": "15%",
+    "option3": "20%",
+    "option4": "25%",
+    "answer": "20%"
+  },
+  {
+    "question": "What is the simple interest on ₹2,000 at 5% per annum for 2 years?",
+    "option1": "₹100",
+    "option2": "₹150",
+    "option3": "₹200",
+    "option4": "₹250",
+    "answer": "₹200"
+  },
+  {
+    "question": "The ratio of two numbers is 3:5 and their sum is 64. What is the smaller number?",
+    "option1": "20",
+    "option2": "24",
+    "option3": "30",
+    "option4": "40",
+    "answer": "24"
+  },
+  {
+    "question": "What is the HCF of 24 and 36?",
+    "option1": "6",
+    "option2": "8",
+    "option3": "12",
+    "option4": "18",
+    "answer": "12"
+  },
+  {
+    "question": "What is the LCM of 12 and 18?",
+    "option1": "24",
+    "option2": "30",
+    "option3": "36",
+    "option4": "48",
+    "answer": "36"
+  },
+  {
+    "question": "A train travels 240 km in 4 hours. What is its average speed?",
+    "option1": "40 km/h",
+    "option2": "50 km/h",
+    "option3": "60 km/h",
+    "option4": "80 km/h",
+    "answer": "60 km/h"
+  },
+  {
+    "question": "If the cost price of an article is ₹800 and it is sold at a loss of 10%, what is the selling price?",
+    "option1": "₹700",
+    "option2": "₹720",
+    "option3": "₹740",
+    "option4": "₹760",
+    "answer": "₹720"
+  },
+  {
+    "question": "What is the square root of 144?",
+    "option1": "10",
+    "option2": "11",
+    "option3": "12",
+    "option4": "14",
+    "answer": "12"
+  },
+  {
+    "question": "What is 15 × 16?",
+    "option1": "220",
+    "option2": "230",
+    "option3": "240",
+    "option4": "250",
+    "answer": "240"
+  },
+  {
+    "question": "What is 144 ÷ 12?",
+    "option1": "10",
+    "option2": "12",
+    "option3": "14",
+    "option4": "16",
+    "answer": "12"
+  },
+  {
+    "question": "If 3x = 27, what is the value of x?",
+    "option1": "6",
+    "option2": "7",
+    "option3": "8",
+    "option4": "9",
+    "answer": "9"
+  },
+  {
+    "question": "A number increased by 20% becomes 120. What is the original number?",
+    "option1": "80",
+    "option2": "90",
+    "option3": "100",
+    "option4": "110",
+    "answer": "100"
+  },
+  {
+    "question": "What is the perimeter of a square with side 8 cm?",
+    "option1": "16 cm",
+    "option2": "24 cm",
+    "option3": "32 cm",
+    "option4": "64 cm",
+    "answer": "32 cm"
+  },
+  {
+    "question": "What is the area of a rectangle of length 12 cm and breadth 5 cm?",
+    "option1": "50 cm²",
+    "option2": "60 cm²",
+    "option3": "70 cm²",
+    "option4": "80 cm²",
+    "answer": "60 cm²"
+  },
+  {
+    "question": "What is the value of 2³ + 3²?",
+    "option1": "15",
+    "option2": "17",
+    "option3": "18",
+    "option4": "19",
+    "answer": "17"
+  },
+  {
+    "question": "A sum of ₹1,000 is divided between A and B in the ratio 2:3. What is B's share?",
+    "option1": "₹400",
+    "option2": "₹500",
+    "option3": "₹600",
+    "option4": "₹700",
+    "answer": "₹600"
+  },
+  {
+    "question": "If 5 pens cost ₹100, what is the cost of 8 pens?",
+    "option1": "₹120",
+    "option2": "₹140",
+    "option3": "₹160",
+    "option4": "₹180",
+    "answer": "₹160"
+  },
+  {
+    "question": "Choose the correctly spelt word.",
+    "option1": "Accomodation",
+    "option2": "Accommodation",
+    "option3": "Acommodation",
+    "option4": "Accommadation",
+    "answer": "Accommodation"
+  },
+  {
+    "question": "Choose the synonym of 'Abundant'.",
+    "option1": "Scarce",
+    "option2": "Plentiful",
+    "option3": "Limited",
+    "option4": "Rare",
+    "answer": "Plentiful"
+  },
+  {
+    "question": "Choose the antonym of 'Ancient'.",
+    "option1": "Old",
+    "option2": "Modern",
+    "option3": "Historic",
+    "option4": "Past",
+    "answer": "Modern"
+  },
+  {
+    "question": "Choose the synonym of 'Brave'.",
+    "option1": "Cowardly",
+    "option2": "Fearful",
+    "option3": "Courageous",
+    "option4": "Weak",
+    "answer": "Courageous"
+  },
+  {
+    "question": "Choose the antonym of 'Expand'.",
+    "option1": "Increase",
+    "option2": "Extend",
+    "option3": "Contract",
+    "option4": "Enlarge",
+    "answer": "Contract"
+  },
+  {
+    "question": "Fill in the blank: She is good ___ mathematics.",
+    "option1": "in",
+    "option2": "at",
+    "option3": "on",
+    "option4": "for",
+    "answer": "at"
+  },
+  {
+    "question": "Fill in the blank: He has been working here ___ 2020.",
+    "option1": "for",
+    "option2": "from",
+    "option3": "since",
+    "option4": "by",
+    "answer": "since"
+  },
+  {
+    "question": "Identify the noun in the sentence: 'Honesty is the best policy.'",
+    "option1": "is",
+    "option2": "best",
+    "option3": "Honesty",
+    "option4": "the",
+    "answer": "Honesty"
+  },
+  {
+    "question": "Choose the correct passive voice: 'The teacher teaches English.'",
+    "option1": "English was taught by the teacher.",
+    "option2": "English is taught by the teacher.",
+    "option3": "English has taught by the teacher.",
+    "option4": "English teaches the teacher.",
+    "answer": "English is taught by the teacher."
+  },
+  {
+    "question": "Choose the correct indirect speech: He said, 'I am tired.'",
+    "option1": "He said that I am tired.",
+    "option2": "He said that he was tired.",
+    "option3": "He says that he was tired.",
+    "option4": "He said that he is tired.",
+    "answer": "He said that he was tired."
+  },
+  {
+    "question": "Choose the correctly spelt word.",
+    "option1": "Separate",
+    "option2": "Seperate",
+    "option3": "Separete",
+    "option4": "Seperete",
+    "answer": "Separate"
+  },
+  {
+    "question": "What is the one-word substitution for 'A person who cannot read or write'?",
+    "option1": "Scholar",
+    "option2": "Illiterate",
+    "option3": "Literate",
+    "option4": "Author",
+    "answer": "Illiterate"
+  },
+  {
+    "question": "What is the one-word substitution for 'A person who loves mankind'?",
+    "option1": "Misanthrope",
+    "option2": "Philanthropist",
+    "option3": "Pessimist",
+    "option4": "Optimist",
+    "answer": "Philanthropist"
+  },
+  {
+    "question": "Choose the meaning of the idiom 'A blessing in disguise'.",
+    "option1": "A hidden enemy",
+    "option2": "Something that seems bad but turns out good",
+    "option3": "A religious ceremony",
+    "option4": "A visible advantage",
+    "answer": "Something that seems bad but turns out good"
+  },
+  {
+    "question": "Choose the meaning of the idiom 'Once in a blue moon'.",
+    "option1": "Very frequently",
+    "option2": "Never",
+    "option3": "Very rarely",
+    "option4": "Every month",
+    "answer": "Very rarely"
+  },
+  {
+    "question": "Choose the synonym of 'Rapid'.",
+    "option1": "Slow",
+    "option2": "Quick",
+    "option3": "Weak",
+    "option4": "Late",
+    "answer": "Quick"
+  },
+  {
+    "question": "Choose the antonym of 'Victory'.",
+    "option1": "Success",
+    "option2": "Triumph",
+    "option3": "Defeat",
+    "option4": "Achievement",
+    "answer": "Defeat"
+  },
+  {
+    "question": "Choose the correct plural form of 'Child'.",
+    "option1": "Childs",
+    "option2": "Childes",
+    "option3": "Children",
+    "option4": "Childrens",
+    "answer": "Children"
+  },
+  {
+    "question": "Choose the correct article: He is ___ honest man.",
+    "option1": "a",
+    "option2": "an",
+    "option3": "the",
+    "option4": "no article",
+    "answer": "an"
+  },
+  {
+    "question": "Identify the adjective in the sentence: 'She bought a beautiful dress.'",
+    "option1": "She",
+    "option2": "bought",
+    "option3": "beautiful",
+    "option4": "dress",
+    "answer": "beautiful"
+  },
+  {
+    "question": "Choose the correct tense: 'They ___ cricket yesterday.'",
+    "option1": "play",
+    "option2": "plays",
+    "option3": "played",
+    "option4": "playing",
+    "answer": "played"
+  },
+  {
+    "question": "Which word is the opposite of 'Permanent'?",
+    "option1": "Fixed",
+    "option2": "Temporary",
+    "option3": "Stable",
+    "option4": "Constant",
+    "answer": "Temporary"
+  },
+  {
+    "question": "Who was the first Indian to win a Nobel Prize?",
+    "option1": "C. V. Raman",
+    "option2": "Rabindranath Tagore",
+    "option3": "Amartya Sen",
+    "option4": "Mother Teresa",
+    "answer": "Rabindranath Tagore"
+  },
+  {
+    "question": "Who founded the Mughal Empire in India?",
+    "option1": "Akbar",
+    "option2": "Babur",
+    "option3": "Humayun",
+    "option4": "Aurangzeb",
+    "answer": "Babur"
+  },
+  {
+    "question": "The Battle of Plassey was fought in which year?",
+    "option1": "1757",
+    "option2": "1764",
+    "option3": "1857",
+    "option4": "1748",
+    "answer": "1757"
+  },
+  {
+    "question": "Who built the Taj Mahal?",
+    "option1": "Akbar",
+    "option2": "Shah Jahan",
+    "option3": "Jahangir",
+    "option4": "Aurangzeb",
+    "answer": "Shah Jahan"
+  },
+  {
+    "question": "Who was the founder of the Sikh religion?",
+    "option1": "Guru Gobind Singh",
+    "option2": "Guru Nanak",
+    "option3": "Guru Arjan Dev",
+    "option4": "Guru Tegh Bahadur",
+    "answer": "Guru Nanak"
+  },
+  {
+    "question": "The Revolt of 1857 started at which place?",
+    "option1": "Delhi",
+    "option2": "Meerut",
+    "option3": "Kanpur",
+    "option4": "Lucknow",
+    "answer": "Meerut"
+  },
+  {
+    "question": "Who was the first Governor-General of independent India?",
+    "option1": "Lord Mountbatten",
+    "option2": "C. Rajagopalachari",
+    "option3": "Warren Hastings",
+    "option4": "Lord Curzon",
+    "answer": "Lord Mountbatten"
+  },
+  {
+    "question": "Who was the last Governor-General of India?",
+    "option1": "Lord Mountbatten",
+    "option2": "C. Rajagopalachari",
+    "option3": "Lord Curzon",
+    "option4": "Lord Wellesley",
+    "answer": "C. Rajagopalachari"
+  },
+  {
+    "question": "Who founded the Arya Samaj?",
+    "option1": "Swami Vivekananda",
+    "option2": "Raja Ram Mohan Roy",
+    "option3": "Swami Dayanand Saraswati",
+    "option4": "Ishwar Chandra Vidyasagar",
+    "answer": "Swami Dayanand Saraswati"
+  },
+  
+{
+  "question": "What is 25% of 240?",
+  "option1": "50",
+  "option2": "60",
+  "option3": "70",
+  "option4": "80",
+  "answer": "60"
+},
+{
+  "question": "If the cost price of an article is ₹500 and selling price is ₹600, what is the profit percentage?",
+  "option1": "10%",
+  "option2": "15%",
+  "option3": "20%",
+  "option4": "25%",
+  "answer": "20%"
+},
+{
+  "question": "A number is increased from 200 to 250. What is the percentage increase?",
+  "option1": "20%",
+  "option2": "25%",
+  "option3": "30%",
+  "option4": "35%",
+  "answer": "25%"
+},
+{
+  "question": "What is the simple interest on ₹1000 at 10% per annum for 2 years?",
+  "option1": "₹100",
+  "option2": "₹150",
+  "option3": "₹200",
+  "option4": "₹250",
+  "answer": "₹200"
+},
+{
+  "question": "What is the average of 10, 20, 30, 40 and 50?",
+  "option1": "25",
+  "option2": "30",
+  "option3": "35",
+  "option4": "40",
+  "answer": "30"
+},
+{
+  "question": "If 5 workers complete a work in 12 days, how many days will 10 workers take, assuming equal efficiency?",
+  "option1": "4 days",
+  "option2": "5 days",
+  "option3": "6 days",
+  "option4": "8 days",
+  "answer": "6 days"
+},
+{
+  "question": "What is the HCF of 24 and 36?",
+  "option1": "6",
+  "option2": "8",
+  "option3": "12",
+  "option4": "18",
+  "answer": "12"
+},
+{
+  "question": "What is the LCM of 12 and 18?",
+  "option1": "24",
+  "option2": "30",
+  "option3": "36",
+  "option4": "48",
+  "answer": "36"
+},
+{
+  "question": "A train travels 120 km in 2 hours. What is its speed?",
+  "option1": "40 km/h",
+  "option2": "50 km/h",
+  "option3": "60 km/h",
+  "option4": "80 km/h",
+  "answer": "60 km/h"
+},
+{
+  "question": "What is the square root of 144?",
+  "option1": "10",
+  "option2": "11",
+  "option3": "12",
+  "option4": "14",
+  "answer": "12"
+},
+{
+  "question": "What is 3/4 of 200?",
+  "option1": "100",
+  "option2": "125",
+  "option3": "150",
+  "option4": "175",
+  "answer": "150"
+},
+{
+  "question": "If x + 15 = 40, what is x?",
+  "option1": "20",
+  "option2": "25",
+  "option3": "30",
+  "option4": "35",
+  "answer": "25"
+},
+{
+  "question": "The perimeter of a square is 40 cm. What is the length of each side?",
+  "option1": "8 cm",
+  "option2": "10 cm",
+  "option3": "12 cm",
+  "option4": "15 cm",
+  "answer": "10 cm"
+},
+{
+  "question": "What is the area of a rectangle with length 12 cm and breadth 5 cm?",
+  "option1": "50 cm²",
+  "option2": "60 cm²",
+  "option3": "70 cm²",
+  "option4": "80 cm²",
+  "answer": "60 cm²"
+},
+{
+  "question": "A shopkeeper gives a 10% discount on an article marked at ₹1000. What is the selling price?",
+  "option1": "₹800",
+  "option2": "₹850",
+  "option3": "₹900",
+  "option4": "₹950",
+  "answer": "₹900"
+},
+{
+  "question": "What is the ratio of 20 to 30 in its simplest form?",
+  "option1": "1:2",
+  "option2": "2:3",
+  "option3": "3:4",
+  "option4": "4:5",
+  "answer": "2:3"
+},
+{
+  "question": "A man travels 60 km at 30 km/h. How much time does he take?",
+  "option1": "1 hour",
+  "option2": "2 hours",
+  "option3": "3 hours",
+  "option4": "4 hours",
+  "answer": "2 hours"
+},
+{
+  "question": "What is 15 × 12?",
+  "option1": "160",
+  "option2": "170",
+  "option3": "180",
+  "option4": "190",
+  "answer": "180"
+},
+{
+  "question": "What is 625 ÷ 25?",
+  "option1": "20",
+  "option2": "25",
+  "option3": "30",
+  "option4": "35",
+  "answer": "25"
+},
+{
+  "question": "Which part of speech is the word 'quickly'?",
+  "option1": "Noun",
+  "option2": "Verb",
+  "option3": "Adjective",
+  "option4": "Adverb",
+  "answer": "Adverb"
+},
+{
+  "question": "Choose the synonym of 'Brave'.",
+  "option1": "Cowardly",
+  "option2": "Courageous",
+  "option3": "Weak",
+  "option4": "Lazy",
+  "answer": "Courageous"
+},
+{
+  "question": "Choose the antonym of 'Ancient'.",
+  "option1": "Old",
+  "option2": "Historic",
+  "option3": "Modern",
+  "option4": "Traditional",
+  "answer": "Modern"
+},
+{
+  "question": "Choose the correctly spelt word.",
+  "option1": "Neccessary",
+  "option2": "Necessary",
+  "option3": "Necesary",
+  "option4": "Nessessary",
+  "answer": "Necessary"
+},
+{
+  "question": "Fill in the blank: She ___ to school every day.",
+  "option1": "go",
+  "option2": "going",
+  "option3": "goes",
+  "option4": "gone",
+  "answer": "goes"
+},
+{
+  "question": "Choose the correct passive voice: 'The boy opened the door.'",
+  "option1": "The door was opened by the boy.",
+  "option2": "The door is opened by the boy.",
+  "option3": "The door has opened by the boy.",
+  "option4": "The door opened by the boy.",
+  "answer": "The door was opened by the boy."
+},
+{
+  "question": "Choose the synonym of 'Rapid'.",
+  "option1": "Slow",
+  "option2": "Fast",
+  "option3": "Weak",
+  "option4": "Late",
+  "answer": "Fast"
+},
+{
+  "question": "Choose the antonym of 'Expand'.",
+  "option1": "Increase",
+  "option2": "Extend",
+  "option3": "Contract",
+  "option4": "Grow",
+  "answer": "Contract"
+},
+{
+  "question": "Identify the noun in the sentence: 'The child is playing.'",
+  "option1": "The",
+  "option2": "Child",
+  "option3": "Is",
+  "option4": "Playing",
+  "answer": "Child"
+},
+{
+  "question": "Choose the correct article: He is ___ honest man.",
+  "option1": "a",
+  "option2": "an",
+  "option3": "the",
+  "option4": "no article",
+  "answer": "an"
+},
+{
+  "question": "What is the plural form of 'Mouse'?",
+  "option1": "Mouses",
+  "option2": "Mouse",
+  "option3": "Mice",
+  "option4": "Meese",
+  "answer": "Mice"
+},
+{
+  "question": "Who was the first Governor-General of independent India?",
+  "option1": "Lord Mountbatten",
+  "option2": "C. Rajagopalachari",
+  "option3": "Warren Hastings",
+  "option4": "Lord Curzon",
+  "answer": "Lord Mountbatten"
+},
+{
+  "question": "Who founded the Mughal Empire in India?",
+  "option1": "Akbar",
+  "option2": "Babur",
+  "option3": "Humayun",
+  "option4": "Shah Jahan",
+  "answer": "Babur"
+},
+{
+  "question": "Who built the Taj Mahal?",
+  "option1": "Akbar",
+  "option2": "Jahangir",
+  "option3": "Shah Jahan",
+  "option4": "Aurangzeb",
+  "answer": "Shah Jahan"
+},
+{
+  "question": "The Battle of Plassey was fought in which year?",
+  "option1": "1757",
+  "option2": "1761",
+  "option3": "1857",
+  "option4": "1776",
+  "answer": "1757"
+},
+{
+  "question": "Who was the first Indian woman to become President of the Indian National Congress?",
+  "option1": "Sarojini Naidu",
+  "option2": "Annie Besant",
+  "option3": "Indira Gandhi",
+  "option4": "Vijaya Lakshmi Pandit",
+  "answer": "Sarojini Naidu"
+},
+{
+  "question": "Which Article of the Constitution provides the Right to Life and Personal Liberty?",
+  "option1": "Article 14",
+  "option2": "Article 19",
+  "option3": "Article 21",
+  "option4": "Article 32",
+  "answer": "Article 21"
+},
+{
+  "question": "Who is the constitutional head of India?",
+  "option1": "Prime Minister",
+  "option2": "President",
+  "option3": "Chief Justice",
+  "option4": "Home Minister",
+  "answer": "President"
+},
+{
+  "question": "Which is the lower house of the Indian Parliament?",
+  "option1": "Rajya Sabha",
+  "option2": "Lok Sabha",
+  "option3": "Vidhan Parishad",
+  "option4": "Supreme Court",
+  "answer": "Lok Sabha"
+},
+{
+  "question": "Which is the largest ocean in the world?",
+  "option1": "Atlantic Ocean",
+  "option2": "Indian Ocean",
+  "option3": "Pacific Ocean",
+  "option4": "Arctic Ocean",
+  "answer": "Pacific Ocean"
+},
+{
+  "question": "Which is the longest mountain range in the world?",
+  "option1": "Himalayas",
+  "option2": "Andes",
+  "option3": "Alps",
+  "option4": "Rockies",
+  "answer": "Andes"
+},
+{
+  "question": "Which is the largest continent by area?",
+  "option1": "Africa",
+  "option2": "Europe",
+  "option3": "Asia",
+  "option4": "North America",
+  "answer": "Asia"
+},
+{
+  "question": "Which gas is essential for human respiration?",
+  "option1": "Nitrogen",
+  "option2": "Oxygen",
+  "option3": "Carbon dioxide",
+  "option4": "Hydrogen",
+  "answer": "Oxygen"
+},
+{
+  "question": "Which organ pumps blood throughout the human body?",
+  "option1": "Liver",
+  "option2": "Kidney",
+  "option3": "Heart",
+  "option4": "Lung",
+  "answer": "Heart"
+},
+{
+  "question": "What is the boiling point of water at normal atmospheric pressure?",
+  "option1": "50°C",
+  "option2": "75°C",
+  "option3": "100°C",
+  "option4": "120°C",
+  "answer": "100°C"
+},
+{
+  "question": "Which metal is liquid at room temperature?",
+  "option1": "Iron",
+  "option2": "Mercury",
+  "option3": "Copper",
+  "option4": "Aluminium",
+  "answer": "Mercury"
+},
+{
+  "question": "Which device is used to measure temperature?",
+  "option1": "Barometer",
+  "option2": "Thermometer",
+  "option3": "Ammeter",
+  "option4": "Voltmeter",
+  "answer": "Thermometer"
+},
+
+{
+  "question": "What is the HCF of 24 and 36?",
+  "option1": "6",
+  "option2": "8",
+  "option3": "12",
+  "option4": "18",
+  "answer": "12"
+},
+{
+  "question": "What is 25% of 240?",
+  "option1": "50",
+  "option2": "60",
+  "option3": "70",
+  "option4": "80",
+  "answer": "60"
+},
+{
+  "question": "If the cost price of an article is Rs. 500 and the selling price is Rs. 600, what is the profit percentage?",
+  "option1": "10%",
+  "option2": "15%",
+  "option3": "20%",
+  "option4": "25%",
+  "answer": "20%"
+},
+{
+  "question": "A train travels 120 km in 2 hours. What is its average speed?",
+  "option1": "40 km/h",
+  "option2": "50 km/h",
+  "option3": "60 km/h",
+  "option4": "80 km/h",
+  "answer": "60 km/h"
+},
+{
+  "question": "What is the simple interest on Rs. 2000 at 5% per annum for 2 years?",
+  "option1": "Rs. 100",
+  "option2": "Rs. 150",
+  "option3": "Rs. 200",
+  "option4": "Rs. 250",
+  "answer": "Rs. 200"
+},
+{
+  "question": "If 3x + 5 = 20, what is the value of x?",
+  "option1": "3",
+  "option2": "5",
+  "option3": "7",
+  "option4": "10",
+  "answer": "5"
+},
+{
+  "question": "The average of 10, 20, 30, 40 and 50 is:",
+  "option1": "25",
+  "option2": "30",
+  "option3": "35",
+  "option4": "40",
+  "answer": "30"
+},
+{
+  "question": "A shopkeeper gives a discount of 10% on an article marked at Rs. 800. What is the selling price?",
+  "option1": "Rs. 700",
+  "option2": "Rs. 720",
+  "option3": "Rs. 740",
+  "option4": "Rs. 760",
+  "answer": "Rs. 720"
+},
+{
+  "question": "Which part of the computer is known as the brain of the computer?",
+  "option1": "Monitor",
+  "option2": "Keyboard",
+  "option3": "CPU",
+  "option4": "Printer",
+  "answer": "CPU"
+},
+{
+  "question": "What does RAM stand for?",
+  "option1": "Read Access Memory",
+  "option2": "Random Access Memory",
+  "option3": "Rapid Access Machine",
+  "option4": "Run Access Memory",
+  "answer": "Random Access Memory"
+},
+{
+  "question": "Which shortcut key is used to copy selected text in Windows?",
+  "option1": "Ctrl + X",
+  "option2": "Ctrl + C",
+  "option3": "Ctrl + V",
+  "option4": "Ctrl + Z",
+  "answer": "Ctrl + C"
+},
+{
+  "question": "Which of the following is an input device?",
+  "option1": "Monitor",
+  "option2": "Printer",
+  "option3": "Keyboard",
+  "option4": "Speaker",
+  "answer": "Keyboard"
+},
+{
+  "question": "Which protocol is commonly used for secure web browsing?",
+  "option1": "HTTP",
+  "option2": "FTP",
+  "option3": "HTTPS",
+  "option4": "SMTP",
+  "answer": "HTTPS"
+},
+{
+  "question": "Which is the largest ocean in the world?",
+  "option1": "Atlantic Ocean",
+  "option2": "Indian Ocean",
+  "option3": "Pacific Ocean",
+  "option4": "Arctic Ocean",
+  "answer": "Pacific Ocean"
+},
+{
+  "question": "Which gas is essential for human respiration?",
+  "option1": "Nitrogen",
+  "option2": "Oxygen",
+  "option3": "Carbon dioxide",
+  "option4": "Hydrogen",
+  "answer": "Oxygen"
+},
+{
+  "question": "Which Article of the Indian Constitution deals with the Right to Education?",
+  "option1": "Article 19",
+  "option2": "Article 21A",
+  "option3": "Article 25",
+  "option4": "Article 32",
+  "answer": "Article 21A"
+},
+{
+  "question": "Which gas is commonly used in fire extinguishers?",
+  "option1": "Oxygen",
+  "option2": "Nitrogen",
+  "option3": "Carbon dioxide",
+  "option4": "Hydrogen",
+  "answer": "Carbon dioxide"
+},
+{
+  "question": "If the cost price of an article is ₹500 and the selling price is ₹600, what is the profit percentage?",
+  "option1": "10%",
+  "option2": "15%",
+  "option3": "20%",
+  "option4": "25%",
+  "answer": "20%"
+},
+{
+  "question": "Find the next number in the series: 4, 8, 16, 32, ?",
+  "option1": "48",
+  "option2": "56",
+  "option3": "64",
+  "option4": "72",
+  "answer": "64"
+}
+  ]
+}
+  

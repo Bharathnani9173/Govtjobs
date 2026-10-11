@@ -104,46 +104,147 @@ class Job(models.Model):
         auto_now=True
     )
 
+    is_latest = models.BooleanField(
+        default=False
+    )
+
+class ExamPattern(models.Model):
+
+    exam = models.ForeignKey(
+        "Exam",
+        on_delete=models.CASCADE,
+        related_name="patterns"
+    )
+
+    subject = models.CharField(
+        max_length=200
+    )
+
+    question_count = models.PositiveIntegerField()
+
+    marks_per_question = models.FloatField(
+        default=1
+    )
+
+    duration_minutes = models.PositiveIntegerField(
+        default=60
+    )
+
+    negative_marking = models.FloatField(
+        default=0
+    )
+
     class Meta:
-        ordering = ["-notification_date"]
+        unique_together = ("exam", "subject")
 
     def __str__(self):
-        return self.title
+        return f"{self.exam.name} - {self.subject}"
 
 
 # =========================================================
 # RESULT
 # =========================================================
 
-class Result(models.Model):
 
-    exam_name = models.CharField(
-        max_length=200
-    )
-
-    result_date = models.DateField()
-
-    official_link = models.URLField()
-
-    def __str__(self):
-        return self.exam_name
 
 
 # =========================================================
 # ADMIT CARD
 # =========================================================
-
 class AdmitCard(models.Model):
+
+    STATUS_CHOICES = [
+        ("Available", "Available"),
+        ("Coming Soon", "Coming Soon"),
+        ("Closed", "Closed"),
+    ]
+
+    CATEGORY_CHOICES = [
+        ("Central", "Central Government"),
+        ("Telangana", "Telangana Government"),
+        ("Other", "Other"),
+    ]
 
     exam_name = models.CharField(
         max_length=200
     )
 
-    release_date = models.DateField()
+    organization = models.CharField(
+        max_length=200,
+        blank=True,
+        default=""
+    )
 
-    official_link = models.URLField()
+    category = models.CharField(
+        max_length=50,
+        choices=CATEGORY_CHOICES,
+        default="Other"
+    )
+
+    year = models.PositiveIntegerField(
+        null=True,
+        blank=True
+    )
+
+    title = models.CharField(
+        max_length=300,
+        blank=True,
+        default=""
+    )
+
+    release_date = models.DateField(
+        null=True,
+        blank=True
+    )
+
+    exam_date = models.DateField(
+        null=True,
+        blank=True
+    )
+
+    shift = models.CharField(
+        max_length=100,
+        blank=True,
+        default=""
+    )
+
+    status = models.CharField(
+        max_length=50,
+        choices=STATUS_CHOICES,
+        default="Available"
+    )
+
+    official_link = models.URLField(
+        blank=True,
+        default=""
+    )
+
+    admit_card_url = models.URLField(
+        blank=True,
+        default=""
+    )
+
+    notes = models.TextField(
+        blank=True,
+        default=""
+    )
+
+    created_at = models.DateTimeField(
+       auto_now_add=True,
+       null=True
+    )
+
+    updated_at = models.DateTimeField(
+       auto_now=True,
+       null=True
+   )
+
+    class Meta:
+        ordering = ["-year", "-release_date", "-created_at"]
 
     def __str__(self):
+        if self.year:
+            return f"{self.exam_name} - {self.year}"
         return self.exam_name
 
 
@@ -163,8 +264,21 @@ class PreviousPaper(models.Model):
         blank=True
     )
 
+    exam = models.ForeignKey(
+        "Exam",
+        on_delete=models.CASCADE,
+        related_name="previous_papers",
+        null=True,
+        blank=True
+    )
+
     exam_name = models.CharField(
         max_length=200
+    )
+
+    paper_name = models.CharField(
+        max_length=200,
+        default="Previous Year Paper"
     )
 
     category = models.CharField(
@@ -173,13 +287,47 @@ class PreviousPaper(models.Model):
         default="Other"
     )
 
-    year = models.IntegerField()
+    year = models.PositiveIntegerField()
 
-    pdf_link = models.CharField(max_length=500)
+    subject = models.CharField(
+        max_length=150,
+        blank=True
+    )
+
+    exam_date = models.DateField(
+        null=True,
+        blank=True
+    )
+
+    pdf = models.FileField(
+        upload_to="previous_papers/%Y/%m/",
+        blank=True,
+        null=True
+    )
+
+    pdf_link = models.CharField(
+        max_length=500,
+        blank=True
+    )
+
+    official_link = models.URLField(
+        max_length=500,
+        blank=True
+    )
+
+    description = models.TextField(
+        blank=True
+    )
+
+    created_at = models.DateTimeField(
+        auto_now_add=True
+    )
+
+    class Meta:
+        ordering = ["-year", "-created_at"]
 
     def __str__(self):
-        return f"{self.exam_name} ({self.year})"
-
+        return f"{self.exam_name} - {self.year} - {self.paper_name}"
 
 # =========================================================
 # ANSWER KEYS
@@ -201,18 +349,88 @@ class AnswerKey(models.Model):
         max_length=200
     )
 
+    year = models.PositiveIntegerField(
+        null=True,
+        blank=True
+    )
+
+    title = models.CharField(
+        max_length=300,
+        blank=True,
+        default=""
+    )
+
     category = models.CharField(
         max_length=50,
         choices=CATEGORY_CHOICES,
         default="Other"
     )
 
-    release_date = models.DateField()
+    release_date = models.DateField(
+        null=True,
+        blank=True
+    )
 
-    official_link = models.URLField()
+    status = models.CharField(
+        max_length=100,
+        default="Official Source"
+    )
+
+    official_link = models.URLField(
+        blank=True,
+        default=""
+    )
+
+    answer_key_url = models.URLField(
+        blank=True,
+        default=""
+    )
+
+    LINK_TYPE_CHOICES = [
+        ("PDF", "Direct PDF"),
+        ("PAGE", "Official Answer Key Page"),
+        ("NONE", "Not Publicly Available"),
+    ]
+    answer_data = models.JSONField(
+       default=dict,
+       blank=True
+    )
+    question_data = models.JSONField(
+       default=dict,
+       blank=True
+    )
+
+    shift = models.CharField(
+       max_length=100,
+       blank=True,
+       default=""
+    )
+
+    set_name = models.CharField(
+       max_length=50,
+       blank=True,
+       default=""
+    )
+
+    paper_code = models.CharField(
+       max_length=100,
+       blank=True,
+       default=""
+    )
+
+    link_type = models.CharField(
+        max_length=10,
+        choices=LINK_TYPE_CHOICES,
+        default="NONE"
+    )
+
+    notes = models.TextField(
+        blank=True,
+        default=""
+    )
 
     def __str__(self):
-        return self.exam_name
+        return f"{self.exam_name} - {self.year}"
 
 
 # =========================================================
@@ -221,8 +439,42 @@ class AnswerKey(models.Model):
 
 class CurrentAffair(models.Model):
 
-    CATEGORY_CHOICES = Job.CATEGORY_CHOICES
+    PERIOD_CHOICES = [
+        ("1947-1950", "1947–1950"),
+        ("1950-1960", "1950–1960"),
+        ("1961-1970", "1961–1970"),
+        ("1971-1980", "1971–1980"),
+        ("1981-1990", "1981–1990"),
+        ("1991-2000", "1991–2000"),
+        ("2001-2010", "2001–2010"),
+        ("2011-2020", "2011–2020"),
+        ("2021", "2021"),
+        ("2022", "2022"),
+        ("2023", "2023"),
+        ("2024", "2024"),
+        ("2025", "2025"),
+        ("2026", "2026"),
+    ]
 
+    CATEGORY_CHOICES = [
+        ("History", "History"),
+        ("Polity", "Indian Polity"),
+        ("Economy", "Economy"),
+        ("Science", "Science & Technology"),
+        ("Defence", "Defence"),
+        ("Space", "Space"),
+        ("International", "International Affairs"),
+        ("Sports", "Sports"),
+        ("Awards", "Awards"),
+        ("Appointments", "Appointments"),
+        ("Agriculture", "Agriculture"),
+        ("Health", "Health"),
+        ("Education", "Education"),
+        ("Telangana", "Telangana"),
+        ("General", "General"),
+    ]
+
+    # Keep the existing Job relationship
     job = models.ForeignKey(
         Job,
         on_delete=models.CASCADE,
@@ -231,14 +483,27 @@ class CurrentAffair(models.Model):
         blank=True
     )
 
-    title = models.CharField(
-        max_length=200
+    period = models.CharField(
+        max_length=20,
+        choices=PERIOD_CHOICES,
+        default="2026",
+        db_index=True
     )
+    title_te = models.CharField(
+    max_length=200,
+    blank=True
+    )
+
+    description_te = models.TextField(
+    blank=True
+    )
+
+    title = models.CharField(max_length=200)
 
     category = models.CharField(
         max_length=50,
         choices=CATEGORY_CHOICES,
-        default="Other"
+        default="General"
     )
 
     date = models.DateField()
@@ -246,14 +511,12 @@ class CurrentAffair(models.Model):
     description = models.TextField()
 
     pdf_link = models.CharField(
-    max_length=500,
-    blank=True
+        max_length=500,
+        blank=True
     )
 
     def __str__(self):
-        return self.title
-
-
+        return f"{self.period} - {self.title}"
 # =========================================================
 # NOTIFICATIONS
 # =========================================================
@@ -555,7 +818,7 @@ class MockTest(models.Model):
         null=True,
         blank=True
     )
-    
+
     def __str__(self):
         return f"{self.exam_name} - {self.title}"
 
@@ -889,7 +1152,7 @@ class QuizAttempt(models.Model):
     def __str__(self):
         return f"{self.user.username} - {self.score}"
 
-        
+
 # =========================================================
 # EXAM
 # =========================================================
@@ -991,3 +1254,95 @@ class Syllabus(models.Model):
 
     def __str__(self):
         return f"{self.job.title} Syllabus"
+
+class Result(models.Model):
+
+    STATUS_CHOICES = [
+        ("Available", "Available"),
+        ("Coming Soon", "Coming Soon"),
+        ("Closed", "Closed"),
+    ]
+
+    CATEGORY_CHOICES = [
+        ("Central", "Central Government"),
+        ("Telangana", "Telangana Government"),
+        ("Other", "Other"),
+    ]
+
+    exam_name = models.CharField(max_length=200)
+
+    organization = models.CharField(
+        max_length=200,
+        blank=True,
+        default=""
+    )
+
+    category = models.CharField(
+        max_length=50,
+        choices=CATEGORY_CHOICES,
+        default="Other"
+    )
+
+    year = models.PositiveIntegerField(
+        null=True,
+        blank=True
+    )
+
+    title = models.CharField(
+        max_length=300,
+        blank=True,
+        default=""
+    )
+
+    result_date = models.DateField(
+        null=True,
+        blank=True
+    )
+
+    exam_date = models.DateField(
+        null=True,
+        blank=True
+    )
+
+    status = models.CharField(
+        max_length=50,
+        choices=STATUS_CHOICES,
+        default="Available"
+    )
+
+    official_link = models.URLField(
+        blank=True,
+        default=""
+    )
+
+    result_url = models.URLField(
+        blank=True,
+        default=""
+    )
+
+    notes = models.TextField(
+        blank=True,
+        default=""
+    )
+
+    created_at = models.DateTimeField(
+        auto_now_add=True,
+        null=True
+    )
+
+    updated_at = models.DateTimeField(
+        auto_now=True,
+        null=True
+    )
+
+    class Meta:
+        ordering = [
+            "-year",
+            "-result_date",
+            "-created_at"
+        ]
+
+    def __str__(self):
+        if self.year:
+            return f"{self.exam_name} - {self.year}"
+        return self.exam_name

@@ -1,0 +1,1605 @@
+{
+  "exam": "SBI Clerk",
+  "questions": [
+    {
+      "question": "1. What does SBI stand for?",
+      "option1": "State Bank of India",
+      "option2": "State Banking Institution",
+      "option3": "State Business of India",
+      "option4": "Scheduled Bank of India",
+      "answer": "State Bank of India"
+    },
+    {
+      "question": "2. Where is the headquarters of State Bank of India located?",
+      "option1": "New Delhi",
+      "option2": "Mumbai",
+      "option3": "Kolkata",
+      "option4": "Chennai",
+      "answer": "Mumbai"
+    },
+    {
+      "question": "3. SBI was formed in which year?",
+      "option1": "1947",
+      "option2": "1950",
+      "option3": "1955",
+      "option4": "1960",
+      "answer": "1955"
+    },
+    {
+      "question": "4. Which institution was the predecessor of the State Bank of India?",
+      "option1": "Bank of Bengal",
+      "option2": "Imperial Bank of India",
+      "option3": "Reserve Bank of India",
+      "option4": "Bank of Bombay",
+      "answer": "Imperial Bank of India"
+    },
+    {
+      "question": "5. What is the full form of RBI?",
+      "option1": "Reserve Bank of India",
+      "option2": "Regional Bank of India",
+      "option3": "Rural Bank of India",
+      "option4": "Reserve Banking Institution",
+      "answer": "Reserve Bank of India"
+    },
+    {
+      "question": "6. Where is the headquarters of RBI located?",
+      "option1": "New Delhi",
+      "option2": "Mumbai",
+      "option3": "Kolkata",
+      "option4": "Hyderabad",
+      "answer": "Mumbai"
+    },
+    {
+      "question": "7. Which institution is the central bank of India?",
+      "option1": "SBI",
+      "option2": "SEBI",
+      "option3": "RBI",
+      "option4": "NABARD",
+      "answer": "RBI"
+    },
+    {
+      "question": "8. What is the full form of ATM?",
+      "option1": "Automatic Transfer Machine",
+      "option2": "Automated Teller Machine",
+      "option3": "Automatic Teller Method",
+      "option4": "Automated Transaction Machine",
+      "answer": "Automated Teller Machine"
+    },
+    {
+      "question": "9. What is the full form of NEFT?",
+      "option1": "National Electronic Funds Transfer",
+      "option2": "National Exchange Fund Transfer",
+      "option3": "National Electronic Finance Transaction",
+      "option4": "New Electronic Funds Transfer",
+      "answer": "National Electronic Funds Transfer"
+    },
+    {
+      "question": "10. What is the full form of RTGS?",
+      "option1": "Real Time Gross Settlement",
+      "option2": "Rapid Transfer Gross System",
+      "option3": "Real Transfer Government System",
+      "option4": "Reserve Time Gross Settlement",
+      "answer": "Real Time Gross Settlement"
+    },
+    {
+      "question": "11. What is the full form of UPI?",
+      "option1": "Unified Payment Interface",
+      "option2": "United Payments India",
+      "option3": "Unified Payments Interface",
+      "option4": "Universal Payment Institution",
+      "answer": "Unified Payments Interface"
+    },
+    {
+      "question": "12. Which organization operates the UPI system?",
+      "option1": "RBI",
+      "option2": "NPCI",
+      "option3": "SEBI",
+      "option4": "SBI",
+      "answer": "NPCI"
+    },
+    {
+      "question": "13. What does KYC stand for in banking?",
+      "option1": "Know Your Customer",
+      "option2": "Keep Your Cash",
+      "option3": "Know Your Credit",
+      "option4": "Keep Your Customer",
+      "answer": "Know Your Customer"
+    },
+    {
+      "question": "14. Which account is generally used for regular business transactions?",
+      "option1": "Savings Account",
+      "option2": "Current Account",
+      "option3": "Fixed Deposit Account",
+      "option4": "Recurring Deposit Account",
+      "answer": "Current Account"
+    },
+    {
+      "question": "15. Which deposit allows a customer to invest money for a fixed period at a predetermined interest rate?",
+      "option1": "Current Deposit",
+      "option2": "Savings Deposit",
+      "option3": "Fixed Deposit",
+      "option4": "Demand Deposit",
+      "answer": "Fixed Deposit"
+    },
+    {
+      "question": "16. What is the full form of IFSC?",
+      "option1": "Indian Financial System Code",
+      "option2": "Indian Finance Service Code",
+      "option3": "International Financial System Code",
+      "option4": "Indian Fund Settlement Code",
+      "answer": "Indian Financial System Code"
+    },
+    {
+      "question": "17. How many characters are there in an Indian IFSC code?",
+      "option1": "9",
+      "option2": "10",
+      "option3": "11",
+      "option4": "12",
+      "answer": "11"
+    },
+    {
+      "question": "18. Which bank is known as the central bank of India?",
+      "option1": "State Bank of India",
+      "option2": "Punjab National Bank",
+      "option3": "Reserve Bank of India",
+      "option4": "Bank of India",
+      "answer": "Reserve Bank of India"
+    },
+    {
+      "question": "19. What is the full form of EMI?",
+      "option1": "Equated Monthly Instalment",
+      "option2": "Equal Money Investment",
+      "option3": "Electronic Monthly Instalment",
+      "option4": "Equated Money Interest",
+      "answer": "Equated Monthly Instalment"
+    },
+    {
+      "question": "20. Which authority regulates the securities market in India?",
+      "option1": "RBI",
+      "option2": "SEBI",
+      "option3": "IRDAI",
+      "option4": "NABARD",
+      "answer": "SEBI"
+    },
+    {
+      "question": "21. What is the full form of PAN?",
+      "option1": "Permanent Account Number",
+      "option2": "Personal Account Number",
+      "option3": "Permanent Access Number",
+      "option4": "Public Account Number",
+      "answer": "Permanent Account Number"
+    },
+    {
+      "question": "22. Which organization regulates the insurance sector in India?",
+      "option1": "SEBI",
+      "option2": "RBI",
+      "option3": "IRDAI",
+      "option4": "PFRDA",
+      "answer": "IRDAI"
+    },
+    {
+      "question": "23. What is the full form of NPA in banking?",
+      "option1": "Non-Performing Asset",
+      "option2": "National Payment Account",
+      "option3": "New Performing Asset",
+      "option4": "Net Payment Asset",
+      "answer": "Non-Performing Asset"
+    },
+    {
+      "question": "24. Which institution regulates and supervises cooperative banks along with other banking functions?",
+      "option1": "RBI",
+      "option2": "SEBI",
+      "option3": "IRDAI",
+      "option4": "NPCI",
+      "answer": "RBI"
+    },
+    {
+      "question": "25. What is the full form of MICR?",
+      "option1": "Magnetic Ink Character Recognition",
+      "option2": "Money Identification Code Reader",
+      "option3": "Magnetic Indian Code Recognition",
+      "option4": "Machine Ink Code Reader",
+      "answer": "Magnetic Ink Character Recognition"
+    },
+    {
+      "question": "26. What is the full form of IMPS?",
+      "option1": "Immediate Payment Service",
+      "option2": "Indian Money Payment System",
+      "option3": "Instant Money Processing Service",
+      "option4": "Immediate Money Processing System",
+      "answer": "Immediate Payment Service"
+    },
+    {
+      "question": "27. Which organization operates the IMPS payment system in India?",
+      "option1": "SEBI",
+      "option2": "NPCI",
+      "option3": "RBI",
+      "option4": "SBI",
+      "answer": "NPCI"
+    },
+    {
+      "question": "28. What is the full form of ECS in banking?",
+      "option1": "Electronic Clearing Service",
+      "option2": "Electronic Credit System",
+      "option3": "Easy Clearing Service",
+      "option4": "Electronic Cash Service",
+      "answer": "Electronic Clearing Service"
+    },
+    {
+      "question": "29. What is the full form of CIF in banking?",
+      "option1": "Customer Information File",
+      "option2": "Central Information Fund",
+      "option3": "Customer Investment Fund",
+      "option4": "Central Investment File",
+      "answer": "Customer Information File"
+    },
+    {
+      "question": "30. Which type of account is mainly intended for regular savings by individuals?",
+      "option1": "Current Account",
+      "option2": "Savings Account",
+      "option3": "Loan Account",
+      "option4": "Cash Credit Account",
+      "answer": "Savings Account"
+    },
+    {
+      "question": "31. What is the full form of CASA in banking?",
+      "option1": "Current Account Savings Account",
+      "option2": "Cash Account Savings Account",
+      "option3": "Current Asset Savings Account",
+      "option4": "Central Account Savings Account",
+      "answer": "Current Account Savings Account"
+    },
+    {
+      "question": "32. Which bank account is generally used to receive salary?",
+      "option1": "Salary Account",
+      "option2": "Current Account",
+      "option3": "Loan Account",
+      "option4": "Fixed Deposit Account",
+      "answer": "Salary Account"
+    },
+    {
+      "question": "33. What does PIN stand for in banking cards?",
+      "option1": "Personal Identification Number",
+      "option2": "Personal Internet Number",
+      "option3": "Payment Identification Name",
+      "option4": "Private Identification Network",
+      "answer": "Personal Identification Number"
+    },
+    {
+      "question": "34. What is the full form of POS in banking?",
+      "option1": "Point of Sale",
+      "option2": "Payment of Service",
+      "option3": "Point of Service",
+      "option4": "Payment Operating System",
+      "answer": "Point of Sale"
+    },
+    {
+      "question": "35. Which card allows customers to withdraw money directly from their bank account?",
+      "option1": "Credit Card",
+      "option2": "Debit Card",
+      "option3": "Gift Card",
+      "option4": "Travel Card",
+      "answer": "Debit Card"
+    },
+    {
+      "question": "36. Which card generally allows purchases on credit up to a specified limit?",
+      "option1": "Debit Card",
+      "option2": "Credit Card",
+      "option3": "ATM Card",
+      "option4": "Smart Card",
+      "answer": "Credit Card"
+    },
+    {
+      "question": "37. What is the full form of CIBIL?",
+      "option1": "Credit Information Bureau India Limited",
+      "option2": "Central Information Bureau India Limited",
+      "option3": "Credit Investment Bureau India Limited",
+      "option4": "Central Investment Bank India Limited",
+      "answer": "Credit Information Bureau India Limited"
+    },
+    {
+      "question": "38. What does a credit score generally indicate?",
+      "option1": "Bank balance",
+      "option2": "Creditworthiness",
+      "option3": "Annual income only",
+      "option4": "Tax liability",
+      "answer": "Creditworthiness"
+    },
+    {
+      "question": "39. Which institution is primarily responsible for monetary policy in India?",
+      "option1": "SBI",
+      "option2": "RBI",
+      "option3": "SEBI",
+      "option4": "NITI Aayog",
+      "answer": "RBI"
+    },
+    {
+      "question": "40. What is repo rate?",
+      "option1": "Rate at which banks lend to customers",
+      "option2": "Rate at which RBI lends money to commercial banks",
+      "option3": "Rate at which customers lend to banks",
+      "option4": "Rate of taxation on bank deposits",
+      "answer": "Rate at which RBI lends money to commercial banks"
+    },
+    {
+      "question": "41. What is reverse repo rate?",
+      "option1": "Rate at which RBI borrows money from commercial banks",
+      "option2": "Rate at which customers borrow from banks",
+      "option3": "Rate at which banks lend to customers",
+      "option4": "Rate charged on fixed deposits",
+      "answer": "Rate at which RBI borrows money from commercial banks"
+    },
+    {
+      "question": "42. What does CRR stand for?",
+      "option1": "Cash Reserve Ratio",
+      "option2": "Credit Reserve Rate",
+      "option3": "Cash Return Ratio",
+      "option4": "Central Reserve Rate",
+      "answer": "Cash Reserve Ratio"
+    },
+    {
+      "question": "43. What does SLR stand for?",
+      "option1": "Statutory Liquidity Ratio",
+      "option2": "Standard Lending Rate",
+      "option3": "Statutory Lending Reserve",
+      "option4": "Savings Liquidity Rate",
+      "answer": "Statutory Liquidity Ratio"
+    },
+    {
+      "question": "44. Which institution issues currency notes in India, except the one-rupee note?",
+      "option1": "State Bank of India",
+      "option2": "Reserve Bank of India",
+      "option3": "Ministry of Finance",
+      "option4": "SEBI",
+      "answer": "Reserve Bank of India"
+    },
+    {
+      "question": "45. Who issues the one-rupee note in India?",
+      "option1": "Reserve Bank of India",
+      "option2": "State Bank of India",
+      "option3": "Government of India",
+      "option4": "NITI Aayog",
+      "answer": "Government of India"
+    },
+    {
+      "question": "46. What is inflation?",
+      "option1": "Fall in general price levels",
+      "option2": "Rise in general price levels",
+      "option3": "Increase in exports only",
+      "option4": "Decrease in money supply only",
+      "answer": "Rise in general price levels"
+    },
+    {
+      "question": "47. Which index is commonly used to measure retail inflation in India?",
+      "option1": "Consumer Price Index",
+      "option2": "Wholesale Price Index only",
+      "option3": "Industrial Production Index",
+      "option4": "Banking Index",
+      "answer": "Consumer Price Index"
+    },
+    {
+      "question": "48. What is GDP?",
+      "option1": "Gross Domestic Product",
+      "option2": "General Domestic Production",
+      "option3": "Gross Development Process",
+      "option4": "Government Domestic Product",
+      "answer": "Gross Domestic Product"
+    },
+    {
+      "question": "49. Which institution is known as the apex development bank for agriculture and rural development in India?",
+      "option1": "NABARD",
+      "option2": "SIDBI",
+      "option3": "EXIM Bank",
+      "option4": "NHB",
+      "answer": "NABARD"
+    },
+    {
+      "question": "50. What is the full form of NABARD?",
+      "option1": "National Bank for Agriculture and Rural Development",
+      "option2": "National Banking Association for Rural Development",
+      "option3": "National Bank for Agricultural Research and Development",
+      "option4": "National Authority for Banking and Rural Development",
+      "answer": "National Bank for Agriculture and Rural Development"
+    },
+    {
+      "question": "51. What is the full form of SIDBI?",
+      "option1": "Small Industries Development Bank of India",
+      "option2": "State Industries Development Bank of India",
+      "option3": "Small Investment Development Bank of India",
+      "option4": "State Investment Development Bank of India",
+      "answer": "Small Industries Development Bank of India"
+    },
+    {
+      "question": "52. Which institution primarily supports the development of micro, small and medium enterprises?",
+      "option1": "SIDBI",
+      "option2": "SEBI",
+      "option3": "IRDAI",
+      "option4": "PFRDA",
+      "answer": "SIDBI"
+    },
+    {
+      "question": "53. What is the full form of PFRDA?",
+      "option1": "Pension Fund Regulatory and Development Authority",
+      "option2": "Public Finance Regulatory Development Authority",
+      "option3": "Pension Finance Regulation and Development Agency",
+      "option4": "Public Fund Regulatory Development Authority",
+      "answer": "Pension Fund Regulatory and Development Authority"
+    },
+    {
+      "question": "54. Which organization regulates the securities market in India?",
+      "option1": "RBI",
+      "option2": "SEBI",
+      "option3": "NABARD",
+      "option4": "SIDBI",
+      "answer": "SEBI"
+    },
+    {
+      "question": "55. Which organization regulates the insurance sector in India?",
+      "option1": "SEBI",
+      "option2": "IRDAI",
+      "option3": "RBI",
+      "option4": "PFRDA",
+      "answer": "IRDAI"
+    },
+    {
+      "question": "56. What is the full form of IPO?",
+      "option1": "Initial Public Offering",
+      "option2": "Indian Public Offering",
+      "option3": "Initial Private Offering",
+      "option4": "Investment Public Option",
+      "answer": "Initial Public Offering"
+    },
+    {
+      "question": "57. What does ATM stand for?",
+      "option1": "Automatic Transfer Machine",
+      "option2": "Automated Teller Machine",
+      "option3": "Automated Transaction Method",
+      "option4": "Account Transfer Machine",
+      "answer": "Automated Teller Machine"
+    },
+    {
+      "question": "58. What is the main purpose of an ATM?",
+      "option1": "To issue passports",
+      "option2": "To provide banking services such as cash withdrawal",
+      "option3": "To calculate income tax",
+      "option4": "To issue shares",
+      "answer": "To provide banking services such as cash withdrawal"
+    },
+    {
+      "question": "59. What is a banker's cheque?",
+      "option1": "A cheque issued by a bank on its own behalf",
+      "option2": "A cheque issued only by customers",
+      "option3": "A cheque used only for foreign travel",
+      "option4": "A cheque issued by SEBI",
+      "answer": "A cheque issued by a bank on its own behalf"
+    },
+    {
+      "question": "60. What is a crossed cheque?",
+      "option1": "A cheque that can only be deposited into a bank account",
+      "option2": "A cheque that can only be paid in cash",
+      "option3": "A cheque without a signature",
+      "option4": "A cheque issued by RBI",
+      "answer": "A cheque that can only be deposited into a bank account"
+    },
+    {
+      "question": "61. What is a bearer cheque?",
+      "option1": "A cheque payable to the person presenting it",
+      "option2": "A cheque payable only to RBI",
+      "option3": "A cheque payable only through UPI",
+      "option4": "A cheque without an account number",
+      "answer": "A cheque payable to the person presenting it"
+    },
+    {
+      "question": "62. What is a post-dated cheque?",
+      "option1": "A cheque dated before it is issued",
+      "option2": "A cheque bearing a future date",
+      "option3": "A cheque without a date",
+      "option4": "A cheque that has expired",
+      "answer": "A cheque bearing a future date"
+    },
+    {
+      "question": "63. What is a stale cheque?",
+      "option1": "A cheque presented after its validity period",
+      "option2": "A cheque issued by RBI",
+      "option3": "A cheque with a future date",
+      "option4": "A cheque with a crossed mark",
+      "answer": "A cheque presented after its validity period"
+    },
+    {
+      "question": "64. What is the full form of CTS in banking?",
+      "option1": "Cheque Truncation System",
+      "option2": "Cash Transfer System",
+      "option3": "Cheque Transfer Service",
+      "option4": "Central Transaction System",
+      "answer": "Cheque Truncation System"
+    },
+    {
+      "question": "65. Which payment system enables instant fund transfers using a mobile phone and bank account?",
+      "option1": "UPI",
+      "option2": "MICR",
+      "option3": "CIBIL",
+      "option4": "KYC",
+      "answer": "UPI"
+    },
+    {
+      "question": "66. What is the full form of QR in QR Code?",
+      "option1": "Quick Response",
+      "option2": "Quick Registration",
+      "option3": "Query Response",
+      "option4": "Quick Receipt",
+      "answer": "Quick Response"
+    },
+    {
+      "question": "67. What is phishing?",
+      "option1": "A method of protecting bank accounts",
+      "option2": "A fraudulent attempt to obtain sensitive information",
+      "option3": "A type of bank deposit",
+      "option4": "A method of printing currency",
+      "answer": "A fraudulent attempt to obtain sensitive information"
+    },
+    {
+      "question": "68. What is OTP?",
+      "option1": "One-Time Password",
+      "option2": "Online Transfer Process",
+      "option3": "Official Transaction Password",
+      "option4": "One Transfer Pin",
+      "answer": "One-Time Password"
+    },
+    {
+      "question": "69. Why is OTP used in digital banking?",
+      "option1": "To increase account balance",
+      "option2": "To provide additional transaction authentication",
+      "option3": "To calculate interest",
+      "option4": "To open a branch",
+      "answer": "To provide additional transaction authentication"
+    },
+    {
+      "question": "70. What is digital banking?",
+      "option1": "Banking services provided through electronic channels",
+      "option2": "Banking only through physical branches",
+      "option3": "Banking without accounts",
+      "option4": "Banking using only cash",
+      "answer": "Banking services provided through electronic channels"
+    },
+    {
+      "question": "71. What is financial inclusion?",
+      "option1": "Providing access to useful and affordable financial services",
+      "option2": "Closing rural bank branches",
+      "option3": "Increasing bank charges",
+      "option4": "Restricting digital payments",
+      "answer": "Providing access to useful and affordable financial services"
+    },
+    {
+      "question": "72. Which scheme aims to provide basic banking access to people who were previously unbanked?",
+      "option1": "Pradhan Mantri Jan-Dhan Yojana",
+      "option2": "Make in India",
+      "option3": "Digital India",
+      "option4": "Skill India",
+      "answer": "Pradhan Mantri Jan-Dhan Yojana"
+    },
+    {
+      "question": "73. What is the full form of PMJDY?",
+      "option1": "Pradhan Mantri Jan-Dhan Yojana",
+      "option2": "Prime Minister Joint Development Yojana",
+      "option3": "Public Money Jan-Dhan Yojana",
+      "option4": "Pradhan Mantri Joint Deposit Yojana",
+      "answer": "Pradhan Mantri Jan-Dhan Yojana"
+    },
+    {
+      "question": "74. What is a nominee in a bank account?",
+      "option1": "A person designated to receive the account proceeds according to applicable rules",
+      "option2": "A bank employee",
+      "option3": "A person who approves loans",
+      "option4": "A person who audits the bank",
+      "answer": "A person designated to receive the account proceeds according to applicable rules"
+    },
+    {
+      "question": "75. What is bank reconciliation?",
+      "option1": "Comparing bank records with the account holder's records",
+      "option2": "Closing a bank account",
+      "option3": "Opening a fixed deposit",
+      "option4": "Applying for a bank loan",
+      "answer": "Comparing bank records with the account holder's records"
+    },
+     {
+      "question": "76. What is the full form of NACH?",
+      "option1": "National Automated Clearing House",
+      "option2": "National Account Clearing Hub",
+      "option3": "National Automated Credit House",
+      "option4": "National Account Clearing System",
+      "answer": "National Automated Clearing House"
+    },
+    {
+      "question": "77. Which organization operates the NACH system in India?",
+      "option1": "SEBI",
+      "option2": "NPCI",
+      "option3": "SBI",
+      "option4": "IRDAI",
+      "answer": "NPCI"
+    },
+    {
+      "question": "78. What is the full form of BBPS?",
+      "option1": "Bharat Bill Payment System",
+      "option2": "Banking Bill Payment Service",
+      "option3": "Bharat Banking Payment System",
+      "option4": "Basic Bill Payment Service",
+      "answer": "Bharat Bill Payment System"
+    },
+    {
+      "question": "79. What is the main purpose of BBPS?",
+      "option1": "To facilitate bill payments",
+      "option2": "To issue currency",
+      "option3": "To regulate stock exchanges",
+      "option4": "To provide insurance",
+      "answer": "To facilitate bill payments"
+    },
+    {
+      "question": "80. What is the full form of AePS?",
+      "option1": "Aadhaar enabled Payment System",
+      "option2": "Automated electronic Payment Service",
+      "option3": "Aadhaar electronic Processing System",
+      "option4": "Advanced Payment System",
+      "answer": "Aadhaar enabled Payment System"
+    },
+    {
+      "question": "81. Which identification number is primarily used by AePS?",
+      "option1": "PAN",
+      "option2": "Aadhaar",
+      "option3": "Passport",
+      "option4": "Voter ID",
+      "answer": "Aadhaar"
+    },
+    {
+      "question": "82. What is the full form of DBT?",
+      "option1": "Direct Benefit Transfer",
+      "option2": "Digital Banking Transfer",
+      "option3": "Direct Bank Transaction",
+      "option4": "Deposit Benefit Transfer",
+      "answer": "Direct Benefit Transfer"
+    },
+    {
+      "question": "83. What is the main objective of Direct Benefit Transfer?",
+      "option1": "To transfer eligible government benefits directly to beneficiaries",
+      "option2": "To provide stock market loans",
+      "option3": "To issue debit cards",
+      "option4": "To regulate banks",
+      "answer": "To transfer eligible government benefits directly to beneficiaries"
+    },
+    {
+      "question": "84. What is a demand deposit?",
+      "option1": "A deposit withdrawable on demand, subject to applicable conditions",
+      "option2": "A deposit locked permanently",
+      "option3": "A government bond",
+      "option4": "A type of insurance",
+      "answer": "A deposit withdrawable on demand, subject to applicable conditions"
+    },
+    {
+      "question": "85. Which of the following is generally a demand deposit?",
+      "option1": "Savings Account",
+      "option2": "Fixed Deposit",
+      "option3": "Recurring Deposit",
+      "option4": "Government Bond",
+      "answer": "Savings Account"
+    },
+    {
+      "question": "86. What is a recurring deposit?",
+      "option1": "A deposit in which a fixed amount is generally deposited regularly for a specified period",
+      "option2": "A loan repayment account",
+      "option3": "A current account",
+      "option4": "A stock market account",
+      "answer": "A deposit in which a fixed amount is generally deposited regularly for a specified period"
+    },
+    {
+      "question": "87. What is the main purpose of a fixed deposit?",
+      "option1": "To keep money deposited for a specified period and earn interest",
+      "option2": "To make unlimited cash withdrawals",
+      "option3": "To buy shares automatically",
+      "option4": "To pay income tax",
+      "answer": "To keep money deposited for a specified period and earn interest"
+    },
+    {
+      "question": "88. What is a loan?",
+      "option1": "Money borrowed that is generally repaid with applicable interest or charges",
+      "option2": "A type of savings account",
+      "option3": "A government subsidy only",
+      "option4": "A bank deposit",
+      "answer": "Money borrowed that is generally repaid with applicable interest or charges"
+    },
+    {
+      "question": "89. What is collateral in banking?",
+      "option1": "An asset offered as security for a loan",
+      "option2": "A type of bank account",
+      "option3": "A bank employee",
+      "option4": "A payment application",
+      "answer": "An asset offered as security for a loan"
+    },
+    {
+      "question": "90. What is a secured loan?",
+      "option1": "A loan backed by security or collateral",
+      "option2": "A loan without any repayment",
+      "option3": "A loan provided only through UPI",
+      "option4": "A loan issued by SEBI",
+      "answer": "A loan backed by security or collateral"
+    },
+    {
+      "question": "91. What is an unsecured loan?",
+      "option1": "A loan that is not backed by specific collateral",
+      "option2": "A loan backed by gold",
+      "option3": "A fixed deposit",
+      "option4": "A government bond",
+      "answer": "A loan that is not backed by specific collateral"
+    },
+    {
+      "question": "92. What does EMI stand for?",
+      "option1": "Equated Monthly Instalment",
+      "option2": "Equal Money Investment",
+      "option3": "Electronic Monthly Interest",
+      "option4": "Equated Money Index",
+      "answer": "Equated Monthly Instalment"
+    },
+    {
+      "question": "93. What does NPA stand for?",
+      "option1": "Non-Performing Asset",
+      "option2": "National Payment Account",
+      "option3": "New Performing Asset",
+      "option4": "Non-Payment Account",
+      "answer": "Non-Performing Asset"
+    },
+    {
+      "question": "94. What is the primary concern when a bank's loan becomes an NPA?",
+      "option1": "The loan is no longer generating expected income as per applicable norms",
+      "option2": "The customer receives extra interest",
+      "option3": "The bank automatically closes",
+      "option4": "The loan becomes a fixed deposit",
+      "answer": "The loan is no longer generating expected income as per applicable norms"
+    },
+    {
+      "question": "95. What is provisioning in banking?",
+      "option1": "Setting aside funds to cover expected losses or risks",
+      "option2": "Opening new branches",
+      "option3": "Issuing debit cards",
+      "option4": "Increasing ATM withdrawals",
+      "answer": "Setting aside funds to cover expected losses or risks"
+    },
+    {
+      "question": "96. What is the full form of FATF?",
+      "option1": "Financial Action Task Force",
+      "option2": "Financial Assistance and Tax Forum",
+      "option3": "Foreign Account Transfer Federation",
+      "option4": "Finance and Audit Task Foundation",
+      "answer": "Financial Action Task Force"
+    },
+    {
+      "question": "97. What is the main objective of FATF?",
+      "option1": "To combat money laundering and terrorist financing",
+      "option2": "To regulate stock exchanges",
+      "option3": "To issue currency notes",
+      "option4": "To manage railway finances",
+      "answer": "To combat money laundering and terrorist financing"
+    },
+    {
+      "question": "98. What does AML stand for in banking?",
+      "option1": "Anti-Money Laundering",
+      "option2": "Automatic Money Limit",
+      "option3": "Account Management Law",
+      "option4": "Anti-Market Lending",
+      "answer": "Anti-Money Laundering"
+    },
+    {
+      "question": "99. What is money laundering?",
+      "option1": "The process of disguising the illegal origin of funds",
+      "option2": "Depositing salary into a bank account",
+      "option3": "Converting cash into coins",
+      "option4": "Paying a bank loan",
+      "answer": "The process of disguising the illegal origin of funds"
+    },
+    {
+      "question": "100. What is the primary purpose of KYC procedures?",
+      "option1": "To verify the identity and address of customers",
+      "option2": "To increase loan interest rates",
+      "option3": "To issue stock market shares",
+      "option4": "To calculate GDP",
+      "answer": "To verify the identity and address of customers"
+    },
+    {
+      "question": "101. What is the full form of MSME?",
+      "option1": "Micro, Small and Medium Enterprises",
+      "option2": "Medium Scale and Micro Enterprises",
+      "option3": "Micro Service and Market Enterprises",
+      "option4": "Medium Small Market Economy",
+      "answer": "Micro, Small and Medium Enterprises"
+    },
+    {
+      "question": "102. Which ministry is primarily responsible for policy matters related to MSMEs in India?",
+      "option1": "Ministry of Finance",
+      "option2": "Ministry of MSME",
+      "option3": "Ministry of Commerce",
+      "option4": "Ministry of Labour",
+      "answer": "Ministry of MSME"
+    },
+    {
+      "question": "103. What is the full form of MUDRA?",
+      "option1": "Micro Units Development and Refinance Agency",
+      "option2": "Micro Urban Development and Rural Agency",
+      "option3": "Medium Units Development and Refinance Authority",
+      "option4": "Micro Unit Deposit and Refinance Agency",
+      "answer": "Micro Units Development and Refinance Agency"
+    },
+    {
+      "question": "104. The MUDRA scheme primarily supports which type of enterprises?",
+      "option1": "Large multinational companies",
+      "option2": "Micro and small business units",
+      "option3": "Stock exchanges",
+      "option4": "Insurance companies",
+      "answer": "Micro and small business units"
+    },
+    {
+      "question": "105. What is the full form of SHG?",
+      "option1": "Self Help Group",
+      "option2": "Small Housing Group",
+      "option3": "Social Help Government",
+      "option4": "Savings Help Group",
+      "answer": "Self Help Group"
+    },
+    {
+      "question": "106. Self Help Groups are commonly associated with which activity?",
+      "option1": "Community savings and credit",
+      "option2": "Stock exchange regulation",
+      "option3": "Currency printing",
+      "option4": "Insurance regulation",
+      "answer": "Community savings and credit"
+    },
+    {
+      "question": "107. What is priority sector lending?",
+      "option1": "Lending to sectors identified by RBI as important for economic development",
+      "option2": "Lending only to large corporations",
+      "option3": "Lending only to foreign companies",
+      "option4": "Lending only for stock trading",
+      "answer": "Lending to sectors identified by RBI as important for economic development"
+    },
+    {
+      "question": "108. Which of the following is generally included under priority sector lending?",
+      "option1": "Agriculture",
+      "option2": "Luxury tourism only",
+      "option3": "Film production only",
+      "option4": "Speculative trading",
+      "answer": "Agriculture"
+    },
+    {
+      "question": "109. What is a bank branch?",
+      "option1": "A physical or authorized banking outlet providing banking services",
+      "option2": "A type of loan",
+      "option3": "A stock exchange",
+      "option4": "A government department",
+      "answer": "A physical or authorized banking outlet providing banking services"
+    },
+    {
+      "question": "110. What is core banking?",
+      "option1": "A centralized banking system that allows customers to access services across connected branches",
+      "option2": "Banking only at the home branch",
+      "option3": "Banking without computers",
+      "option4": "Banking only through cheques",
+      "answer": "A centralized banking system that allows customers to access services across connected branches"
+    },
+    {
+      "question": "111. What does CBS stand for in banking?",
+      "option1": "Core Banking Solution",
+      "option2": "Central Banking Service",
+      "option3": "Customer Banking System",
+      "option4": "Cash Banking Solution",
+      "answer": "Core Banking Solution"
+    },
+    {
+      "question": "112. What is the main advantage of core banking?",
+      "option1": "Customers can access banking services from connected branches",
+      "option2": "Customers cannot use ATMs",
+      "option3": "It eliminates all bank accounts",
+      "option4": "It prevents electronic transactions",
+      "answer": "Customers can access banking services from connected branches"
+    },
+    {
+      "question": "113. What is internet banking?",
+      "option1": "Banking services accessed through the internet",
+      "option2": "Banking only through cash",
+      "option3": "Banking without an account",
+      "option4": "Banking only through cheques",
+      "answer": "Banking services accessed through the internet"
+    },
+    {
+      "question": "114. What is mobile banking?",
+      "option1": "Banking services accessed through a mobile device",
+      "option2": "Banking only at mobile shops",
+      "option3": "Banking through postal services",
+      "option4": "Banking without authentication",
+      "answer": "Banking services accessed through a mobile device"
+    },
+    {
+      "question": "115. What is a bank statement?",
+      "option1": "A record of transactions in a bank account",
+      "option2": "A loan agreement only",
+      "option3": "A government budget",
+      "option4": "A stock certificate",
+      "answer": "A record of transactions in a bank account"
+    },
+    {
+      "question": "116. What is the meaning of debit in a bank account?",
+      "option1": "An amount is deducted from the account",
+      "option2": "An amount is always added to the account",
+      "option3": "A loan is automatically cancelled",
+      "option4": "Interest is always credited",
+      "answer": "An amount is deducted from the account"
+    },
+    {
+      "question": "117. What is the meaning of credit in a bank account?",
+      "option1": "An amount is added to the account",
+      "option2": "An amount is always deducted",
+      "option3": "The account is closed",
+      "option4": "The account becomes inactive",
+      "answer": "An amount is added to the account"
+    },
+    {
+      "question": "118. What is a passbook?",
+      "option1": "A record of transactions maintained for a bank account",
+      "option2": "A type of credit card",
+      "option3": "A loan document only",
+      "option4": "A tax certificate",
+      "answer": "A record of transactions maintained for a bank account"
+    },
+    {
+      "question": "119. What is the full form of ECS?",
+      "option1": "Electronic Clearing Service",
+      "option2": "Electronic Credit System",
+      "option3": "Easy Cash Service",
+      "option4": "Electronic Customer Service",
+      "answer": "Electronic Clearing Service"
+    },
+    {
+      "question": "120. Which payment method is commonly used for recurring electronic payments such as utility bills?",
+      "option1": "ECS/NACH",
+      "option2": "MICR",
+      "option3": "PAN",
+      "option4": "CIBIL",
+      "answer": "ECS/NACH"
+    },
+    {
+      "question": "121. What is the full form of SWIFT?",
+      "option1": "Society for Worldwide Interbank Financial Telecommunication",
+      "option2": "System for World International Financial Transfer",
+      "option3": "Society for Worldwide Investment Fund Transfer",
+      "option4": "Secure Worldwide Interbank Fund Transaction",
+      "answer": "Society for Worldwide Interbank Financial Telecommunication"
+    },
+    {
+      "question": "122. What is SWIFT mainly used for?",
+      "option1": "International financial messaging",
+      "option2": "Printing currency notes",
+      "option3": "Issuing Aadhaar cards",
+      "option4": "Regulating insurance companies",
+      "answer": "International financial messaging"
+    },
+    {
+      "question": "123. What is foreign exchange?",
+      "option1": "The conversion or exchange of one country's currency for another",
+      "option2": "A domestic savings account",
+      "option3": "A type of fixed deposit",
+      "option4": "A government tax",
+      "answer": "The conversion or exchange of one country's currency for another"
+    },
+    {
+      "question": "124. What does FEMA stand for?",
+      "option1": "Foreign Exchange Management Act",
+      "option2": "Financial Exchange Management Authority",
+      "option3": "Foreign Economic Management Act",
+      "option4": "Federal Exchange Management Act",
+      "answer": "Foreign Exchange Management Act"
+    },
+    {
+      "question": "125. Which institution is responsible for regulating and supervising the foreign exchange market in India under FEMA?",
+      "option1": "RBI",
+      "option2": "SEBI",
+      "option3": "NABARD",
+      "option4": "SBI",
+      "answer": "RBI"
+    },
+    {
+      "question": "126. What is the full form of EXIM Bank?",
+      "option1": "Export-Import Bank of India",
+      "option2": "External Investment Bank of India",
+      "option3": "Export Investment Management Bank",
+      "option4": "Exchange Import Bank of India",
+      "answer": "Export-Import Bank of India"
+    },
+    {
+      "question": "127. What is the primary role of EXIM Bank?",
+      "option1": "Financing and promoting India's international trade",
+      "option2": "Regulating insurance companies",
+      "option3": "Managing pension funds",
+      "option4": "Issuing currency notes",
+      "answer": "Financing and promoting India's international trade"
+    },
+    {
+      "question": "128. What is the full form of NHB?",
+      "option1": "National Housing Bank",
+      "option2": "National Home Bank",
+      "option3": "National Housing Board",
+      "option4": "National Home Bureau",
+      "answer": "National Housing Bank"
+    },
+    {
+      "question": "129. Which sector is mainly associated with National Housing Bank?",
+      "option1": "Housing finance",
+      "option2": "Stock trading",
+      "option3": "Agricultural exports",
+      "option4": "Insurance",
+      "answer": "Housing finance"
+    },
+    {
+      "question": "130. What is the full form of DICGC?",
+      "option1": "Deposit Insurance and Credit Guarantee Corporation",
+      "option2": "Deposit Investment and Credit Growth Corporation",
+      "option3": "Development Insurance and Credit Guarantee Council",
+      "option4": "Deposit Insurance and Central Guarantee Corporation",
+      "answer": "Deposit Insurance and Credit Guarantee Corporation"
+    },
+    {
+      "question": "131. What is the main purpose of deposit insurance in India?",
+      "option1": "To protect eligible bank deposits up to the applicable insurance limit",
+      "option2": "To provide stock market returns",
+      "option3": "To increase loan interest rates",
+      "option4": "To regulate insurance companies",
+      "answer": "To protect eligible bank deposits up to the applicable insurance limit"
+    },
+    {
+      "question": "132. DICGC is a wholly owned subsidiary of which institution?",
+      "option1": "RBI",
+      "option2": "SBI",
+      "option3": "SEBI",
+      "option4": "NABARD",
+      "answer": "RBI"
+    },
+    {
+      "question": "133. What is the full form of LCR in banking?",
+      "option1": "Liquidity Coverage Ratio",
+      "option2": "Loan Coverage Rate",
+      "option3": "Liquidity Credit Reserve",
+      "option4": "Loan Cash Ratio",
+      "answer": "Liquidity Coverage Ratio"
+    },
+    {
+      "question": "134. What does LCR primarily measure?",
+      "option1": "A bank's ability to meet short-term liquidity needs",
+      "option2": "A customer's credit score",
+      "option3": "A bank's annual profit only",
+      "option4": "The number of bank branches",
+      "answer": "A bank's ability to meet short-term liquidity needs"
+    },
+    {
+      "question": "135. What is the full form of CAR in banking?",
+      "option1": "Capital Adequacy Ratio",
+      "option2": "Credit Account Ratio",
+      "option3": "Cash Adequacy Reserve",
+      "option4": "Capital Account Reserve",
+      "answer": "Capital Adequacy Ratio"
+    },
+    {
+      "question": "136. What does Capital Adequacy Ratio indicate?",
+      "option1": "A bank's capital in relation to its risk-weighted assets",
+      "option2": "The number of customers in a bank",
+      "option3": "The total number of ATMs",
+      "option4": "The bank's cash deposits only",
+      "answer": "A bank's capital in relation to its risk-weighted assets"
+    },
+    {
+      "question": "137. What is a bank's asset?",
+      "option1": "Something of value owned or controlled by the bank",
+      "option2": "Only money borrowed by the bank",
+      "option3": "Only customer complaints",
+      "option4": "Only bank expenses",
+      "answer": "Something of value owned or controlled by the bank"
+    },
+    {
+      "question": "138. Which of the following is generally an asset for a bank?",
+      "option1": "Loans given by the bank",
+      "option2": "Customer deposits",
+      "option3": "Bank's share capital only",
+      "option4": "Accounts payable",
+      "answer": "Loans given by the bank"
+    },
+    {
+      "question": "139. Which of the following is generally a liability for a bank?",
+      "option1": "Customer deposits",
+      "option2": "Loans given to customers",
+      "option3": "Cash held by the bank",
+      "option4": "Government securities held by the bank",
+      "answer": "Customer deposits"
+    },
+    {
+      "question": "140. What is bank liquidity?",
+      "option1": "The ability of a bank to meet its financial obligations when due",
+      "option2": "The number of employees in a bank",
+      "option3": "The number of branches",
+      "option4": "The amount of tax paid by customers",
+      "answer": "The ability of a bank to meet its financial obligations when due"
+    },
+    {
+      "question": "141. What is the balance sheet of a bank?",
+      "option1": "A statement showing the bank's assets, liabilities and capital",
+      "option2": "A list of customers only",
+      "option3": "A record of ATM transactions only",
+      "option4": "A list of bank employees",
+      "answer": "A statement showing the bank's assets, liabilities and capital"
+    },
+    {
+      "question": "142. What is interest?",
+      "option1": "The cost of borrowing money or the return earned on savings",
+      "option2": "A type of bank account",
+      "option3": "A government identity card",
+      "option4": "A payment network",
+      "answer": "The cost of borrowing money or the return earned on savings"
+    },
+    {
+      "question": "143. What is simple interest?",
+      "option1": "Interest calculated only on the principal amount",
+      "option2": "Interest calculated on principal and accumulated interest",
+      "option3": "Interest charged only on loans",
+      "option4": "Interest paid only on current accounts",
+      "answer": "Interest calculated only on the principal amount"
+    },
+    {
+      "question": "144. What is compound interest?",
+      "option1": "Interest calculated on principal plus accumulated interest",
+      "option2": "Interest calculated only on the original principal",
+      "option3": "Interest without any rate",
+      "option4": "Interest paid only by RBI",
+      "answer": "Interest calculated on principal plus accumulated interest"
+    },
+    {
+      "question": "145. What is the principal amount in a loan?",
+      "option1": "The original amount borrowed",
+      "option2": "The interest charged",
+      "option3": "The penalty amount",
+      "option4": "The processing fee",
+      "answer": "The original amount borrowed"
+    },
+    {
+      "question": "146. What is the tenure of a loan?",
+      "option1": "The period for which the loan is scheduled to be repaid",
+      "option2": "The interest rate only",
+      "option3": "The loan processing fee",
+      "option4": "The borrower's credit score",
+      "answer": "The period for which the loan is scheduled to be repaid"
+    },
+    {
+      "question": "147. What is a moratorium period in a loan?",
+      "option1": "A specified period during which repayment of principal may be deferred according to loan terms",
+      "option2": "A period when the loan interest is doubled",
+      "option3": "A period when the bank is closed",
+      "option4": "A period when the account is permanently cancelled",
+      "answer": "A specified period during which repayment of principal may be deferred according to loan terms"
+    },
+    {
+      "question": "148. What is a credit appraisal?",
+      "option1": "Assessment of a borrower's creditworthiness and ability to repay",
+      "option2": "Printing a bank statement",
+      "option3": "Issuing a debit card",
+      "option4": "Opening an ATM",
+      "answer": "Assessment of a borrower's creditworthiness and ability to repay"
+    },
+    {
+      "question": "149. What is the full form of TDS?",
+      "option1": "Tax Deducted at Source",
+      "option2": "Total Deposit System",
+      "option3": "Tax Deposit Scheme",
+      "option4": "Transaction Deduction Service",
+      "answer": "Tax Deducted at Source"
+    },
+    {
+      "question": "150. What is TDS generally deducted from?",
+      "option1": "Specified payments such as interest or salary, as required under tax rules",
+      "option2": "Every cash withdrawal",
+      "option3": "Every ATM transaction",
+      "option4": "Every UPI payment",
+      "answer": "Specified payments such as interest or salary, as required under tax rules"
+    },
+     {
+      "question": "151. What is the full form of GST?",
+      "option1": "Goods and Services Tax",
+      "option2": "General Sales Tax",
+      "option3": "Goods Supply Tax",
+      "option4": "Government Service Tax",
+      "answer": "Goods and Services Tax"
+    },
+    {
+      "question": "152. Which constitutional amendment introduced GST in India?",
+      "option1": "101st Constitutional Amendment",
+      "option2": "100th Constitutional Amendment",
+      "option3": "102nd Constitutional Amendment",
+      "option4": "99th Constitutional Amendment",
+      "answer": "101st Constitutional Amendment"
+    },
+    {
+      "question": "153. What is the full form of GSTN?",
+      "option1": "Goods and Services Tax Network",
+      "option2": "General Sales Tax Network",
+      "option3": "Government Services Tax Network",
+      "option4": "Goods Supply and Trade Network",
+      "answer": "Goods and Services Tax Network"
+    },
+    {
+      "question": "154. Which body recommends GST rates and major GST-related matters?",
+      "option1": "GST Council",
+      "option2": "RBI",
+      "option3": "SEBI",
+      "option4": "Finance Commission",
+      "answer": "GST Council"
+    },
+    {
+      "question": "155. What is the full form of ITR?",
+      "option1": "Income Tax Return",
+      "option2": "Income Transfer Receipt",
+      "option3": "Indian Tax Record",
+      "option4": "Income Transaction Report",
+      "answer": "Income Tax Return"
+    },
+    {
+      "question": "156. What is a PAN primarily used for?",
+      "option1": "Tax identification and financial transactions",
+      "option2": "Voting only",
+      "option3": "Passport verification only",
+      "option4": "Railway ticket booking only",
+      "answer": "Tax identification and financial transactions"
+    },
+    {
+      "question": "157. What is the full form of TIN?",
+      "option1": "Taxpayer Identification Number",
+      "option2": "Tax Information Number",
+      "option3": "Transaction Identification Network",
+      "option4": "Tax Investment Number",
+      "answer": "Taxpayer Identification Number"
+    },
+    {
+      "question": "158. What is a fiscal deficit?",
+      "option1": "Excess of government expenditure over its total receipts excluding borrowings",
+      "option2": "Excess of exports over imports",
+      "option3": "Excess of bank deposits over loans",
+      "option4": "Fall in tax rates",
+      "answer": "Excess of government expenditure over its total receipts excluding borrowings"
+    },
+    {
+      "question": "159. What is a fiscal policy?",
+      "option1": "Government policy relating to taxation and public expenditure",
+      "option2": "RBI policy relating only to interest rates",
+      "option3": "Bank policy relating to ATMs",
+      "option4": "Stock exchange trading policy",
+      "answer": "Government policy relating to taxation and public expenditure"
+    },
+    {
+      "question": "160. What is monetary policy?",
+      "option1": "Policy concerning money supply, interest rates and credit conditions",
+      "option2": "Government policy on railway fares",
+      "option3": "Policy on income tax collection only",
+      "option4": "Policy for foreign tourism",
+      "answer": "Policy concerning money supply, interest rates and credit conditions"
+    },
+    {
+      "question": "161. Which body conducts monetary policy in India?",
+      "option1": "Reserve Bank of India",
+      "option2": "Ministry of Commerce",
+      "option3": "SEBI",
+      "option4": "NABARD",
+      "answer": "Reserve Bank of India"
+    },
+    {
+      "question": "162. What is the Monetary Policy Committee commonly known as?",
+      "option1": "MPC",
+      "option2": "MPCP",
+      "option3": "MPB",
+      "option4": "MCC",
+      "answer": "MPC"
+    },
+    {
+      "question": "163. What is the primary purpose of the Monetary Policy Committee?",
+      "option1": "To determine the policy interest rate needed to achieve the inflation target",
+      "option2": "To regulate stock exchanges",
+      "option3": "To issue passports",
+      "option4": "To manage government employees",
+      "answer": "To determine the policy interest rate needed to achieve the inflation target"
+    },
+    {
+      "question": "164. What is deflation?",
+      "option1": "A sustained decline in the general price level",
+      "option2": "A sustained rise in prices",
+      "option3": "An increase in exports",
+      "option4": "An increase in wages only",
+      "answer": "A sustained decline in the general price level"
+    },
+    {
+      "question": "165. What is stagflation?",
+      "option1": "A combination of stagnant economic growth and high inflation",
+      "option2": "High growth with low inflation",
+      "option3": "Falling prices with high employment",
+      "option4": "High exports with low imports",
+      "answer": "A combination of stagnant economic growth and high inflation"
+    },
+    {
+      "question": "166. What is per capita income?",
+      "option1": "Average income per person",
+      "option2": "Total income of banks",
+      "option3": "Government tax revenue only",
+      "option4": "Total exports of a country",
+      "answer": "Average income per person"
+    },
+    {
+      "question": "167. What is national income?",
+      "option1": "The total income earned by the factors of production of a country during a period",
+      "option2": "Only government tax revenue",
+      "option3": "Only bank deposits",
+      "option4": "Only export earnings",
+      "answer": "The total income earned by the factors of production of a country during a period"
+    },
+    {
+      "question": "168. What is a budget?",
+      "option1": "An annual statement of estimated government receipts and expenditure",
+      "option2": "A bank passbook",
+      "option3": "A stock market index",
+      "option4": "A loan agreement",
+      "answer": "An annual statement of estimated government receipts and expenditure"
+    },
+    {
+      "question": "169. Which institution presents the Union Budget in Parliament?",
+      "option1": "Ministry of Finance",
+      "option2": "Reserve Bank of India",
+      "option3": "SEBI",
+      "option4": "NITI Aayog",
+      "answer": "Ministry of Finance"
+    },
+    {
+      "question": "170. What is disinvestment?",
+      "option1": "Sale of government ownership in a public sector enterprise",
+      "option2": "Increase in government ownership",
+      "option3": "Printing additional currency",
+      "option4": "Reduction in bank deposits",
+      "answer": "Sale of government ownership in a public sector enterprise"
+    },
+    {
+      "question": "171. What is privatization?",
+      "option1": "Transfer of ownership or control from the public sector to the private sector",
+      "option2": "Increase in government control",
+      "option3": "Creation of a new currency",
+      "option4": "Reduction in exports",
+      "answer": "Transfer of ownership or control from the public sector to the private sector"
+    },
+    {
+      "question": "172. What is a public sector bank?",
+      "option1": "A bank in which the government has majority ownership",
+      "option2": "A bank owned entirely by foreign investors",
+      "option3": "A bank without any branches",
+      "option4": "A bank that provides only loans",
+      "answer": "A bank in which the government has majority ownership"
+    },
+    {
+      "question": "173. Which of the following is a public sector bank?",
+      "option1": "State Bank of India",
+      "option2": "HDFC Bank",
+      "option3": "ICICI Bank",
+      "option4": "Axis Bank",
+      "answer": "State Bank of India"
+    },
+    {
+      "question": "174. What is a private sector bank?",
+      "option1": "A bank primarily owned and controlled by private shareholders",
+      "option2": "A bank owned entirely by the central government",
+      "option3": "A bank operated by RBI",
+      "option4": "A bank that cannot accept deposits",
+      "answer": "A bank primarily owned and controlled by private shareholders"
+    },
+    {
+      "question": "175. Which of the following is a private sector bank in India?",
+      "option1": "HDFC Bank",
+      "option2": "State Bank of India",
+      "option3": "Punjab National Bank",
+      "option4": "Bank of Baroda",
+      "answer": "HDFC Bank"
+    },
+    {
+      "question": "176. What is the full form of NPCI?",
+      "option1": "National Payments Corporation of India",
+      "option2": "National Payment Council of India",
+      "option3": "National Processing Corporation of India",
+      "option4": "National Public Payments Institution",
+      "answer": "National Payments Corporation of India"
+    },
+    {
+      "question": "177. Which organization developed the UPI platform?",
+      "option1": "NPCI",
+      "option2": "SEBI",
+      "option3": "IRDAI",
+      "option4": "NABARD",
+      "answer": "NPCI"
+    },
+    {
+      "question": "178. What is the full form of BHIM?",
+      "option1": "Bharat Interface for Money",
+      "option2": "Bharat Internet for Mobile",
+      "option3": "Banking Interface for Money",
+      "option4": "Bharat Integrated Money",
+      "answer": "Bharat Interface for Money"
+    },
+    {
+      "question": "179. BHIM is primarily associated with which payment system?",
+      "option1": "UPI",
+      "option2": "NEFT",
+      "option3": "RTGS",
+      "option4": "SWIFT",
+      "answer": "UPI"
+    },
+    {
+      "question": "180. What is a UPI ID also commonly called?",
+      "option1": "Virtual Payment Address",
+      "option2": "Virtual Personal Account",
+      "option3": "Unified Payment Account",
+      "option4": "Verified Payment Number",
+      "answer": "Virtual Payment Address"
+    },
+    {
+      "question": "181. What is the full form of VPA in digital payments?",
+      "option1": "Virtual Payment Address",
+      "option2": "Verified Payment Account",
+      "option3": "Virtual Processing Account",
+      "option4": "Value Payment Address",
+      "answer": "Virtual Payment Address"
+    },
+    {
+      "question": "182. Which payment system is specifically designed for high-value, real-time fund transfers?",
+      "option1": "RTGS",
+      "option2": "ECS",
+      "option3": "NACH",
+      "option4": "BBPS",
+      "answer": "RTGS"
+    },
+    {
+      "question": "183. Which payment system is commonly used for electronic fund transfers that are processed in batches?",
+      "option1": "NEFT",
+      "option2": "RTGS",
+      "option3": "ATM",
+      "option4": "POS",
+      "answer": "NEFT"
+    },
+    {
+      "question": "184. What is the full form of NIFTY?",
+      "option1": "National Stock Exchange Fifty",
+      "option2": "National Index Fifty",
+      "option3": "National Financial Fifty",
+      "option4": "New India Fifty",
+      "answer": "National Stock Exchange Fifty"
+    },
+    {
+      "question": "185. NIFTY 50 is an index of which stock exchange?",
+      "option1": "NSE",
+      "option2": "BSE",
+      "option3": "MCX",
+      "option4": "NCDEX",
+      "answer": "NSE"
+    },
+    {
+      "question": "186. What is the full form of SENSEX?",
+      "option1": "Sensitive Index",
+      "option2": "Security Index",
+      "option3": "Securities Exchange Index",
+      "option4": "Sensitive Exchange",
+      "answer": "Sensitive Index"
+    },
+    {
+      "question": "187. SENSEX is the benchmark index of which stock exchange?",
+      "option1": "BSE",
+      "option2": "NSE",
+      "option3": "MCX",
+      "option4": "NCDEX",
+      "answer": "BSE"
+    },
+    {
+      "question": "188. What is a stock exchange?",
+      "option1": "A regulated marketplace for buying and selling securities",
+      "option2": "A bank branch",
+      "option3": "A government tax office",
+      "option4": "An insurance company",
+      "answer": "A regulated marketplace for buying and selling securities"
+    },
+    {
+      "question": "189. What does a bond generally represent?",
+      "option1": "A debt investment",
+      "option2": "Ownership in a company only",
+      "option3": "A savings account",
+      "option4": "An insurance policy",
+      "answer": "A debt investment"
+    },
+    {
+      "question": "190. What does a share generally represent?",
+      "option1": "Ownership interest in a company",
+      "option2": "A bank loan",
+      "option3": "A government tax",
+      "option4": "A fixed deposit",
+      "answer": "Ownership interest in a company"
+    },
+    {
+      "question": "191. What is a dividend?",
+      "option1": "A distribution of a company's profits to eligible shareholders",
+      "option2": "A bank loan",
+      "option3": "A government tax",
+      "option4": "A type of insurance premium",
+      "answer": "A distribution of a company's profits to eligible shareholders"
+    },
+    {
+      "question": "192. What is market capitalization?",
+      "option1": "The total market value of a company's outstanding shares",
+      "option2": "The company's annual salary expense",
+      "option3": "The total amount of bank deposits",
+      "option4": "The company's tax liability",
+      "answer": "The total market value of a company's outstanding shares"
+    },
+    {
+      "question": "193. What is a mutual fund?",
+      "option1": "An investment vehicle that pools money from multiple investors",
+      "option2": "A type of bank account",
+      "option3": "A government tax scheme only",
+      "option4": "A loan agreement",
+      "answer": "An investment vehicle that pools money from multiple investors"
+    },
+    {
+      "question": "194. What does SIP stand for in mutual fund investment?",
+      "option1": "Systematic Investment Plan",
+      "option2": "Savings Investment Program",
+      "option3": "Systematic Income Plan",
+      "option4": "Secure Investment Process",
+      "answer": "Systematic Investment Plan"
+    },
+    {
+      "question": "195. What is diversification in investment?",
+      "option1": "Spreading investments across different assets to reduce concentration risk",
+      "option2": "Investing all money in one asset",
+      "option3": "Keeping all money as cash",
+      "option4": "Avoiding all investments",
+      "answer": "Spreading investments across different assets to reduce concentration risk"
+    },
+    {
+      "question": "196. What is a demat account?",
+      "option1": "An account used to hold securities in electronic form",
+      "option2": "A savings bank account",
+      "option3": "A loan account",
+      "option4": "A current account",
+      "answer": "An account used to hold securities in electronic form"
+    },
+    {
+      "question": "197. What is the full form of KYC?",
+      "option1": "Know Your Customer",
+      "option2": "Keep Your Cash",
+      "option3": "Know Your Credit",
+      "option4": "Keep Your Customer",
+      "answer": "Know Your Customer"
+    },
+    {
+      "question": "198. Which document is commonly used as proof of identity in India?",
+      "option1": "Aadhaar",
+      "option2": "Bank passbook only",
+      "option3": "ATM receipt",
+      "option4": "Deposit slip",
+      "answer": "Aadhaar"
+    },
+    {
+      "question": "199. What is financial literacy?",
+      "option1": "Knowledge and understanding needed to make informed financial decisions",
+      "option2": "Knowledge of only stock prices",
+      "option3": "Ability to print currency",
+      "option4": "Knowledge of banking passwords",
+      "answer": "Knowledge and understanding needed to make informed financial decisions"
+    },
+    {
+      "question": "200. Which organization is India's central banking institution?",
+      "option1": "Reserve Bank of India",
+      "option2": "State Bank of India",
+      "option3": "SEBI",
+      "option4": "NABARD",
+      "answer": "Reserve Bank of India"
+    }
+  ]
+}

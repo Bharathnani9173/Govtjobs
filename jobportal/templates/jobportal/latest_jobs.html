@@ -1,38 +1,459 @@
-{% load static %}
+{% extends "jobportal/base.html" %}
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Latest Jobs</title>
-    <link rel="stylesheet" href="{% static 'jobportal/css/style.css' %}">
-</head>
-<body>
+{% block title %}
+Latest Government Jobs
+{% endblock %}
 
-<h1>Latest Government Jobs</h1>
+{% block content %}
 
-<div class="job-card">
-    <h2>SSC CGL 2026</h2>
-    <p>Staff Selection Commission Combined Graduate Level Examination</p>
-    <a href="{% url 'ssc_cgl' %}" class="details-button">
-    View Details
-</a>
+<style>
+
+/* =========================================================
+   LATEST JOBS PAGE
+   ========================================================= */
+.latest-jobs-title {
+    color: #003366;
+    font-size: 34px;
+    font-weight: bold;
+}
+
+.latest-star {
+    color: #d60000;
+    display: inline-block;
+    animation: blinkLatestStar 1s infinite;
+}
+
+@keyframes blinkLatestStar {
+    0%,
+    49% {
+        opacity: 1;
+    }
+
+    50%,
+    100% {
+        opacity: 0.2;
+    }
+}
+
+.latest-jobs-page {
+    max-width: 1200px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+/* Page Header */
+
+.latest-jobs-header {
+    text-align: center;
+    margin-bottom: 35px;
+}
+
+.latest-jobs-header h1 {
+    color: #003366;
+    font-size: 34px;
+    margin-bottom: 10px;
+}
+
+.latest-jobs-header p {
+    color: #555;
+    font-size: 16px;
+}
+
+/* =========================================================
+   JOB GRID
+   ========================================================= */
+
+.jobs-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 25px;
+}
+
+/* =========================================================
+   JOB CARD
+   ========================================================= */
+
+.job-card {
+    background: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 25px;
+    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.08);
+    transition: transform 0.2s ease,
+                box-shadow 0.2s ease;
+}
+
+.job-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.12);
+}
+
+/* =========================================================
+   NEW BADGE
+   ========================================================= */
+
+.new-badge {
+    display: inline-block;
+    background: #d60000;
+    color: #ffffff;
+    font-weight: bold;
+    padding: 6px 12px;
+    border-radius: 5px;
+    font-size: 13px;
+    margin-bottom: 12px;
+    animation: blinkNew 1s infinite;
+}
+
+@keyframes blinkNew {
+
+    0%,
+    49% {
+        opacity: 1;
+    }
+
+    50%,
+    100% {
+        opacity: 0.25;
+    }
+}
+
+/* =========================================================
+   JOB TITLE
+   ========================================================= */
+
+.job-card h2 {
+    color: #003366;
+    font-size: 21px;
+    margin: 5px 0 18px;
+    line-height: 1.4;
+}
+
+/* =========================================================
+   JOB INFORMATION
+   ========================================================= */
+
+.job-info {
+    margin-bottom: 8px;
+    color: #333;
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+.job-info strong {
+    color: #003366;
+}
+
+/* =========================================================
+   JOB TYPE BADGE
+   ========================================================= */
+
+.job-type {
+    display: inline-block;
+    margin-top: 8px;
+    margin-bottom: 12px;
+    padding: 5px 10px;
+    border-radius: 4px;
+    background: #eef5ff;
+    color: #003366;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+/* =========================================================
+   OFFICIAL NOTICE
+   ========================================================= */
+
+.official-notice {
+    margin-top: 18px;
+    padding: 10px 12px;
+    background: #f5f8fb;
+    border-left: 4px solid #003366;
+    font-size: 13px;
+    color: #555;
+}
+
+/* =========================================================
+   BUTTON
+   ========================================================= */
+
+.view-job-btn {
+    display: inline-block;
+    margin-top: 18px;
+    padding: 10px 18px;
+    background: #003366;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background 0.2s ease;
+}
+
+.view-job-btn:hover {
+    background: #00509e;
+    color: #ffffff;
+}
+
+/* =========================================================
+   NO JOBS
+   ========================================================= */
+
+.no-jobs {
+    text-align: center;
+    background: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 50px 20px;
+    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.06);
+}
+
+.no-jobs h2 {
+    color: #003366;
+    margin-bottom: 10px;
+}
+
+.no-jobs p {
+    color: #666;
+}
+
+/* =========================================================
+   RESPONSIVE
+   ========================================================= */
+
+@media (max-width: 768px) {
+
+    .jobs-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .latest-jobs-header h1 {
+        font-size: 28px;
+    }
+
+    .job-card {
+        padding: 20px;
+    }
+
+}
+
+</style>
+
+
+<div class="latest-jobs-page">
+
+    <!-- =====================================================
+         PAGE HEADER
+         ===================================================== -->
+
+    <div class="latest-jobs-header">
+
+        <h1 class="latest-jobs-title">
+            <span class="latest-star">★</span>
+            Latest Jobs
+        </h1>
+
+        <p>
+            Latest verified government recruitment notifications
+        </p>
+
+    </div>
+
+
+    <!-- =====================================================
+         JOBS
+         ===================================================== -->
+
+    {% if jobs %}
+
+        <div class="jobs-grid">
+
+            {% for job in jobs %}
+
+                <div class="job-card">
+
+                    <!-- NEW BADGE -->
+
+                    {% if job.notification_date >= new_job_date %}
+
+                        <div class="new-badge">
+                            ★ NEW
+                        </div>
+
+                    {% endif %}
+
+
+                    <!-- JOB TITLE -->
+
+                    <h2>
+                        {{ job.title }}
+                    </h2>
+
+
+                    <!-- ORGANIZATION -->
+
+                    <div class="job-info">
+
+                        <strong>
+                            Organization:
+                        </strong>
+
+                        {{ job.organization }}
+
+                    </div>
+
+
+                    <!-- CATEGORY -->
+
+                    <div class="job-info">
+
+                        <strong>
+                            Category:
+                        </strong>
+
+                        {{ job.category }}
+
+                    </div>
+
+
+                    <!-- JOB TYPE -->
+
+                    <div class="job-type">
+
+                        {% if job.job_type == "Central" %}
+
+                            Central Government
+
+                        {% elif job.job_type == "Telangana" %}
+
+                            Telangana Government
+
+                        {% else %}
+
+                            {{ job.job_type }}
+
+                        {% endif %}
+
+                    </div>
+
+
+                    <!-- LOCATION -->
+
+                    <div class="job-info">
+
+                        <strong>
+                            Location:
+                        </strong>
+
+                        {{ job.location }}
+
+                    </div>
+
+
+                    <!-- QUALIFICATION -->
+
+                    <div class="job-info">
+
+                        <strong>
+                            Qualification:
+                        </strong>
+
+                        {{ job.qualification }}
+
+                    </div>
+
+
+                    <!-- VACANCIES -->
+
+                    <div class="job-info">
+
+                        <strong>
+                            Vacancies:
+                        </strong>
+
+                        {% if job.vacancies and job.vacancies > 0 %}
+
+                            {{ job.vacancies }}
+
+                        {% else %}
+
+                            As per official notification
+
+                        {% endif %}
+
+                    </div>
+
+
+                    <!-- NOTIFICATION DATE -->
+
+                    <div class="job-info">
+
+                        <strong>
+                            Notification Date:
+                        </strong>
+
+                        {{ job.notification_date|date:"d M Y" }}
+
+                    </div>
+
+
+                    <!-- LAST DATE -->
+
+                    <div class="job-info">
+
+                        <strong>
+                            Last Date:
+                        </strong>
+
+                        {{ job.last_date|date:"d M Y" }}
+
+                    </div>
+
+
+                    <!-- OFFICIAL SOURCE MESSAGE -->
+
+                    <div class="official-notice">
+
+                        ✓ Official government recruitment
+                        notification verified.
+
+                    </div>
+
+
+                    <!-- VIEW JOB -->
+
+                    <a
+                        href="{% url 'job_detail' job.id %}"
+                        class="view-job-btn"
+                    >
+                        View Job Details
+                    </a>
+
+                </div>
+
+            {% endfor %}
+
+        </div>
+
+    {% else %}
+
+        <!-- =================================================
+             NO VERIFIED JOBS
+             ================================================= -->
+
+        <div class="no-jobs">
+
+            <h2>
+                No Latest Jobs Available
+            </h2>
+
+            <p>
+                No verified official government recruitment
+                notifications are currently available.
+            </p>
+
+        </div>
+
+    {% endif %}
+
 </div>
 
-<div class="job-card">
-    <h2>Railway Group D</h2>
-    <p>Railway Recruitment Board Group D Recruitment</p>
-    <a href="{% url 'railway_group_d' %}" class="details-button">
-    View Details
-</a>
-</div>
-
-<div class="job-card">
-    <h2>TGPSC Group 1</h2>
-    <p>Telangana Public Service Commission Group 1 Examination</p>
-    <a href="{% url 'tgpsc_group_1' %}" class="details-button">
-    View Details
-</a>
-</div>
-
-</body>
-</html>
+{% endblock %}

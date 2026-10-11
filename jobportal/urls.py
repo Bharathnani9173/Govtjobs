@@ -1,4 +1,4 @@
-from django.urls import path
+from django.urls import path, re_path
 from . import views
 
 
@@ -72,6 +72,8 @@ urlpatterns = [
         name='admit_cards'
     ),
 
+    path("results/", views.results, name="results"),
+
     path(
         'job/tgpsc-group-1/',
         views.tgpsc_group_1,
@@ -118,6 +120,12 @@ urlpatterns = [
         views.previous_papers,
         name='previous_papers'
     ),
+
+    path(
+    'previous-papers/<int:exam_id>/',
+    views.exam_previous_papers,
+    name='exam_previous_papers'
+   ),
 
     path(
         'answer-keys/',
@@ -241,14 +249,11 @@ urlpatterns = [
         views.notifications,
         name='notifications'
     ),
-
-
-    path(
-      "exam/<str:exam_name>/mock-test/",
-       views.exam_mock_test,
-       name="exam_mock_test"
-    ),
-
+    re_path(
+    r"^exam/(?P<exam_name>.+)/mock-test/$",
+    views.exam_mock_test,
+    name="exam_mock_test"
+   ),
     # =========================
     # PDF
     # =========================

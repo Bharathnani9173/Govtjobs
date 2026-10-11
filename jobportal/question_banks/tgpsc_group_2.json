@@ -1,0 +1,4277 @@
+{
+  "exam": "TGPSC Group 2",
+  "questions": [
+    {
+      "question": "Which dynasty ruled Telangana before the Kakatiyas?",
+      "option1": "Satavahanas",
+      "option2": "Western Chalukyas",
+      "option3": "Qutb Shahis",
+      "option4": "Asaf Jahis",
+      "answer": "Western Chalukyas"
+    },
+    {
+      "question": "Who founded the Kakatiya dynasty?",
+      "option1": "Beta II",
+      "option2": "Rudradeva",
+      "option3": "Ganapatideva",
+      "option4": "Prataparudra",
+      "answer": "Beta II"
+    },
+    {
+      "question": "What was the capital of the Kakatiya kingdom?",
+      "option1": "Golconda",
+      "option2": "Warangal",
+      "option3": "Hyderabad",
+      "option4": "Karimnagar",
+      "answer": "Warangal"
+    },
+    {
+      "question": "Who built the Ramappa Temple?",
+      "option1": "Rudradeva",
+      "option2": "Ganapatideva",
+      "option3": "Rudramadevi",
+      "option4": "Prataparudra II",
+      "answer": "Prataparudra II"
+    },
+    {
+      "question": "Rudramadevi belonged to which dynasty?",
+      "option1": "Satavahana",
+      "option2": "Kakatiya",
+      "option3": "Qutb Shahi",
+      "option4": "Ikshvaku",
+      "answer": "Kakatiya"
+    },
+    {
+      "question": "Who was the father of Rudramadevi?",
+      "option1": "Ganapatideva",
+      "option2": "Rudradeva",
+      "option3": "Prataparudra",
+      "option4": "Beta II",
+      "answer": "Ganapatideva"
+    },
+    {
+      "question": "Which ruler was the last major Kakatiya king?",
+      "option1": "Ganapatideva",
+      "option2": "Rudradeva",
+      "option3": "Prataparudra II",
+      "option4": "Beta II",
+      "answer": "Prataparudra II"
+    },
+    {
+      "question": "The Thousand Pillar Temple is located at which place?",
+      "option1": "Warangal",
+      "option2": "Nizamabad",
+      "option3": "Khammam",
+      "option4": "Nalgonda",
+      "answer": "Warangal"
+    },
+    {
+      "question": "The famous Ramappa Temple is located in which district?",
+      "option1": "Mulugu",
+      "option2": "Medak",
+      "option3": "Sangareddy",
+      "option4": "Vikarabad",
+      "answer": "Mulugu"
+    },
+    {
+      "question": "Who founded the Qutb Shahi dynasty?",
+      "option1": "Muhammad Quli Qutb Shah",
+      "option2": "Sultan Quli Qutb-ul-Mulk",
+      "option3": "Abdullah Qutb Shah",
+      "option4": "Ibrahim Qutb Shah",
+      "answer": "Sultan Quli Qutb-ul-Mulk"
+    },
+    {
+      "question": "Who founded Hyderabad city?",
+      "option1": "Sultan Quli Qutb Shah",
+      "option2": "Muhammad Quli Qutb Shah",
+      "option3": "Ibrahim Qutb Shah",
+      "option4": "Abdullah Qutb Shah",
+      "answer": "Muhammad Quli Qutb Shah"
+    },
+    {
+      "question": "In which year was Hyderabad founded?",
+      "option1": "1498",
+      "option2": "1591",
+      "option3": "1687",
+      "option4": "1724",
+      "answer": "1591"
+    },
+    {
+      "question": "Which monument was built by Muhammad Quli Qutb Shah?",
+      "option1": "Charminar",
+      "option2": "Golconda Fort",
+      "option3": "Mecca Masjid",
+      "option4": "Falaknuma Palace",
+      "answer": "Charminar"
+    },
+    {
+      "question": "Who was the founder of the Asaf Jahi dynasty?",
+      "option1": "Nizam Ali Khan",
+      "option2": "Mir Osman Ali Khan",
+      "option3": "Asaf Jah I",
+      "option4": "Nasir Jung",
+      "answer": "Asaf Jah I"
+    },
+    {
+      "question": "What was the original name of Asaf Jah I?",
+      "option1": "Mir Qamar-ud-din Khan",
+      "option2": "Mir Osman Ali Khan",
+      "option3": "Sikandar Jah",
+      "option4": "Nizam Ali Khan",
+      "answer": "Mir Qamar-ud-din Khan"
+    },
+    {
+      "question": "Who was the last Nizam of Hyderabad?",
+      "option1": "Nizam Ali Khan",
+      "option2": "Mir Osman Ali Khan",
+      "option3": "Nasir Jung",
+      "option4": "Sikandar Jah",
+      "answer": "Mir Osman Ali Khan"
+    },
+    {
+      "question": "Hyderabad State became part of the Indian Union through which operation?",
+      "option1": "Operation Vijay",
+      "option2": "Operation Polo",
+      "option3": "Operation Blue Star",
+      "option4": "Operation Flood",
+      "answer": "Operation Polo"
+    },
+    {
+      "question": "Operation Polo was conducted in which year?",
+      "option1": "1947",
+      "option2": "1948",
+      "option3": "1950",
+      "option4": "1956",
+      "answer": "1948"
+    },
+    {
+      "question": "Who was the first Chief Minister of Hyderabad State after independence?",
+      "option1": "Burgula Ramakrishna Rao",
+      "option2": "Konda Venkata Ranga Reddy",
+      "option3": "Damodaram Sanjivayya",
+      "option4": "Neelam Sanjiva Reddy",
+      "answer": "Burgula Ramakrishna Rao"
+    },
+    {
+      "question": "The Telangana armed struggle was mainly directed against which system?",
+      "option1": "British administration",
+      "option2": "Nizam's feudal system",
+      "option3": "French administration",
+      "option4": "Portuguese administration",
+      "answer": "Nizam's feudal system"
+    },
+    {
+      "question": "Who is popularly known as the Telangana Sayudha Porata hero associated with Bairanpally?",
+      "option1": "Komaram Bheem",
+      "option2": "Doddi Komuraiah",
+      "option3": "Ravi Narayan Reddy",
+      "option4": "Chakali Ilamma",
+      "answer": "Doddi Komuraiah"
+    },
+    {
+      "question": "Komaram Bheem belonged to which tribal community?",
+      "option1": "Gond",
+      "option2": "Lambada",
+      "option3": "Koya",
+      "option4": "Chenchu",
+      "answer": "Gond"
+    },
+    {
+      "question": "Komaram Bheem fought against the rule of which authority?",
+      "option1": "British Government",
+      "option2": "Nizam Government",
+      "option3": "Madras Government",
+      "option4": "Mysore Government",
+      "answer": "Nizam Government"
+    },
+    {
+      "question": "What slogan is associated with Komaram Bheem?",
+      "option1": "Vande Mataram",
+      "option2": "Jal Jangal Zameen",
+      "option3": "Inquilab Zindabad",
+      "option4": "Jai Hind",
+      "answer": "Jal Jangal Zameen"
+    },
+    {
+      "question": "Chakali Ilamma was associated with which movement?",
+      "option1": "Telangana armed struggle",
+      "option2": "Swadeshi movement",
+      "option3": "Quit India Movement",
+      "option4": "Non-Cooperation Movement",
+      "answer": "Telangana armed struggle"
+    },
+    {
+      "question": "The Mulki Rules were mainly related to what?",
+      "option1": "Land revenue",
+      "option2": "Local employment",
+      "option3": "Education policy",
+      "option4": "Forest administration",
+      "answer": "Local employment"
+    },
+    {
+      "question": "The Gentlemen's Agreement was associated with which issue?",
+      "option1": "Formation of Andhra Pradesh",
+      "option2": "Formation of Maharashtra",
+      "option3": "Formation of Karnataka",
+      "option4": "Formation of Gujarat",
+      "answer": "Formation of Andhra Pradesh"
+    },
+    {
+      "question": "Telangana was formed as a separate state on which date?",
+      "option1": "1 November 1956",
+      "option2": "2 June 2014",
+      "option3": "15 August 1947",
+      "option4": "26 January 1950",
+      "answer": "2 June 2014"
+    },
+    {
+      "question": "Who was the first Chief Minister of Telangana?",
+      "option1": "K. Chandrashekar Rao",
+      "option2": "K. Jana Reddy",
+      "option3": "N. Chandrababu Naidu",
+      "option4": "K. Rosaiah",
+      "answer": "K. Chandrashekar Rao"
+    },
+    {
+      "question": "Which movement directly preceded the formation of Telangana state?",
+      "option1": "Telangana statehood movement",
+      "option2": "Swadeshi movement",
+      "option3": "Civil Disobedience Movement",
+      "option4": "Home Rule Movement",
+      "answer": "Telangana statehood movement"
+    },
+    {
+      "question": "The Telangana statehood movement gained major momentum after which event?",
+      "option1": "Formation of TRS",
+      "option2": "Dandi March",
+      "option3": "Quit India Movement",
+      "option4": "Green Revolution",
+      "answer": "Formation of TRS"
+    },
+    {
+      "question": "TRS was founded in which year?",
+      "option1": "1998",
+      "option2": "2001",
+      "option3": "2004",
+      "option4": "2009",
+      "answer": "2001"
+    },
+    {
+      "question": "Who founded the Telangana Rashtra Samithi?",
+      "option1": "K. Chandrashekar Rao",
+      "option2": "K. Jana Reddy",
+      "option3": "Prof. Jayashankar",
+      "option4": "M. Kodandaram",
+      "answer": "K. Chandrashekar Rao"
+    },
+    {
+      "question": "Who is popularly known as the ideological father of the Telangana movement?",
+      "option1": "Prof. K. Jayashankar",
+      "option2": "Burgula Ramakrishna Rao",
+      "option3": "P. V. Narasimha Rao",
+      "option4": "Kaloji Narayana Rao",
+      "answer": "Prof. K. Jayashankar"
+    },
+    {
+      "question": "The Telangana Joint Action Committee was popularly known as what?",
+      "option1": "TJAC",
+      "option2": "TREC",
+      "option3": "TASC",
+      "option4": "TCC",
+      "answer": "TJAC"
+    },
+    {
+      "question": "The Million March was part of which movement?",
+      "option1": "Telangana statehood movement",
+      "option2": "Non-Cooperation Movement",
+      "option3": "Civil Disobedience Movement",
+      "option4": "Quit India Movement",
+      "answer": "Telangana statehood movement"
+    },
+    {
+      "question": "Which lake is located in Hyderabad?",
+      "option1": "Hussain Sagar",
+      "option2": "Kolleru",
+      "option3": "Pulicat",
+      "option4": "Loktak",
+      "answer": "Hussain Sagar"
+    },
+    {
+      "question": "Hussain Sagar connects which two major areas?",
+      "option1": "Hyderabad and Secunderabad",
+      "option2": "Warangal and Hanamkonda",
+      "option3": "Karimnagar and Nizamabad",
+      "option4": "Khammam and Nalgonda",
+      "answer": "Hyderabad and Secunderabad"
+    },
+    {
+      "question": "Which river flows through Hyderabad?",
+      "option1": "Musi",
+      "option2": "Godavari",
+      "option3": "Krishna",
+      "option4": "Manjira",
+      "answer": "Musi"
+    },
+    {
+      "question": "The Musi River is a tributary of which river?",
+      "option1": "Godavari",
+      "option2": "Krishna",
+      "option3": "Tungabhadra",
+      "option4": "Manjira",
+      "answer": "Krishna"
+    },
+    {
+      "question": "Which is the major river flowing through northern Telangana?",
+      "option1": "Godavari",
+      "option2": "Pennar",
+      "option3": "Tungabhadra",
+      "option4": "Cauvery",
+      "answer": "Godavari"
+    },
+    {
+      "question": "The Pranahita is a tributary of which river?",
+      "option1": "Krishna",
+      "option2": "Godavari",
+      "option3": "Musi",
+      "option4": "Pennar",
+      "answer": "Godavari"
+    },
+    {
+      "question": "Which river forms part of the northern boundary of Telangana?",
+      "option1": "Godavari",
+      "option2": "Krishna",
+      "option3": "Tungabhadra",
+      "option4": "Musi",
+      "answer": "Godavari"
+    },
+    {
+      "question": "Which is the largest river basin in Telangana?",
+      "option1": "Godavari Basin",
+      "option2": "Krishna Basin",
+      "option3": "Pennar Basin",
+      "option4": "Cauvery Basin",
+      "answer": "Godavari Basin"
+    },
+    {
+      "question": "Kaleshwaram Lift Irrigation Project is mainly associated with which river?",
+      "option1": "Krishna",
+      "option2": "Godavari",
+      "option3": "Musi",
+      "option4": "Pennar",
+      "answer": "Godavari"
+    },
+    {
+      "question": "The Kaleshwaram project is located mainly in which region?",
+      "option1": "Telangana",
+      "option2": "Kerala",
+      "option3": "Punjab",
+      "option4": "Odisha",
+      "answer": "Telangana"
+    },
+    {
+      "question": "Which project is built across the Krishna River in Telangana?",
+      "option1": "Nagarjuna Sagar",
+      "option2": "Kaleshwaram",
+      "option3": "Sri Ram Sagar",
+      "option4": "Nizam Sagar",
+      "answer": "Nagarjuna Sagar"
+    },
+    {
+      "question": "Nizam Sagar Project is built across which river?",
+      "option1": "Manjira",
+      "option2": "Musi",
+      "option3": "Godavari",
+      "option4": "Krishna",
+      "answer": "Manjira"
+    },
+    {
+      "question": "Sri Ram Sagar Project is built across which river?",
+      "option1": "Godavari",
+      "option2": "Krishna",
+      "option3": "Musi",
+      "option4": "Manjira",
+      "answer": "Godavari"
+    },
+    {
+      "question": "Which soil is widely found in Telangana?",
+      "option1": "Black soil",
+      "option2": "Laterite soil",
+      "option3": "Desert soil",
+      "option4": "Mountain soil",
+      "answer": "Black soil"
+    },
+    {
+      "question": "Black soil is especially suitable for which crop?",
+      "option1": "Cotton",
+      "option2": "Tea",
+      "option3": "Coffee",
+      "option4": "Jute",
+      "answer": "Cotton"
+    },
+    {
+      "question": "Which crop is popularly called the golden fibre?",
+      "option1": "Cotton",
+      "option2": "Jute",
+      "option3": "Wheat",
+      "option4": "Rice",
+      "answer": "Jute"
+    },
+    {
+      "question": "Which crop is a major food crop in Telangana?",
+      "option1": "Rice",
+      "option2": "Tea",
+      "option3": "Coffee",
+      "option4": "Rubber",
+      "answer": "Rice"
+    },
+    {
+      "question": "Which crop is extensively cultivated in northern Telangana?",
+      "option1": "Cotton",
+      "option2": "Tea",
+      "option3": "Rubber",
+      "option4": "Coconut",
+      "answer": "Cotton"
+    },
+    {
+      "question": "Which district is traditionally associated with turmeric production?",
+      "option1": "Nizamabad",
+      "option2": "Hyderabad",
+      "option3": "Vikarabad",
+      "option4": "Jangaon",
+      "answer": "Nizamabad"
+    },
+    {
+      "question": "Which Telangana city is known for its turmeric market?",
+      "option1": "Nizamabad",
+      "option2": "Warangal",
+      "option3": "Khammam",
+      "option4": "Siddipet",
+      "answer": "Nizamabad"
+    },
+    {
+      "question": "Which forest type is commonly found in Telangana?",
+      "option1": "Tropical dry deciduous",
+      "option2": "Tundra",
+      "option3": "Alpine",
+      "option4": "Mangrove",
+      "answer": "Tropical dry deciduous"
+    },
+    {
+      "question": "Which national park is located in Hyderabad?",
+      "option1": "Kasu Brahmananda Reddy National Park",
+      "option2": "Jim Corbett National Park",
+      "option3": "Kaziranga National Park",
+      "option4": "Gir National Park",
+      "answer": "Kasu Brahmananda Reddy National Park"
+    },
+    {
+      "question": "Which Telangana national park is located in Mulugu district?",
+      "option1": "Amrabad National Park",
+      "option2": "Kawal National Park",
+      "option3": "KBR National Park",
+      "option4": "Mahavir Harina Vanasthali",
+      "answer": "None of these"
+    },
+    {
+      "question": "Kawal Tiger Reserve is located in which part of Telangana?",
+      "option1": "Northern Telangana",
+      "option2": "Southern Telangana",
+      "option3": "Western Telangana",
+      "option4": "Central Hyderabad",
+      "answer": "Northern Telangana"
+    },
+    {
+      "question": "Amrabad Tiger Reserve is mainly located in which district?",
+      "option1": "Nagarkurnool",
+      "option2": "Nizamabad",
+      "option3": "Adilabad",
+      "option4": "Medak",
+      "answer": "Nagarkurnool"
+    },
+    {
+      "question": "Which animal is protected in Telangana's tiger reserves?",
+      "option1": "Tiger",
+      "option2": "Penguin",
+      "option3": "Polar bear",
+      "option4": "Yak",
+      "answer": "Tiger"
+    },
+    {
+      "question": "Which bird sanctuary is located in Telangana?",
+      "option1": "Pocharam Wildlife Sanctuary",
+      "option2": "Ranganathittu",
+      "option3": "Vedanthangal",
+      "option4": "Nal Sarovar",
+      "answer": "Pocharam Wildlife Sanctuary"
+    },
+    {
+      "question": "Pocharam Wildlife Sanctuary is associated with which reservoir?",
+      "option1": "Pocharam Reservoir",
+      "option2": "Hussain Sagar",
+      "option3": "Nizam Sagar",
+      "option4": "Osman Sagar",
+      "answer": "Pocharam Reservoir"
+    },
+    {
+      "question": "Which lake is also known as Tank Bund lake?",
+      "option1": "Hussain Sagar",
+      "option2": "Osman Sagar",
+      "option3": "Himayat Sagar",
+      "option4": "Shamirpet Lake",
+      "answer": "Hussain Sagar"
+    },
+    {
+      "question": "Osman Sagar was created by constructing a dam across which river?",
+      "option1": "Musi",
+      "option2": "Godavari",
+      "option3": "Krishna",
+      "option4": "Manjira",
+      "answer": "Musi"
+    },
+    {
+      "question": "Himayat Sagar is associated with which river?",
+      "option1": "Musi",
+      "option2": "Godavari",
+      "option3": "Krishna",
+      "option4": "Pranahita",
+      "answer": "Musi"
+    },
+    {
+      "question": "Which city is known as the Pearl City of India?",
+      "option1": "Hyderabad",
+      "option2": "Warangal",
+      "option3": "Nizamabad",
+      "option4": "Karimnagar",
+      "answer": "Hyderabad"
+    },
+    {
+      "question": "Which city is known as the City of Nizams?",
+      "option1": "Hyderabad",
+      "option2": "Warangal",
+      "option3": "Khammam",
+      "option4": "Adilabad",
+      "answer": "Hyderabad"
+    },
+    {
+      "question": "Which city is famous for its handloom industry in Telangana?",
+      "option1": "Pochampally",
+      "option2": "Adilabad",
+      "option3": "Mahbubnagar",
+      "option4": "Vikarabad",
+      "answer": "Pochampally"
+    },
+    {
+      "question": "Pochampally is famous for which textile?",
+      "option1": "Ikat",
+      "option2": "Kanchipuram silk",
+      "option3": "Banarasi silk",
+      "option4": "Pashmina",
+      "answer": "Ikat"
+    },
+    {
+      "question": "Gadwal is famous for which traditional textile?",
+      "option1": "Sarees",
+      "option2": "Carpets",
+      "option3": "Shawls",
+      "option4": "Blankets",
+      "answer": "Sarees"
+    },
+    {
+      "question": "Which Telangana craft is associated with Nirmal?",
+      "option1": "Wood painting and toys",
+      "option2": "Blue pottery",
+      "option3": "Stone carving",
+      "option4": "Metal casting",
+      "answer": "Wood painting and toys"
+    },
+    {
+      "question": "Cheriyal paintings belong to which state?",
+      "option1": "Telangana",
+      "option2": "Kerala",
+      "option3": "Rajasthan",
+      "option4": "Punjab",
+      "answer": "Telangana"
+    },
+    {
+      "question": "Cheriyal paintings traditionally depict which themes?",
+      "option1": "Folk stories and epics",
+      "option2": "Modern architecture",
+      "option3": "Industrial scenes",
+      "option4": "Marine life",
+      "answer": "Folk stories and epics"
+    },
+    {
+      "question": "Bathukamma is primarily celebrated by women during which festival season?",
+      "option1": "Dussehra season",
+      "option2": "Diwali season",
+      "option3": "Holi season",
+      "option4": "Sankranti season",
+      "answer": "Dussehra season"
+    },
+    {
+      "question": "Bathukamma is a famous festival of which state?",
+      "option1": "Telangana",
+      "option2": "Punjab",
+      "option3": "Gujarat",
+      "option4": "Assam",
+      "answer": "Telangana"
+    },
+    {
+      "question": "Bonalu is primarily dedicated to which deity?",
+      "option1": "Mahankali",
+      "option2": "Saraswati",
+      "option3": "Lakshmi",
+      "option4": "Sita",
+      "answer": "Mahankali"
+    },
+    {
+      "question": "Bonalu is mainly celebrated in which state?",
+      "option1": "Telangana",
+      "option2": "Odisha",
+      "option3": "Bihar",
+      "option4": "Punjab",
+      "answer": "Telangana"
+    },
+    {
+      "question": "Sammakka Saralamma Jatara is held at which place?",
+      "option1": "Medaram",
+      "option2": "Basara",
+      "option3": "Yadadri",
+      "option4": "Alampur",
+      "answer": "Medaram"
+    },
+    {
+      "question": "Medaram Jatara is associated with which tribal community?",
+      "option1": "Koya",
+      "option2": "Gond",
+      "option3": "Toda",
+      "option4": "Bhil",
+      "answer": "Koya"
+    },
+    {
+      "question": "Who is one of the main deities of Medaram Jatara?",
+      "option1": "Sammakka",
+      "option2": "Durga",
+      "option3": "Saraswati",
+      "option4": "Parvati",
+      "answer": "Sammakka"
+    },
+    {
+      "question": "Perini Shivatandavam is associated with which dynasty?",
+      "option1": "Kakatiya",
+      "option2": "Qutb Shahi",
+      "option3": "Satavahana",
+      "option4": "Mughal",
+      "answer": "Kakatiya"
+    },
+    {
+      "question": "Perini dance is traditionally performed by whom?",
+      "option1": "Warriors",
+      "option2": "Farmers",
+      "option3": "Merchants",
+      "option4": "Priests",
+      "answer": "Warriors"
+    },
+    {
+      "question": "Which language is primarily spoken in Telangana?",
+      "option1": "Telugu",
+      "option2": "Tamil",
+      "option3": "Malayalam",
+      "option4": "Marathi",
+      "answer": "Telugu"
+    },
+    {
+      "question": "Telugu belongs to which language family?",
+      "option1": "Dravidian",
+      "option2": "Indo-European",
+      "option3": "Sino-Tibetan",
+      "option4": "Austroasiatic",
+      "answer": "Dravidian"
+    },
+    {
+      "question": "Who is popularly known as the People's Poet of Telangana?",
+      "option1": "Kaloji Narayana Rao",
+      "option2": "Sri Sri",
+      "option3": "Gurajada Apparao",
+      "option4": "Pothana",
+      "answer": "Kaloji Narayana Rao"
+    },
+    {
+      "question": "Who wrote the Telugu epic Andhra Mahabharatam along with others?",
+      "option1": "Nannaya",
+      "option2": "Kaloji",
+      "option3": "Vemana",
+      "option4": "Pothana",
+      "answer": "Nannaya"
+    },
+    {
+      "question": "Who translated the Bhagavata Purana into Telugu?",
+      "option1": "Pothana",
+      "option2": "Nannaya",
+      "option3": "Tikkana",
+      "option4": "Errana",
+      "answer": "Pothana"
+    },
+    {
+      "question": "Which poet is famous for moral verses in Telugu?",
+      "option1": "Vemana",
+      "option2": "Nannaya",
+      "option3": "Tikkana",
+      "option4": "Sri Sri",
+      "answer": "Vemana"
+    },
+    {
+      "question": "Who is known as Adikavi of Telugu?",
+      "option1": "Nannaya",
+      "option2": "Pothana",
+      "option3": "Vemana",
+      "option4": "Tikkana",
+      "answer": "Nannaya"
+    },
+    {
+      "question": "Which organization promotes Telugu language and culture in Telangana?",
+      "option1": "Telangana Sahitya Akademi",
+      "option2": "Sangeet Natak Akademi",
+      "option3": "Lalit Kala Akademi",
+      "option4": "Sahitya Akademi of Kerala",
+      "answer": "Telangana Sahitya Akademi"
+    },
+    {
+      "question": "Who was the first Speaker of the Telangana Legislative Assembly?",
+      "option1": "Madhusudana Chary",
+      "option2": "Pocharam Srinivas Reddy",
+      "option3": "S. Madhusudhana Chary",
+      "option4": "Etela Rajender",
+      "answer": "S. Madhusudhana Chary"
+    },
+    {
+      "question": "The Telangana Legislature has which type of structure?",
+      "option1": "Bicameral",
+      "option2": "Unicameral",
+      "option3": "Tricameral",
+      "option4": "Federal council only",
+      "answer": "Bicameral"
+    },
+    {
+      "question": "Which is the upper house of the Telangana Legislature?",
+      "option1": "Legislative Council",
+      "option2": "Legislative Assembly",
+      "option3": "Lok Sabha",
+      "option4": "Rajya Sabha",
+      "answer": "Legislative Council"
+    },
+    {
+      "question": "Which is the lower house of the Telangana Legislature?",
+      "option1": "Legislative Assembly",
+      "option2": "Legislative Council",
+      "option3": "Rajya Sabha",
+      "option4": "Lok Sabha",
+      "answer": "Legislative Assembly"
+    },
+    {
+      "question": "Who appoints the Governor of a state in India?",
+      "option1": "Prime Minister",
+      "option2": "President",
+      "option3": "Chief Minister",
+      "option4": "Chief Justice",
+      "answer": "President"
+    },
+    {
+      "question": "What is the minimum age to become a member of a State Legislative Assembly?",
+      "option1": "21 years",
+      "option2": "25 years",
+      "option3": "30 years",
+      "option4": "35 years",
+      "answer": "25 years"
+    },
+    {
+      "question": "What is the minimum age to become a member of a State Legislative Council?",
+      "option1": "21 years",
+      "option2": "25 years",
+      "option3": "30 years",
+      "option4": "35 years",
+      "answer": "30 years"
+    },
+    {
+      "question": "The Governor of a state is appointed for a normal term of how many years?",
+      "option1": "3 years",
+      "option2": "4 years",
+      "option3": "5 years",
+      "option4": "6 years",
+      "answer": "5 years"
+    },
+    {
+      "question": "Who is the constitutional head of a state?",
+      "option1": "Chief Minister",
+      "option2": "Governor",
+      "option3": "Speaker",
+      "option4": "Chief Secretary",
+      "answer": "Governor"
+    },
+    {
+      "question": "Who is the real executive head of a state government?",
+      "option1": "Governor",
+      "option2": "Chief Minister",
+      "option3": "Speaker",
+      "option4": "Chief Justice",
+      "answer": "Chief Minister"
+    },
+    {
+      "question": "The Council of Ministers in a state is collectively responsible to which body?",
+      "option1": "Governor",
+      "option2": "Legislative Assembly",
+      "option3": "Legislative Council",
+      "option4": "High Court",
+      "answer": "Legislative Assembly"
+    },
+    {
+      "question": "Which article deals with the appointment of the Chief Minister?",
+      "option1": "Article 153",
+      "option2": "Article 164",
+      "option3": "Article 170",
+      "option4": "Article 200",
+      "answer": "Article 164"
+    },
+    {
+      "question": "Which article provides for a Governor for each state?",
+      "option1": "Article 153",
+      "option2": "Article 154",
+      "option3": "Article 155",
+      "option4": "Article 156",
+      "answer": "Article 153"
+    },
+    {
+      "question": "Which article deals with the Advocate General of a state?",
+      "option1": "Article 76",
+      "option2": "Article 165",
+      "option3": "Article 148",
+      "option4": "Article 280",
+      "answer": "Article 165"
+    },
+    {
+      "question": "Who is the highest law officer of a state?",
+      "option1": "Attorney General",
+      "option2": "Advocate General",
+      "option3": "Solicitor General",
+      "option4": "Public Prosecutor",
+      "answer": "Advocate General"
+    },
+    {
+      "question": "Which body conducts elections to state legislatures?",
+      "option1": "Union Public Service Commission",
+      "option2": "Election Commission of India",
+      "option3": "Finance Commission",
+      "option4": "State Public Service Commission",
+      "answer": "Election Commission of India"
+    },
+    {
+      "question": "The State Election Commission conducts elections to which institutions?",
+      "option1": "Lok Sabha",
+      "option2": "State Assembly",
+      "option3": "Panchayats and Municipalities",
+      "option4": "Rajya Sabha",
+      "answer": "Panchayats and Municipalities"
+    },
+    {
+      "question": "Which constitutional amendment gave constitutional status to Panchayati Raj?",
+      "option1": "42nd Amendment",
+      "option2": "73rd Amendment",
+      "option3": "74th Amendment",
+      "option4": "86th Amendment",
+      "answer": "73rd Amendment"
+    },
+    {
+      "question": "Which constitutional amendment deals with municipalities?",
+      "option1": "73rd Amendment",
+      "option2": "74th Amendment",
+      "option3": "61st Amendment",
+      "option4": "42nd Amendment",
+      "answer": "74th Amendment"
+    },
+    {
+      "question": "How many subjects are included in the Eleventh Schedule?",
+      "option1": "29",
+      "option2": "30",
+      "option3": "18",
+      "option4": "22",
+      "answer": "29"
+    },
+    {
+      "question": "How many subjects are included in the Twelfth Schedule?",
+      "option1": "18",
+      "option2": "22",
+      "option3": "29",
+      "option4": "12",
+      "answer": "18"
+    },
+    {
+      "question": "Which body is the basic unit of Panchayati Raj?",
+      "option1": "Gram Panchayat",
+      "option2": "Zilla Parishad",
+      "option3": "Mandal Parishad",
+      "option4": "Municipal Corporation",
+      "answer": "Gram Panchayat"
+    },
+    {
+      "question": "Gram Sabha consists of whom?",
+      "option1": "All registered voters of the village",
+      "option2": "Only elected representatives",
+      "option3": "Only government employees",
+      "option4": "Only village elders",
+      "answer": "All registered voters of the village"
+    },
+    {
+      "question": "The Panchayati Raj system was recommended by which committee?",
+      "option1": "Balwant Rai Mehta Committee",
+      "option2": "Sarkaria Commission",
+      "option3": "Mandal Commission",
+      "option4": "Punchhi Commission",
+      "answer": "Balwant Rai Mehta Committee"
+    },
+    {
+      "question": "The Balwant Rai Mehta Committee recommended which system?",
+      "option1": "Two-tier system",
+      "option2": "Three-tier system",
+      "option3": "Four-tier system",
+      "option4": "Single-tier system",
+      "answer": "Three-tier system"
+    },
+    {
+      "question": "Which body functions at the district level in Panchayati Raj?",
+      "option1": "Gram Panchayat",
+      "option2": "Mandal Parishad",
+      "option3": "Zilla Parishad",
+      "option4": "Gram Sabha",
+      "answer": "Zilla Parishad"
+    },
+    {
+      "question": "Which institution functions at the intermediate level of Panchayati Raj?",
+      "option1": "Zilla Parishad",
+      "option2": "Mandal Parishad",
+      "option3": "Gram Sabha",
+      "option4": "Municipality",
+      "answer": "Mandal Parishad"
+    },
+    {
+      "question": "Fundamental Rights are contained in which part of the Constitution?",
+      "option1": "Part II",
+      "option2": "Part III",
+      "option3": "Part IV",
+      "option4": "Part V",
+      "answer": "Part III"
+    },
+    {
+      "question": "Directive Principles of State Policy are contained in which part?",
+      "option1": "Part III",
+      "option2": "Part IV",
+      "option3": "Part V",
+      "option4": "Part VI",
+      "answer": "Part IV"
+    },
+    {
+      "question": "Fundamental Duties are included in which part of the Constitution?",
+      "option1": "Part III",
+      "option2": "Part IV-A",
+      "option3": "Part V",
+      "option4": "Part VI",
+      "answer": "Part IV-A"
+    },
+    {
+      "question": "How many Fundamental Duties are currently listed in the Constitution?",
+      "option1": "10",
+      "option2": "11",
+      "option3": "12",
+      "option4": "9",
+      "answer": "11"
+    },
+    {
+      "question": "Which article guarantees equality before law?",
+      "option1": "Article 14",
+      "option2": "Article 15",
+      "option3": "Article 16",
+      "option4": "Article 17",
+      "answer": "Article 14"
+    },
+    {
+      "question": "Which article prohibits discrimination on certain grounds?",
+      "option1": "Article 14",
+      "option2": "Article 15",
+      "option3": "Article 16",
+      "option4": "Article 18",
+      "answer": "Article 15"
+    },
+    {
+      "question": "Which article provides equality of opportunity in public employment?",
+      "option1": "Article 15",
+      "option2": "Article 16",
+      "option3": "Article 17",
+      "option4": "Article 19",
+      "answer": "Article 16"
+    },
+    {
+      "question": "Which article abolishes untouchability?",
+      "option1": "Article 14",
+      "option2": "Article 16",
+      "option3": "Article 17",
+      "option4": "Article 18",
+      "answer": "Article 17"
+    },
+    {
+      "question": "Which article guarantees freedom of speech and expression?",
+      "option1": "Article 19",
+      "option2": "Article 20",
+      "option3": "Article 21",
+      "option4": "Article 22",
+      "answer": "Article 19"
+    },
+    {
+      "question": "Which article protects life and personal liberty?",
+      "option1": "Article 19",
+      "option2": "Article 20",
+      "option3": "Article 21",
+      "option4": "Article 22",
+      "answer": "Article 21"
+    },
+    {
+      "question": "Right to Education is provided under which article?",
+      "option1": "Article 19A",
+      "option2": "Article 21A",
+      "option3": "Article 22A",
+      "option4": "Article 45",
+      "answer": "Article 21A"
+    },
+    {
+      "question": "The Right to Education applies to children in which age group?",
+      "option1": "5 to 10 years",
+      "option2": "6 to 14 years",
+      "option3": "7 to 15 years",
+      "option4": "8 to 16 years",
+      "answer": "6 to 14 years"
+    },
+    {
+      "question": "Which article provides constitutional remedies?",
+      "option1": "Article 32",
+      "option2": "Article 30",
+      "option3": "Article 25",
+      "option4": "Article 35",
+      "answer": "Article 32"
+    },
+    {
+      "question": "Who called Article 32 the heart and soul of the Constitution?",
+      "option1": "Jawaharlal Nehru",
+      "option2": "B. R. Ambedkar",
+      "option3": "Rajendra Prasad",
+      "option4": "Sardar Patel",
+      "answer": "B. R. Ambedkar"
+    },
+    {
+      "question": "Which writ is used to produce a person unlawfully detained before the court?",
+      "option1": "Mandamus",
+      "option2": "Habeas Corpus",
+      "option3": "Certiorari",
+      "option4": "Prohibition",
+      "answer": "Habeas Corpus"
+    },
+    {
+      "question": "Which writ commands a public authority to perform a legal duty?",
+      "option1": "Mandamus",
+      "option2": "Habeas Corpus",
+      "option3": "Quo Warranto",
+      "option4": "Certiorari",
+      "answer": "Mandamus"
+    },
+    {
+      "question": "Which writ questions the authority of a person occupying a public office?",
+      "option1": "Prohibition",
+      "option2": "Quo Warranto",
+      "option3": "Mandamus",
+      "option4": "Habeas Corpus",
+      "answer": "Quo Warranto"
+    },
+    {
+      "question": "Who is the constitutional head of the Union?",
+      "option1": "Prime Minister",
+      "option2": "President",
+      "option3": "Vice-President",
+      "option4": "Chief Justice",
+      "answer": "President"
+    },
+    {
+      "question": "Who is the real executive head of the Union?",
+      "option1": "President",
+      "option2": "Prime Minister",
+      "option3": "Vice-President",
+      "option4": "Speaker",
+      "answer": "Prime Minister"
+    },
+    {
+      "question": "Who is the ex-officio Chairman of the Rajya Sabha?",
+      "option1": "President",
+      "option2": "Vice-President",
+      "option3": "Prime Minister",
+      "option4": "Speaker",
+      "answer": "Vice-President"
+    },
+    {
+      "question": "What is the maximum strength of the Lok Sabha under the Constitution?",
+      "option1": "545",
+      "option2": "550",
+      "option3": "552",
+      "option4": "560",
+      "answer": "552"
+    },
+    {
+      "question": "What is the maximum constitutional strength of the Rajya Sabha?",
+      "option1": "238",
+      "option2": "245",
+      "option3": "250",
+      "option4": "260",
+      "answer": "250"
+    },
+    {
+      "question": "Which house of Parliament is a permanent body?",
+      "option1": "Lok Sabha",
+      "option2": "Rajya Sabha",
+      "option3": "Both",
+      "option4": "Neither",
+      "answer": "Rajya Sabha"
+    },
+    {
+      "question": "One-third of Rajya Sabha members retire after every how many years?",
+      "option1": "1 year",
+      "option2": "2 years",
+      "option3": "3 years",
+      "option4": "5 years",
+      "answer": "2 years"
+    },
+    {
+      "question": "What is the normal term of the Lok Sabha?",
+      "option1": "4 years",
+      "option2": "5 years",
+      "option3": "6 years",
+      "option4": "7 years",
+      "answer": "5 years"
+    },
+    {
+      "question": "Who presides over the Lok Sabha?",
+      "option1": "President",
+      "option2": "Speaker",
+      "option3": "Prime Minister",
+      "option4": "Vice-President",
+      "answer": "Speaker"
+    },
+    {
+      "question": "A Money Bill can be introduced only in which house?",
+      "option1": "Rajya Sabha",
+      "option2": "Lok Sabha",
+      "option3": "Either House",
+      "option4": "Joint Sitting",
+      "answer": "Lok Sabha"
+    },
+    {
+      "question": "Who decides whether a bill is a Money Bill?",
+      "option1": "President",
+      "option2": "Prime Minister",
+      "option3": "Speaker of Lok Sabha",
+      "option4": "Finance Minister",
+      "answer": "Speaker of Lok Sabha"
+    },
+    {
+      "question": "Which institution audits the accounts of the Union and states?",
+      "option1": "Finance Commission",
+      "option2": "Comptroller and Auditor General",
+      "option3": "Election Commission",
+      "option4": "Reserve Bank of India",
+      "answer": "Comptroller and Auditor General"
+    },
+    {
+      "question": "Who appoints the Comptroller and Auditor General of India?",
+      "option1": "Prime Minister",
+      "option2": "President",
+      "option3": "Chief Justice",
+      "option4": "Parliament",
+      "answer": "President"
+    },
+    {
+      "question": "Which body recommends distribution of tax revenues between Centre and states?",
+      "option1": "Planning Commission",
+      "option2": "Finance Commission",
+      "option3": "Election Commission",
+      "option4": "GST Council",
+      "answer": "Finance Commission"
+    },
+    {
+      "question": "The Finance Commission is constituted under which article?",
+      "option1": "Article 280",
+      "option2": "Article 281",
+      "option3": "Article 282",
+      "option4": "Article 283",
+      "answer": "Article 280"
+    },
+    {
+      "question": "Who appoints the Chairman and members of the Union Public Service Commission?",
+      "option1": "Prime Minister",
+      "option2": "President",
+      "option3": "Chief Justice",
+      "option4": "Parliament",
+      "answer": "President"
+    },
+    {
+      "question": "The State Public Service Commission submits its annual report to whom?",
+      "option1": "Chief Minister",
+      "option2": "Governor",
+      "option3": "President",
+      "option4": "Chief Secretary",
+      "answer": "Governor"
+    },
+    {
+      "question": "Which constitutional body recommends candidates for state civil services?",
+      "option1": "State Public Service Commission",
+      "option2": "Election Commission",
+      "option3": "Finance Commission",
+      "option4": "Planning Board",
+      "answer": "State Public Service Commission"
+    },
+    {
+      "question": "Which body replaced the Planning Commission?",
+      "option1": "Finance Commission",
+      "option2": "NITI Aayog",
+      "option3": "GST Council",
+      "option4": "Economic Advisory Council",
+      "answer": "NITI Aayog"
+    },
+    {
+      "question": "NITI Aayog was established in which year?",
+      "option1": "2012",
+      "option2": "2014",
+      "option3": "2015",
+      "option4": "2016",
+      "answer": "2015"
+    },
+    {
+      "question": "Who is the Chairperson of NITI Aayog?",
+      "option1": "President",
+      "option2": "Prime Minister",
+      "option3": "Finance Minister",
+      "option4": "Vice-President",
+      "answer": "Prime Minister"
+    },
+    {
+      "question": "Which institution is responsible for monetary policy in India?",
+      "option1": "SBI",
+      "option2": "Reserve Bank of India",
+      "option3": "Finance Ministry",
+      "option4": "SEBI",
+      "answer": "Reserve Bank of India"
+    },
+    {
+      "question": "When was the Reserve Bank of India established?",
+      "option1": "1930",
+      "option2": "1935",
+      "option3": "1947",
+      "option4": "1950",
+      "answer": "1935"
+    },
+    {
+      "question": "Which Act governs the Reserve Bank of India?",
+      "option1": "RBI Act, 1934",
+      "option2": "Banking Act, 1949",
+      "option3": "Companies Act, 1956",
+      "option4": "Finance Act, 1935",
+      "answer": "RBI Act, 1934"
+    },
+    {
+      "question": "Which institution regulates the securities market in India?",
+      "option1": "RBI",
+      "option2": "SEBI",
+      "option3": "NABARD",
+      "option4": "SIDBI",
+      "answer": "SEBI"
+    },
+    {
+      "question": "SEBI became a statutory body in which year?",
+      "option1": "1988",
+      "option2": "1992",
+      "option3": "1995",
+      "option4": "2000",
+      "answer": "1992"
+    },
+    {
+      "question": "Which institution regulates the insurance sector in India?",
+      "option1": "SEBI",
+      "option2": "IRDAI",
+      "option3": "RBI",
+      "option4": "PFRDA",
+      "answer": "IRDAI"
+    },
+    {
+      "question": "Which institution regulates the pension sector in India?",
+      "option1": "PFRDA",
+      "option2": "SEBI",
+      "option3": "RBI",
+      "option4": "IRDAI",
+      "answer": "PFRDA"
+    },
+    {
+      "question": "What is the full form of GDP?",
+      "option1": "Gross Domestic Product",
+      "option2": "General Domestic Production",
+      "option3": "Gross Development Product",
+      "option4": "Government Domestic Product",
+      "answer": "Gross Domestic Product"
+    },
+    {
+      "question": "GDP measures the value of goods and services produced within which boundary?",
+      "option1": "National boundary",
+      "option2": "State boundary only",
+      "option3": "District boundary",
+      "option4": "International market",
+      "answer": "National boundary"
+    },
+    {
+      "question": "Which sector includes agriculture and allied activities?",
+      "option1": "Primary sector",
+      "option2": "Secondary sector",
+      "option3": "Tertiary sector",
+      "option4": "Quaternary sector",
+      "answer": "Primary sector"
+    },
+    {
+      "question": "Manufacturing belongs to which sector?",
+      "option1": "Primary",
+      "option2": "Secondary",
+      "option3": "Tertiary",
+      "option4": "Quaternary",
+      "answer": "Secondary"
+    },
+    {
+      "question": "Banking and insurance belong to which sector?",
+      "option1": "Primary",
+      "option2": "Secondary",
+      "option3": "Tertiary",
+      "option4": "Agricultural",
+      "answer": "Tertiary"
+    },
+    {
+      "question": "What is inflation?",
+      "option1": "General rise in prices",
+      "option2": "General fall in prices",
+      "option3": "Rise in production only",
+      "option4": "Fall in employment only",
+      "answer": "General rise in prices"
+    },
+    {
+      "question": "Which index is commonly used to measure retail inflation in India?",
+      "option1": "CPI",
+      "option2": "IIP",
+      "option3": "GDP",
+      "option4": "WPI only",
+      "answer": "CPI"
+    },
+    {
+      "question": "What does CPI stand for?",
+      "option1": "Consumer Price Index",
+      "option2": "Consumer Production Index",
+      "option3": "Central Price Indicator",
+      "option4": "Consumer Product Indicator",
+      "answer": "Consumer Price Index"
+    },
+    {
+      "question": "What does WPI stand for?",
+      "option1": "Wholesale Price Index",
+      "option2": "World Price Index",
+      "option3": "Wholesale Production Index",
+      "option4": "Weighted Price Indicator",
+      "answer": "Wholesale Price Index"
+    },
+    {
+      "question": "Which organization releases the Index of Industrial Production?",
+      "option1": "NSO",
+      "option2": "RBI",
+      "option3": "SEBI",
+      "option4": "NITI Aayog",
+      "answer": "NSO"
+    },
+    {
+      "question": "What does IIP stand for?",
+      "option1": "Index of Industrial Production",
+      "option2": "Indian Industrial Programme",
+      "option3": "Industrial Investment Plan",
+      "option4": "Index of Indian Production",
+      "answer": "Index of Industrial Production"
+    },
+    {
+      "question": "Which institution is the apex body for rural credit in India?",
+      "option1": "NABARD",
+      "option2": "SIDBI",
+      "option3": "SEBI",
+      "option4": "EXIM Bank",
+      "answer": "NABARD"
+    },
+    {
+      "question": "NABARD was established in which year?",
+      "option1": "1975",
+      "option2": "1982",
+      "option3": "1991",
+      "option4": "2000",
+      "answer": "1982"
+    },
+    {
+      "question": "What is the full form of NABARD?",
+      "option1": "National Bank for Agriculture and Rural Development",
+      "option2": "National Agricultural Bank and Rural Development",
+      "option3": "National Board for Agriculture and Rural Development",
+      "option4": "National Bank for Agricultural Research and Development",
+      "answer": "National Bank for Agriculture and Rural Development"
+    },
+    {
+      "question": "Which bank is primarily associated with financing small-scale industries?",
+      "option1": "SIDBI",
+      "option2": "NABARD",
+      "option3": "EXIM Bank",
+      "option4": "RBI",
+      "answer": "SIDBI"
+    },
+    {
+      "question": "What does SIDBI stand for?",
+      "option1": "Small Industries Development Bank of India",
+      "option2": "State Industries Development Bank of India",
+      "option3": "Small Investment Development Bank of India",
+      "option4": "State Investment Development Bank of India",
+      "answer": "Small Industries Development Bank of India"
+    },
+    {
+      "question": "Which institution finances India's international trade?",
+      "option1": "EXIM Bank",
+      "option2": "NABARD",
+      "option3": "SIDBI",
+      "option4": "SBI",
+      "answer": "EXIM Bank"
+    },
+    {
+      "question": "What is fiscal policy mainly concerned with?",
+      "option1": "Government revenue and expenditure",
+      "option2": "Bank interest rates only",
+      "option3": "Foreign exchange only",
+      "option4": "Stock market regulation",
+      "answer": "Government revenue and expenditure"
+    },
+    {
+      "question": "What is monetary policy mainly concerned with?",
+      "option1": "Money supply and interest rates",
+      "option2": "Government salaries",
+      "option3": "Agricultural land",
+      "option4": "Foreign trade agreements",
+      "answer": "Money supply and interest rates"
+    },
+    {
+      "question": "Which tax is a destination-based indirect tax?",
+      "option1": "GST",
+      "option2": "Income Tax",
+      "option3": "Wealth Tax",
+      "option4": "Corporate Tax",
+      "answer": "GST"
+    },
+    {
+      "question": "GST was introduced in India in which year?",
+      "option1": "2015",
+      "option2": "2016",
+      "option3": "2017",
+      "option4": "2018",
+      "answer": "2017"
+    },
+    {
+      "question": "GST stands for what?",
+      "option1": "Goods and Services Tax",
+      "option2": "General Sales Tax",
+      "option3": "Goods Supply Tax",
+      "option4": "Government Services Tax",
+      "answer": "Goods and Services Tax"
+    },
+    {
+      "question": "Which constitutional amendment introduced GST?",
+      "option1": "100th Amendment",
+      "option2": "101st Amendment",
+      "option3": "102nd Amendment",
+      "option4": "103rd Amendment",
+      "answer": "101st Amendment"
+    },
+    {
+      "question": "Which body recommends GST rates?",
+      "option1": "Finance Commission",
+      "option2": "GST Council",
+      "option3": "RBI",
+      "option4": "NITI Aayog",
+      "answer": "GST Council"
+    },
+    {
+      "question": "Who chairs the GST Council?",
+      "option1": "Prime Minister",
+      "option2": "Union Finance Minister",
+      "option3": "RBI Governor",
+      "option4": "President",
+      "answer": "Union Finance Minister"
+    },
+    {
+      "question": "Which type of tax is income tax?",
+      "option1": "Direct tax",
+      "option2": "Indirect tax",
+      "option3": "Service tax",
+      "option4": "Customs duty",
+      "answer": "Direct tax"
+    },
+    {
+      "question": "Which institution publishes India's monetary policy decisions?",
+      "option1": "RBI",
+      "option2": "SEBI",
+      "option3": "NITI Aayog",
+      "option4": "Finance Commission",
+      "answer": "RBI"
+    },
+    {
+      "question": "Repo rate is the rate at which RBI lends money to whom?",
+      "option1": "State governments",
+      "option2": "Commercial banks",
+      "option3": "Individuals",
+      "option4": "Foreign governments",
+      "answer": "Commercial banks"
+    },
+    {
+      "question": "Reverse repo rate refers to the rate at which RBI borrows money from whom?",
+      "option1": "Commercial banks",
+      "option2": "Individuals",
+      "option3": "State governments",
+      "option4": "Foreign banks",
+      "answer": "Commercial banks"
+    },
+    {
+      "question": "CRR stands for what?",
+      "option1": "Cash Reserve Ratio",
+      "option2": "Credit Reserve Rate",
+      "option3": "Central Reserve Ratio",
+      "option4": "Cash Revenue Ratio",
+      "answer": "Cash Reserve Ratio"
+    },
+    {
+      "question": "SLR stands for what?",
+      "option1": "Statutory Liquidity Ratio",
+      "option2": "State Liquidity Reserve",
+      "option3": "Statutory Lending Rate",
+      "option4": "Scheduled Liquidity Ratio",
+      "answer": "Statutory Liquidity Ratio"
+    },
+    {
+      "question": "Which bank is known as India's largest public sector bank?",
+      "option1": "State Bank of India",
+      "option2": "Bank of Baroda",
+      "option3": "Punjab National Bank",
+      "option4": "Canara Bank",
+      "answer": "State Bank of India"
+    },
+    {
+      "question": "The Green Revolution mainly increased production of which crops?",
+      "option1": "Wheat and rice",
+      "option2": "Tea and coffee",
+      "option3": "Cotton and jute",
+      "option4": "Rubber and coconut",
+      "answer": "Wheat and rice"
+    },
+    {
+      "question": "Who is associated with the Green Revolution in India?",
+      "option1": "M. S. Swaminathan",
+      "option2": "Vikram Sarabhai",
+      "option3": "Homi Bhabha",
+      "option4": "Verghese Kurien",
+      "answer": "M. S. Swaminathan"
+    },
+    {
+      "question": "The White Revolution is associated with which product?",
+      "option1": "Milk",
+      "option2": "Wheat",
+      "option3": "Fish",
+      "option4": "Oilseeds",
+      "answer": "Milk"
+    },
+    {
+      "question": "Who is known as the Father of White Revolution in India?",
+      "option1": "Verghese Kurien",
+      "option2": "M. S. Swaminathan",
+      "option3": "Norman Borlaug",
+      "option4": "C. Subramaniam",
+      "answer": "Verghese Kurien"
+    },
+    {
+      "question": "The Blue Revolution is related to which sector?",
+      "option1": "Fisheries",
+      "option2": "Milk",
+      "option3": "Agriculture",
+      "option4": "Forestry",
+      "answer": "Fisheries"
+    },
+    {
+      "question": "The Golden Revolution is associated mainly with which sector?",
+      "option1": "Horticulture",
+      "option2": "Dairy",
+      "option3": "Fisheries",
+      "option4": "Mining",
+      "answer": "Horticulture"
+    },
+    {
+      "question": "Which Five-Year Plan focused strongly on heavy industries?",
+      "option1": "First Plan",
+      "option2": "Second Plan",
+      "option3": "Third Plan",
+      "option4": "Fourth Plan",
+      "answer": "Second Plan"
+    },
+    {
+      "question": "The First Five-Year Plan was based mainly on which model?",
+      "option1": "Harrod-Domar model",
+      "option2": "Mahalanobis model",
+      "option3": "Solow model",
+      "option4": "Keynes model",
+      "answer": "Harrod-Domar model"
+    },
+    {
+      "question": "The Second Five-Year Plan was associated with which model?",
+      "option1": "Mahalanobis model",
+      "option2": "Harrod-Domar model",
+      "option3": "Rostow model",
+      "option4": "Lewis model",
+      "answer": "Mahalanobis model"
+    },
+    {
+      "question": "The First Five-Year Plan covered which period?",
+      "option1": "1951–1956",
+      "option2": "1956–1961",
+      "option3": "1961–1966",
+      "option4": "1966–1969",
+      "answer": "1951–1956"
+    },
+    {
+      "question": "The Second Five-Year Plan covered which period?",
+      "option1": "1951–1956",
+      "option2": "1956–1961",
+      "option3": "1961–1966",
+      "option4": "1966–1969",
+      "answer": "1956–1961"
+    },
+    {
+      "question": "Which plan emphasized agriculture and irrigation?",
+      "option1": "First Five-Year Plan",
+      "option2": "Second Five-Year Plan",
+      "option3": "Fourth Five-Year Plan",
+      "option4": "Fifth Five-Year Plan",
+      "answer": "First Five-Year Plan"
+    },
+    {
+      "question": "Who was the first President of India?",
+      "option1": "Rajendra Prasad",
+      "option2": "S. Radhakrishnan",
+      "option3": "Jawaharlal Nehru",
+      "option4": "Zakir Husain",
+      "answer": "Rajendra Prasad"
+    },
+    {
+      "question": "Who was the first Prime Minister of India?",
+      "option1": "Jawaharlal Nehru",
+      "option2": "Sardar Patel",
+      "option3": "Rajendra Prasad",
+      "option4": "Lal Bahadur Shastri",
+      "answer": "Jawaharlal Nehru"
+    },
+    {
+      "question": "Who was the first Indian Governor-General of independent India?",
+      "option1": "C. Rajagopalachari",
+      "option2": "Lord Mountbatten",
+      "option3": "Rajendra Prasad",
+      "option4": "Sardar Patel",
+      "answer": "C. Rajagopalachari"
+    },
+    {
+      "question": "Who was the first Governor-General of independent India?",
+      "option1": "Lord Mountbatten",
+      "option2": "C. Rajagopalachari",
+      "option3": "Warren Hastings",
+      "option4": "Lord Curzon",
+      "answer": "Lord Mountbatten"
+    },
+    {
+      "question": "Who is known as the Iron Man of India?",
+      "option1": "Sardar Vallabhbhai Patel",
+      "option2": "Subhas Chandra Bose",
+      "option3": "Jawaharlal Nehru",
+      "option4": "B. R. Ambedkar",
+      "answer": "Sardar Vallabhbhai Patel"
+    },
+    {
+      "question": "Who is known as the Father of the Indian Constitution?",
+      "option1": "Mahatma Gandhi",
+      "option2": "B. R. Ambedkar",
+      "option3": "Rajendra Prasad",
+      "option4": "Jawaharlal Nehru",
+      "answer": "B. R. Ambedkar"
+    },
+    {
+      "question": "Who chaired the Drafting Committee of the Constituent Assembly?",
+      "option1": "B. R. Ambedkar",
+      "option2": "Rajendra Prasad",
+      "option3": "Jawaharlal Nehru",
+      "option4": "Sardar Patel",
+      "answer": "B. R. Ambedkar"
+    },
+    {
+      "question": "When was the Constitution of India adopted?",
+      "option1": "15 August 1947",
+      "option2": "26 November 1949",
+      "option3": "26 January 1950",
+      "option4": "2 October 1950",
+      "answer": "26 November 1949"
+    },
+    {
+      "question": "When did the Constitution of India come into force?",
+      "option1": "15 August 1947",
+      "option2": "26 November 1949",
+      "option3": "26 January 1950",
+      "option4": "15 January 1950",
+      "answer": "26 January 1950"
+    },
+    {
+      "question": "Which part of the Constitution contains the Directive Principles?",
+      "option1": "Part II",
+      "option2": "Part III",
+      "option3": "Part IV",
+      "option4": "Part V",
+      "answer": "Part IV"
+    },
+    {
+      "question": "Which schedule contains the official languages of India?",
+      "option1": "Eighth Schedule",
+      "option2": "Seventh Schedule",
+      "option3": "Ninth Schedule",
+      "option4": "Tenth Schedule",
+      "answer": "Eighth Schedule"
+    },
+    {
+      "question": "How many languages are currently listed in the Eighth Schedule?",
+      "option1": "18",
+      "option2": "20",
+      "option3": "22",
+      "option4": "24",
+      "answer": "22"
+    },
+    {
+      "question": "Which schedule deals with anti-defection provisions?",
+      "option1": "Ninth Schedule",
+      "option2": "Tenth Schedule",
+      "option3": "Eleventh Schedule",
+      "option4": "Twelfth Schedule",
+      "answer": "Tenth Schedule"
+    },
+    {
+      "question": "The anti-defection law was introduced by which amendment?",
+      "option1": "42nd Amendment",
+      "option2": "44th Amendment",
+      "option3": "52nd Amendment",
+      "option4": "61st Amendment",
+      "answer": "52nd Amendment"
+    },
+    {
+      "question": "Which amendment lowered the voting age from 21 to 18?",
+      "option1": "42nd Amendment",
+      "option2": "44th Amendment",
+      "option3": "61st Amendment",
+      "option4": "73rd Amendment",
+      "answer": "61st Amendment"
+    },
+    {
+      "question": "Which article deals with President's Rule in a state?",
+      "option1": "Article 352",
+      "option2": "Article 356",
+      "option3": "Article 360",
+      "option4": "Article 365",
+      "answer": "Article 356"
+    },
+    {
+      "question": "National Emergency is provided under which article?",
+      "option1": "Article 352",
+      "option2": "Article 356",
+      "option3": "Article 360",
+      "option4": "Article 365",
+      "answer": "Article 352"
+    },
+    {
+      "question": "Financial Emergency is provided under which article?",
+      "option1": "Article 352",
+      "option2": "Article 356",
+      "option3": "Article 360",
+      "option4": "Article 365",
+      "answer": "Article 360"
+    },
+    {
+      "question": "Which Fundamental Right is available only to citizens?",
+      "option1": "Equality before law",
+      "option2": "Freedom of speech and expression",
+      "option3": "Right to life",
+      "option4": "Protection against arbitrary arrest",
+      "answer": "Freedom of speech and expression"
+    },
+    {
+      "question": "Which institution is the highest court in India?",
+      "option1": "High Court",
+      "option2": "Supreme Court",
+      "option3": "District Court",
+      "option4": "Constitutional Court",
+      "answer": "Supreme Court"
+    },
+    {
+      "question": "Who appoints the Chief Justice of India?",
+      "option1": "Prime Minister",
+      "option2": "President",
+      "option3": "Parliament",
+      "option4": "Vice-President",
+      "answer": "President"
+    },
+    {
+      "question": "Which court is the highest judicial authority in a state?",
+      "option1": "District Court",
+      "option2": "High Court",
+      "option3": "Supreme Court",
+      "option4": "Sessions Court",
+      "answer": "High Court"
+    },
+    {
+      "question": "Which High Court serves Telangana?",
+      "option1": "Telangana High Court",
+      "option2": "Andhra Pradesh High Court",
+      "option3": "Bombay High Court",
+      "option4": "Madras High Court",
+      "answer": "Telangana High Court"
+    },
+    {
+      "question": "Where is the Telangana High Court located?",
+      "option1": "Warangal",
+      "option2": "Hyderabad",
+      "option3": "Karimnagar",
+      "option4": "Nizamabad",
+      "answer": "Hyderabad"
+    },
+    {
+      "question": "Which article establishes a High Court for each state?",
+      "option1": "Article 214",
+      "option2": "Article 215",
+      "option3": "Article 216",
+      "option4": "Article 217",
+      "answer": "Article 214"
+    },
+    {
+      "question": "Which article gives High Courts the power to issue writs?",
+      "option1": "Article 32",
+      "option2": "Article 226",
+      "option3": "Article 227",
+      "option4": "Article 136",
+      "answer": "Article 226"
+    },
+    {
+      "question": "Which article gives the Supreme Court writ jurisdiction for Fundamental Rights?",
+      "option1": "Article 32",
+      "option2": "Article 226",
+      "option3": "Article 131",
+      "option4": "Article 143",
+      "answer": "Article 32"
+    },
+    {
+      "question": "Which institution is responsible for protecting India's forests and wildlife under central legislation?",
+      "option1": "Ministry of Environment, Forest and Climate Change",
+      "option2": "Ministry of Agriculture",
+      "option3": "Ministry of Finance",
+      "option4": "Ministry of Commerce",
+      "answer": "Ministry of Environment, Forest and Climate Change"
+    },
+    {
+      "question": "Project Tiger was launched in India in which year?",
+      "option1": "1970",
+      "option2": "1973",
+      "option3": "1975",
+      "option4": "1980",
+      "answer": "1973"
+    },
+    {
+      "question": "Project Elephant was launched in India in which year?",
+      "option1": "1985",
+      "option2": "1992",
+      "option3": "1995",
+      "option4": "2000",
+      "answer": "1992"
+    },
+    {
+      "question": "Which gas is primarily responsible for the greenhouse effect?",
+      "option1": "Carbon dioxide",
+      "option2": "Oxygen",
+      "option3": "Nitrogen",
+      "option4": "Helium",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "question": "Which layer protects Earth from harmful ultraviolet radiation?",
+      "option1": "Ozone layer",
+      "option2": "Troposphere",
+      "option3": "Mesosphere",
+      "option4": "Ionosphere",
+      "answer": "Ozone layer"
+    },
+    {
+      "question": "Which gas is most abundant in Earth's atmosphere?",
+      "option1": "Oxygen",
+      "option2": "Nitrogen",
+      "option3": "Carbon dioxide",
+      "option4": "Argon",
+      "answer": "Nitrogen"
+    },
+    {
+      "question": "What is the chemical formula of water?",
+      "option1": "CO2",
+      "option2": "H2O",
+      "option3": "O2",
+      "option4": "H2SO4",
+      "answer": "H2O"
+    },
+    {
+      "question": "Which vitamin is produced in the skin in sunlight?",
+      "option1": "Vitamin A",
+      "option2": "Vitamin B",
+      "option3": "Vitamin C",
+      "option4": "Vitamin D",
+      "answer": "Vitamin D"
+    },
+    {
+      "question": "Deficiency of which vitamin causes scurvy?",
+      "option1": "Vitamin A",
+      "option2": "Vitamin B12",
+      "option3": "Vitamin C",
+      "option4": "Vitamin D",
+      "answer": "Vitamin C"
+    },
+    {
+      "question": "Deficiency of which vitamin causes night blindness?",
+      "option1": "Vitamin A",
+      "option2": "Vitamin B",
+      "option3": "Vitamin C",
+      "option4": "Vitamin K",
+      "answer": "Vitamin A"
+    },
+    {
+      "question": "Which blood group is known as the universal donor?",
+      "option1": "A positive",
+      "option2": "B positive",
+      "option3": "O negative",
+      "option4": "AB positive",
+      "answer": "O negative"
+    },
+    {
+      "question": "Which blood group is known as the universal recipient?",
+      "option1": "O negative",
+      "option2": "AB positive",
+      "option3": "A negative",
+      "option4": "B negative",
+      "answer": "AB positive"
+    },
+    {
+      "question": "Which organ pumps blood throughout the human body?",
+      "option1": "Liver",
+      "option2": "Heart",
+      "option3": "Kidney",
+      "option4": "Lung",
+      "answer": "Heart"
+    },
+    {
+      "question": "Which organ filters waste from the blood?",
+      "option1": "Heart",
+      "option2": "Kidney",
+      "option3": "Lung",
+      "option4": "Stomach",
+      "answer": "Kidney"
+    },
+    {
+      "question": "Which is the largest organ of the human body?",
+      "option1": "Liver",
+      "option2": "Skin",
+      "option3": "Heart",
+      "option4": "Brain",
+      "answer": "Skin"
+    },
+    {
+      "question": "Which is the largest internal organ of the human body?",
+      "option1": "Liver",
+      "option2": "Kidney",
+      "option3": "Lung",
+      "option4": "Brain",
+      "answer": "Liver"
+    },
+    {
+      "question": "Which part of the plant performs photosynthesis?",
+      "option1": "Root",
+      "option2": "Leaf",
+      "option3": "Stem",
+      "option4": "Flower",
+      "answer": "Leaf"
+    },
+    {
+      "question": "Which pigment is responsible for the green colour of plants?",
+      "option1": "Haemoglobin",
+      "option2": "Chlorophyll",
+      "option3": "Melanin",
+      "option4": "Carotene",
+      "answer": "Chlorophyll"
+    },
+    {
+      "question": "Which gas do plants absorb during photosynthesis?",
+      "option1": "Oxygen",
+      "option2": "Nitrogen",
+      "option3": "Carbon dioxide",
+      "option4": "Hydrogen",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "question": "Which gas is released during photosynthesis?",
+      "option1": "Carbon dioxide",
+      "option2": "Oxygen",
+      "option3": "Nitrogen",
+      "option4": "Hydrogen",
+      "answer": "Oxygen"
+    },
+    {
+      "question": "Which is the basic unit of life?",
+      "option1": "Tissue",
+      "option2": "Cell",
+      "option3": "Organ",
+      "option4": "Atom",
+      "answer": "Cell"
+    },
+    {
+      "question": "Which organelle is called the powerhouse of the cell?",
+      "option1": "Nucleus",
+      "option2": "Mitochondria",
+      "option3": "Ribosome",
+      "option4": "Golgi body",
+      "answer": "Mitochondria"
+    },
+    {
+      "question": "Which organelle controls most activities of a cell?",
+      "option1": "Nucleus",
+      "option2": "Mitochondria",
+      "option3": "Lysosome",
+      "option4": "Vacuole",
+      "answer": "Nucleus"
+    },
+    {
+      "question": "Which force attracts objects toward Earth?",
+      "option1": "Magnetic force",
+      "option2": "Gravitational force",
+      "option3": "Frictional force",
+      "option4": "Nuclear force",
+      "answer": "Gravitational force"
+    },
+    {
+      "question": "What is the SI unit of force?",
+      "option1": "Joule",
+      "option2": "Newton",
+      "option3": "Watt",
+      "option4": "Pascal",
+      "answer": "Newton"
+    },
+    {
+      "question": "What is the SI unit of power?",
+      "option1": "Watt",
+      "option2": "Joule",
+      "option3": "Newton",
+      "option4": "Volt",
+      "answer": "Watt"
+    },
+    {
+      "question": "What is the SI unit of electric current?",
+      "option1": "Volt",
+      "option2": "Ampere",
+      "option3": "Ohm",
+      "option4": "Watt",
+      "answer": "Ampere"
+    },
+    {
+      "question": "What is the SI unit of resistance?",
+      "option1": "Volt",
+      "option2": "Ampere",
+      "option3": "Ohm",
+      "option4": "Watt",
+      "answer": "Ohm"
+    },
+    {
+      "question": "Which device converts electrical energy into mechanical energy?",
+      "option1": "Electric motor",
+      "option2": "Generator",
+      "option3": "Transformer",
+      "option4": "Battery",
+      "answer": "Electric motor"
+    },
+    {
+      "question": "Which device converts mechanical energy into electrical energy?",
+      "option1": "Motor",
+      "option2": "Generator",
+      "option3": "Transformer",
+      "option4": "Capacitor",
+      "answer": "Generator"
+    },
+    {
+      "question": "Which metal is liquid at room temperature?",
+      "option1": "Iron",
+      "option2": "Mercury",
+      "option3": "Copper",
+      "option4": "Aluminium",
+      "answer": "Mercury"
+    },
+    {
+      "question": "Which is the hardest natural substance?",
+      "option1": "Gold",
+      "option2": "Iron",
+      "option3": "Diamond",
+      "option4": "Quartz",
+      "answer": "Diamond"
+    },
+    {
+      "question": "Which gas is essential for human respiration?",
+      "option1": "Nitrogen",
+      "option2": "Oxygen",
+      "option3": "Carbon dioxide",
+      "option4": "Hydrogen",
+      "answer": "Oxygen"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "option1": "Venus",
+      "option2": "Mars",
+      "option3": "Jupiter",
+      "option4": "Mercury",
+      "answer": "Mars"
+    },
+    {
+      "question": "Which is the largest planet in the Solar System?",
+      "option1": "Earth",
+      "option2": "Saturn",
+      "option3": "Jupiter",
+      "option4": "Neptune",
+      "answer": "Jupiter"
+    },
+    {
+      "question": "Which planet is closest to the Sun?",
+      "option1": "Venus",
+      "option2": "Mercury",
+      "option3": "Earth",
+      "option4": "Mars",
+      "answer": "Mercury"
+    },
+    {
+      "question": "Which planet is known for its prominent rings?",
+      "option1": "Mars",
+      "option2": "Saturn",
+      "option3": "Venus",
+      "option4": "Mercury",
+      "answer": "Saturn"
+    },
+    {
+      "question": "What is the natural satellite of Earth?",
+      "option1": "Sun",
+      "option2": "Moon",
+      "option3": "Mars",
+      "option4": "Venus",
+      "answer": "Moon"
+    },
+    {
+      "question": "Which is the largest ocean on Earth?",
+      "option1": "Atlantic Ocean",
+      "option2": "Indian Ocean",
+      "option3": "Pacific Ocean",
+      "option4": "Arctic Ocean",
+      "answer": "Pacific Ocean"
+    },
+    {
+      "question": "Which is the longest river in India?",
+      "option1": "Yamuna",
+      "option2": "Godavari",
+      "option3": "Ganga",
+      "option4": "Krishna",
+      "answer": "Ganga"
+    },
+    {
+      "question": "Which is the highest mountain peak in India?",
+      "option1": "Nanda Devi",
+      "option2": "Kanchenjunga",
+      "option3": "Anamudi",
+      "option4": "Aravalli",
+      "answer": "Kanchenjunga"
+    },
+    {
+      "question": "Which mountain range is the oldest in India?",
+      "option1": "Himalayas",
+      "option2": "Aravalli Range",
+      "option3": "Western Ghats",
+      "option4": "Eastern Ghats",
+      "answer": "Aravalli Range"
+    },
+    {
+      "question": "Which plateau covers much of southern India?",
+      "option1": "Deccan Plateau",
+      "option2": "Malwa Plateau",
+      "option3": "Chota Nagpur Plateau",
+      "option4": "Tibetan Plateau",
+      "answer": "Deccan Plateau"
+    },
+    {
+      "question": "Which monsoon brings most rainfall to Telangana?",
+      "option1": "Southwest monsoon",
+      "option2": "Northeast monsoon",
+      "option3": "Winter monsoon",
+      "option4": "Summer trade winds",
+      "answer": "Southwest monsoon"
+    },
+    {
+      "question": "Which is the main rainy season in Telangana?",
+      "option1": "June to September",
+      "option2": "January to March",
+      "option3": "October to December only",
+      "option4": "March to May",
+      "answer": "June to September"
+    },
+    {
+      "question": "Which district is famous for the Ramappa Temple?",
+      "option1": "Mulugu",
+      "option2": "Hyderabad",
+      "option3": "Medak",
+      "option4": "Nalgonda",
+      "answer": "Mulugu"
+    },
+    {
+      "question": "Which temple town is famous for the Sri Lakshmi Narasimha Swamy Temple?",
+      "option1": "Yadadri",
+      "option2": "Basara",
+      "option3": "Bhadrachalam",
+      "option4": "Alampur",
+      "answer": "Yadadri"
+    },
+    {
+      "question": "Basara is famous for a temple dedicated to which deity?",
+      "option1": "Saraswati",
+      "option2": "Lakshmi",
+      "option3": "Durga",
+      "option4": "Kali",
+      "answer": "Saraswati"
+    },
+    {
+      "question": "Bhadrachalam is associated with which deity?",
+      "option1": "Lord Rama",
+      "option2": "Lord Shiva",
+      "option3": "Lord Krishna",
+      "option4": "Lord Venkateswara",
+      "answer": "Lord Rama"
+    },
+    {
+      "question": "Which saint is closely associated with Bhadrachalam temple?",
+      "option1": "Kancharla Gopanna",
+      "option2": "Pothana",
+      "option3": "Vemana",
+      "option4": "Tyagaraja",
+      "answer": "Kancharla Gopanna"
+    },
+    {
+      "question": "Kancharla Gopanna is popularly known as whom?",
+      "option1": "Bhakta Ramadasu",
+      "option2": "Annamacharya",
+      "option3": "Kshetrayya",
+      "option4": "Vemana",
+      "answer": "Bhakta Ramadasu"
+    },
+    {
+      "question": "Which fort is located in Hyderabad?",
+      "option1": "Golconda Fort",
+      "option2": "Red Fort",
+      "option3": "Agra Fort",
+      "option4": "Gwalior Fort",
+      "answer": "Golconda Fort"
+    },
+    {
+      "question": "Golconda was historically famous for which resource?",
+      "option1": "Diamonds",
+      "option2": "Coal",
+      "option3": "Petroleum",
+      "option4": "Iron ore",
+      "answer": "Diamonds"
+    },
+    {
+      "question": "Which famous mosque was begun by Muhammad Quli Qutb Shah?",
+      "option1": "Mecca Masjid",
+      "option2": "Jama Masjid Delhi",
+      "option3": "Charminar Mosque",
+      "option4": "Badshahi Mosque",
+      "answer": "Mecca Masjid"
+    },
+    {
+      "question": "Which palace in Hyderabad is famous for its grand architecture and luxury?",
+      "option1": "Falaknuma Palace",
+      "option2": "Mysore Palace",
+      "option3": "Lalbagh Palace",
+      "option4": "Umaid Bhawan",
+      "answer": "Falaknuma Palace"
+    },
+    {
+      "question": "Which city is an important IT hub of Telangana?",
+      "option1": "Hyderabad",
+      "option2": "Nirmal",
+      "option3": "Jagtial",
+      "option4": "Mahbubabad",
+      "answer": "Hyderabad"
+    },
+    {
+      "question": "HITEC City is located in which city?",
+      "option1": "Warangal",
+      "option2": "Hyderabad",
+      "option3": "Karimnagar",
+      "option4": "Nizamabad",
+      "answer": "Hyderabad"
+    },
+    {
+      "question": "Genome Valley is located near which city?",
+      "option1": "Hyderabad",
+      "option2": "Warangal",
+      "option3": "Khammam",
+      "option4": "Nalgonda",
+      "answer": "Hyderabad"
+    },
+    {
+      "question": "Which sector is strongly associated with Genome Valley?",
+      "option1": "Biotechnology and pharmaceuticals",
+      "option2": "Textiles",
+      "option3": "Mining",
+      "option4": "Automobiles",
+      "answer": "Biotechnology and pharmaceuticals"
+    },
+    {
+      "question": "Which institution is known for pharmaceutical research in Hyderabad?",
+      "option1": "Indian Institute of Chemical Technology",
+      "option2": "Indian Institute of Science",
+      "option3": "IIT Bombay",
+      "option4": "IIT Madras",
+      "answer": "Indian Institute of Chemical Technology"
+    },
+    {
+      "question": "University of Hyderabad is located in which city?",
+      "option1": "Hyderabad",
+      "option2": "Warangal",
+      "option3": "Nizamabad",
+      "option4": "Karimnagar",
+      "answer": "Hyderabad"
+    },
+    {
+      "question": "Osmania University was established in which year?",
+      "option1": "1918",
+      "option2": "1920",
+      "option3": "1930",
+      "option4": "1948",
+      "answer": "1918"
+    },
+    {
+      "question": "Osmania University was established by which ruler?",
+      "option1": "Mir Osman Ali Khan",
+      "option2": "Asaf Jah I",
+      "option3": "Nizam Ali Khan",
+      "option4": "Sikandar Jah",
+      "answer": "Mir Osman Ali Khan"
+    },
+    {
+      "question": "Which university is located in Warangal?",
+      "option1": "Kakatiya University",
+      "option2": "Osmania University",
+      "option3": "University of Hyderabad",
+      "option4": "Telangana University",
+      "answer": "Kakatiya University"
+    },
+    {
+      "question": "Kakatiya University was established in which year?",
+      "option1": "1976",
+      "option2": "1968",
+      "option3": "1982",
+      "option4": "1990",
+      "answer": "1976"
+    },
+    {
+      "question": "Which university is located in Nizamabad?",
+      "option1": "Telangana University",
+      "option2": "Kakatiya University",
+      "option3": "Osmania University",
+      "option4": "Potti Sreeramulu Telugu University",
+      "answer": "Telangana University"
+    },
+    {
+      "question": "Which institution promotes higher technical education and research in India?",
+      "option1": "UGC",
+      "option2": "AICTE",
+      "option3": "NITI Aayog",
+      "option4": "SEBI",
+      "answer": "AICTE"
+    },
+    {
+      "question": "What does UGC stand for?",
+      "option1": "University Grants Commission",
+      "option2": "University General Council",
+      "option3": "Union Grants Council",
+      "option4": "University Governance Commission",
+      "answer": "University Grants Commission"
+    },
+    {
+      "question": "What does AICTE stand for?",
+      "option1": "All India Council for Technical Education",
+      "option2": "All India Commission for Technical Education",
+      "option3": "Advanced Indian Council for Technical Education",
+      "option4": "All India Committee for Technical Education",
+      "answer": "All India Council for Technical Education"
+    },
+    {
+      "question": "Which body regulates higher education standards in universities?",
+      "option1": "UGC",
+      "option2": "RBI",
+      "option3": "SEBI",
+      "option4": "NABARD",
+      "answer": "UGC"
+    },
+    {
+      "question": "Which day is celebrated as Telangana Formation Day?",
+      "option1": "2 June",
+      "option2": "1 November",
+      "option3": "15 August",
+      "option4": "26 January",
+      "answer": "2 June"
+    },
+    {
+      "question": "Which national day is celebrated on 26 January?",
+      "option1": "Independence Day",
+      "option2": "Republic Day",
+      "option3": "Constitution Day",
+      "option4": "Gandhi Jayanti",
+      "answer": "Republic Day"
+    },
+    {
+      "question": "Which national day is celebrated on 15 August?",
+      "option1": "Republic Day",
+      "option2": "Independence Day",
+      "option3": "Constitution Day",
+      "option4": "National Unity Day",
+      "answer": "Independence Day"
+    },
+    {
+      "question": "Gandhi Jayanti is celebrated on which date?",
+      "option1": "2 October",
+      "option2": "14 November",
+      "option3": "15 August",
+      "option4": "26 January",
+      "answer": "2 October"
+    },
+    {
+      "question": "National Youth Day is celebrated on whose birthday?",
+      "option1": "Swami Vivekananda",
+      "option2": "Mahatma Gandhi",
+      "option3": "Subhas Chandra Bose",
+      "option4": "Rabindranath Tagore",
+      "answer": "Swami Vivekananda"
+    },
+    {
+      "question": "National Science Day is celebrated on which date?",
+      "option1": "28 February",
+      "option2": "5 June",
+      "option3": "15 August",
+      "option4": "11 May",
+      "answer": "28 February"
+    },
+    {
+      "question": "World Environment Day is observed on which date?",
+      "option1": "5 June",
+      "option2": "22 April",
+      "option3": "16 September",
+      "option4": "1 December",
+      "answer": "5 June"
+    },
+    {
+      "question": "International Yoga Day is celebrated on which date?",
+      "option1": "21 June",
+      "option2": "5 June",
+      "option3": "11 July",
+      "option4": "29 August",
+      "answer": "21 June"
+    },
+    {
+      "question": "National Sports Day in India is observed on whose birthday?",
+      "option1": "Major Dhyan Chand",
+      "option2": "Milkha Singh",
+      "option3": "Sachin Tendulkar",
+      "option4": "Dhyanchand Singh",
+      "answer": "Major Dhyan Chand"
+    },
+    {
+      "question": "National Sports Day is celebrated on which date?",
+      "option1": "29 August",
+      "option2": "15 August",
+      "option3": "26 January",
+      "option4": "5 September",
+      "answer": "29 August"
+    },
+    {
+      "question": "Teachers' Day in India is celebrated on whose birthday?",
+      "option1": "Dr. S. Radhakrishnan",
+      "option2": "Dr. Rajendra Prasad",
+      "option3": "Jawaharlal Nehru",
+      "option4": "Mahatma Gandhi",
+      "answer": "Dr. S. Radhakrishnan"
+    },
+    {
+      "question": "Teachers' Day in India is observed on which date?",
+      "option1": "5 September",
+      "option2": "14 November",
+      "option3": "2 October",
+      "option4": "26 November",
+      "answer": "5 September"
+    },
+    {
+      "question": "Children's Day in India is celebrated on whose birthday?",
+      "option1": "Jawaharlal Nehru",
+      "option2": "Mahatma Gandhi",
+      "option3": "Sardar Patel",
+      "option4": "Subhas Chandra Bose",
+      "answer": "Jawaharlal Nehru"
+    },
+    {
+      "question": "Children's Day in India is celebrated on which date?",
+      "option1": "14 November",
+      "option2": "5 September",
+      "option3": "2 October",
+      "option4": "12 January",
+      "answer": "14 November"
+    },
+    {
+      "question": "Which movement was launched by Mahatma Gandhi in 1942?",
+      "option1": "Quit India Movement",
+      "option2": "Non-Cooperation Movement",
+      "option3": "Civil Disobedience Movement",
+      "option4": "Swadeshi Movement",
+      "answer": "Quit India Movement"
+    },
+    {
+      "question": "The Quit India Movement was launched with which slogan?",
+      "option1": "Do or Die",
+      "option2": "Jai Jawan Jai Kisan",
+      "option3": "Inquilab Zindabad",
+      "option4": "Vande Mataram",
+      "answer": "Do or Die"
+    },
+    {
+      "question": "The Non-Cooperation Movement was launched in which year?",
+      "option1": "1919",
+      "option2": "1920",
+      "option3": "1930",
+      "option4": "1942",
+      "answer": "1920"
+    },
+    {
+      "question": "The Civil Disobedience Movement began with which famous event?",
+      "option1": "Dandi March",
+      "option2": "Champaran Satyagraha",
+      "option3": "Quit India Movement",
+      "option4": "Khilafat Movement",
+      "answer": "Dandi March"
+    },
+    {
+      "question": "The Dandi March was associated with which issue?",
+      "option1": "Salt law",
+      "option2": "Land revenue",
+      "option3": "Education",
+      "option4": "Factory wages",
+      "answer": "Salt law"
+    },
+    {
+      "question": "Who founded the Indian National Congress?",
+      "option1": "A. O. Hume",
+      "option2": "Mahatma Gandhi",
+      "option3": "Dadabhai Naoroji",
+      "option4": "Bal Gangadhar Tilak",
+      "answer": "A. O. Hume"
+    },
+    {
+      "question": "The first session of the Indian National Congress was held at which place?",
+      "option1": "Bombay",
+      "option2": "Calcutta",
+      "option3": "Madras",
+      "option4": "Delhi",
+      "answer": "Bombay"
+    },
+    {
+      "question": "Who was the first President of the Indian National Congress?",
+      "option1": "W. C. Bonnerjee",
+      "option2": "Dadabhai Naoroji",
+      "option3": "Surendranath Banerjee",
+      "option4": "Gopal Krishna Gokhale",
+      "answer": "W. C. Bonnerjee"
+    },
+    {
+      "question": "Who gave the slogan 'Swaraj is my birthright and I shall have it'?",
+      "option1": "Bal Gangadhar Tilak",
+      "option2": "Mahatma Gandhi",
+      "option3": "Subhas Chandra Bose",
+      "option4": "Lala Lajpat Rai",
+      "answer": "Bal Gangadhar Tilak"
+    },
+    {
+      "question": "Who founded the Forward Bloc?",
+      "option1": "Subhas Chandra Bose",
+      "option2": "Jawaharlal Nehru",
+      "option3": "Sardar Patel",
+      "option4": "Rajendra Prasad",
+      "answer": "Subhas Chandra Bose"
+    },
+    {
+      "question": "Who gave the slogan 'Jai Hind' popular during the freedom struggle?",
+      "option1": "Subhas Chandra Bose",
+      "option2": "Mahatma Gandhi",
+      "option3": "Jawaharlal Nehru",
+      "option4": "Bhagat Singh",
+      "answer": "Subhas Chandra Bose"
+    },
+    {
+      "question": "Who founded the Arya Samaj?",
+      "option1": "Swami Dayanand Saraswati",
+      "option2": "Swami Vivekananda",
+      "option3": "Raja Ram Mohan Roy",
+      "option4": "Annie Besant",
+      "answer": "Swami Dayanand Saraswati"
+    },
+    {
+      "question": "Who founded the Brahmo Samaj?",
+      "option1": "Raja Ram Mohan Roy",
+      "option2": "Swami Dayanand Saraswati",
+      "option3": "Swami Vivekananda",
+      "option4": "Ishwar Chandra Vidyasagar",
+      "answer": "Raja Ram Mohan Roy"
+    },
+    {
+      "question": "Who founded the Ramakrishna Mission?",
+      "option1": "Swami Vivekananda",
+      "option2": "Ramakrishna Paramahamsa",
+      "option3": "Dayanand Saraswati",
+      "option4": "Annie Besant",
+      "answer": "Swami Vivekananda"
+    },
+    {
+      "question": "Who founded the Theosophical Society in India?",
+      "option1": "Annie Besant",
+      "option2": "Swami Vivekananda",
+      "option3": "Raja Ram Mohan Roy",
+      "option4": "Bal Gangadhar Tilak",
+      "answer": "Annie Besant"
+    },
+    {
+      "question": "Who was the first woman President of the Indian National Congress?",
+      "option1": "Sarojini Naidu",
+      "option2": "Annie Besant",
+      "option3": "Vijaya Lakshmi Pandit",
+      "option4": "Aruna Asaf Ali",
+      "answer": "Annie Besant"
+    },
+    {
+      "question": "Who was the first Indian woman President of the Indian National Congress?",
+      "option1": "Sarojini Naidu",
+      "option2": "Annie Besant",
+      "option3": "Sucheta Kriplani",
+      "option4": "Indira Gandhi",
+      "answer": "Sarojini Naidu"
+    },
+    {
+      "question": "Who is known as the Nightingale of India?",
+      "option1": "Sarojini Naidu",
+      "option2": "Annie Besant",
+      "option3": "Aruna Asaf Ali",
+      "option4": "Vijaya Lakshmi Pandit",
+      "answer": "Sarojini Naidu"
+    },
+    {
+      "question": "Who wrote the book 'Discovery of India'?",
+      "option1": "Jawaharlal Nehru",
+      "option2": "Mahatma Gandhi",
+      "option3": "B. R. Ambedkar",
+      "option4": "Sardar Patel",
+      "answer": "Jawaharlal Nehru"
+    },
+    {
+      "question": "Who wrote 'My Experiments with Truth'?",
+      "option1": "Mahatma Gandhi",
+      "option2": "Jawaharlal Nehru",
+      "option3": "Subhas Chandra Bose",
+      "option4": "Rajendra Prasad",
+      "answer": "Mahatma Gandhi"
+    },
+    {
+      "question": "Which ancient dynasty is strongly associated with Telangana's early history?",
+      "option1": "Satavahanas",
+      "option2": "Cholas",
+      "option3": "Pallavas",
+      "option4": "Cheras",
+      "answer": "Satavahanas"
+    },
+    {
+      "question": "What was the capital of the Satavahanas during their later period?",
+      "option1": "Pratishthana",
+      "option2": "Warangal",
+      "option3": "Golconda",
+      "option4": "Vijayapura",
+      "answer": "Pratishthana"
+    },
+    {
+      "question": "Which Satavahana ruler is famous for defeating the Shakas?",
+      "option1": "Gautamiputra Satakarni",
+      "option2": "Simuka",
+      "option3": "Hala",
+      "option4": "Yajna Satakarni",
+      "answer": "Gautamiputra Satakarni"
+    },
+    {
+      "question": "Who wrote the ancient Prakrit work Gatha Saptashati?",
+      "option1": "Hala",
+      "option2": "Gautamiputra Satakarni",
+      "option3": "Simuka",
+      "option4": "Pulomavi",
+      "answer": "Hala"
+    },
+    {
+      "question": "The Ikshvakus had their capital at which place?",
+      "option1": "Nagarjunakonda",
+      "option2": "Warangal",
+      "option3": "Hyderabad",
+      "option4": "Golconda",
+      "answer": "Nagarjunakonda"
+    },
+    {
+      "question": "Which religion received significant patronage under the Ikshvakus?",
+      "option1": "Buddhism",
+      "option2": "Islam",
+      "option3": "Sikhism",
+      "option4": "Christianity",
+      "answer": "Buddhism"
+    },
+    {
+      "question": "Which ancient centre is associated with Buddhist remains in Telangana?",
+      "option1": "Nagarjunakonda",
+      "option2": "Golconda",
+      "option3": "Warangal",
+      "option4": "Nirmal",
+      "answer": "Nagarjunakonda"
+    },
+    {
+      "question": "Which dynasty succeeded the Satavahanas in parts of the Deccan?",
+      "option1": "Ikshvakus",
+      "option2": "Qutb Shahis",
+      "option3": "Asaf Jahis",
+      "option4": "Mughals",
+      "answer": "Ikshvakus"
+    },
+    {
+      "question": "Which dynasty ruled the Deccan before the Kakatiyas?",
+      "option1": "Western Chalukyas",
+      "option2": "Mughals",
+      "option3": "Asaf Jahis",
+      "option4": "British",
+      "answer": "Western Chalukyas"
+    },
+    {
+      "question": "Which Kakatiya ruler built the Rudreswara Temple?",
+      "option1": "Rudradeva",
+      "option2": "Ganapatideva",
+      "option3": "Prataparudra II",
+      "option4": "Rudramadevi",
+      "answer": "Rudradeva"
+    },
+    {
+      "question": "Rudreswara Temple is popularly known by which name?",
+      "option1": "Thousand Pillar Temple",
+      "option2": "Ramappa Temple",
+      "option3": "Charminar",
+      "option4": "Bhadrakali Temple",
+      "answer": "Thousand Pillar Temple"
+    },
+    {
+      "question": "Which Kakatiya ruler introduced extensive irrigation tanks?",
+      "option1": "Ganapatideva",
+      "option2": "Sultan Quli",
+      "option3": "Asaf Jah",
+      "option4": "Muhammad Quli",
+      "answer": "Ganapatideva"
+    },
+    {
+      "question": "What was the administrative system of the Kakatiyas based partly on?",
+      "option1": "Nayankara system",
+      "option2": "Mansabdari system",
+      "option3": "Zamindari system",
+      "option4": "Ryotwari system",
+      "answer": "Nayankara system"
+    },
+    {
+      "question": "Which fort became the centre of the Qutb Shahi kingdom?",
+      "option1": "Golconda Fort",
+      "option2": "Warangal Fort",
+      "option3": "Bhongir Fort",
+      "option4": "Medak Fort",
+      "answer": "Golconda Fort"
+    },
+    {
+      "question": "Which Qutb Shahi ruler shifted the capital from Golconda to Hyderabad?",
+      "option1": "Muhammad Quli Qutb Shah",
+      "option2": "Ibrahim Qutb Shah",
+      "option3": "Abdullah Qutb Shah",
+      "option4": "Sultan Quli",
+      "answer": "Muhammad Quli Qutb Shah"
+    },
+    {
+      "question": "Which empire conquered Golconda in 1687?",
+      "option1": "Mughal Empire",
+      "option2": "Maratha Empire",
+      "option3": "British Empire",
+      "option4": "Vijayanagara Empire",
+      "answer": "Mughal Empire"
+    },
+    {
+      "question": "Which Mughal emperor conquered Golconda?",
+      "option1": "Akbar",
+      "option2": "Aurangzeb",
+      "option3": "Shah Jahan",
+      "option4": "Bahadur Shah",
+      "answer": "Aurangzeb"
+    },
+    {
+      "question": "Who established the Asaf Jahi rule in Hyderabad?",
+      "option1": "Asaf Jah I",
+      "option2": "Mir Osman Ali Khan",
+      "option3": "Nizam Ali Khan",
+      "option4": "Sikandar Jah",
+      "answer": "Asaf Jah I"
+    },
+    {
+      "question": "What title was commonly used by the rulers of Hyderabad?",
+      "option1": "Nizam",
+      "option2": "Sultan",
+      "option3": "Maharaja",
+      "option4": "Nawab of Bengal",
+      "answer": "Nizam"
+    },
+    {
+      "question": "Which agreement was signed between the Nizam and the Government of India in 1947?",
+      "option1": "Standstill Agreement",
+      "option2": "Poona Pact",
+      "option3": "Lucknow Pact",
+      "option4": "Gandhi-Irwin Pact",
+      "answer": "Standstill Agreement"
+    },
+    {
+      "question": "The Hyderabad State Congress was formed to demand what?",
+      "option1": "Responsible government",
+      "option2": "Separate Andhra State",
+      "option3": "British rule",
+      "option4": "Military government",
+      "answer": "Responsible government"
+    },
+    {
+      "question": "Who was associated with the Hyderabad State Congress?",
+      "option1": "Swami Ramananda Tirtha",
+      "option2": "Subhas Chandra Bose",
+      "option3": "Bhagat Singh",
+      "option4": "Bal Gangadhar Tilak",
+      "answer": "Swami Ramananda Tirtha"
+    },
+    {
+      "question": "The States Reorganisation Act came into effect in which year?",
+      "option1": "1950",
+      "option2": "1956",
+      "option3": "1960",
+      "option4": "1966",
+      "answer": "1956"
+    },
+    {
+      "question": "Hyderabad State was reorganized in 1956 mainly on which basis?",
+      "option1": "Linguistic basis",
+      "option2": "Religious basis",
+      "option3": "Economic basis",
+      "option4": "Military basis",
+      "answer": "Linguistic basis"
+    },
+    {
+      "question": "Telangana region was merged with Andhra State in which year?",
+      "option1": "1953",
+      "option2": "1956",
+      "option3": "1969",
+      "option4": "1972",
+      "answer": "1956"
+    },
+    {
+      "question": "Which movement emerged in 1969 demanding a separate Telangana state?",
+      "option1": "Jai Telangana Movement",
+      "option2": "Jai Andhra Movement",
+      "option3": "Quit Telangana Movement",
+      "option4": "Telangana Renaissance",
+      "answer": "Jai Telangana Movement"
+    },
+    {
+      "question": "Who founded the Telangana Praja Samithi?",
+      "option1": "Marri Chenna Reddy",
+      "option2": "K. Chandrashekar Rao",
+      "option3": "Prof. Jayashankar",
+      "option4": "Burgula Ramakrishna Rao",
+      "answer": "Marri Chenna Reddy"
+    },
+    {
+      "question": "The Six-Point Formula was introduced in which year?",
+      "option1": "1969",
+      "option2": "1973",
+      "option3": "1975",
+      "option4": "1982",
+      "answer": "1973"
+    },
+    {
+      "question": "The Presidential Order of 1975 mainly dealt with what?",
+      "option1": "Local employment",
+      "option2": "Land reforms",
+      "option3": "Forest rights",
+      "option4": "Education curriculum",
+      "answer": "Local employment"
+    },
+    {
+      "question": "Which committee was appointed to examine regional imbalances in Andhra Pradesh?",
+      "option1": "Sri Krishna Committee",
+      "option2": "Sarkaria Commission",
+      "option3": "Mandal Commission",
+      "option4": "Punchhi Commission",
+      "answer": "Sri Krishna Committee"
+    },
+    {
+      "question": "The Sri Krishna Committee submitted its report in which year?",
+      "option1": "2009",
+      "option2": "2010",
+      "option3": "2011",
+      "option4": "2012",
+      "answer": "2010"
+    },
+    {
+      "question": "Which Act created the state of Telangana?",
+      "option1": "Andhra Pradesh Reorganisation Act, 2014",
+      "option2": "States Reorganisation Act, 1956",
+      "option3": "Telangana Formation Act, 2013",
+      "option4": "Hyderabad Reorganisation Act",
+      "answer": "Andhra Pradesh Reorganisation Act, 2014"
+    },
+    {
+      "question": "The Andhra Pradesh Reorganisation Act was passed by Parliament in which year?",
+      "option1": "2012",
+      "option2": "2013",
+      "option3": "2014",
+      "option4": "2015",
+      "answer": "2014"
+    },
+    {
+      "question": "Which city served as the common capital of Telangana and Andhra Pradesh initially?",
+      "option1": "Hyderabad",
+      "option2": "Vijayawada",
+      "option3": "Warangal",
+      "option4": "Visakhapatnam",
+      "answer": "Hyderabad"
+    },
+    {
+      "question": "Which constitutional amendment created the Telangana state?",
+      "option1": "It was created by the Andhra Pradesh Reorganisation Act, 2014",
+      "option2": "100th Amendment",
+      "option3": "101st Amendment",
+      "option4": "102nd Amendment",
+      "answer": "It was created by the Andhra Pradesh Reorganisation Act, 2014"
+    },
+    {
+      "question": "Which district is known for the famous Thousand Pillar Temple?",
+      "option1": "Hanamkonda",
+      "option2": "Nizamabad",
+      "option3": "Khammam",
+      "option4": "Siddipet",
+      "answer": "Hanamkonda"
+    },
+    {
+      "question": "Which Telangana district is famous for Singareni coal mines?",
+      "option1": "Bhadradri Kothagudem",
+      "option2": "Hyderabad",
+      "option3": "Medak",
+      "option4": "Nizamabad",
+      "answer": "Bhadradri Kothagudem"
+    },
+    {
+      "question": "Singareni coal is primarily found in which geological formation?",
+      "option1": "Gondwana",
+      "option2": "Deccan Trap",
+      "option3": "Himalayan",
+      "option4": "Aravalli",
+      "answer": "Gondwana"
+    },
+    {
+      "question": "The Singareni Collieries Company Limited is mainly engaged in which activity?",
+      "option1": "Coal mining",
+      "option2": "Iron mining",
+      "option3": "Gold mining",
+      "option4": "Oil extraction",
+      "answer": "Coal mining"
+    },
+    {
+      "question": "Which city is an important coal-mining centre in Telangana?",
+      "option1": "Kothagudem",
+      "option2": "Hyderabad",
+      "option3": "Vikarabad",
+      "option4": "Sangareddy",
+      "answer": "Kothagudem"
+    },
+    {
+      "question": "Which mineral resource is important in Telangana's northern districts?",
+      "option1": "Coal",
+      "option2": "Petroleum",
+      "option3": "Uranium only",
+      "option4": "Natural gas",
+      "answer": "Coal"
+    },
+    {
+      "question": "Which industry is important in Peddapalli district?",
+      "option1": "Steel and thermal power",
+      "option2": "Shipbuilding",
+      "option3": "Tea processing",
+      "option4": "Jute manufacturing",
+      "answer": "Steel and thermal power"
+    },
+    {
+      "question": "Ramagundam is known for which major industrial activity?",
+      "option1": "Thermal power generation",
+      "option2": "Shipbuilding",
+      "option3": "Tea production",
+      "option4": "Silk production",
+      "answer": "Thermal power generation"
+    },
+    {
+      "question": "Which fertilizer plant is located at Ramagundam?",
+      "option1": "Ramagundam Fertilizers and Chemicals",
+      "option2": "Coromandel Fertilizers only",
+      "option3": "Kribhco Hyderabad",
+      "option4": "IFFCO Warangal",
+      "answer": "Ramagundam Fertilizers and Chemicals"
+    },
+    {
+      "question": "Which irrigation project is associated with the Godavari at Dharmapuri and nearby areas?",
+      "option1": "Kaleshwaram",
+      "option2": "Nagarjuna Sagar",
+      "option3": "Nizam Sagar",
+      "option4": "Jurala",
+      "answer": "Kaleshwaram"
+    },
+    {
+      "question": "Jurala Project is built across which river?",
+      "option1": "Krishna",
+      "option2": "Godavari",
+      "option3": "Musi",
+      "option4": "Manjira",
+      "answer": "Krishna"
+    },
+    {
+      "question": "Which project is also called the Priyadarshini Jurala Project?",
+      "option1": "Jurala Project",
+      "option2": "Nizam Sagar",
+      "option3": "Sri Ram Sagar",
+      "option4": "Singur Project",
+      "answer": "Jurala Project"
+    },
+    {
+      "question": "Singur Project is built across which river?",
+      "option1": "Manjira",
+      "option2": "Godavari",
+      "option3": "Krishna",
+      "option4": "Musi",
+      "answer": "Manjira"
+    },
+    {
+      "question": "Which reservoir supplies drinking water to Hyderabad along with other sources?",
+      "option1": "Singur",
+      "option2": "Pulicat",
+      "option3": "Kolleru",
+      "option4": "Loktak",
+      "answer": "Singur"
+    },
+    {
+      "question": "Which city is the capital of Telangana?",
+      "option1": "Warangal",
+      "option2": "Hyderabad",
+      "option3": "Karimnagar",
+      "option4": "Nizamabad",
+      "answer": "Hyderabad"
+    },
+    {
+      "question": "Which city is known for its historical fort and Kakatiya heritage?",
+      "option1": "Warangal",
+      "option2": "Hyderabad",
+      "option3": "Adilabad",
+      "option4": "Suryapet",
+      "answer": "Warangal"
+    },
+    {
+      "question": "Which district is famous for the Ramappa Temple and tribal culture?",
+      "option1": "Mulugu",
+      "option2": "Medchal",
+      "option3": "Hyderabad",
+      "option4": "Vikarabad",
+      "answer": "Mulugu"
+    },
+    {
+      "question": "Which Telangana district is known for the Laknavaram Lake?",
+      "option1": "Mulugu",
+      "option2": "Medak",
+      "option3": "Nalgonda",
+      "option4": "Sangareddy",
+      "answer": "Mulugu"
+    },
+    {
+      "question": "Laknavaram Lake is famous for what?",
+      "option1": "Suspension bridge and scenic islands",
+      "option2": "Diamond mines",
+      "option3": "Salt production",
+      "option4": "Tea plantations",
+      "answer": "Suspension bridge and scenic islands"
+    },
+    {
+      "question": "Which waterfall is a famous tourist attraction in Jayashankar Bhupalpally district?",
+      "option1": "Bogatha Waterfall",
+      "option2": "Jog Falls",
+      "option3": "Dudhsagar Falls",
+      "option4": "Hogenakkal Falls",
+      "answer": "Bogatha Waterfall"
+    },
+    {
+      "question": "Bogatha Waterfall is popularly called what?",
+      "option1": "Niagara of Telangana",
+      "option2": "Niagara of India",
+      "option3": "Queen of Waterfalls",
+      "option4": "Telangana Falls",
+      "answer": "Niagara of Telangana"
+    },
+    {
+      "question": "Which wildlife sanctuary is located in Nirmal district?",
+      "option1": "Kawal Wildlife Sanctuary",
+      "option2": "Amrabad Wildlife Sanctuary",
+      "option3": "Pocharam only",
+      "option4": "Eturnagaram only",
+      "answer": "Kawal Wildlife Sanctuary"
+    },
+    {
+      "question": "Eturnagaram Wildlife Sanctuary is located mainly in which region?",
+      "option1": "Eastern Telangana",
+      "option2": "Western Telangana",
+      "option3": "Hyderabad region",
+      "option4": "Southern Telangana",
+      "answer": "Eastern Telangana"
+    },
+    {
+      "question": "Which tribe is prominently associated with the forests of northern Telangana?",
+      "option1": "Gond",
+      "option2": "Toda",
+      "option3": "Bodo",
+      "option4": "Naga",
+      "answer": "Gond"
+    },
+    {
+      "question": "Lambadas are also commonly known by which name?",
+      "option1": "Banjara",
+      "option2": "Gond",
+      "option3": "Koya",
+      "option4": "Chenchu",
+      "answer": "Banjara"
+    },
+    {
+      "question": "Which tribe is mainly associated with the Godavari forest region of Telangana?",
+      "option1": "Koya",
+      "option2": "Toda",
+      "option3": "Naga",
+      "option4": "Bhil",
+      "answer": "Koya"
+    },
+    {
+      "question": "Chenchu tribal communities are traditionally associated with which forest region?",
+      "option1": "Nallamala",
+      "option2": "Aravalli",
+      "option3": "Himalaya",
+      "option4": "Western Rajasthan",
+      "answer": "Nallamala"
+    },
+    {
+      "question": "Which forest region extends into southern Telangana?",
+      "option1": "Nallamala forests",
+      "option2": "Sundarbans",
+      "option3": "Gir forests",
+      "option4": "Nilgiri forests",
+      "answer": "Nallamala forests"
+    },
+    {
+      "question": "Which tiger reserve is part of the Nallamala forest region?",
+      "option1": "Amrabad Tiger Reserve",
+      "option2": "Kawal Tiger Reserve",
+      "option3": "Sariska Tiger Reserve",
+      "option4": "Bandipur Tiger Reserve",
+      "answer": "Amrabad Tiger Reserve"
+    },
+    {
+      "question": "Which tiger reserve is associated with the Godavari basin in northern Telangana?",
+      "option1": "Kawal Tiger Reserve",
+      "option2": "Amrabad Tiger Reserve",
+      "option3": "Periyar Tiger Reserve",
+      "option4": "Ranthambore Tiger Reserve",
+      "answer": "Kawal Tiger Reserve"
+    },
+    {
+      "question": "Which is a major objective of Telangana's welfare programmes?",
+      "option1": "Social and economic development",
+      "option2": "Only industrial privatization",
+      "option3": "Only export promotion",
+      "option4": "Only tourism development",
+      "answer": "Social and economic development"
+    },
+    {
+      "question": "Which scheme is associated with providing financial assistance for marriage of eligible women in Telangana?",
+      "option1": "Kalyana Lakshmi",
+      "option2": "Mission Kakatiya",
+      "option3": "Rythu Bandhu",
+      "option4": "Haritha Haram",
+      "answer": "Kalyana Lakshmi"
+    },
+    {
+      "question": "Which scheme provides financial support to eligible farmers in Telangana?",
+      "option1": "Rythu Bandhu",
+      "option2": "Kalyana Lakshmi",
+      "option3": "Aasara",
+      "option4": "KCR Kit",
+      "answer": "Rythu Bandhu"
+    },
+    {
+      "question": "Mission Kakatiya mainly focuses on what?",
+      "option1": "Restoration of minor irrigation tanks",
+      "option2": "Construction of airports",
+      "option3": "Urban housing",
+      "option4": "Road transport",
+      "answer": "Restoration of minor irrigation tanks"
+    },
+    {
+      "question": "Haritha Haram is related to which activity?",
+      "option1": "Afforestation",
+      "option2": "Irrigation",
+      "option3": "Education",
+      "option4": "Banking",
+      "answer": "Afforestation"
+    },
+    {
+      "question": "KCR Kit is associated with which sector?",
+      "option1": "Maternal and child health",
+      "option2": "Agriculture",
+      "option3": "Irrigation",
+      "option4": "Tourism",
+      "answer": "Maternal and child health"
+    },
+    {
+      "question": "Aasara pensions are intended mainly for which purpose?",
+      "option1": "Social security assistance",
+      "option2": "Industrial loans",
+      "option3": "Export promotion",
+      "option4": "Tourism development",
+      "answer": "Social security assistance"
+    },
+    {
+      "question": "Which scheme is associated with residential schools for disadvantaged communities in Telangana?",
+      "option1": "Telangana Residential Educational Institutions",
+      "option2": "Rythu Bandhu",
+      "option3": "Mission Kakatiya",
+      "option4": "Haritha Haram",
+      "answer": "Telangana Residential Educational Institutions"
+    },
+    {
+      "question": "Which scheme aims to improve drinking water supply in rural Telangana?",
+      "option1": "Mission Bhagiratha",
+      "option2": "Mission Kakatiya",
+      "option3": "Haritha Haram",
+      "option4": "Rythu Bandhu",
+      "answer": "Mission Bhagiratha"
+    },
+    {
+      "question": "Mission Bhagiratha primarily focuses on what?",
+      "option1": "Safe drinking water",
+      "option2": "Forest protection",
+      "option3": "Crop insurance",
+      "option4": "Urban transport",
+      "answer": "Safe drinking water"
+    },
+    {
+      "question": "Which scheme is associated with sheep distribution to eligible communities in Telangana?",
+      "option1": "Sheep Distribution Scheme",
+      "option2": "Mission Bhagiratha",
+      "option3": "Rythu Bandhu",
+      "option4": "Aasara",
+      "answer": "Sheep Distribution Scheme"
+    },
+    {
+      "question": "Which sector benefits directly from sheep rearing schemes?",
+      "option1": "Livestock",
+      "option2": "Information technology",
+      "option3": "Mining",
+      "option4": "Banking",
+      "answer": "Livestock"
+    },
+    {
+      "question": "Which institution is responsible for conducting Telangana Group examinations?",
+      "option1": "Telangana Public Service Commission",
+      "option2": "Union Public Service Commission",
+      "option3": "Staff Selection Commission",
+      "option4": "Railway Recruitment Board",
+      "answer": "Telangana Public Service Commission"
+    },
+    {
+      "question": "What is the full form of TGPSC?",
+      "option1": "Telangana Public Service Commission",
+      "option2": "Telangana Public Selection Council",
+      "option3": "Telangana Government Public Service Council",
+      "option4": "Telangana General Public Service Commission",
+      "answer": "Telangana Public Service Commission"
+    },
+    {
+      "question": "Which examination is conducted for various executive and non-executive state government posts under Group-II recruitment?",
+      "option1": "TGPSC Group-II",
+      "option2": "UPSC CSE",
+      "option3": "SSC CGL",
+      "option4": "RRB NTPC",
+      "answer": "TGPSC Group-II"
+    },
+    {
+      "question": "Which organization recruits candidates for central civil services through the Civil Services Examination?",
+      "option1": "UPSC",
+      "option2": "TGPSC",
+      "option3": "SSC",
+      "option4": "IBPS",
+      "answer": "UPSC"
+    },
+    {
+      "question": "Which organization conducts recruitment examinations for banking personnel in participating public sector banks?",
+      "option1": "IBPS",
+      "option2": "UPSC",
+      "option3": "TGPSC",
+      "option4": "NABARD only",
+      "answer": "IBPS"
+    },
+    {
+      "question": "What does IBPS stand for?",
+      "option1": "Institute of Banking Personnel Selection",
+      "option2": "Indian Banking Personnel Service",
+      "option3": "Institute of Bank Personnel Studies",
+      "option4": "Indian Board of Personnel Selection",
+      "answer": "Institute of Banking Personnel Selection"
+    },
+    {
+      "question": "Which organization conducts SSC examinations?",
+      "option1": "Staff Selection Commission",
+      "option2": "State Selection Commission",
+      "option3": "Service Selection Council",
+      "option4": "Staff Service Council",
+      "answer": "Staff Selection Commission"
+    },
+    {
+      "question": "What does SSC stand for?",
+      "option1": "Staff Selection Commission",
+      "option2": "State Service Commission",
+      "option3": "Staff Service Council",
+      "option4": "State Selection Council",
+      "answer": "Staff Selection Commission"
+    },
+    {
+      "question": "Which commission recruits candidates for All India Services and central services?",
+      "option1": "UPSC",
+      "option2": "TGPSC",
+      "option3": "SSC",
+      "option4": "IBPS",
+      "answer": "UPSC"
+    },
+    {
+      "question": "Which constitutional article deals with Public Service Commissions?",
+      "option1": "Article 315",
+      "option2": "Article 320",
+      "option3": "Article 324",
+      "option4": "Article 280",
+      "answer": "Article 315"
+    },
+    {
+      "question": "Which article specifies the functions of Public Service Commissions?",
+      "option1": "Article 315",
+      "option2": "Article 320",
+      "option3": "Article 324",
+      "option4": "Article 325",
+      "answer": "Article 320"
+    },
+    {
+      "question": "Which body conducts elections to the Telangana Legislative Assembly?",
+      "option1": "Election Commission of India",
+      "option2": "Telangana State Election Commission",
+      "option3": "TGPSC",
+      "option4": "Telangana Legislature",
+      "answer": "Election Commission of India"
+    },
+    {
+      "question": "Which authority conducts local body elections in Telangana?",
+      "option1": "State Election Commission",
+      "option2": "Election Commission of India",
+      "option3": "TGPSC",
+      "option4": "Governor's Secretariat",
+      "answer": "State Election Commission"
+    },
+    {
+      "question": "Which institution prepares electoral rolls for Assembly and Lok Sabha elections?",
+      "option1": "Election Commission of India",
+      "option2": "TGPSC",
+      "option3": "Finance Commission",
+      "option4": "NITI Aayog",
+      "answer": "Election Commission of India"
+    },
+    {
+      "question": "Which constitutional article deals with the Election Commission of India?",
+      "option1": "Article 324",
+      "option2": "Article 325",
+      "option3": "Article 326",
+      "option4": "Article 327",
+      "answer": "Article 324"
+    },
+    {
+      "question": "Which article provides elections to the Lok Sabha and State Assemblies based on adult suffrage?",
+      "option1": "Article 324",
+      "option2": "Article 325",
+      "option3": "Article 326",
+      "option4": "Article 327",
+      "answer": "Article 326"
+    },
+    {
+      "question": "What is the minimum voting age in India?",
+      "option1": "18 years",
+      "option2": "21 years",
+      "option3": "25 years",
+      "option4": "30 years",
+      "answer": "18 years"
+    },
+    {
+      "question": "Which amendment introduced voting at 18 years?",
+      "option1": "52nd Amendment",
+      "option2": "61st Amendment",
+      "option3": "73rd Amendment",
+      "option4": "74th Amendment",
+      "answer": "61st Amendment"
+    },
+    {
+      "question": "Which principle means one person has one vote of equal value?",
+      "option1": "Universal adult suffrage",
+      "option2": "Judicial review",
+      "option3": "Federalism",
+      "option4": "Separation of powers",
+      "answer": "Universal adult suffrage"
+    },
+    {
+      "question": "Which body is responsible for maintaining monetary stability in India?",
+      "option1": "Reserve Bank of India",
+      "option2": "SEBI",
+      "option3": "NITI Aayog",
+      "option4": "Finance Commission",
+      "answer": "Reserve Bank of India"
+    },
+    {
+      "question": "Which institution issues currency notes in India except the one-rupee note?",
+      "option1": "Reserve Bank of India",
+      "option2": "State Bank of India",
+      "option3": "Ministry of Finance only",
+      "option4": "SEBI",
+      "answer": "Reserve Bank of India"
+    },
+    {
+      "question": "Who issues the one-rupee currency note in India?",
+      "option1": "Reserve Bank of India",
+      "option2": "Government of India",
+      "option3": "State Bank of India",
+      "option4": "SEBI",
+      "answer": "Government of India"
+    },
+    {
+      "question": "Which institution manages India's foreign exchange reserves?",
+      "option1": "RBI",
+      "option2": "SEBI",
+      "option3": "NITI Aayog",
+      "option4": "Finance Commission",
+      "answer": "RBI"
+    },
+    {
+      "question": "Which market deals with short-term funds?",
+      "option1": "Money market",
+      "option2": "Capital market",
+      "option3": "Commodity market",
+      "option4": "Foreign market",
+      "answer": "Money market"
+    },
+    {
+      "question": "Which market deals mainly with long-term funds?",
+      "option1": "Money market",
+      "option2": "Capital market",
+      "option3": "Call money market",
+      "option4": "Currency market",
+      "answer": "Capital market"
+    },
+    {
+      "question": "Which institution is responsible for regulating India's capital market?",
+      "option1": "SEBI",
+      "option2": "RBI",
+      "option3": "NABARD",
+      "option4": "SIDBI",
+      "answer": "SEBI"
+    },
+    {
+      "question": "Which instrument represents ownership in a company?",
+      "option1": "Equity share",
+      "option2": "Bond",
+      "option3": "Loan",
+      "option4": "Treasury bill",
+      "answer": "Equity share"
+    },
+    {
+      "question": "Which instrument represents a debt obligation?",
+      "option1": "Bond",
+      "option2": "Equity share",
+      "option3": "Ordinary share",
+      "option4": "Preference only",
+      "answer": "Bond"
+    },
+    {
+      "question": "Which government securities have short maturities of less than one year?",
+      "option1": "Treasury Bills",
+      "option2": "Equity shares",
+      "option3": "Debentures",
+      "option4": "Preference shares",
+      "answer": "Treasury Bills"
+    },
+    {
+      "question": "Which body manages the monetary system and banking regulation in India?",
+      "option1": "Reserve Bank of India",
+      "option2": "SEBI",
+      "option3": "IRDAI",
+      "option4": "PFRDA",
+      "answer": "Reserve Bank of India"
+    },
+    {
+      "question": "Which bank is called the banker to the government?",
+      "option1": "Reserve Bank of India",
+      "option2": "State Bank of India",
+      "option3": "Punjab National Bank",
+      "option4": "Bank of Baroda",
+      "answer": "Reserve Bank of India"
+    },
+    {
+      "question": "Which bank is called the lender of last resort in India?",
+      "option1": "RBI",
+      "option2": "SBI",
+      "option3": "NABARD",
+      "option4": "SEBI",
+      "answer": "RBI"
+    },
+    {
+      "question": "What is the main objective of financial inclusion?",
+      "option1": "Access to affordable financial services",
+      "option2": "Increase luxury spending",
+      "option3": "Reduce banking services",
+      "option4": "Promote only foreign investment",
+      "answer": "Access to affordable financial services"
+    },
+    {
+      "question": "Which account is generally used for regular savings by individuals?",
+      "option1": "Savings account",
+      "option2": "Current account",
+      "option3": "Loan account",
+      "option4": "Demat account",
+      "answer": "Savings account"
+    },
+    {
+      "question": "Which account is mainly used by businesses for frequent transactions?",
+      "option1": "Current account",
+      "option2": "Savings account",
+      "option3": "Fixed deposit account",
+      "option4": "Recurring deposit account",
+      "answer": "Current account"
+    },
+    {
+      "question": "Which account allows deposits for a fixed period at a specified interest rate?",
+      "option1": "Fixed deposit",
+      "option2": "Current account",
+      "option3": "Savings account",
+      "option4": "Demat account",
+      "answer": "Fixed deposit"
+    },
+    {
+      "question": "Which account requires regular deposits at fixed intervals?",
+      "option1": "Recurring deposit",
+      "option2": "Current account",
+      "option3": "Demat account",
+      "option4": "Loan account",
+      "answer": "Recurring deposit"
+    },
+    {
+      "question": "What does ATM stand for?",
+      "option1": "Automated Teller Machine",
+      "option2": "Automatic Transfer Machine",
+      "option3": "Automated Transaction Method",
+      "option4": "Account Transfer Machine",
+      "answer": "Automated Teller Machine"
+    },
+    {
+      "question": "What does IFSC stand for?",
+      "option1": "Indian Financial System Code",
+      "option2": "Indian Finance Service Code",
+      "option3": "International Financial System Code",
+      "option4": "Indian Fund Settlement Code",
+      "answer": "Indian Financial System Code"
+    },
+    {
+      "question": "What does NEFT stand for?",
+      "option1": "National Electronic Funds Transfer",
+      "option2": "National Electronic Finance Transaction",
+      "option3": "National Exchange Fund Transfer",
+      "option4": "New Electronic Funds Transaction",
+      "answer": "National Electronic Funds Transfer"
+    },
+    {
+      "question": "What does RTGS stand for?",
+      "option1": "Real Time Gross Settlement",
+      "option2": "Real Transfer Government System",
+      "option3": "Rapid Transfer Gross Service",
+      "option4": "Reserve Transfer Government Settlement",
+      "answer": "Real Time Gross Settlement"
+    },
+    {
+      "question": "What does UPI stand for?",
+      "option1": "Unified Payments Interface",
+      "option2": "Universal Payment India",
+      "option3": "Unified Payment Institution",
+      "option4": "United Payments Interface",
+      "answer": "Unified Payments Interface"
+    },
+    {
+      "question": "Which institution operates the UPI system?",
+      "option1": "NPCI",
+      "option2": "RBI alone",
+      "option3": "SEBI",
+      "option4": "NABARD",
+      "answer": "NPCI"
+    },
+    {
+      "question": "What does NPCI stand for?",
+      "option1": "National Payments Corporation of India",
+      "option2": "National Payment Council of India",
+      "option3": "National Processing Corporation of India",
+      "option4": "National Public Currency Institution",
+      "answer": "National Payments Corporation of India"
+    },
+    {
+      "question": "Which digital payment system allows instant bank-to-bank transfers using mobile devices?",
+      "option1": "UPI",
+      "option2": "Cheque",
+      "option3": "Demand draft",
+      "option4": "Postal order",
+      "answer": "UPI"
+    },
+    {
+      "question": "Which document is commonly used as proof of identity and address in India?",
+      "option1": "Aadhaar",
+      "option2": "Library card",
+      "option3": "Bus ticket",
+      "option4": "Shopping receipt",
+      "answer": "Aadhaar"
+    },
+    {
+      "question": "Which authority issues Aadhaar numbers?",
+      "option1": "UIDAI",
+      "option2": "RBI",
+      "option3": "SEBI",
+      "option4": "Election Commission",
+      "answer": "UIDAI"
+    },
+    {
+      "question": "What does UIDAI stand for?",
+      "option1": "Unique Identification Authority of India",
+      "option2": "Universal Identification Authority of India",
+      "option3": "Unique Indian Digital Authority",
+      "option4": "Unified Identity Authority of India",
+      "answer": "Unique Identification Authority of India"
+    },
+    {
+      "question": "Which scheme aims to provide bank accounts to households?",
+      "option1": "Pradhan Mantri Jan Dhan Yojana",
+      "option2": "Swachh Bharat Mission",
+      "option3": "Make in India",
+      "option4": "Skill India",
+      "answer": "Pradhan Mantri Jan Dhan Yojana"
+    },
+    {
+      "question": "Which mission focuses on sanitation and cleanliness?",
+      "option1": "Swachh Bharat Mission",
+      "option2": "Digital India",
+      "option3": "Skill India",
+      "option4": "Startup India",
+      "answer": "Swachh Bharat Mission"
+    },
+    {
+      "question": "Which initiative promotes digital infrastructure and digital services?",
+      "option1": "Digital India",
+      "option2": "Make in India",
+      "option3": "Green India",
+      "option4": "Skill India",
+      "answer": "Digital India"
+    },
+    {
+      "question": "Which initiative focuses on developing manufacturing in India?",
+      "option1": "Make in India",
+      "option2": "Digital India",
+      "option3": "Skill India",
+      "option4": "Swachh Bharat",
+      "answer": "Make in India"
+    },
+    {
+      "question": "Which programme focuses on improving employability through training?",
+      "option1": "Skill India",
+      "option2": "Digital India",
+      "option3": "Make in India",
+      "option4": "Smart Cities Mission",
+      "answer": "Skill India"
+    },
+    {
+      "question": "Which scheme aims to promote entrepreneurship and startups?",
+      "option1": "Startup India",
+      "option2": "Rythu Bandhu",
+      "option3": "Mission Kakatiya",
+      "option4": "Aasara",
+      "answer": "Startup India"
+    },
+    {
+      "question": "Which institution provides credit to micro and small enterprises under government-supported programmes?",
+      "option1": "SIDBI",
+      "option2": "SEBI",
+      "option3": "RBI only",
+      "option4": "Election Commission",
+      "answer": "SIDBI"
+    },
+    {
+      "question": "Which sector employs a large share of India's rural population?",
+      "option1": "Agriculture",
+      "option2": "Aviation",
+      "option3": "Information technology",
+      "option4": "Banking",
+      "answer": "Agriculture"
+    },
+    {
+      "question": "Which crop requires relatively high temperatures and rainfall?",
+      "option1": "Rice",
+      "option2": "Wheat",
+      "option3": "Barley",
+      "option4": "Gram",
+      "answer": "Rice"
+    },
+    {
+      "question": "Which crop is mainly a rabi crop in India?",
+      "option1": "Wheat",
+      "option2": "Rice",
+      "option3": "Cotton",
+      "option4": "Jute",
+      "answer": "Wheat"
+    },
+    {
+      "question": "Which crop is mainly a kharif crop?",
+      "option1": "Rice",
+      "option2": "Wheat",
+      "option3": "Gram",
+      "option4": "Mustard",
+      "answer": "Rice"
+    },
+    {
+      "question": "Which agricultural season begins with the southwest monsoon?",
+      "option1": "Kharif",
+      "option2": "Rabi",
+      "option3": "Zaid",
+      "option4": "Winter",
+      "answer": "Kharif"
+    },
+    {
+      "question": "Which agricultural season is mainly associated with winter cultivation?",
+      "option1": "Rabi",
+      "option2": "Kharif",
+      "option3": "Zaid",
+      "option4": "Monsoon",
+      "answer": "Rabi"
+    },
+    {
+      "question": "Which crop is a major oilseed?",
+      "option1": "Groundnut",
+      "option2": "Rice",
+      "option3": "Wheat",
+      "option4": "Sugarcane",
+      "answer": "Groundnut"
+    },
+    {
+      "question": "Which crop is used extensively for sugar production?",
+      "option1": "Sugarcane",
+      "option2": "Cotton",
+      "option3": "Jute",
+      "option4": "Tobacco",
+      "answer": "Sugarcane"
+    },
+    {
+      "question": "Which crop is a major fibre crop?",
+      "option1": "Cotton",
+      "option2": "Rice",
+      "option3": "Wheat",
+      "option4": "Pulses",
+      "answer": "Cotton"
+    },
+    {
+      "question": "Which farming method conserves soil by reducing erosion on slopes?",
+      "option1": "Contour farming",
+      "option2": "Shifting cultivation",
+      "option3": "Slash and burn",
+      "option4": "Overgrazing",
+      "answer": "Contour farming"
+    },
+    {
+      "question": "Which irrigation method supplies water directly near plant roots?",
+      "option1": "Drip irrigation",
+      "option2": "Flood irrigation",
+      "option3": "Canal flooding",
+      "option4": "Tank overflow",
+      "answer": "Drip irrigation"
+    },
+    {
+      "question": "Which irrigation method uses rotating sprinklers?",
+      "option1": "Sprinkler irrigation",
+      "option2": "Drip irrigation",
+      "option3": "Flood irrigation",
+      "option4": "Tank irrigation",
+      "answer": "Sprinkler irrigation"
+    },
+    {
+      "question": "Which resource is considered renewable?",
+      "option1": "Solar energy",
+      "option2": "Coal",
+      "option3": "Petroleum",
+      "option4": "Natural gas",
+      "answer": "Solar energy"
+    },
+    {
+      "question": "Which of the following is a non-renewable resource?",
+      "option1": "Coal",
+      "option2": "Solar energy",
+      "option3": "Wind energy",
+      "option4": "Tidal energy",
+      "answer": "Coal"
+    },
+    {
+      "question": "Which energy source uses moving air?",
+      "option1": "Wind energy",
+      "option2": "Solar energy",
+      "option3": "Geothermal energy",
+      "option4": "Nuclear energy",
+      "answer": "Wind energy"
+    },
+    {
+      "question": "Which energy source uses heat from inside Earth?",
+      "option1": "Geothermal energy",
+      "option2": "Wind energy",
+      "option3": "Solar energy",
+      "option4": "Hydropower",
+      "answer": "Geothermal energy"
+    },
+    {
+      "question": "Which energy source is generated from flowing water?",
+      "option1": "Hydroelectric power",
+      "option2": "Solar power",
+      "option3": "Wind power",
+      "option4": "Thermal power",
+      "answer": "Hydroelectric power"
+    },
+    {
+      "question": "Which gas is a major component of natural gas?",
+      "option1": "Methane",
+      "option2": "Oxygen",
+      "option3": "Nitrogen",
+      "option4": "Hydrogen",
+      "answer": "Methane"
+    },
+    {
+      "question": "Which fuel is formed from ancient organic matter over millions of years?",
+      "option1": "Coal",
+      "option2": "Solar energy",
+      "option3": "Wind energy",
+      "option4": "Hydropower",
+      "answer": "Coal"
+    },
+    {
+      "question": "Which pollution is mainly caused by excessive vehicle emissions?",
+      "option1": "Air pollution",
+      "option2": "Water pollution",
+      "option3": "Soil pollution",
+      "option4": "Thermal pollution",
+      "answer": "Air pollution"
+    },
+    {
+      "question": "Which gas is a major contributor to acid rain?",
+      "option1": "Sulphur dioxide",
+      "option2": "Oxygen",
+      "option3": "Hydrogen",
+      "option4": "Helium",
+      "answer": "Sulphur dioxide"
+    },
+    {
+      "question": "Which environmental problem is caused by excessive accumulation of greenhouse gases?",
+      "option1": "Global warming",
+      "option2": "Soil erosion",
+      "option3": "Acid deposition only",
+      "option4": "Waterlogging",
+      "answer": "Global warming"
+    },
+    {
+      "question": "Which international agreement aimed to reduce greenhouse gas emissions?",
+      "option1": "Paris Agreement",
+      "option2": "Shimla Agreement",
+      "option3": "Tashkent Agreement",
+      "option4": "Panchsheel Agreement",
+      "answer": "Paris Agreement"
+    },
+    {
+      "question": "Which international protocol focused on substances that deplete the ozone layer?",
+      "option1": "Montreal Protocol",
+      "option2": "Kyoto Protocol",
+      "option3": "Geneva Protocol",
+      "option4": "Delhi Protocol",
+      "answer": "Montreal Protocol"
+    },
+    {
+      "question": "Which gas causes ozone depletion through CFC-related reactions?",
+      "option1": "Chlorine compounds",
+      "option2": "Oxygen",
+      "option3": "Nitrogen",
+      "option4": "Hydrogen",
+      "answer": "Chlorine compounds"
+    },
+    {
+      "question": "Which biodiversity level refers to differences among species?",
+      "option1": "Species diversity",
+      "option2": "Genetic diversity",
+      "option3": "Ecosystem diversity",
+      "option4": "Cultural diversity",
+      "answer": "Species diversity"
+    },
+    {
+      "question": "Which ecosystem includes organisms interacting with their physical environment?",
+      "option1": "Ecosystem",
+      "option2": "Population",
+      "option3": "Community",
+      "option4": "Species",
+      "answer": "Ecosystem"
+    },
+    {
+      "question": "Which organisms are primary producers in most ecosystems?",
+      "option1": "Green plants",
+      "option2": "Carnivores",
+      "option3": "Herbivores",
+      "option4": "Decomposers",
+      "answer": "Green plants"
+    },
+    {
+      "question": "Which organisms break down dead organic matter?",
+      "option1": "Decomposers",
+      "option2": "Producers",
+      "option3": "Herbivores",
+      "option4": "Carnivores",
+      "answer": "Decomposers"
+    },
+    {
+      "question": "Which organisms feed directly on plants?",
+      "option1": "Herbivores",
+      "option2": "Carnivores",
+      "option3": "Decomposers",
+      "option4": "Omnivores only",
+      "answer": "Herbivores"
+    },
+    {
+      "question": "Which type of consumer eats both plants and animals?",
+      "option1": "Omnivore",
+      "option2": "Herbivore",
+      "option3": "Carnivore",
+      "option4": "Producer",
+      "answer": "Omnivore"
+    },
+    {
+      "question": "Which part of the Constitution deals with Union and its territory?",
+      "option1": "Part I",
+      "option2": "Part II",
+      "option3": "Part III",
+      "option4": "Part IV",
+      "answer": "Part I"
+    },
+    {
+      "question": "Which article describes India as a Union of States?",
+      "option1": "Article 1",
+      "option2": "Article 2",
+      "option3": "Article 3",
+      "option4": "Article 4",
+      "answer": "Article 1"
+    },
+    {
+      "question": "Which article deals with formation of new states and alteration of areas?",
+      "option1": "Article 2",
+      "option2": "Article 3",
+      "option3": "Article 4",
+      "option4": "Article 5",
+      "answer": "Article 3"
+    },
+    {
+      "question": "Which authority has the power to alter state boundaries through legislation?",
+      "option1": "Parliament",
+      "option2": "Supreme Court",
+      "option3": "Election Commission",
+      "option4": "President alone",
+      "answer": "Parliament"
+    },
+    {
+      "question": "Which schedule distributes legislative subjects between Union and states?",
+      "option1": "Seventh Schedule",
+      "option2": "Eighth Schedule",
+      "option3": "Ninth Schedule",
+      "option4": "Tenth Schedule",
+      "answer": "Seventh Schedule"
+    },
+    {
+      "question": "How many lists are contained in the Seventh Schedule?",
+      "option1": "Two",
+      "option2": "Three",
+      "option3": "Four",
+      "option4": "Five",
+      "answer": "Three"
+    },
+    {
+      "question": "Which list contains subjects on which only Parliament normally legislates?",
+      "option1": "Union List",
+      "option2": "State List",
+      "option3": "Concurrent List",
+      "option4": "Local List",
+      "answer": "Union List"
+    },
+    {
+      "question": "Which list contains subjects on which both Parliament and state legislatures can legislate?",
+      "option1": "Union List",
+      "option2": "State List",
+      "option3": "Concurrent List",
+      "option4": "Local List",
+      "answer": "Concurrent List"
+    },
+    {
+      "question": "Which list mainly contains subjects of state importance?",
+      "option1": "Union List",
+      "option2": "State List",
+      "option3": "Concurrent List",
+      "option4": "Residuary List",
+      "answer": "State List"
+    },
+    {
+      "question": "Who has residuary legislative powers in India?",
+      "option1": "Parliament",
+      "option2": "State Legislatures",
+      "option3": "Supreme Court",
+      "option4": "President alone",
+      "answer": "Parliament"
+    },
+    {
+      "question": "Which constitutional feature describes India as a sovereign republic?",
+      "option1": "Preamble",
+      "option2": "Fundamental Duties",
+      "option3": "Seventh Schedule",
+      "option4": "Emergency provisions",
+      "answer": "Preamble"
+    },
+    {
+      "question": "Which word was added to the Preamble by the 42nd Amendment?",
+      "option1": "Socialist",
+      "option2": "Federal",
+      "option3": "Parliamentary",
+      "option4": "Judicial",
+      "answer": "Socialist"
+    },
+    {
+      "question": "Which other word was added to the Preamble by the 42nd Amendment?",
+      "option1": "Secular",
+      "option2": "Federal",
+      "option3": "Democratic",
+      "option4": "Republic",
+      "answer": "Secular"
+    },
+    {
+      "question": "Which term in the Preamble expresses political equality?",
+      "option1": "Justice",
+      "option2": "Liberty",
+      "option3": "Equality",
+      "option4": "Fraternity",
+      "answer": "Equality"
+    },
+    {
+      "question": "Which term in the Preamble refers to national unity and brotherhood?",
+      "option1": "Fraternity",
+      "option2": "Liberty",
+      "option3": "Justice",
+      "option4": "Equality",
+      "answer": "Fraternity"
+    },
+    {
+      "question": "Which institution interprets the Constitution?",
+      "option1": "Judiciary",
+      "option2": "Executive",
+      "option3": "Election Commission",
+      "option4": "Finance Commission",
+      "answer": "Judiciary"
+    },
+    {
+      "question": "What is judicial review?",
+      "option1": "Power of courts to examine constitutionality of laws",
+      "option2": "Power of Parliament to appoint judges",
+      "option3": "Power of government to remove laws",
+      "option4": "Power of Election Commission to review elections",
+      "answer": "Power of courts to examine constitutionality of laws"
+    },
+    {
+      "question": "Which principle ensures that government powers are divided among different organs?",
+      "option1": "Separation of powers",
+      "option2": "Universal suffrage",
+      "option3": "Judicial activism",
+      "option4": "Collective responsibility",
+      "answer": "Separation of powers"
+    },
+    {
+      "question": "Which are the three main organs of government?",
+      "option1": "Legislature, Executive and Judiciary",
+      "option2": "President, Governor and Mayor",
+      "option3": "Parliament, Police and Army",
+      "option4": "Cabinet, Courts and Banks",
+      "answer": "Legislature, Executive and Judiciary"
+    },
+    {
+      "question": "Who is the nominal executive at the Union level?",
+      "option1": "President",
+      "option2": "Prime Minister",
+      "option3": "Chief Justice",
+      "option4": "Speaker",
+      "answer": "President"
+    },
+    {
+      "question": "Who heads the Union Council of Ministers?",
+      "option1": "Prime Minister",
+      "option2": "President",
+      "option3": "Vice-President",
+      "option4": "Home Minister",
+      "answer": "Prime Minister"
+    },
+    {
+      "question": "Who is the constitutional head of Telangana?",
+      "option1": "Governor",
+      "option2": "Chief Minister",
+      "option3": "Chief Secretary",
+      "option4": "Speaker",
+      "answer": "Governor"
+    },
+    {
+      "question": "Who heads the Telangana Council of Ministers?",
+      "option1": "Chief Minister",
+      "option2": "Governor",
+      "option3": "Speaker",
+      "option4": "Chief Secretary",
+      "answer": "Chief Minister"
+    },
+    {
+      "question": "Which body is responsible for making laws for Telangana?",
+      "option1": "Telangana Legislature",
+      "option2": "Telangana High Court",
+      "option3": "TGPSC",
+      "option4": "State Election Commission",
+      "answer": "Telangana Legislature"
+    },
+    {
+      "question": "Which institution implements laws and government policies?",
+      "option1": "Executive",
+      "option2": "Judiciary",
+      "option3": "Legislature",
+      "option4": "Election Commission",
+      "answer": "Executive"
+    },
+    {
+      "question": "Which institution resolves disputes and interprets laws?",
+      "option1": "Judiciary",
+      "option2": "Executive",
+      "option3": "Legislature",
+      "option4": "Finance Commission",
+      "answer": "Judiciary"
+    },
+    {
+      "question": "Which institution makes laws?",
+      "option1": "Legislature",
+      "option2": "Judiciary",
+      "option3": "Executive",
+      "option4": "Election Commission",
+      "answer": "Legislature"
+    },
+    {
+      "question": "Which constitutional body protects the independence of elections?",
+      "option1": "Election Commission of India",
+      "option2": "Finance Commission",
+      "option3": "UPSC",
+      "option4": "CAG",
+      "answer": "Election Commission of India"
+    },
+    {
+      "question": "Which body audits public expenditure?",
+      "option1": "CAG",
+      "option2": "RBI",
+      "option3": "SEBI",
+      "option4": "UPSC",
+      "answer": "CAG"
+    },
+    {
+      "question": "Which constitutional body conducts recruitment examinations for central government services?",
+      "option1": "UPSC",
+      "option2": "Election Commission",
+      "option3": "Finance Commission",
+      "option4": "CAG",
+      "answer": "UPSC"
+    },
+    {
+      "question": "Which body recommends principles for sharing financial resources between Centre and states?",
+      "option1": "Finance Commission",
+      "option2": "Election Commission",
+      "option3": "UPSC",
+      "option4": "NITI Aayog",
+      "answer": "Finance Commission"
+    },
+    {
+      "question": "Which institution promotes cooperative federalism through policy coordination?",
+      "option1": "NITI Aayog",
+      "option2": "Election Commission",
+      "option3": "Supreme Court",
+      "option4": "CAG",
+      "answer": "NITI Aayog"
+    }
+  ]
+}

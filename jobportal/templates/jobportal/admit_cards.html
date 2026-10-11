@@ -1,43 +1,372 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Admit Cards</title>
-</head>
-<body>
+{% extends "jobportal/base.html" %}
 
-<h1>Latest Admit Cards</h1>
+{% block title %}Admit Cards - GovtJobs{% endblock %}
 
-<hr>
+{% block content %}
 
-<div>
-    <h2>SSC CGL Admit Card</h2>
-    <p>Download SSC CGL Admit Card 2026</p>
-    <a href="https://ssc.gov.in/" target="_blank">
-        Download Admit Card
-    </a>
+<div class="container py-4">
+
+    <!-- Page Header -->
+    <div class="text-center mb-4">
+        <h1 class="fw-bold">Admit Cards</h1>
+        <p class="text-muted">
+            Download government exam admit cards and hall tickets
+        </p>
+    </div>
+
+
+    <!-- Search & Filters -->
+    <div class="card shadow-sm mb-4">
+        <div class="card-body">
+
+            <form method="get">
+
+                <div class="row g-3">
+
+                    <!-- Search -->
+                    <div class="col-md-4">
+                        <label class="form-label fw-bold">
+                            Search Exam
+                        </label>
+
+                        <input
+                            type="text"
+                            name="search"
+                            value="{{ search }}"
+                            class="form-control"
+                            placeholder="Search exam, organization..."
+                        >
+                    </div>
+
+
+                    <!-- Category -->
+                    <div class="col-md-3">
+                        <label class="form-label fw-bold">
+                            Category
+                        </label>
+
+                        <select name="category" class="form-select">
+
+                            <option value="">
+                                All Categories
+                            </option>
+
+                            <option value="Central"
+                                {% if selected_category == "Central" %}
+                                    selected
+                                {% endif %}>
+                                Central Government
+                            </option>
+
+                            <option value="Telangana"
+                                {% if selected_category == "Telangana" %}
+                                    selected
+                                {% endif %}>
+                                Telangana Government
+                            </option>
+
+                            <option value="Other"
+                                {% if selected_category == "Other" %}
+                                    selected
+                                {% endif %}>
+                                Other
+                            </option>
+
+                        </select>
+                    </div>
+
+
+                    <!-- Status -->
+                    <div class="col-md-2">
+                        <label class="form-label fw-bold">
+                            Status
+                        </label>
+
+                        <select name="status" class="form-select">
+
+                            <option value="">
+                                All Status
+                            </option>
+
+                            <option value="Available"
+                                {% if selected_status == "Available" %}
+                                    selected
+                                {% endif %}>
+                                Available
+                            </option>
+
+                            <option value="Coming Soon"
+                                {% if selected_status == "Coming Soon" %}
+                                    selected
+                                {% endif %}>
+                                Coming Soon
+                            </option>
+
+                            <option value="Closed"
+                                {% if selected_status == "Closed" %}
+                                    selected
+                                {% endif %}>
+                                Closed
+                            </option>
+
+                        </select>
+                    </div>
+
+
+                    <!-- Year -->
+                    <div class="col-md-2">
+                        <label class="form-label fw-bold">
+                            Year
+                        </label>
+
+                        <select name="year" class="form-select">
+
+                            <option value="">
+                                All Years
+                            </option>
+
+                            {% for y in years %}
+
+                                <option value="{{ y }}"
+                                    {% if selected_year == y|stringformat:"s" %}
+                                        selected
+                                    {% endif %}>
+                                    {{ y }}
+                                </option>
+
+                            {% endfor %}
+
+                        </select>
+                    </div>
+
+
+                    <!-- Search Button -->
+                    <div class="col-md-1 d-flex align-items-end">
+
+                        <button
+                            type="submit"
+                            class="btn btn-primary w-100"
+                            title="Search">
+
+                            <i class="fas fa-search"></i>
+
+                        </button>
+
+                    </div>
+
+                </div>
+
+            </form>
+
+        </div>
+    </div>
+
+
+    <!-- Admit Cards -->
+    <div class="row g-4">
+
+        {% for card in admit_cards %}
+
+        <div class="col-lg-4 col-md-6">
+
+            <div class="card h-100 shadow-sm border-0">
+
+                <div class="card-body d-flex flex-column">
+
+                    <!-- Exam Name -->
+                    <h4 class="card-title fw-bold">
+                        {{ card.exam_name }}
+                    </h4>
+
+
+                    <!-- Title -->
+                    {% if card.title %}
+                        <p class="text-primary fw-semibold mb-2">
+                            {{ card.title }}
+                        </p>
+                    {% endif %}
+
+
+                    <!-- Organization -->
+                    {% if card.organization %}
+                        <p class="mb-2">
+                            <strong>Organization:</strong>
+                            {{ card.organization }}
+                        </p>
+                    {% endif %}
+
+
+                    <!-- Category -->
+                    <p class="mb-2">
+                        <strong>Category:</strong>
+
+                        {% if card.category == "Central" %}
+
+                            <span class="badge bg-primary">
+                                Central Government
+                            </span>
+
+                        {% elif card.category == "Telangana" %}
+
+                            <span class="badge bg-success">
+                                Telangana Government
+                            </span>
+
+                        {% else %}
+
+                            <span class="badge bg-secondary">
+                                Other
+                            </span>
+
+                        {% endif %}
+
+                    </p>
+
+
+                    <!-- Year -->
+                    {% if card.year %}
+                        <p class="mb-2">
+                            <strong>Year:</strong>
+                            {{ card.year }}
+                        </p>
+                    {% endif %}
+
+
+                    <!-- Release Date -->
+                    {% if card.release_date %}
+                        <p class="mb-2">
+                            <strong>Release Date:</strong>
+                            {{ card.release_date|date:"d M Y" }}
+                        </p>
+                    {% endif %}
+
+
+                    <!-- Exam Date -->
+                    {% if card.exam_date %}
+                        <p class="mb-2">
+                            <strong>Exam Date:</strong>
+                            {{ card.exam_date|date:"d M Y" }}
+                        </p>
+                    {% endif %}
+
+
+                    <!-- Shift -->
+                    {% if card.shift %}
+                        <p class="mb-2">
+                            <strong>Shift:</strong>
+                            {{ card.shift }}
+                        </p>
+                    {% endif %}
+
+
+                    <!-- Status -->
+                    <p class="mb-2">
+
+                        <strong>Status:</strong>
+
+                        {% if card.status == "Available" %}
+
+                            <span class="badge bg-success">
+                                Available
+                            </span>
+
+                        {% elif card.status == "Coming Soon" %}
+
+                            <span class="badge bg-warning text-dark">
+                                Coming Soon
+                            </span>
+
+                        {% else %}
+
+                            <span class="badge bg-secondary">
+                                Closed
+                            </span>
+
+                        {% endif %}
+
+                    </p>
+
+
+                    <!-- Notes -->
+                    {% if card.notes %}
+
+                        <div class="alert alert-light border mt-2">
+                            <strong>Note:</strong>
+                            {{ card.notes }}
+                        </div>
+
+                    {% endif %}
+
+
+                    <!-- Buttons -->
+                    <div class="mt-auto pt-3">
+
+                        {% if card.admit_card_url %}
+
+                            <a
+                                href="{{ card.admit_card_url }}"
+                                download
+                                class="btn btn-success w-100 mb-2">
+
+                                <i class="fas fa-download me-1"></i>
+                                Download Admit Card
+
+                            </a>
+
+                        {% endif %}
+
+
+                        {% if card.official_link %}
+
+                            <a
+                                href="{{ card.official_link }}"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                class="btn btn-outline-primary w-100">
+
+                                <i class="fas fa-globe me-1"></i>
+                                Official Website
+
+                            </a>
+
+                        {% endif %}
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        {% empty %}
+
+        <!-- No Results -->
+
+        <div class="col-12">
+
+            <div class="text-center py-5">
+
+                <i
+                    class="fas fa-file-circle-xmark fa-3x text-muted mb-3">
+                </i>
+
+                <h3>
+                    No Admit Cards Found
+                </h3>
+
+                <p class="text-muted">
+                    Try changing your search or filters.
+                </p>
+
+            </div>
+
+        </div>
+
+        {% endfor %}
+
+    </div>
+
 </div>
 
-<hr>
-
-<div>
-    <h2>TGPSC Group 1 Hall Ticket</h2>
-    <p>Download TGPSC Group 1 Hall Ticket</p>
-    <a href="https://www.tspsc.gov.in/" target="_blank">
-        Download Hall Ticket
-    </a>
-</div>
-
-<hr>
-
-<div>
-    <h2>Railway Group D Admit Card</h2>
-    <p>Download Railway Group D Admit Card</p>
-    <a href="https://www.rrbcdg.gov.in/" target="_blank">
-        Download Admit Card
-    </a>
-</div>
-
-</body>
-</html>
+{% endblock %}

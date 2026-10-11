@@ -1,0 +1,1605 @@
+{
+  "exam": "SBI PO",
+  "questions": [
+    {
+      "question": "What is the primary objective of credit appraisal in a bank?",
+      "option1": "To increase cash withdrawals",
+      "option2": "To assess the borrower's creditworthiness and repayment capacity",
+      "option3": "To reduce deposits",
+      "option4": "To issue debit cards",
+      "answer": "To assess the borrower's creditworthiness and repayment capacity"
+    },
+    {
+      "question": "Which ratio is commonly used to measure a bank's ability to meet short-term obligations?",
+      "option1": "Liquidity ratio",
+      "option2": "Debt-equity ratio",
+      "option3": "Inventory turnover ratio",
+      "option4": "Gross profit ratio",
+      "answer": "Liquidity ratio"
+    },
+    {
+      "question": "What does ALM stand for in banking?",
+      "option1": "Asset Liability Management",
+      "option2": "Annual Loan Management",
+      "option3": "Asset Lending Mechanism",
+      "option4": "Annual Liability Measure",
+      "answer": "Asset Liability Management"
+    },
+    {
+      "question": "Which of the following is an example of a secured loan?",
+      "option1": "Personal loan",
+      "option2": "Credit card loan",
+      "option3": "Home loan backed by property",
+      "option4": "Unsecured consumer loan",
+      "answer": "Home loan backed by property"
+    },
+    {
+      "question": "What is meant by loan restructuring?",
+      "option1": "Closing all bank accounts",
+      "option2": "Changing loan terms to help manage repayment difficulties",
+      "option3": "Increasing bank branches",
+      "option4": "Converting savings accounts into current accounts",
+      "answer": "Changing loan terms to help manage repayment difficulties"
+    },
+    {
+      "question": "Which document generally contains details of a company's financial position at a particular point in time?",
+      "option1": "Balance sheet",
+      "option2": "Cash memo",
+      "option3": "Invoice",
+      "option4": "Cheque book",
+      "answer": "Balance sheet"
+    },
+    {
+      "question": "What is the main purpose of provisioning for bad loans?",
+      "option1": "To increase customer deposits",
+      "option2": "To provide for expected losses from loans",
+      "option3": "To reduce employee salaries",
+      "option4": "To increase ATM limits",
+      "answer": "To provide for expected losses from loans"
+    },
+    {
+      "question": "Which institution is primarily associated with regulating the securities market in India?",
+      "option1": "RBI",
+      "option2": "SEBI",
+      "option3": "NABARD",
+      "option4": "SIDBI",
+      "answer": "SEBI"
+    },
+    {
+      "question": "What does the term 'bank run' refer to?",
+      "option1": "Rapid opening of bank branches",
+      "option2": "A situation where many depositors withdraw funds simultaneously",
+      "option3": "Daily bank reconciliation",
+      "option4": "Movement of employees between branches",
+      "answer": "A situation where many depositors withdraw funds simultaneously"
+    },
+    {
+      "question": "Which banking function involves converting deposits into loans and advances?",
+      "option1": "Financial intermediation",
+      "option2": "Currency printing",
+      "option3": "Stock underwriting",
+      "option4": "Tax collection",
+      "answer": "Financial intermediation"
+    },
+    {
+      "question": "A sum of ₹8,000 is invested at 10% simple interest per annum for 2 years. What is the interest?",
+      "option1": "₹800",
+      "option2": "₹1,200",
+      "option3": "₹1,600",
+      "option4": "₹2,000",
+      "answer": "₹1,600"
+    },
+    {
+      "question": "If the ratio of two numbers is 3:5 and their sum is 64, what is the smaller number?",
+      "option1": "18",
+      "option2": "24",
+      "option3": "30",
+      "option4": "40",
+      "answer": "24"
+    },
+    {
+      "question": "A train travels 240 km in 4 hours. What is its average speed?",
+      "option1": "50 km/h",
+      "option2": "55 km/h",
+      "option3": "60 km/h",
+      "option4": "65 km/h",
+      "answer": "60 km/h"
+    },
+    {
+      "question": "The average of 18, 24, 30, 36 and 42 is:",
+      "option1": "28",
+      "option2": "30",
+      "option3": "32",
+      "option4": "34",
+      "answer": "30"
+    },
+    {
+      "question": "A shopkeeper buys an article for ₹500 and sells it for ₹575. What is the profit percentage?",
+      "option1": "10%",
+      "option2": "12%",
+      "option3": "15%",
+      "option4": "20%",
+      "answer": "15%"
+    },
+    {
+      "question": "If 12 workers complete a task in 15 days, how many days will 20 workers take, assuming equal efficiency?",
+      "option1": "7 days",
+      "option2": "8 days",
+      "option3": "9 days",
+      "option4": "10 days",
+      "answer": "9 days"
+    },
+    {
+      "question": "Find the next number: 3, 8, 15, 24, 35, ?",
+      "option1": "46",
+      "option2": "48",
+      "option3": "50",
+      "option4": "52",
+      "answer": "48"
+    },
+    {
+      "question": "If BANK is coded as CBOL, how is LOAN coded using the same pattern?",
+      "option1": "MPBO",
+      "option2": "MNBO",
+      "option3": "LPZM",
+      "option4": "NQCP",
+      "answer": "MPBO"
+    },
+    {
+      "question": "Statements: All managers are officers. Some officers are graduates. Which conclusion definitely follows?",
+      "option1": "All graduates are managers",
+      "option2": "Some managers are graduates",
+      "option3": "All managers are officers",
+      "option4": "No officer is a manager",
+      "answer": "All managers are officers"
+    },
+    {
+      "question": "A person walks 5 km north, then turns right and walks 3 km. In which direction is the person from the starting point?",
+      "option1": "North-West",
+      "option2": "North-East",
+      "option3": "South-East",
+      "option4": "South-West",
+      "answer": "North-East"
+    },
+    {
+      "question": "Choose the word closest in meaning to 'Prudent'.",
+      "option1": "Careless",
+      "option2": "Wise",
+      "option3": "Angry",
+      "option4": "Rapid",
+      "answer": "Wise"
+    },
+    {
+      "question": "Choose the correctly spelled word.",
+      "option1": "Accomodation",
+      "option2": "Acommodation",
+      "option3": "Accommodation",
+      "option4": "Accommadation",
+      "answer": "Accommodation"
+    },
+    {
+      "question": "Choose the correct sentence.",
+      "option1": "She have completed the work.",
+      "option2": "She has completed the work.",
+      "option3": "She having completed the work.",
+      "option4": "She complete the work yesterday.",
+      "answer": "She has completed the work."
+    },
+    {
+      "question": "Which term describes the process of spreading investments across different assets to reduce risk?",
+      "option1": "Diversification",
+      "option2": "Capitalization",
+      "option3": "Speculation",
+      "option4": "Leverage",
+      "answer": "Diversification"
+    },
+    {
+      "question": "What is the main function of a credit rating agency?",
+      "option1": "To issue currency",
+      "option2": "To assess the creditworthiness of borrowers or debt instruments",
+      "option3": "To collect income tax",
+      "option4": "To regulate banks directly",
+      "answer": "To assess the creditworthiness of borrowers or debt instruments"
+    },
+     {
+      "question": "What is the primary purpose of a bank's cash reserve?",
+      "option1": "To meet withdrawal demands and maintain liquidity",
+      "option2": "To increase loan interest rates",
+      "option3": "To purchase shares",
+      "option4": "To reduce deposits",
+      "answer": "To meet withdrawal demands and maintain liquidity"
+    },
+    {
+      "question": "Which of the following is considered a contingent liability of a bank?",
+      "option1": "Cash in hand",
+      "option2": "Bank guarantee",
+      "option3": "Customer deposits",
+      "option4": "Government securities",
+      "answer": "Bank guarantee"
+    },
+    {
+      "question": "What is a bank's net interest margin primarily based on?",
+      "option1": "Difference between interest earned and interest paid relative to earning assets",
+      "option2": "Total number of branches",
+      "option3": "Number of employees",
+      "option4": "Value of physical assets",
+      "answer": "Difference between interest earned and interest paid relative to earning assets"
+    },
+    {
+      "question": "What does 'haircut' mean in the context of collateral?",
+      "option1": "Reduction in the value assigned to collateral",
+      "option2": "Increase in loan tenure",
+      "option3": "Reduction in interest rate",
+      "option4": "Increase in deposit value",
+      "answer": "Reduction in the value assigned to collateral"
+    },
+    {
+      "question": "Which banking activity involves checking a customer's identity and address?",
+      "option1": "KYC verification",
+      "option2": "Asset securitization",
+      "option3": "Loan syndication",
+      "option4": "Treasury management",
+      "answer": "KYC verification"
+    },
+    {
+      "question": "What is loan syndication?",
+      "option1": "A loan provided by multiple lenders to a borrower",
+      "option2": "A loan given without documentation",
+      "option3": "A loan only for bank employees",
+      "option4": "A deposit scheme",
+      "answer": "A loan provided by multiple lenders to a borrower"
+    },
+    {
+      "question": "Which of the following is a market risk?",
+      "option1": "Interest rate risk",
+      "option2": "Employee absenteeism",
+      "option3": "Data entry error",
+      "option4": "Branch maintenance cost",
+      "answer": "Interest rate risk"
+    },
+    {
+      "question": "What is operational risk in banking?",
+      "option1": "Risk arising from inadequate processes, people, systems or external events",
+      "option2": "Risk caused only by inflation",
+      "option3": "Risk caused only by exchange rates",
+      "option4": "Risk associated only with stock prices",
+      "answer": "Risk arising from inadequate processes, people, systems or external events"
+    },
+    {
+      "question": "Which Basel framework is associated with stronger capital and liquidity standards after the global financial crisis?",
+      "option1": "Basel I",
+      "option2": "Basel II",
+      "option3": "Basel III",
+      "option4": "Basel 0",
+      "answer": "Basel III"
+    },
+    {
+      "question": "What does CAR stand for in banking?",
+      "option1": "Capital Adequacy Ratio",
+      "option2": "Cash Allocation Rate",
+      "option3": "Credit Account Reserve",
+      "option4": "Capital Asset Return",
+      "answer": "Capital Adequacy Ratio"
+    },
+    {
+      "question": "A principal amount of ₹12,000 earns simple interest of ₹2,400 in 2 years. What is the annual rate of interest?",
+      "option1": "8%",
+      "option2": "10%",
+      "option3": "12%",
+      "option4": "15%",
+      "answer": "10%"
+    },
+    {
+      "question": "A number is increased by 20% and becomes 360. What was the original number?",
+      "option1": "280",
+      "option2": "300",
+      "option3": "320",
+      "option4": "340",
+      "answer": "300"
+    },
+    {
+      "question": "A can complete a job in 12 days and B can complete it in 18 days. How many days will they take together?",
+      "option1": "6 days",
+      "option2": "7.2 days",
+      "option3": "8 days",
+      "option4": "9 days",
+      "answer": "7.2 days"
+    },
+    {
+      "question": "The ratio of boys to girls in a class is 5:3. If there are 40 boys, how many girls are there?",
+      "option1": "20",
+      "option2": "24",
+      "option3": "28",
+      "option4": "32",
+      "answer": "24"
+    },
+    {
+      "question": "A product marked at ₹2,000 is sold after a 15% discount. What is the selling price?",
+      "option1": "₹1,600",
+      "option2": "₹1,650",
+      "option3": "₹1,700",
+      "option4": "₹1,750",
+      "answer": "₹1,700"
+    },
+    {
+      "question": "If 40% of a number is 96, what is the number?",
+      "option1": "200",
+      "option2": "220",
+      "option3": "240",
+      "option4": "260",
+      "answer": "240"
+    },
+    {
+      "question": "Find the missing number: 5, 11, 23, 47, 95, ?",
+      "option1": "189",
+      "option2": "190",
+      "option3": "191",
+      "option4": "193",
+      "answer": "191"
+    },
+    {
+      "question": "If 'MANGO' is coded as 'NBOHP', how is 'APPLE' coded using the same pattern?",
+      "option1": "BQQMF",
+      "option2": "BPPMF",
+      "option3": "CQQNG",
+      "option4": "AQPLE",
+      "answer": "BQQMF"
+    },
+    {
+      "question": "In a row of students, Ravi is 12th from the left and 18th from the right. How many students are there in the row?",
+      "option1": "28",
+      "option2": "29",
+      "option3": "30",
+      "option4": "31",
+      "answer": "29"
+    },
+    {
+      "question": "If all pens are books and some books are papers, which statement is definitely true?",
+      "option1": "All papers are pens",
+      "option2": "Some pens are papers",
+      "option3": "All pens are books",
+      "option4": "No books are papers",
+      "answer": "All pens are books"
+    },
+    {
+      "question": "Choose the word opposite in meaning to 'Transparent'.",
+      "option1": "Clear",
+      "option2": "Visible",
+      "option3": "Opaque",
+      "option4": "Bright",
+      "answer": "Opaque"
+    },
+    {
+      "question": "Choose the correct meaning of the idiom 'At the eleventh hour'.",
+      "option1": "Very early",
+      "option2": "At the last moment",
+      "option3": "Every morning",
+      "option4": "After midnight",
+      "answer": "At the last moment"
+    },
+    {
+      "question": "Identify the correctly spelled word.",
+      "option1": "Entreprenuer",
+      "option2": "Entrepreneur",
+      "option3": "Enterpreneur",
+      "option4": "Entrepreneaur",
+      "answer": "Entrepreneur"
+    },
+    {
+      "question": "Choose the correct passive voice: 'The manager approved the loan.'",
+      "option1": "The loan approved the manager.",
+      "option2": "The loan was approved by the manager.",
+      "option3": "The manager was approved by the loan.",
+      "option4": "The loan is approving the manager.",
+      "answer": "The loan was approved by the manager."
+    },
+    {
+      "question": "What is the primary objective of financial inclusion?",
+      "option1": "To provide affordable financial services to underserved sections",
+      "option2": "To increase luxury banking services",
+      "option3": "To reduce the number of bank accounts",
+      "option4": "To eliminate digital payments",
+      "answer": "To provide affordable financial services to underserved sections"
+    },
+    {
+      "question": "What is meant by credit risk?",
+      "option1": "Risk of loss due to a borrower's failure to meet financial obligations",
+      "option2": "Risk of excessive cash in a bank",
+      "option3": "Risk of employee transfer",
+      "option4": "Risk of increased deposits",
+      "answer": "Risk of loss due to a borrower's failure to meet financial obligations"
+    },
+    {
+      "question": "Which department of a bank is generally responsible for managing investments in government securities?",
+      "option1": "Treasury department",
+      "option2": "Human resources department",
+      "option3": "Audit department",
+      "option4": "Customer service department",
+      "answer": "Treasury department"
+    },
+    {
+      "question": "What is securitization of assets?",
+      "option1": "Conversion of financial assets into marketable securities",
+      "option2": "Conversion of cash into coins",
+      "option3": "Conversion of savings accounts into current accounts",
+      "option4": "Cancellation of loans",
+      "answer": "Conversion of financial assets into marketable securities"
+    },
+    {
+      "question": "What does the term 'yield' generally indicate in relation to a bond?",
+      "option1": "Return earned on the investment",
+      "option2": "Face value only",
+      "option3": "Maturity date only",
+      "option4": "Number of bondholders",
+      "answer": "Return earned on the investment"
+    },
+    {
+      "question": "Which type of deposit generally has a fixed maturity period and predetermined interest rate?",
+      "option1": "Current deposit",
+      "option2": "Fixed deposit",
+      "option3": "Demand deposit",
+      "option4": "Cash credit",
+      "answer": "Fixed deposit"
+    },
+    {
+      "question": "What is a recurring deposit?",
+      "option1": "A deposit where a fixed amount is deposited periodically for a specified period",
+      "option2": "A loan repaid daily",
+      "option3": "A current account facility",
+      "option4": "A type of insurance policy",
+      "answer": "A deposit where a fixed amount is deposited periodically for a specified period"
+    },
+    {
+      "question": "What is the main purpose of a bank's internal audit?",
+      "option1": "To identify weaknesses and ensure compliance with internal controls",
+      "option2": "To issue currency notes",
+      "option3": "To approve all customer loans",
+      "option4": "To determine stock prices",
+      "answer": "To identify weaknesses and ensure compliance with internal controls"
+    },
+    {
+      "question": "Which of the following is an example of a non-fund-based banking service?",
+      "option1": "Bank guarantee",
+      "option2": "Cash loan",
+      "option3": "Term loan",
+      "option4": "Overdraft",
+      "answer": "Bank guarantee"
+    },
+    {
+      "question": "What is an overdraft facility?",
+      "option1": "Permission to withdraw more than the available balance up to an approved limit",
+      "option2": "A fixed deposit account",
+      "option3": "A government bond",
+      "option4": "A type of insurance",
+      "answer": "Permission to withdraw more than the available balance up to an approved limit"
+    },
+    {
+      "question": "What is working capital primarily used for?",
+      "option1": "Meeting day-to-day operating expenses of a business",
+      "option2": "Buying government bonds only",
+      "option3": "Paying long-term debt only",
+      "option4": "Opening savings accounts",
+      "answer": "Meeting day-to-day operating expenses of a business"
+    },
+    {
+      "question": "A shopkeeper gains 20% by selling an article for ₹720. What was its cost price?",
+      "option1": "₹560",
+      "option2": "₹600",
+      "option3": "₹620",
+      "option4": "₹640",
+      "answer": "₹600"
+    },
+    {
+      "question": "The compound interest on ₹10,000 at 10% per annum for 2 years is:",
+      "option1": "₹1,900",
+      "option2": "₹2,000",
+      "option3": "₹2,100",
+      "option4": "₹2,200",
+      "answer": "₹2,100"
+    },
+    {
+      "question": "A sum is divided among A, B and C in the ratio 2:3:5. If the total is ₹5,000, what is C's share?",
+      "option1": "₹1,500",
+      "option2": "₹2,000",
+      "option3": "₹2,500",
+      "option4": "₹3,000",
+      "answer": "₹2,500"
+    },
+    {
+      "question": "A man travels 150 km at 50 km/h. How much time does he take?",
+      "option1": "2 hours",
+      "option2": "2.5 hours",
+      "option3": "3 hours",
+      "option4": "3.5 hours",
+      "answer": "3 hours"
+    },
+    {
+      "question": "The average of 6 numbers is 25. If one number is removed, the average of the remaining five numbers is 22. What is the removed number?",
+      "option1": "35",
+      "option2": "38",
+      "option3": "40",
+      "option4": "42",
+      "answer": "40"
+    },
+    {
+      "question": "If the price of an item increases from ₹800 to ₹920, what is the percentage increase?",
+      "option1": "10%",
+      "option2": "12%",
+      "option3": "15%",
+      "option4": "20%",
+      "answer": "15%"
+    },
+    {
+      "question": "Find the next number: 2, 6, 12, 20, 30, ?",
+      "option1": "40",
+      "option2": "42",
+      "option3": "44",
+      "option4": "46",
+      "answer": "42"
+    },
+    {
+      "question": "If SOUTH is written as TPVUI, how is NORTH written using the same coding pattern?",
+      "option1": "OPSUI",
+      "option2": "OPSTI",
+      "option3": "NQSTI",
+      "option4": "PQSUI",
+      "answer": "OPSUI"
+    },
+    {
+      "question": "In a certain code, TABLE is written as ELBAT. How is CHAIR written in the same code?",
+      "option1": "RIAHC",
+      "option2": "RHIAC",
+      "option3": "CHAIR",
+      "option4": "IAHRC",
+      "answer": "RIAHC"
+    },
+    {
+      "question": "Pointing to a woman, Raj says, 'She is the daughter of my mother's only son.' How is the woman related to Raj?",
+      "option1": "Sister",
+      "option2": "Daughter",
+      "option3": "Mother",
+      "option4": "Cousin",
+      "answer": "Daughter"
+    },
+    {
+      "question": "Choose the word closest in meaning to 'Meticulous'.",
+      "option1": "Careless",
+      "option2": "Very careful",
+      "option3": "Uncertain",
+      "option4": "Impatient",
+      "answer": "Very careful"
+    },
+    {
+      "question": "Choose the antonym of 'Scarce'.",
+      "option1": "Rare",
+      "option2": "Limited",
+      "option3": "Abundant",
+      "option4": "Insufficient",
+      "answer": "Abundant"
+    },
+    {
+      "question": "Fill in the blank: The officer insisted ___ checking the documents.",
+      "option1": "on",
+      "option2": "at",
+      "option3": "for",
+      "option4": "with",
+      "answer": "on"
+    },
+    {
+      "question": "Choose the correctly spelled word.",
+      "option1": "Surveillance",
+      "option2": "Surveillence",
+      "option3": "Survellance",
+      "option4": "Surveilance",
+      "answer": "Surveillance"
+    },
+    {
+      "question": "What is the main objective of a bank's risk management framework?",
+      "option1": "To identify, measure, monitor and control risks",
+      "option2": "To increase the number of employees",
+      "option3": "To eliminate all customer accounts",
+      "option4": "To increase branch decoration expenses",
+      "answer": "To identify, measure, monitor and control risks"
+    },
+    {
+      "question": "What is meant by asset quality in banking?",
+      "option1": "The ability of a bank to maintain high-quality physical assets",
+      "option2": "The quality and recoverability of loans and investments held by a bank",
+      "option3": "The number of assets owned by customers",
+      "option4": "The size of a bank's branch network",
+      "answer": "The quality and recoverability of loans and investments held by a bank"
+    },
+    {
+      "question": "What is a stressed asset in banking?",
+      "option1": "An asset generating exceptionally high returns",
+      "option2": "An asset facing difficulty in generating expected income or repayment",
+      "option3": "A physical asset damaged by natural causes",
+      "option4": "A government-owned asset",
+      "answer": "An asset facing difficulty in generating expected income or repayment"
+    },
+    {
+      "question": "What is loan recovery?",
+      "option1": "Collection of principal and interest due from borrowers",
+      "option2": "Issuing new debit cards",
+      "option3": "Increasing the loan amount",
+      "option4": "Opening new bank branches",
+      "answer": "Collection of principal and interest due from borrowers"
+    },
+    {
+      "question": "What is a wilful default generally associated with?",
+      "option1": "Inability to understand banking rules",
+      "option2": "Deliberate failure to repay despite having the capacity or misuse of borrowed funds",
+      "option3": "Timely repayment of a loan",
+      "option4": "Making regular deposits",
+      "answer": "Deliberate failure to repay despite having the capacity or misuse of borrowed funds"
+    },
+    {
+      "question": "What is the purpose of a credit bureau report?",
+      "option1": "To record and provide information about an individual's or entity's credit history",
+      "option2": "To calculate income tax",
+      "option3": "To issue passports",
+      "option4": "To determine currency exchange rates",
+      "answer": "To record and provide information about an individual's or entity's credit history"
+    },
+    {
+      "question": "What does the term 'financial literacy' mean?",
+      "option1": "Ability to understand and manage financial matters effectively",
+      "option2": "Knowledge of only foreign currencies",
+      "option3": "Ability to operate a bank printer",
+      "option4": "Knowledge of stock market history only",
+      "answer": "Ability to understand and manage financial matters effectively"
+    },
+    {
+      "question": "Which institution provides refinance support to banks and financial institutions for agriculture and rural development?",
+      "option1": "NABARD",
+      "option2": "SEBI",
+      "option3": "PFRDA",
+      "option4": "IRDAI",
+      "answer": "NABARD"
+    },
+    {
+      "question": "What is a Letter of Credit mainly used for?",
+      "option1": "Providing assurance of payment in trade transactions subject to specified conditions",
+      "option2": "Opening a savings account",
+      "option3": "Paying electricity bills only",
+      "option4": "Transferring salaries between employees",
+      "answer": "Providing assurance of payment in trade transactions subject to specified conditions"
+    },
+    {
+      "question": "What is trade finance?",
+      "option1": "Financing activities related to domestic and international trade",
+      "option2": "Financing only government salaries",
+      "option3": "Financing personal vacations",
+      "option4": "Financing bank construction only",
+      "answer": "Financing activities related to domestic and international trade"
+    },
+    {
+      "question": "What is a nostro account?",
+      "option1": "An account maintained by a bank with another bank, usually in a foreign country and foreign currency",
+      "option2": "A customer's savings account",
+      "option3": "A government tax account",
+      "option4": "An employee salary account",
+      "answer": "An account maintained by a bank with another bank, usually in a foreign country and foreign currency"
+    },
+    {
+      "question": "A sum of ₹15,000 is invested at 8% simple interest for 3 years. What is the total amount?",
+      "option1": "₹17,400",
+      "option2": "₹18,000",
+      "option3": "₹18,600",
+      "option4": "₹19,200",
+      "answer": "₹18,600"
+    },
+    {
+      "question": "If 25% of a number is 75, what is 60% of that number?",
+      "option1": "150",
+      "option2": "180",
+      "option3": "200",
+      "option4": "225",
+      "answer": "180"
+    },
+    {
+      "question": "A train 180 metres long crosses a pole in 12 seconds. What is its speed?",
+      "option1": "45 km/h",
+      "option2": "50 km/h",
+      "option3": "54 km/h",
+      "option4": "60 km/h",
+      "answer": "54 km/h"
+    },
+    {
+      "question": "The ratio of income of A to B is 4:5 and their expenses are in the ratio 3:4. If both save ₹2,000, what is A's income?",
+      "option1": "₹6,000",
+      "option2": "₹8,000",
+      "option3": "₹10,000",
+      "option4": "₹12,000",
+      "answer": "₹8,000"
+    },
+    {
+      "question": "A and B together can complete a work in 10 days. A alone can complete it in 15 days. How many days will B alone take?",
+      "option1": "20 days",
+      "option2": "25 days",
+      "option3": "30 days",
+      "option4": "35 days",
+      "answer": "30 days"
+    },
+    {
+      "question": "A shopkeeper marks an item at ₹1,500 and gives a discount of 20%. What is the selling price?",
+      "option1": "₹1,100",
+      "option2": "₹1,200",
+      "option3": "₹1,250",
+      "option4": "₹1,300",
+      "answer": "₹1,200"
+    },
+    {
+      "question": "Find the next number: 7, 14, 28, 56, 112, ?",
+      "option1": "196",
+      "option2": "214",
+      "option3": "224",
+      "option4": "228",
+      "answer": "224"
+    },
+    {
+      "question": "Find the odd one out.",
+      "option1": "16",
+      "option2": "25",
+      "option3": "36",
+      "option4": "48",
+      "answer": "48"
+    },
+    {
+      "question": "If P is taller than Q, Q is taller than R, and R is taller than S, who is the shortest?",
+      "option1": "P",
+      "option2": "Q",
+      "option3": "R",
+      "option4": "S",
+      "answer": "S"
+    },
+    {
+      "question": "Five people A, B, C, D and E stand in a line. A is to the left of B, C is to the right of B, D is to the left of A, and E is to the right of C. Who is in the middle?",
+      "option1": "A",
+      "option2": "B",
+      "option3": "C",
+      "option4": "D",
+      "answer": "B"
+    },
+    {
+      "question": "Choose the word closest in meaning to 'Amend'.",
+      "option1": "Modify",
+      "option2": "Destroy",
+      "option3": "Reject",
+      "option4": "Ignore",
+      "answer": "Modify"
+    },
+    {
+      "question": "Choose the antonym of 'Mandatory'.",
+      "option1": "Compulsory",
+      "option2": "Required",
+      "option3": "Optional",
+      "option4": "Essential",
+      "answer": "Optional"
+    },
+    {
+      "question": "Fill in the blank: The bank has decided to ___ the interest rate on the loan.",
+      "option1": "revise",
+      "option2": "revision",
+      "option3": "revising",
+      "option4": "revised",
+      "answer": "revise"
+    },
+    {
+      "question": "Choose the correct sentence.",
+      "option1": "Neither the manager nor the employees was present.",
+      "option2": "Neither the manager nor the employees were present.",
+      "option3": "Neither the manager or the employees were present.",
+      "option4": "Neither manager nor employees is present yesterday.",
+      "answer": "Neither the manager nor the employees were present."
+    },
+    {
+      "question": "What is the primary purpose of customer due diligence in banking?",
+      "option1": "To understand and verify the customer and assess associated risks",
+      "option2": "To increase ATM withdrawals",
+      "option3": "To reduce customer deposits",
+      "option4": "To determine stock market prices",
+      "answer": "To understand and verify the customer and assess associated risks"
+    },
+     {
+      "question": "What is the primary purpose of stress testing in banks?",
+      "option1": "To assess how a bank would perform under adverse conditions",
+      "option2": "To increase the number of bank accounts",
+      "option3": "To calculate employee salaries",
+      "option4": "To determine branch working hours",
+      "answer": "To assess how a bank would perform under adverse conditions"
+    },
+    {
+      "question": "What is concentration risk in banking?",
+      "option1": "Risk arising from excessive exposure to a particular borrower, sector or geography",
+      "option2": "Risk from having too many ATMs",
+      "option3": "Risk from excess cash in a branch",
+      "option4": "Risk from employee transfers",
+      "answer": "Risk arising from excessive exposure to a particular borrower, sector or geography"
+    },
+    {
+      "question": "What is the main purpose of collateral in a secured loan?",
+      "option1": "To provide security to the lender against default",
+      "option2": "To increase the borrower's salary",
+      "option3": "To reduce the number of installments",
+      "option4": "To eliminate documentation",
+      "answer": "To provide security to the lender against default"
+    },
+    {
+      "question": "What is a moratorium period on a loan?",
+      "option1": "A period during which specified loan payments are temporarily deferred",
+      "option2": "The period before opening a bank account",
+      "option3": "The time required to print a cheque book",
+      "option4": "The period during which a bank is closed permanently",
+      "answer": "A period during which specified loan payments are temporarily deferred"
+    },
+    {
+      "question": "What is the purpose of a loan amortization schedule?",
+      "option1": "To show the breakup of loan repayments into principal and interest over time",
+      "option2": "To record ATM transactions only",
+      "option3": "To calculate stock market returns",
+      "option4": "To list bank employees",
+      "answer": "To show the breakup of loan repayments into principal and interest over time"
+    },
+    {
+      "question": "What is a floating interest rate?",
+      "option1": "An interest rate that can change based on specified benchmark or market conditions",
+      "option2": "An interest rate that never changes",
+      "option3": "An interest rate applicable only to savings accounts",
+      "option4": "An interest rate fixed permanently by the borrower",
+      "answer": "An interest rate that can change based on specified benchmark or market conditions"
+    },
+    {
+      "question": "What is an escrow account generally used for?",
+      "option1": "Holding funds temporarily until specified conditions are fulfilled",
+      "option2": "Keeping foreign currency permanently",
+      "option3": "Issuing government securities",
+      "option4": "Storing physical cash outside a bank",
+      "answer": "Holding funds temporarily until specified conditions are fulfilled"
+    },
+    {
+      "question": "What is the main purpose of reconciliation in banking?",
+      "option1": "To compare records and identify discrepancies",
+      "option2": "To increase loan amounts",
+      "option3": "To issue new currency",
+      "option4": "To close customer accounts",
+      "answer": "To compare records and identify discrepancies"
+    },
+    {
+      "question": "What is a dormant account?",
+      "option1": "An account with no customer-initiated transactions for a specified period",
+      "option2": "An account with a high balance",
+      "option3": "An account used only for salary payments",
+      "option4": "An account used only for foreign exchange",
+      "answer": "An account with no customer-initiated transactions for a specified period"
+    },
+    {
+      "question": "What is a nominee in a bank account?",
+      "option1": "A person designated to receive the account proceeds according to applicable rules after the account holder's death",
+      "option2": "A person authorized to operate every account",
+      "option3": "A bank employee assigned to the customer",
+      "option4": "A person who guarantees every loan",
+      "answer": "A person designated to receive the account proceeds according to applicable rules after the account holder's death"
+    },
+    {
+      "question": "A number is first increased by 10% and then decreased by 10%. What is the net percentage change?",
+      "option1": "No change",
+      "option2": "1% decrease",
+      "option3": "1% increase",
+      "option4": "2% decrease",
+      "answer": "1% decrease"
+    },
+    {
+      "question": "The present age of A is twice the age of B. If their total age is 54 years, what is A's age?",
+      "option1": "18 years",
+      "option2": "24 years",
+      "option3": "36 years",
+      "option4": "42 years",
+      "answer": "36 years"
+    },
+    {
+      "question": "A boat travels 30 km downstream in 2 hours. What is its downstream speed?",
+      "option1": "10 km/h",
+      "option2": "12 km/h",
+      "option3": "15 km/h",
+      "option4": "18 km/h",
+      "answer": "15 km/h"
+    },
+    {
+      "question": "The sum of three consecutive integers is 72. What is the largest integer?",
+      "option1": "23",
+      "option2": "24",
+      "option3": "25",
+      "option4": "26",
+      "answer": "25"
+    },
+    {
+      "question": "A sum of ₹5,000 amounts to ₹5,750 under simple interest in 3 years. What is the annual rate?",
+      "option1": "4%",
+      "option2": "5%",
+      "option3": "6%",
+      "option4": "7%",
+      "answer": "5%"
+    },
+    {
+      "question": "If 8 machines produce 480 units in 6 hours, how many units will 12 machines produce in 5 hours at the same rate?",
+      "option1": "500",
+      "option2": "550",
+      "option3": "600",
+      "option4": "650",
+      "answer": "600"
+    },
+    {
+      "question": "Find the missing term: 4, 9, 19, 39, 79, ?",
+      "option1": "149",
+      "option2": "157",
+      "option3": "159",
+      "option4": "161",
+      "answer": "159"
+    },
+    {
+      "question": "If in a certain code, BANK is represented by 25, using the sum of alphabetical positions, how is LOAN represented?",
+      "option1": "42",
+      "option2": "48",
+      "option3": "50",
+      "option4": "52",
+      "answer": "50"
+    },
+    {
+      "question": "Six persons P, Q, R, S, T and U sit in a row. P sits immediately left of Q, R sits immediately right of Q, and S sits immediately left of T. If U occupies the remaining position, which group forms the consecutive sequence P-Q-R?",
+      "option1": "P-Q-R",
+      "option2": "Q-R-S",
+      "option3": "R-S-T",
+      "option4": "S-T-U",
+      "answer": "P-Q-R"
+    },
+    {
+      "question": "A person faces east. He turns left, then right, and then right again. Which direction is he facing now?",
+      "option1": "North",
+      "option2": "South",
+      "option3": "East",
+      "option4": "West",
+      "answer": "South"
+    },
+    {
+      "question": "Choose the word closest in meaning to 'Eloquent'.",
+      "option1": "Expressive",
+      "option2": "Silent",
+      "option3": "Confused",
+      "option4": "Unclear",
+      "answer": "Expressive"
+    },
+    {
+      "question": "Choose the antonym of 'Hostile'.",
+      "option1": "Aggressive",
+      "option2": "Unfriendly",
+      "option3": "Friendly",
+      "option4": "Violent",
+      "answer": "Friendly"
+    },
+    {
+      "question": "Fill in the blank: The committee arrived ___ a unanimous decision.",
+      "option1": "at",
+      "option2": "on",
+      "option3": "in",
+      "option4": "for",
+      "answer": "at"
+    },
+    {
+      "question": "Choose the correct sentence.",
+      "option1": "The reports was submitted yesterday.",
+      "option2": "The reports were submitted yesterday.",
+      "option3": "The report were submitted yesterday.",
+      "option4": "The reports has submitted yesterday.",
+      "answer": "The reports were submitted yesterday."
+    },
+    {
+      "question": "What is the purpose of a bank's Business Continuity Plan?",
+      "option1": "To ensure critical banking operations can continue during disruptions",
+      "option2": "To increase loan interest rates",
+      "option3": "To eliminate customer service",
+      "option4": "To reduce the number of branches",
+      "answer": "To ensure critical banking operations can continue during disruptions"
+    },
+    {
+      "question": "What is the primary purpose of a bank's disaster recovery system?",
+      "option1": "To restore critical IT systems and data after a disruption",
+      "option2": "To increase customer deposits",
+      "option3": "To reduce loan applications",
+      "option4": "To calculate interest rates",
+      "answer": "To restore critical IT systems and data after a disruption"
+    },
+    {
+      "question": "What is cyber risk in banking?",
+      "option1": "Risk arising from cyberattacks, unauthorized access or digital security failures",
+      "option2": "Risk caused only by inflation",
+      "option3": "Risk associated with physical branch furniture",
+      "option4": "Risk from excess cash reserves",
+      "answer": "Risk arising from cyberattacks, unauthorized access or digital security failures"
+    },
+    {
+      "question": "What is phishing?",
+      "option1": "A fraudulent attempt to obtain sensitive information by pretending to be a trusted entity",
+      "option2": "A method of calculating bank interest",
+      "option3": "A type of fixed deposit",
+      "option4": "A legal loan recovery process",
+      "answer": "A fraudulent attempt to obtain sensitive information by pretending to be a trusted entity"
+    },
+    {
+      "question": "What is multi-factor authentication?",
+      "option1": "Verification using two or more independent authentication factors",
+      "option2": "Using multiple bank accounts",
+      "option3": "Using several debit cards",
+      "option4": "Making multiple cash deposits",
+      "answer": "Verification using two or more independent authentication factors"
+    },
+    {
+      "question": "What is tokenization in digital payments?",
+      "option1": "Replacing sensitive card details with a unique token",
+      "option2": "Converting cash into coins",
+      "option3": "Increasing the credit limit",
+      "option4": "Closing a payment account",
+      "answer": "Replacing sensitive card details with a unique token"
+    },
+    {
+      "question": "What is the main purpose of a firewall in a banking network?",
+      "option1": "To control and filter network traffic based on security rules",
+      "option2": "To print bank statements",
+      "option3": "To calculate loan interest",
+      "option4": "To issue cheque books",
+      "answer": "To control and filter network traffic based on security rules"
+    },
+    {
+      "question": "What does AML stand for in banking?",
+      "option1": "Asset Management Liability",
+      "option2": "Anti-Money Laundering",
+      "option3": "Annual Monetary Limit",
+      "option4": "Automated Money Ledger",
+      "answer": "Anti-Money Laundering"
+    },
+    {
+      "question": "What is the primary objective of anti-money laundering measures?",
+      "option1": "To prevent the financial system from being used to disguise proceeds of crime",
+      "option2": "To increase bank deposits",
+      "option3": "To reduce interest rates",
+      "option4": "To promote stock trading",
+      "answer": "To prevent the financial system from being used to disguise proceeds of crime"
+    },
+    {
+      "question": "What is the purpose of a suspicious transaction report?",
+      "option1": "To report transactions that may indicate suspicious or unlawful activity",
+      "option2": "To request a new cheque book",
+      "option3": "To calculate fixed deposit interest",
+      "option4": "To close an ATM",
+      "answer": "To report transactions that may indicate suspicious or unlawful activity"
+    },
+    {
+      "question": "What does FATF stand for?",
+      "option1": "Financial Action Task Force",
+      "option2": "Financial Assistance and Trade Forum",
+      "option3": "Federal Anti-Tax Foundation",
+      "option4": "Foreign Asset Transfer Facility",
+      "answer": "Financial Action Task Force"
+    },
+    {
+      "question": "A person spends 70% of his income and saves ₹9,000. What is his income?",
+      "option1": "₹27,000",
+      "option2": "₹30,000",
+      "option3": "₹32,000",
+      "option4": "₹35,000",
+      "answer": "₹30,000"
+    },
+    {
+      "question": "If the cost price of an article is ₹800 and it is sold at a loss of 12.5%, what is the selling price?",
+      "option1": "₹650",
+      "option2": "₹700",
+      "option3": "₹720",
+      "option4": "₹750",
+      "answer": "₹700"
+    },
+    {
+      "question": "A train covers 360 km in 5 hours. If its speed is increased by 12 km/h, how long will it take to cover 432 km?",
+      "option1": "4 hours",
+      "option2": "4.5 hours",
+      "option3": "5 hours",
+      "option4": "5.5 hours",
+      "answer": "4.5 hours"
+    },
+    {
+      "question": "The average of 8 numbers is 42. If one number is 56, what is the average of the remaining seven numbers?",
+      "option1": "38",
+      "option2": "40",
+      "option3": "42",
+      "option4": "44",
+      "answer": "40"
+    },
+    {
+      "question": "A can complete a work in 20 days and B in 30 days. If they work together for 6 days, what fraction of the work remains?",
+      "option1": "1/5",
+      "option2": "2/5",
+      "option3": "1/2",
+      "option4": "3/5",
+      "answer": "2/5"
+    },
+    {
+      "question": "If 3x + 7 = 28, what is x?",
+      "option1": "5",
+      "option2": "6",
+      "option3": "7",
+      "option4": "8",
+      "answer": "7"
+    },
+    {
+      "question": "Find the next number: 6, 13, 27, 55, 111, ?",
+      "option1": "221",
+      "option2": "222",
+      "option3": "223",
+      "option4": "225",
+      "answer": "223"
+    },
+    {
+      "question": "Find the odd one out.",
+      "option1": "Triangle",
+      "option2": "Square",
+      "option3": "Circle",
+      "option4": "Cube",
+      "answer": "Cube"
+    },
+    {
+      "question": "If A is the brother of B, B is the sister of C, and C is the father of D, how is A related to D?",
+      "option1": "Father",
+      "option2": "Uncle",
+      "option3": "Brother",
+      "option4": "Grandfather",
+      "answer": "Uncle"
+    },
+    {
+      "question": "Seven persons sit in a row. P sits at one end, Q sits next to P, and R sits at the other end. Who can occupy the position between Q and R?",
+      "option1": "Any of the remaining persons",
+      "option2": "Only P",
+      "option3": "Only Q",
+      "option4": "Only R",
+      "answer": "Any of the remaining persons"
+    },
+    {
+      "question": "Choose the word closest in meaning to 'Abstain'.",
+      "option1": "Avoid",
+      "option2": "Accept",
+      "option3": "Increase",
+      "option4": "Begin",
+      "answer": "Avoid"
+    },
+    {
+      "question": "Choose the antonym of 'Deteriorate'.",
+      "option1": "Decline",
+      "option2": "Improve",
+      "option3": "Damage",
+      "option4": "Worsen",
+      "answer": "Improve"
+    },
+    {
+      "question": "Fill in the blank: The new policy will come ___ effect next month.",
+      "option1": "in",
+      "option2": "into",
+      "option3": "at",
+      "option4": "for",
+      "answer": "into"
+    },
+    {
+      "question": "Choose the correct sentence.",
+      "option1": "He is senior than me.",
+      "option2": "He is senior to me.",
+      "option3": "He is more senior than to me.",
+      "option4": "He senior than I am.",
+      "answer": "He is senior to me."
+    },
+    {
+      "question": "What is the primary purpose of customer grievance redressal in banking?",
+      "option1": "To address and resolve customer complaints fairly and efficiently",
+      "option2": "To increase loan penalties",
+      "option3": "To reduce customer accounts",
+      "option4": "To eliminate digital banking",
+      "answer": "To address and resolve customer complaints fairly and efficiently"
+    },
+    {
+      "question": "What is the primary function of a bank's compliance department?",
+      "option1": "To ensure that the bank follows applicable laws, regulations and internal policies",
+      "option2": "To approve every customer withdrawal",
+      "option3": "To determine stock prices",
+      "option4": "To manage employee vacations",
+      "answer": "To ensure that the bank follows applicable laws, regulations and internal policies"
+    },
+    {
+      "question": "What is an unsecured loan?",
+      "option1": "A loan backed by government securities",
+      "option2": "A loan granted without specific collateral security",
+      "option3": "A loan secured by property",
+      "option4": "A loan secured by gold",
+      "answer": "A loan granted without specific collateral security"
+    },
+    {
+      "question": "What is loan-to-value ratio commonly used to measure?",
+      "option1": "Loan amount relative to the value of the underlying asset",
+      "option2": "Bank profit relative to employees",
+      "option3": "Deposits relative to branches",
+      "option4": "Interest relative to inflation",
+      "answer": "Loan amount relative to the value of the underlying asset"
+    },
+    {
+      "question": "What is a bank's net worth generally represented by?",
+      "option1": "Total assets minus total liabilities",
+      "option2": "Total deposits plus expenses",
+      "option3": "Total loans minus deposits",
+      "option4": "Cash plus employee salaries",
+      "answer": "Total assets minus total liabilities"
+    },
+    {
+      "question": "What is liquidity risk?",
+      "option1": "Risk that an institution cannot meet its financial obligations when they become due",
+      "option2": "Risk of employee resignation",
+      "option3": "Risk of falling stock prices only",
+      "option4": "Risk of excess branch space",
+      "answer": "Risk that an institution cannot meet its financial obligations when they become due"
+    },
+    {
+      "question": "What is interest rate risk?",
+      "option1": "Risk of losses due to adverse movements in interest rates",
+      "option2": "Risk of losing a debit card",
+      "option3": "Risk of incorrect customer addresses",
+      "option4": "Risk of ATM maintenance",
+      "answer": "Risk of losses due to adverse movements in interest rates"
+    },
+    {
+      "question": "What is a term loan?",
+      "option1": "A loan repayable over a specified period according to agreed terms",
+      "option2": "A deposit without maturity",
+      "option3": "A loan that never requires repayment",
+      "option4": "A type of current account",
+      "answer": "A loan repayable over a specified period according to agreed terms"
+    },
+    {
+      "question": "What is cash credit primarily used for?",
+      "option1": "Meeting short-term working capital requirements of businesses",
+      "option2": "Buying personal insurance",
+      "option3": "Opening savings accounts",
+      "option4": "Purchasing government bonds only",
+      "answer": "Meeting short-term working capital requirements of businesses"
+    },
+    {
+      "question": "What is bill discounting?",
+      "option1": "Receiving funds against a bill before its maturity after deduction of a charge",
+      "option2": "Cancelling a bank loan",
+      "option3": "Reducing the face value of currency",
+      "option4": "Closing a current account",
+      "answer": "Receiving funds against a bill before its maturity after deduction of a charge"
+    },
+    {
+      "question": "What is a demand draft?",
+      "option1": "A prepaid negotiable instrument issued by a bank directing payment to a specified person",
+      "option2": "A credit card statement",
+      "option3": "A type of savings account",
+      "option4": "A government tax receipt",
+      "answer": "A prepaid negotiable instrument issued by a bank directing payment to a specified person"
+    },
+    {
+      "question": "A number is 25% more than 160. What is the number?",
+      "option1": "180",
+      "option2": "190",
+      "option3": "200",
+      "option4": "220",
+      "answer": "200"
+    },
+    {
+      "question": "The ratio of two numbers is 7:9 and their difference is 18. What is the smaller number?",
+      "option1": "54",
+      "option2": "63",
+      "option3": "72",
+      "option4": "81",
+      "answer": "63"
+    },
+    {
+      "question": "A man invests ₹20,000 at 6% simple interest for 2.5 years. What interest will he earn?",
+      "option1": "₹2,400",
+      "option2": "₹2,800",
+      "option3": "₹3,000",
+      "option4": "₹3,200",
+      "answer": "₹3,000"
+    },
+    {
+      "question": "A car covers 180 km in 3 hours. At the same speed, how far will it travel in 4.5 hours?",
+      "option1": "240 km",
+      "option2": "270 km",
+      "option3": "300 km",
+      "option4": "320 km",
+      "answer": "270 km"
+    },
+    {
+      "question": "If 15 men complete a work in 24 days, how many men are required to complete the same work in 18 days?",
+      "option1": "18",
+      "option2": "20",
+      "option3": "22",
+      "option4": "24",
+      "answer": "20"
+    },
+    {
+      "question": "A shopkeeper buys an article for ₹1,200 and sells it for ₹1,380. What is the profit percentage?",
+      "option1": "12%",
+      "option2": "15%",
+      "option3": "18%",
+      "option4": "20%",
+      "answer": "15%"
+    },
+    {
+      "question": "Find the next term: 8, 17, 35, 71, 143, ?",
+      "option1": "285",
+      "option2": "287",
+      "option3": "289",
+      "option4": "291",
+      "answer": "287"
+    },
+    {
+      "question": "If all auditors are employees and some employees are managers, which conclusion definitely follows?",
+      "option1": "All managers are auditors",
+      "option2": "Some auditors are managers",
+      "option3": "All auditors are employees",
+      "option4": "No auditors are employees",
+      "answer": "All auditors are employees"
+    },
+    {
+      "question": "A person walks 8 km east, turns left and walks 6 km, then turns left and walks 8 km. In which direction is the person from the starting point?",
+      "option1": "North",
+      "option2": "South",
+      "option3": "East",
+      "option4": "West",
+      "answer": "North"
+    },
+    {
+      "question": "If 'CREDIT' is arranged alphabetically, which letter will be third from the left?",
+      "option1": "C",
+      "option2": "D",
+      "option3": "E",
+      "option4": "I",
+      "answer": "E"
+    },
+    {
+      "question": "Choose the word closest in meaning to 'Concise'.",
+      "option1": "Brief",
+      "option2": "Complicated",
+      "option3": "Lengthy",
+      "option4": "Unclear",
+      "answer": "Brief"
+    },
+    {
+      "question": "Choose the antonym of 'Rigid'.",
+      "option1": "Strict",
+      "option2": "Flexible",
+      "option3": "Firm",
+      "option4": "Hard",
+      "answer": "Flexible"
+    },
+    {
+      "question": "Fill in the blank: The manager is responsible ___ supervising the team.",
+      "option1": "to",
+      "option2": "for",
+      "option3": "at",
+      "option4": "with",
+      "answer": "for"
+    },
+    {
+      "question": "Choose the correctly spelled word.",
+      "option1": "Reciept",
+      "option2": "Receipt",
+      "option3": "Receept",
+      "option4": "Recepit",
+      "answer": "Receipt"
+    },
+    {
+      "question": "What is the main purpose of internal controls in a bank?",
+      "option1": "To safeguard assets, ensure accurate records and reduce operational risks",
+      "option2": "To increase customer complaints",
+      "option3": "To eliminate all banking transactions",
+      "option4": "To reduce the number of employees",
+      "answer": "To safeguard assets, ensure accurate records and reduce operational risks"
+    },
+    {
+      "question": "What is the primary purpose of a bank's treasury function?",
+      "option1": "To manage liquidity, investments, funding and financial market exposures",
+      "option2": "To recruit bank employees",
+      "option3": "To issue customer identity cards",
+      "option4": "To manage branch furniture",
+      "answer": "To manage liquidity, investments, funding and financial market exposures"
+    },
+    {
+      "question": "What is an interest rate swap?",
+      "option1": "A financial contract in which parties exchange interest payment streams according to agreed terms",
+      "option2": "A method of opening a savings account",
+      "option3": "A type of bank deposit",
+      "option4": "A method of issuing currency",
+      "answer": "A financial contract in which parties exchange interest payment streams according to agreed terms"
+    },
+    {
+      "question": "What is foreign exchange risk?",
+      "option1": "Risk arising from unfavorable changes in currency exchange rates",
+      "option2": "Risk of losing a debit card",
+      "option3": "Risk caused by employee transfers",
+      "option4": "Risk related to domestic cash withdrawals only",
+      "answer": "Risk arising from unfavorable changes in currency exchange rates"
+    },
+    {
+      "question": "What is an exchange rate?",
+      "option1": "The value of one currency expressed in terms of another currency",
+      "option2": "The interest paid on a savings account",
+      "option3": "The value of a company's assets",
+      "option4": "The tax charged on bank deposits",
+      "answer": "The value of one currency expressed in terms of another currency"
+    },
+    {
+      "question": "What is a trade deficit?",
+      "option1": "A situation where the value of imports of goods exceeds exports of goods",
+      "option2": "A situation where exports exceed imports",
+      "option3": "A fall in domestic savings",
+      "option4": "A rise in government revenue",
+      "answer": "A situation where the value of imports of goods exceeds exports of goods"
+    },
+    {
+      "question": "What is a trade surplus?",
+      "option1": "A situation where exports of goods exceed imports of goods",
+      "option2": "A situation where imports exceed exports",
+      "option3": "A decline in foreign exchange reserves",
+      "option4": "A fall in bank deposits",
+      "answer": "A situation where exports of goods exceed imports of goods"
+    },
+    {
+      "question": "What is a balance of payments?",
+      "option1": "A systematic record of economic transactions between residents of a country and the rest of the world",
+      "option2": "A record of transactions within one bank branch",
+      "option3": "A company's annual salary statement",
+      "option4": "A list of domestic tax payments",
+      "answer": "A systematic record of economic transactions between residents of a country and the rest of the world"
+    },
+    {
+      "question": "What is a government security?",
+      "option1": "A debt instrument issued by the government to raise funds",
+      "option2": "A private company's share",
+      "option3": "A bank savings account",
+      "option4": "A personal insurance policy",
+      "answer": "A debt instrument issued by the government to raise funds"
+    },
+    {
+      "question": "What happens to the price of an existing fixed-rate bond generally when market interest rates rise?",
+      "option1": "It tends to fall",
+      "option2": "It always doubles",
+      "option3": "It remains exactly unchanged",
+      "option4": "It becomes zero",
+      "answer": "It tends to fall"
+    },
+    {
+      "question": "What is a debenture?",
+      "option1": "A debt instrument issued by a company to raise funds",
+      "option2": "A type of savings account",
+      "option3": "A government tax receipt",
+      "option4": "A bank cheque",
+      "answer": "A debt instrument issued by a company to raise funds"
+    },
+    {
+      "question": "A sum of ₹16,000 is compounded annually at 10% for two years. What is the compound interest?",
+      "option1": "₹3,200",
+      "option2": "₹3,360",
+      "option3": "₹3,520",
+      "option4": "₹3,600",
+      "answer": "₹3,360"
+    },
+    {
+      "question": "A person buys an article for ₹900 and sells it for ₹1,035. What is the profit percentage?",
+      "option1": "12%",
+      "option2": "15%",
+      "option3": "18%",
+      "option4": "20%",
+      "answer": "15%"
+    },
+    {
+      "question": "If the average of five numbers is 36 and four of them are 28, 32, 40 and 44, what is the fifth number?",
+      "option1": "34",
+      "option2": "36",
+      "option3": "38",
+      "option4": "40",
+      "answer": "36"
+    },
+    {
+      "question": "A can complete a task in 16 days and B can complete it in 24 days. What fraction of the work do they complete together in one day?",
+      "option1": "5/48",
+      "option2": "1/8",
+      "option3": "7/48",
+      "option4": "1/6",
+      "answer": "5/48"
+    },
+    {
+      "question": "A train moving at 72 km/h crosses a 280-metre platform in 25 seconds. What is the length of the train?",
+      "option1": "180 metres",
+      "option2": "200 metres",
+      "option3": "220 metres",
+      "option4": "240 metres",
+      "answer": "220 metres"
+    },
+    {
+      "question": "If 35% of a number is 140, what is 75% of that number?",
+      "option1": "250",
+      "option2": "275",
+      "option3": "300",
+      "option4": "325",
+      "answer": "300"
+    },
+    {
+      "question": "Find the next number: 10, 22, 46, 94, 190, ?",
+      "option1": "378",
+      "option2": "382",
+      "option3": "384",
+      "option4": "386",
+      "answer": "382"
+    },
+    {
+      "question": "If the letters of the word 'BANKING' are arranged alphabetically, which letter is fourth from the left?",
+      "option1": "G",
+      "option2": "I",
+      "option3": "K",
+      "option4": "N",
+      "answer": "K"
+    },
+    {
+      "question": "Eight persons A, B, C, D, E, F, G and H sit in a row. A sits immediately before B, C immediately before D, and E immediately before F. Which pair is definitely consecutive?",
+      "option1": "A-B",
+      "option2": "B-C",
+      "option3": "D-E",
+      "option4": "F-G",
+      "answer": "A-B"
+    },
+    {
+      "question": "A person is facing south. He turns 90 degrees clockwise and then 180 degrees anticlockwise. Which direction is he facing?",
+      "option1": "East",
+      "option2": "West",
+      "option3": "North",
+      "option4": "South",
+      "answer": "East"
+    },
+    {
+      "question": "Choose the word closest in meaning to 'Obsolete'.",
+      "option1": "Modern",
+      "option2": "Outdated",
+      "option3": "Useful",
+      "option4": "Popular",
+      "answer": "Outdated"
+    },
+    {
+      "question": "Choose the antonym of 'Explicit'.",
+      "option1": "Clear",
+      "option2": "Direct",
+      "option3": "Implicit",
+      "option4": "Definite",
+      "answer": "Implicit"
+    },
+    {
+      "question": "Fill in the blank: The customer complained ___ the delay in service.",
+      "option1": "about",
+      "option2": "at",
+      "option3": "for",
+      "option4": "with",
+      "answer": "about"
+    },
+    {
+      "question": "Choose the correct sentence.",
+      "option1": "Each of the candidates have submitted the form.",
+      "option2": "Each of the candidates has submitted the form.",
+      "option3": "Each candidates has submitted the form.",
+      "option4": "Each of candidates have submit the form.",
+      "answer": "Each of the candidates has submitted the form."
+    },
+    {
+      "question": "What is the main purpose of financial risk management in a bank?",
+      "option1": "To identify and control financial risks while supporting the bank's objectives",
+      "option2": "To eliminate all customer deposits",
+      "option3": "To increase only cash withdrawals",
+      "option4": "To prevent all forms of lending",
+      "answer": "To identify and control financial risks while supporting the bank's objectives"
+    }
+  ]
+}

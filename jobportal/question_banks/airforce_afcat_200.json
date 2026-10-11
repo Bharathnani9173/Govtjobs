@@ -1,0 +1,1805 @@
+{
+  "exam": "Air Force AFCAT",
+  "questions": [
+    {
+      "question": "Who is the Supreme Commander of the Indian Armed Forces?",
+      "option1": "Prime Minister of India",
+      "option2": "President of India",
+      "option3": "Defence Minister",
+      "option4": "Chief of Defence Staff",
+      "answer": "President of India",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "The headquarters of the Indian Air Force is located in which city?",
+      "option1": "Mumbai",
+      "option2": "New Delhi",
+      "option3": "Hyderabad",
+      "option4": "Bengaluru",
+      "answer": "New Delhi",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "Indian Air Force Day is observed on which date?",
+      "option1": "15 August",
+      "option2": "26 January",
+      "option3": "8 October",
+      "option4": "4 December",
+      "answer": "8 October",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "Where is the Air Force Academy of India located?",
+      "option1": "Dundigal",
+      "option2": "Dehradun",
+      "option3": "Pune",
+      "option4": "Chennai",
+      "answer": "Dundigal",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "What does IAF stand for?",
+      "option1": "Indian Armed Force",
+      "option2": "Indian Air Force",
+      "option3": "Indian Aviation Force",
+      "option4": "International Air Force",
+      "answer": "Indian Air Force",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "What does DRDO stand for?",
+      "option1": "Defence Research and Development Organisation",
+      "option2": "Department of Research and Defence Operations",
+      "option3": "Defence Railway Development Organisation",
+      "option4": "Directorate of Research and Defence Organisation",
+      "answer": "Defence Research and Development Organisation",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "What does HAL stand for?",
+      "option1": "Hindustan Aeronautics Limited",
+      "option2": "Hindustan Aviation Limited",
+      "option3": "High Altitude Limited",
+      "option4": "Hindustan Aircraft Laboratory",
+      "answer": "Hindustan Aeronautics Limited",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "What does UAV stand for?",
+      "option1": "United Aviation Vehicle",
+      "option2": "Unmanned Aerial Vehicle",
+      "option3": "Universal Air Vehicle",
+      "option4": "Unmanned Aviation Vessel",
+      "answer": "Unmanned Aerial Vehicle",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "Which aircraft is India's indigenous light combat aircraft?",
+      "option1": "Tejas",
+      "option2": "Rafale",
+      "option3": "Mirage 2000",
+      "option4": "Su-30MKI",
+      "answer": "Tejas",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "Which organisation is primarily responsible for India's space programme?",
+      "option1": "DRDO",
+      "option2": "ISRO",
+      "option3": "HAL",
+      "option4": "BARC",
+      "answer": "ISRO",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "What is the capital of India?",
+      "option1": "Mumbai",
+      "option2": "Kolkata",
+      "option3": "New Delhi",
+      "option4": "Chennai",
+      "answer": "New Delhi",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "Which is the largest state in India by area?",
+      "option1": "Madhya Pradesh",
+      "option2": "Rajasthan",
+      "option3": "Maharashtra",
+      "option4": "Uttar Pradesh",
+      "answer": "Rajasthan",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "Which is the longest river in India?",
+      "option1": "Yamuna",
+      "option2": "Godavari",
+      "option3": "Ganga",
+      "option4": "Narmada",
+      "answer": "Ganga",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "Which mountain range forms the northern boundary of India?",
+      "option1": "Aravalli",
+      "option2": "Western Ghats",
+      "option3": "Himalayas",
+      "option4": "Eastern Ghats",
+      "answer": "Himalayas",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "Which Indian state has the longest coastline?",
+      "option1": "Tamil Nadu",
+      "option2": "Gujarat",
+      "option3": "Andhra Pradesh",
+      "option4": "Maharashtra",
+      "answer": "Gujarat",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "Who was the first President of India?",
+      "option1": "Jawaharlal Nehru",
+      "option2": "Dr. Rajendra Prasad",
+      "option3": "Sardar Patel",
+      "option4": "Dr. S. Radhakrishnan",
+      "answer": "Dr. Rajendra Prasad",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "Who is known as the Father of the Indian Constitution?",
+      "option1": "Mahatma Gandhi",
+      "option2": "Jawaharlal Nehru",
+      "option3": "Dr. B. R. Ambedkar",
+      "option4": "Sardar Patel",
+      "answer": "Dr. B. R. Ambedkar",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "The Constitution of India came into force on which date?",
+      "option1": "15 August 1947",
+      "option2": "26 November 1949",
+      "option3": "26 January 1950",
+      "option4": "2 October 1950",
+      "answer": "26 January 1950",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "Fundamental Rights are included in which part of the Indian Constitution?",
+      "option1": "Part I",
+      "option2": "Part II",
+      "option3": "Part III",
+      "option4": "Part IV",
+      "answer": "Part III",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "Which is the lower house of the Indian Parliament?",
+      "option1": "Rajya Sabha",
+      "option2": "Lok Sabha",
+      "option3": "Legislative Council",
+      "option4": "Vidhan Parishad",
+      "answer": "Lok Sabha",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "Which is the upper house of the Indian Parliament?",
+      "option1": "Lok Sabha",
+      "option2": "Rajya Sabha",
+      "option3": "Vidhan Sabha",
+      "option4": "Legislative Assembly",
+      "answer": "Rajya Sabha",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "Which body conducts elections to the Parliament and state legislatures in India?",
+      "option1": "UPSC",
+      "option2": "Election Commission of India",
+      "option3": "Finance Commission",
+      "option4": "NITI Aayog",
+      "answer": "Election Commission of India",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "Which is the highest civilian award in India?",
+      "option1": "Padma Shri",
+      "option2": "Padma Bhushan",
+      "option3": "Bharat Ratna",
+      "option4": "Padma Vibhushan",
+      "answer": "Bharat Ratna",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "Who was the first Indian to travel into space?",
+      "option1": "Rakesh Sharma",
+      "option2": "Vikram Sarabhai",
+      "option3": "Kalpana Chawla",
+      "option4": "Ravish Malhotra",
+      "answer": "Rakesh Sharma",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "option1": "Venus",
+      "option2": "Mars",
+      "option3": "Jupiter",
+      "option4": "Mercury",
+      "answer": "Mars",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "Which gas is most abundant in Earth's atmosphere?",
+      "option1": "Oxygen",
+      "option2": "Carbon dioxide",
+      "option3": "Nitrogen",
+      "option4": "Hydrogen",
+      "answer": "Nitrogen",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "Which instrument is used to measure atmospheric pressure?",
+      "option1": "Thermometer",
+      "option2": "Barometer",
+      "option3": "Hygrometer",
+      "option4": "Anemometer",
+      "answer": "Barometer",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "Which instrument measures wind speed?",
+      "option1": "Barometer",
+      "option2": "Anemometer",
+      "option3": "Hygrometer",
+      "option4": "Altimeter",
+      "answer": "Anemometer",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "Which force opposes the forward motion of an aircraft through air?",
+      "option1": "Lift",
+      "option2": "Drag",
+      "option3": "Thrust",
+      "option4": "Weight",
+      "answer": "Drag",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "Which force acts upward on an aircraft in flight?",
+      "option1": "Drag",
+      "option2": "Weight",
+      "option3": "Lift",
+      "option4": "Thrust",
+      "answer": "Lift",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "Which force propels an aircraft forward?",
+      "option1": "Lift",
+      "option2": "Drag",
+      "option3": "Thrust",
+      "option4": "Weight",
+      "answer": "Thrust",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "What does GPS stand for?",
+      "option1": "Global Positioning System",
+      "option2": "General Positioning Service",
+      "option3": "Global Processing System",
+      "option4": "Geographical Positioning Service",
+      "answer": "Global Positioning System",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "What does radar primarily use to detect objects?",
+      "option1": "Sound waves",
+      "option2": "Radio waves",
+      "option3": "Light waves only",
+      "option4": "Water waves",
+      "answer": "Radio waves",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "What does SAM stand for in defence terminology?",
+      "option1": "Surface-to-Air Missile",
+      "option2": "Strategic Air Machine",
+      "option3": "Surface Attack Mechanism",
+      "option4": "Special Air Missile",
+      "answer": "Surface-to-Air Missile",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "Which missile is an Indian air-to-air missile developed by DRDO?",
+      "option1": "Astra",
+      "option2": "Prithvi",
+      "option3": "Agni",
+      "option4": "BrahMos",
+      "answer": "Astra",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "Which aircraft is manufactured by Dassault Aviation?",
+      "option1": "Rafale",
+      "option2": "Tejas",
+      "option3": "C-17 Globemaster",
+      "option4": "C-130J",
+      "answer": "Rafale",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "Which aircraft is primarily known as a strategic heavy airlift aircraft used by the Indian Air Force?",
+      "option1": "C-17 Globemaster III",
+      "option2": "Tejas",
+      "option3": "MiG-21",
+      "option4": "Rafale",
+      "answer": "C-17 Globemaster III",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "What is the primary purpose of an aircraft carrier?",
+      "option1": "To operate aircraft from the sea",
+      "option2": "To store missiles on land",
+      "option3": "To train ground troops",
+      "option4": "To monitor weather",
+      "answer": "To operate aircraft from the sea",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "Which force controls India's maritime security and naval warfare?",
+      "option1": "Indian Army",
+      "option2": "Indian Navy",
+      "option3": "Indian Air Force",
+      "option4": "Coast Guard only",
+      "answer": "Indian Navy",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "Which is India's highest wartime gallantry award?",
+      "option1": "Ashoka Chakra",
+      "option2": "Param Vir Chakra",
+      "option3": "Maha Vir Chakra",
+      "option4": "Vir Chakra",
+      "answer": "Param Vir Chakra",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "Which is India's highest peacetime gallantry award?",
+      "option1": "Param Vir Chakra",
+      "option2": "Ashoka Chakra",
+      "option3": "Kirti Chakra",
+      "option4": "Shaurya Chakra",
+      "answer": "Ashoka Chakra",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "Which operation was associated with the Kargil War?",
+      "option1": "Operation Vijay",
+      "option2": "Operation Cactus",
+      "option3": "Operation Meghdoot",
+      "option4": "Operation Pawan",
+      "answer": "Operation Vijay",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "Operation Safed Sagar was associated with which conflict?",
+      "option1": "Kargil War",
+      "option2": "1965 Indo-Pak War",
+      "option3": "1971 Indo-Pak War",
+      "option4": "Goa Liberation",
+      "answer": "Kargil War",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "Which organisation develops many indigenous defence systems and technologies for India?",
+      "option1": "DRDO",
+      "option2": "SEBI",
+      "option3": "ISRO only",
+      "option4": "RBI",
+      "answer": "DRDO",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "Which city is known as the 'City of Pearls'?",
+      "option1": "Hyderabad",
+      "option2": "Jaipur",
+      "option3": "Lucknow",
+      "option4": "Surat",
+      "answer": "Hyderabad",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "Which Indian state is famous for the Sundarbans?",
+      "option1": "Odisha",
+      "option2": "West Bengal",
+      "option3": "Assam",
+      "option4": "Bihar",
+      "answer": "West Bengal",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "Which is the largest ocean on Earth?",
+      "option1": "Atlantic Ocean",
+      "option2": "Indian Ocean",
+      "option3": "Pacific Ocean",
+      "option4": "Arctic Ocean",
+      "answer": "Pacific Ocean",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "Which layer of the atmosphere contains most weather phenomena?",
+      "option1": "Stratosphere",
+      "option2": "Troposphere",
+      "option3": "Mesosphere",
+      "option4": "Thermosphere",
+      "answer": "Troposphere",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "Which vitamin is mainly produced in the human body through exposure to sunlight?",
+      "option1": "Vitamin A",
+      "option2": "Vitamin B12",
+      "option3": "Vitamin C",
+      "option4": "Vitamin D",
+      "answer": "Vitamin D",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "Which blood cells are primarily responsible for fighting infections?",
+      "option1": "Red blood cells",
+      "option2": "White blood cells",
+      "option3": "Platelets",
+      "option4": "Plasma cells only",
+      "answer": "White blood cells",
+      "subject": "General Awareness"
+    },
+    {
+      "question": "Choose the synonym of 'Abundant'.",
+      "option1": "Scarce",
+      "option2": "Plentiful",
+      "option3": "Limited",
+      "option4": "Rare",
+      "answer": "Plentiful",
+      "subject": "English"
+    },
+    {
+      "question": "Choose the antonym of 'Ancient'.",
+      "option1": "Old",
+      "option2": "Historic",
+      "option3": "Modern",
+      "option4": "Traditional",
+      "answer": "Modern",
+      "subject": "English"
+    },
+    {
+      "question": "Choose the synonym of 'Brave'.",
+      "option1": "Cowardly",
+      "option2": "Courageous",
+      "option3": "Weak",
+      "option4": "Timid",
+      "answer": "Courageous",
+      "subject": "English"
+    },
+    {
+      "question": "Choose the antonym of 'Expand'.",
+      "option1": "Increase",
+      "option2": "Extend",
+      "option3": "Contract",
+      "option4": "Enlarge",
+      "answer": "Contract",
+      "subject": "English"
+    },
+    {
+      "question": "Choose the synonym of 'Rapid'.",
+      "option1": "Slow",
+      "option2": "Fast",
+      "option3": "Weak",
+      "option4": "Late",
+      "answer": "Fast",
+      "subject": "English"
+    },
+    {
+      "question": "Choose the antonym of 'Victory'.",
+      "option1": "Success",
+      "option2": "Triumph",
+      "option3": "Defeat",
+      "option4": "Achievement",
+      "answer": "Defeat",
+      "subject": "English"
+    },
+    {
+      "question": "Choose the synonym of 'Honest'.",
+      "option1": "Truthful",
+      "option2": "Deceitful",
+      "option3": "Dishonest",
+      "option4": "Cunning",
+      "answer": "Truthful",
+      "subject": "English"
+    },
+    {
+      "question": "Choose the antonym of 'Generous'.",
+      "option1": "Kind",
+      "option2": "Helpful",
+      "option3": "Selfish",
+      "option4": "Charitable",
+      "answer": "Selfish",
+      "subject": "English"
+    },
+    {
+      "question": "Choose the synonym of 'Difficult'.",
+      "option1": "Easy",
+      "option2": "Simple",
+      "option3": "Hard",
+      "option4": "Clear",
+      "answer": "Hard",
+      "subject": "English"
+    },
+    {
+      "question": "Choose the antonym of 'Permanent'.",
+      "option1": "Stable",
+      "option2": "Temporary",
+      "option3": "Fixed",
+      "option4": "Constant",
+      "answer": "Temporary",
+      "subject": "English"
+    },
+    {
+      "question": "Fill in the blank: She ___ to school every day.",
+      "option1": "go",
+      "option2": "goes",
+      "option3": "going",
+      "option4": "gone",
+      "answer": "goes",
+      "subject": "English"
+    },
+    {
+      "question": "Fill in the blank: They ___ playing football yesterday.",
+      "option1": "is",
+      "option2": "are",
+      "option3": "was",
+      "option4": "were",
+      "answer": "were",
+      "subject": "English"
+    },
+    {
+      "question": "Fill in the blank: He has been working here ___ 2020.",
+      "option1": "for",
+      "option2": "since",
+      "option3": "from",
+      "option4": "by",
+      "answer": "since",
+      "subject": "English"
+    },
+    {
+      "question": "Fill in the blank: I have lived here ___ five years.",
+      "option1": "since",
+      "option2": "for",
+      "option3": "from",
+      "option4": "at",
+      "answer": "for",
+      "subject": "English"
+    },
+    {
+      "question": "Fill in the blank: Neither Ram nor his friends ___ present.",
+      "option1": "was",
+      "option2": "is",
+      "option3": "were",
+      "option4": "has",
+      "answer": "were",
+      "subject": "English"
+    },
+    {
+      "question": "Fill in the blank: The train arrived ___ time.",
+      "option1": "on",
+      "option2": "in",
+      "option3": "at",
+      "option4": "by",
+      "answer": "on",
+      "subject": "English"
+    },
+    {
+      "question": "Fill in the blank: She is good ___ mathematics.",
+      "option1": "in",
+      "option2": "on",
+      "option3": "at",
+      "option4": "for",
+      "answer": "at",
+      "subject": "English"
+    },
+    {
+      "question": "Fill in the blank: He is afraid ___ dogs.",
+      "option1": "from",
+      "option2": "of",
+      "option3": "with",
+      "option4": "by",
+      "answer": "of",
+      "subject": "English"
+    },
+    {
+      "question": "Fill in the blank: The book is ___ the table.",
+      "option1": "on",
+      "option2": "at",
+      "option3": "by",
+      "option4": "into",
+      "answer": "on",
+      "subject": "English"
+    },
+    {
+      "question": "Fill in the blank: We should respect ___ elders.",
+      "option1": "a",
+      "option2": "an",
+      "option3": "the",
+      "option4": "no article",
+      "answer": "the",
+      "subject": "English"
+    },
+    {
+      "question": "Choose the correctly spelled word.",
+      "option1": "Accomodation",
+      "option2": "Accommodation",
+      "option3": "Acommodation",
+      "option4": "Accommadation",
+      "answer": "Accommodation",
+      "subject": "English"
+    },
+    {
+      "question": "Identify the noun in the sentence: 'The soldier showed great courage.'",
+      "option1": "The",
+      "option2": "soldier",
+      "option3": "showed",
+      "option4": "great",
+      "answer": "soldier",
+      "subject": "English"
+    },
+    {
+      "question": "Identify the adjective in the sentence: 'She bought a beautiful dress.'",
+      "option1": "She",
+      "option2": "bought",
+      "option3": "beautiful",
+      "option4": "dress",
+      "answer": "beautiful",
+      "subject": "English"
+    },
+    {
+      "question": "Identify the verb in the sentence: 'The pilot landed safely.'",
+      "option1": "pilot",
+      "option2": "landed",
+      "option3": "safely",
+      "option4": "the",
+      "answer": "landed",
+      "subject": "English"
+    },
+    {
+      "question": "Identify the adverb in the sentence: 'He spoke politely.'",
+      "option1": "He",
+      "option2": "spoke",
+      "option3": "politely",
+      "option4": "none",
+      "answer": "politely",
+      "subject": "English"
+    },
+    {
+      "question": "Choose the correct plural form of 'Mouse'.",
+      "option1": "Mouses",
+      "option2": "Mousees",
+      "option3": "Mice",
+      "option4": "Meese",
+      "answer": "Mice",
+      "subject": "English"
+    },
+    {
+      "question": "Choose the correct plural form of 'Child'.",
+      "option1": "Childs",
+      "option2": "Children",
+      "option3": "Childes",
+      "option4": "Childrens",
+      "answer": "Children",
+      "subject": "English"
+    },
+    {
+      "question": "Choose the correct plural form of 'Analysis'.",
+      "option1": "Analysises",
+      "option2": "Analysis",
+      "option3": "Analyses",
+      "option4": "Analysies",
+      "answer": "Analyses",
+      "subject": "English"
+    },
+    {
+      "question": "Change into passive voice: 'The officer opened the door.'",
+      "option1": "The door was opened by the officer.",
+      "option2": "The door is opened by the officer.",
+      "option3": "The officer was opened by the door.",
+      "option4": "The door had opened the officer.",
+      "answer": "The door was opened by the officer.",
+      "subject": "English"
+    },
+    {
+      "question": "Change into passive voice: 'The pilot flew the aircraft.'",
+      "option1": "The aircraft was flown by the pilot.",
+      "option2": "The aircraft is flown by the pilot.",
+      "option3": "The pilot was flown by the aircraft.",
+      "option4": "The aircraft had flew the pilot.",
+      "answer": "The aircraft was flown by the pilot.",
+      "subject": "English"
+    },
+    {
+      "question": "Choose the correct indirect speech: She said, 'I am tired.'",
+      "option1": "She said that I am tired.",
+      "option2": "She said that she was tired.",
+      "option3": "She says that she was tired.",
+      "option4": "She said she is tired.",
+      "answer": "She said that she was tired.",
+      "subject": "English"
+    },
+    {
+      "question": "Choose the correct indirect speech: Ram said, 'I will help you.'",
+      "option1": "Ram said that he would help me.",
+      "option2": "Ram said that I will help you.",
+      "option3": "Ram says that he would help me.",
+      "option4": "Ram said that he helps me.",
+      "answer": "Ram said that he would help me.",
+      "subject": "English"
+    },
+    {
+      "question": "Choose the correct sentence.",
+      "option1": "He do not know the answer.",
+      "option2": "He does not know the answer.",
+      "option3": "He does not knows the answer.",
+      "option4": "He don't knows the answer.",
+      "answer": "He does not know the answer.",
+      "subject": "English"
+    },
+    {
+      "question": "Choose the correct punctuation.",
+      "option1": "What a beautiful day!",
+      "option2": "What a beautiful day.",
+      "option3": "What a beautiful day?",
+      "option4": "What, a beautiful day!",
+      "answer": "What a beautiful day!",
+      "subject": "English"
+    },
+    {
+      "question": "What is the meaning of the idiom 'A blessing in disguise'?",
+      "option1": "A hidden problem",
+      "option2": "Something that seems bad but turns out good",
+      "option3": "A religious ceremony",
+      "option4": "A visible advantage",
+      "answer": "Something that seems bad but turns out good",
+      "subject": "English"
+    },
+    {
+      "question": "What is the meaning of the idiom 'Break the ice'?",
+      "option1": "To destroy something",
+      "option2": "To start a friendly conversation",
+      "option3": "To become angry",
+      "option4": "To stop working",
+      "answer": "To start a friendly conversation",
+      "subject": "English"
+    },
+    {
+      "question": "What is the meaning of the idiom 'Once in a blue moon'?",
+      "option1": "Very frequently",
+      "option2": "Very rarely",
+      "option3": "Every month",
+      "option4": "At night",
+      "answer": "Very rarely",
+      "subject": "English"
+    },
+    {
+      "question": "Choose the one-word substitution for 'A person who loves mankind'.",
+      "option1": "Misanthrope",
+      "option2": "Philanthropist",
+      "option3": "Pessimist",
+      "option4": "Optimist",
+      "answer": "Philanthropist",
+      "subject": "English"
+    },
+    {
+      "question": "Choose the one-word substitution for 'A person who cannot read or write'.",
+      "option1": "Illiterate",
+      "option2": "Immigrant",
+      "option3": "Innocent",
+      "option4": "Inexperienced",
+      "answer": "Illiterate",
+      "subject": "English"
+    },
+    {
+      "question": "Choose the antonym of 'Accept'.",
+      "option1": "Receive",
+      "option2": "Admit",
+      "option3": "Reject",
+      "option4": "Allow",
+      "answer": "Reject",
+      "subject": "English"
+    },
+    {
+      "question": "Choose the synonym of 'Brief'.",
+      "option1": "Long",
+      "option2": "Short",
+      "option3": "Wide",
+      "option4": "Heavy",
+      "answer": "Short",
+      "subject": "English"
+    },
+    {
+      "question": "Choose the antonym of 'Artificial'.",
+      "option1": "Synthetic",
+      "option2": "Natural",
+      "option3": "Man-made",
+      "option4": "False",
+      "answer": "Natural",
+      "subject": "English"
+    },
+    {
+      "question": "Choose the synonym of 'Precise'.",
+      "option1": "Exact",
+      "option2": "Vague",
+      "option3": "Approximate",
+      "option4": "Unclear",
+      "answer": "Exact",
+      "subject": "English"
+    },
+    {
+      "question": "What is 25% of 240?",
+      "option1": "40",
+      "option2": "50",
+      "option3": "60",
+      "option4": "70",
+      "answer": "60",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "If 3x = 45, what is the value of x?",
+      "option1": "10",
+      "option2": "12",
+      "option3": "15",
+      "option4": "18",
+      "answer": "15",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "What is the average of 12, 18, 24, 30 and 36?",
+      "option1": "20",
+      "option2": "22",
+      "option3": "24",
+      "option4": "26",
+      "answer": "24",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "A number is increased from 200 to 250. What is the percentage increase?",
+      "option1": "20%",
+      "option2": "25%",
+      "option3": "30%",
+      "option4": "35%",
+      "answer": "25%",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "What is the simple interest on ₹5000 at 8% per annum for 2 years?",
+      "option1": "₹600",
+      "option2": "₹700",
+      "option3": "₹800",
+      "option4": "₹900",
+      "answer": "₹800",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "A shopkeeper buys an article for ₹800 and sells it for ₹960. What is the profit percentage?",
+      "option1": "15%",
+      "option2": "20%",
+      "option3": "25%",
+      "option4": "30%",
+      "answer": "20%",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "The ratio of two numbers is 3:5 and their sum is 64. What is the smaller number?",
+      "option1": "20",
+      "option2": "24",
+      "option3": "30",
+      "option4": "40",
+      "answer": "24",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "What is the HCF of 36 and 48?",
+      "option1": "6",
+      "option2": "8",
+      "option3": "12",
+      "option4": "16",
+      "answer": "12",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "What is the LCM of 12 and 18?",
+      "option1": "24",
+      "option2": "30",
+      "option3": "36",
+      "option4": "48",
+      "answer": "36",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "A train travels 180 km in 3 hours. What is its average speed?",
+      "option1": "50 km/h",
+      "option2": "60 km/h",
+      "option3": "70 km/h",
+      "option4": "80 km/h",
+      "answer": "60 km/h",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "If a man walks at 5 km/h, how far will he travel in 4 hours?",
+      "option1": "15 km",
+      "option2": "20 km",
+      "option3": "25 km",
+      "option4": "30 km",
+      "answer": "20 km",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "A can complete a work in 10 days. What fraction of the work does A complete in one day?",
+      "option1": "1/5",
+      "option2": "1/10",
+      "option3": "1/15",
+      "option4": "1/20",
+      "answer": "1/10",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "If 5 workers complete a job in 12 days, how many worker-days are required?",
+      "option1": "50",
+      "option2": "60",
+      "option3": "70",
+      "option4": "80",
+      "answer": "60",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "What is 3/4 + 1/8?",
+      "option1": "5/8",
+      "option2": "6/8",
+      "option3": "7/8",
+      "option4": "9/8",
+      "answer": "7/8",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "What is 0.75 × 0.4?",
+      "option1": "0.03",
+      "option2": "0.30",
+      "option3": "0.40",
+      "option4": "0.75",
+      "answer": "0.30",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "A number is divisible by both 6 and 8. Which of the following could be the number?",
+      "option1": "18",
+      "option2": "24",
+      "option3": "30",
+      "option4": "42",
+      "answer": "24",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "What is the square of 25?",
+      "option1": "525",
+      "option2": "625",
+      "option3": "725",
+      "option4": "825",
+      "answer": "625",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "What is the cube of 5?",
+      "option1": "25",
+      "option2": "75",
+      "option3": "100",
+      "option4": "125",
+      "answer": "125",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "What is the value of 15² − 10²?",
+      "option1": "100",
+      "option2": "125",
+      "option3": "150",
+      "option4": "175",
+      "answer": "125",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "If 40% of a number is 80, what is the number?",
+      "option1": "160",
+      "option2": "180",
+      "option3": "200",
+      "option4": "220",
+      "answer": "200",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "A shirt marked at ₹1000 is sold at a discount of 15%. What is the selling price?",
+      "option1": "₹800",
+      "option2": "₹825",
+      "option3": "₹850",
+      "option4": "₹875",
+      "answer": "₹850",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "A person buys an article for ₹600 and sells it at a loss of 10%. What is the selling price?",
+      "option1": "₹520",
+      "option2": "₹540",
+      "option3": "₹560",
+      "option4": "₹580",
+      "answer": "₹540",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "The average of 8 numbers is 15. What is their total?",
+      "option1": "100",
+      "option2": "110",
+      "option3": "120",
+      "option4": "130",
+      "answer": "120",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "The ages of A and B are in the ratio 2:3. If their total age is 50 years, what is B's age?",
+      "option1": "20 years",
+      "option2": "25 years",
+      "option3": "30 years",
+      "option4": "35 years",
+      "answer": "30 years",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "If 7 pens cost ₹84, what is the cost of 12 pens?",
+      "option1": "₹124",
+      "option2": "₹132",
+      "option3": "₹144",
+      "option4": "₹156",
+      "answer": "₹144",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "A sum of ₹1000 is divided in the ratio 2:3. What is the larger share?",
+      "option1": "₹400",
+      "option2": "₹500",
+      "option3": "₹600",
+      "option4": "₹700",
+      "answer": "₹600",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "What is the perimeter of a square with side 12 cm?",
+      "option1": "36 cm",
+      "option2": "48 cm",
+      "option3": "54 cm",
+      "option4": "60 cm",
+      "answer": "48 cm",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "What is the area of a rectangle of length 15 cm and breadth 8 cm?",
+      "option1": "100 cm²",
+      "option2": "110 cm²",
+      "option3": "120 cm²",
+      "option4": "130 cm²",
+      "answer": "120 cm²",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "What is the area of a triangle with base 10 cm and height 12 cm?",
+      "option1": "50 cm²",
+      "option2": "60 cm²",
+      "option3": "70 cm²",
+      "option4": "80 cm²",
+      "answer": "60 cm²",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "What is the circumference of a circle with radius 7 cm? Use π = 22/7.",
+      "option1": "22 cm",
+      "option2": "44 cm",
+      "option3": "49 cm",
+      "option4": "154 cm",
+      "answer": "44 cm",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "A car covers 240 km at a speed of 60 km/h. How much time does it take?",
+      "option1": "3 hours",
+      "option2": "4 hours",
+      "option3": "5 hours",
+      "option4": "6 hours",
+      "answer": "4 hours",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "A cyclist travels 45 km in 3 hours. What is his speed?",
+      "option1": "12 km/h",
+      "option2": "15 km/h",
+      "option3": "18 km/h",
+      "option4": "20 km/h",
+      "answer": "15 km/h",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "If a train travels at 72 km/h, how far will it travel in 25 minutes?",
+      "option1": "20 km",
+      "option2": "25 km",
+      "option3": "30 km",
+      "option4": "35 km",
+      "answer": "30 km",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "What is the simple interest on ₹4000 at 5% per annum for 3 years?",
+      "option1": "₹400",
+      "option2": "₹500",
+      "option3": "₹600",
+      "option4": "₹700",
+      "answer": "₹600",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "What is the amount on ₹2000 at 10% simple interest per annum for 2 years?",
+      "option1": "₹2200",
+      "option2": "₹2300",
+      "option3": "₹2400",
+      "option4": "₹2500",
+      "answer": "₹2400",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "What is 20% of 450?",
+      "option1": "80",
+      "option2": "90",
+      "option3": "100",
+      "option4": "110",
+      "answer": "90",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "A number is decreased from 500 to 425. What is the percentage decrease?",
+      "option1": "10%",
+      "option2": "12%",
+      "option3": "15%",
+      "option4": "18%",
+      "answer": "15%",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "If x + 15 = 40, what is x?",
+      "option1": "20",
+      "option2": "25",
+      "option3": "30",
+      "option4": "35",
+      "answer": "25",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "If 4x − 8 = 24, what is x?",
+      "option1": "6",
+      "option2": "7",
+      "option3": "8",
+      "option4": "9",
+      "answer": "8",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "What is the next number in the series 2, 4, 8, 16, ?",
+      "option1": "24",
+      "option2": "28",
+      "option3": "32",
+      "option4": "36",
+      "answer": "32",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "What is the next number in the series 5, 10, 15, 20, ?",
+      "option1": "22",
+      "option2": "24",
+      "option3": "25",
+      "option4": "30",
+      "answer": "25",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "A bag contains 3 red balls and 2 blue balls. What is the probability of drawing a red ball?",
+      "option1": "1/5",
+      "option2": "2/5",
+      "option3": "3/5",
+      "option4": "4/5",
+      "answer": "3/5",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "What is the probability of getting a head when a fair coin is tossed once?",
+      "option1": "1/4",
+      "option2": "1/3",
+      "option3": "1/2",
+      "option4": "1",
+      "answer": "1/2",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "A mixture contains milk and water in the ratio 3:2. If the total mixture is 25 litres, how much milk is present?",
+      "option1": "10 litres",
+      "option2": "12 litres",
+      "option3": "15 litres",
+      "option4": "18 litres",
+      "answer": "15 litres",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "A man spends 75% of his income. If his income is ₹20,000, how much does he save?",
+      "option1": "₹4000",
+      "option2": "₹5000",
+      "option3": "₹6000",
+      "option4": "₹7000",
+      "answer": "₹5000",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "If 8 machines produce 400 units in a day, how many units will 12 machines produce at the same rate?",
+      "option1": "500",
+      "option2": "550",
+      "option3": "600",
+      "option4": "650",
+      "answer": "600",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "A clock shows 3:00. What is the angle between the hour and minute hands?",
+      "option1": "60°",
+      "option2": "90°",
+      "option3": "120°",
+      "option4": "180°",
+      "answer": "90°",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "What is the value of 15% of 800 + 10% of 500?",
+      "option1": "150",
+      "option2": "160",
+      "option3": "170",
+      "option4": "180",
+      "answer": "170",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "A shopkeeper gives a 20% discount on an article marked ₹1500. What is the discount amount?",
+      "option1": "₹200",
+      "option2": "₹250",
+      "option3": "₹300",
+      "option4": "₹350",
+      "answer": "₹300",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "If 2/5 of a number is 36, what is the number?",
+      "option1": "72",
+      "option2": "80",
+      "option3": "90",
+      "option4": "100",
+      "answer": "90",
+      "subject": "Numerical Ability"
+    },
+    {
+      "question": "Find the next number: 2, 4, 8, 16, ?",
+      "option1": "24",
+      "option2": "28",
+      "option3": "32",
+      "option4": "36",
+      "answer": "32",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "Find the next number: 3, 6, 12, 24, ?",
+      "option1": "36",
+      "option2": "42",
+      "option3": "48",
+      "option4": "54",
+      "answer": "48",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "Find the odd one out.",
+      "option1": "Apple",
+      "option2": "Mango",
+      "option3": "Carrot",
+      "option4": "Banana",
+      "answer": "Carrot",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "If CAT is coded as DBU, how is DOG coded?",
+      "option1": "EPH",
+      "option2": "EOG",
+      "option3": "FPH",
+      "option4": "DPH",
+      "answer": "EPH",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "If A = 1, B = 2, C = 3, what is the value of BAD?",
+      "option1": "5",
+      "option2": "6",
+      "option3": "7",
+      "option4": "8",
+      "answer": "7",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "Complete the analogy: Book : Reading :: Pen : ?",
+      "option1": "Writing",
+      "option2": "Drawing",
+      "option3": "Paper",
+      "option4": "Ink",
+      "answer": "Writing",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "Complete the analogy: Bird : Nest :: Lion : ?",
+      "option1": "Cage",
+      "option2": "Den",
+      "option3": "Stable",
+      "option4": "Kennel",
+      "answer": "Den",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "Which number does not belong to the group?",
+      "option1": "9",
+      "option2": "16",
+      "option3": "25",
+      "option4": "30",
+      "answer": "30",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "If NORTH is written as OPSUI, how is SOUTH written using the same pattern?",
+      "option1": "TPVUI",
+      "option2": "TPVTH",
+      "option3": "TPVUI",
+      "option4": "TPVUH",
+      "answer": "TPVUI",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "A is taller than B. B is taller than C. Who is the shortest?",
+      "option1": "A",
+      "option2": "B",
+      "option3": "C",
+      "option4": "Cannot be determined",
+      "answer": "C",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "Ravi walks 5 km north and then 3 km east. In which direction is he from his starting point?",
+      "option1": "North-West",
+      "option2": "North-East",
+      "option3": "South-East",
+      "option4": "South-West",
+      "answer": "North-East",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "A person faces east and turns right. Which direction is he facing?",
+      "option1": "North",
+      "option2": "South",
+      "option3": "East",
+      "option4": "West",
+      "answer": "South",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "A person faces north and turns left. Which direction is he facing?",
+      "option1": "East",
+      "option2": "West",
+      "option3": "South",
+      "option4": "North",
+      "answer": "West",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "Pointing to a man, Ravi said, 'He is the son of my mother's only son.' How is the man related to Ravi?",
+      "option1": "Brother",
+      "option2": "Father",
+      "option3": "Son",
+      "option4": "Uncle",
+      "answer": "Son",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "If P is the brother of Q and Q is the sister of R, how is P related to R?",
+      "option1": "Brother",
+      "option2": "Sister",
+      "option3": "Father",
+      "option4": "Uncle",
+      "answer": "Brother",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "Find the missing number: 5, 10, 20, 40, ?",
+      "option1": "60",
+      "option2": "70",
+      "option3": "80",
+      "option4": "90",
+      "answer": "80",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "Find the missing number: 100, 90, 80, 70, ?",
+      "option1": "50",
+      "option2": "55",
+      "option3": "60",
+      "option4": "65",
+      "answer": "60",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "Which word comes first in alphabetical order?",
+      "option1": "Apple",
+      "option2": "Ant",
+      "option3": "Apply",
+      "option4": "Ape",
+      "answer": "Ant",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "If all roses are flowers and some flowers are red, which statement is definitely true?",
+      "option1": "All roses are red",
+      "option2": "All flowers are roses",
+      "option3": "Roses are flowers",
+      "option4": "No roses are red",
+      "answer": "Roses are flowers",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "Choose the pair that is different from the others.",
+      "option1": "2 : 4",
+      "option2": "3 : 9",
+      "option3": "4 : 16",
+      "option4": "5 : 20",
+      "answer": "5 : 20",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "If MONDAY is coded as 123456, what digit represents D?",
+      "option1": "3",
+      "option2": "4",
+      "option3": "5",
+      "option4": "6",
+      "answer": "4",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "Which figure has the greatest number of sides?",
+      "option1": "Triangle",
+      "option2": "Square",
+      "option3": "Pentagon",
+      "option4": "Hexagon",
+      "answer": "Hexagon",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "A clock shows 6:00. What is the angle between the hands?",
+      "option1": "90°",
+      "option2": "120°",
+      "option3": "180°",
+      "option4": "360°",
+      "answer": "180°",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "If today is Monday, what day will it be after 10 days?",
+      "option1": "Wednesday",
+      "option2": "Thursday",
+      "option3": "Friday",
+      "option4": "Saturday",
+      "answer": "Thursday",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "If January 1 is a Monday, what day is January 8?",
+      "option1": "Monday",
+      "option2": "Tuesday",
+      "option3": "Sunday",
+      "option4": "Wednesday",
+      "answer": "Monday",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "Find the next letter: A, C, E, G, ?",
+      "option1": "H",
+      "option2": "I",
+      "option3": "J",
+      "option4": "K",
+      "answer": "I",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "Find the next letter: Z, X, V, T, ?",
+      "option1": "S",
+      "option2": "R",
+      "option3": "Q",
+      "option4": "P",
+      "answer": "R",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "If DELHI is coded as 45189, what is the code for HID?",
+      "option1": "894",
+      "option2": "984",
+      "option3": "849",
+      "option4": "489",
+      "answer": "894",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "Which number is different from the others?",
+      "option1": "121",
+      "option2": "144",
+      "option3": "169",
+      "option4": "180",
+      "answer": "180",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "A, B, C, D and E are standing in a line. A is before B, B is before C, C is before D, and D is before E. Who is in the middle?",
+      "option1": "A",
+      "option2": "B",
+      "option3": "C",
+      "option4": "D",
+      "answer": "C",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "If five people are arranged by age from youngest to oldest, who is third?",
+      "option1": "Youngest",
+      "option2": "Second youngest",
+      "option3": "Middle-aged person",
+      "option4": "Oldest",
+      "answer": "Middle-aged person",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "Which one is a mirror image of the letter 'b'?",
+      "option1": "b",
+      "option2": "d",
+      "option3": "p",
+      "option4": "q",
+      "answer": "d",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "Complete the series: 1, 4, 9, 16, ?",
+      "option1": "20",
+      "option2": "24",
+      "option3": "25",
+      "option4": "30",
+      "answer": "25",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "Complete the series: 2, 6, 12, 20, ?",
+      "option1": "28",
+      "option2": "30",
+      "option3": "32",
+      "option4": "36",
+      "answer": "30",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "If all pilots are officers and some officers are engineers, which statement is definitely true?",
+      "option1": "All engineers are pilots",
+      "option2": "All pilots are officers",
+      "option3": "No pilots are engineers",
+      "option4": "All officers are pilots",
+      "answer": "All pilots are officers",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "A soldier walks 4 km east and then 4 km north. What is the shortest distance from his starting point?",
+      "option1": "4 km",
+      "option2": "6 km",
+      "option3": "8 km",
+      "option4": "√32 km",
+      "answer": "√32 km",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "Which of the following is a pair of opposites?",
+      "option1": "Hot - Cold",
+      "option2": "Fast - Quick",
+      "option3": "Big - Large",
+      "option4": "Small - Tiny",
+      "answer": "Hot - Cold",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "If 1 January is Sunday, what day will 15 January be?",
+      "option1": "Saturday",
+      "option2": "Sunday",
+      "option3": "Monday",
+      "option4": "Tuesday",
+      "answer": "Sunday",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "If 'AIR' is coded as 'BJS', how is 'ARMY' coded?",
+      "option1": "BSNZ",
+      "option2": "BSMZ",
+      "option3": "BRNZ",
+      "option4": "CSNZ",
+      "answer": "BSNZ",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "A man is facing west. He turns 90° clockwise. Which direction is he facing?",
+      "option1": "North",
+      "option2": "South",
+      "option3": "East",
+      "option4": "West",
+      "answer": "North",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "Find the missing term: AB, DE, GH, JK, ?",
+      "option1": "LM",
+      "option2": "MN",
+      "option3": "NO",
+      "option4": "OP",
+      "answer": "MN",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "If 8 is related to 64 in the same way as 7 is related to 49, how is 6 related?",
+      "option1": "12",
+      "option2": "24",
+      "option3": "36",
+      "option4": "42",
+      "answer": "36",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "Which number should replace the question mark? 4, 9, 16, 25, ?",
+      "option1": "30",
+      "option2": "32",
+      "option3": "36",
+      "option4": "40",
+      "answer": "36",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "A is the father of B. B is the mother of C. How is A related to C?",
+      "option1": "Father",
+      "option2": "Grandfather",
+      "option3": "Uncle",
+      "option4": "Brother",
+      "answer": "Grandfather",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "Which of the following is the odd one out?",
+      "option1": "Army",
+      "option2": "Navy",
+      "option3": "Air Force",
+      "option4": "Railway",
+      "answer": "Railway",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "If SOUTH is written as HTUOS, how is AIR written?",
+      "option1": "RIA",
+      "option2": "IRA",
+      "option3": "RAI",
+      "option4": "AIR",
+      "answer": "RIA",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "Find the next number: 11, 22, 33, 44, ?",
+      "option1": "50",
+      "option2": "55",
+      "option3": "66",
+      "option4": "77",
+      "answer": "55",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "Which direction is opposite to North-East?",
+      "option1": "North-West",
+      "option2": "South-East",
+      "option3": "South-West",
+      "option4": "West",
+      "answer": "South-West",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "If all cats are animals and all animals need food, which conclusion follows?",
+      "option1": "All cats need food",
+      "option2": "All food is eaten by cats",
+      "option3": "No cats need food",
+      "option4": "Only cats need food",
+      "answer": "All cats need food",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "What is the synonym of 'Abundant'?",
+      "option1": "Scarce",
+      "option2": "Plentiful",
+      "option3": "Limited",
+      "option4": "Rare",
+      "answer": "Plentiful",
+      "subject": "English"
+    },
+    {
+      "question": "Choose the correct meaning of 'Benevolent'.",
+      "option1": "Cruel",
+      "option2": "Kind and generous",
+      "option3": "Angry",
+      "option4": "Careless",
+      "answer": "Kind and generous",
+      "subject": "English"
+    },
+    {
+      "question": "Choose the word opposite in meaning to 'Ancient'.",
+      "option1": "Old",
+      "option2": "Historic",
+      "option3": "Modern",
+      "option4": "Traditional",
+      "answer": "Modern",
+      "subject": "English"
+    },
+    {
+      "question": "If 12 soldiers are arranged in 3 equal rows, how many soldiers are in each row?",
+      "option1": "3",
+      "option2": "4",
+      "option3": "5",
+      "option4": "6",
+      "answer": "4",
+      "subject": "English"
+    },
+    {
+      "question": "What is 18% of 500?",
+      "option1": "80",
+      "option2": "90",
+      "option3": "100",
+      "option4": "110",
+      "answer": "90",
+      "subject": "English"
+    },
+    {
+      "question": "Find the next number: 7, 14, 28, 56, ?",
+      "option1": "84",
+      "option2": "98",
+      "option3": "112",
+      "option4": "120",
+      "answer": "112",
+      "subject": "Reasoning & Military Aptitude"
+    },
+    {
+      "question": "If all fighter aircraft are aircraft and some aircraft are helicopters, which statement is definitely true?",
+      "option1": "All helicopters are fighter aircraft",
+      "option2": "All fighter aircraft are aircraft",
+      "option3": "No aircraft are helicopters",
+      "option4": "All aircraft are fighter aircraft",
+      "answer": "All fighter aircraft are aircraft",
+      "subject": "English"
+    },
+    {
+      "question": "Which number is the odd one out?",
+      "option1": "27",
+      "option2": "64",
+      "option3": "125",
+      "option4": "150",
+      "answer": "150",
+      "subject": "English"
+    }
+  ]
+}

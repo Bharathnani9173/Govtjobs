@@ -1,0 +1,1606 @@
+{
+  "exam": "RRB Technician",
+  "questions": [
+    {
+      "question": "What is the SI unit of electrical resistance?",
+      "option1": "Volt",
+      "option2": "Ampere",
+      "option3": "Ohm",
+      "option4": "Watt",
+      "answer": "Ohm"
+    },
+    {
+      "question": "Which instrument is used to measure electric current?",
+      "option1": "Voltmeter",
+      "option2": "Ammeter",
+      "option3": "Ohmmeter",
+      "option4": "Wattmeter",
+      "answer": "Ammeter"
+    },
+    {
+      "question": "Which device converts electrical energy into mechanical energy?",
+      "option1": "Generator",
+      "option2": "Transformer",
+      "option3": "Electric motor",
+      "option4": "Battery",
+      "answer": "Electric motor"
+    },
+    {
+      "question": "What is the SI unit of electrical power?",
+      "option1": "Joule",
+      "option2": "Watt",
+      "option3": "Ohm",
+      "option4": "Coulomb",
+      "answer": "Watt"
+    },
+    {
+      "question": "Which material is commonly used as an electrical conductor?",
+      "option1": "Rubber",
+      "option2": "Glass",
+      "option3": "Copper",
+      "option4": "Wood",
+      "answer": "Copper"
+    },
+    {
+      "question": "What does a fuse protect an electrical circuit from?",
+      "option1": "Low voltage",
+      "option2": "Excessive current",
+      "option3": "Low resistance",
+      "option4": "Low temperature",
+      "answer": "Excessive current"
+    },
+    {
+      "question": "Which law states that V = IR?",
+      "option1": "Faraday's Law",
+      "option2": "Ohm's Law",
+      "option3": "Newton's Law",
+      "option4": "Kirchhoff's Law",
+      "answer": "Ohm's Law"
+    },
+    {
+      "question": "Which component stores electrical energy in an electric field?",
+      "option1": "Resistor",
+      "option2": "Capacitor",
+      "option3": "Diode",
+      "option4": "Fuse",
+      "answer": "Capacitor"
+    },
+    {
+      "question": "Which component is commonly used to convert AC into DC?",
+      "option1": "Rectifier",
+      "option2": "Transformer",
+      "option3": "Inductor",
+      "option4": "Motor",
+      "answer": "Rectifier"
+    },
+    {
+      "question": "What is the SI unit of frequency?",
+      "option1": "Hertz",
+      "option2": "Watt",
+      "option3": "Volt",
+      "option4": "Tesla",
+      "answer": "Hertz"
+    },
+    {
+      "question": "Which instrument is used to measure voltage?",
+      "option1": "Ammeter",
+      "option2": "Voltmeter",
+      "option3": "Galvanometer",
+      "option4": "Wattmeter",
+      "answer": "Voltmeter"
+    },
+    {
+      "question": "Which type of current changes direction periodically?",
+      "option1": "Direct current",
+      "option2": "Alternating current",
+      "option3": "Static current",
+      "option4": "Leakage current",
+      "answer": "Alternating current"
+    },
+    {
+      "question": "Which device is used to step up or step down AC voltage?",
+      "option1": "Transformer",
+      "option2": "Motor",
+      "option3": "Rectifier",
+      "option4": "Battery",
+      "answer": "Transformer"
+    },
+    {
+      "question": "Which semiconductor device allows current to flow mainly in one direction?",
+      "option1": "Transistor",
+      "option2": "Diode",
+      "option3": "Capacitor",
+      "option4": "Resistor",
+      "answer": "Diode"
+    },
+    {
+      "question": "What is the SI unit of electric charge?",
+      "option1": "Coulomb",
+      "option2": "Ampere",
+      "option3": "Volt",
+      "option4": "Joule",
+      "answer": "Coulomb"
+    },
+    {
+      "question": "Which instrument is used to measure electrical energy consumed?",
+      "option1": "Energy meter",
+      "option2": "Ammeter",
+      "option3": "Voltmeter",
+      "option4": "Galvanometer",
+      "answer": "Energy meter"
+    },
+    {
+      "question": "Which material is an electrical insulator?",
+      "option1": "Copper",
+      "option2": "Aluminium",
+      "option3": "Rubber",
+      "option4": "Silver",
+      "answer": "Rubber"
+    },
+    {
+      "question": "What happens to resistance when the length of a conductor increases, keeping other factors constant?",
+      "option1": "It decreases",
+      "option2": "It increases",
+      "option3": "It becomes zero",
+      "option4": "It remains unchanged",
+      "answer": "It increases"
+    },
+    {
+      "question": "Which quantity is measured in volts?",
+      "option1": "Current",
+      "option2": "Resistance",
+      "option3": "Potential difference",
+      "option4": "Power",
+      "answer": "Potential difference"
+    },
+    {
+      "question": "Which machine converts mechanical energy into electrical energy?",
+      "option1": "Motor",
+      "option2": "Generator",
+      "option3": "Transformer",
+      "option4": "Rectifier",
+      "answer": "Generator"
+    },
+    {
+      "question": "Which tool is commonly used for tightening or loosening screws?",
+      "option1": "Hammer",
+      "option2": "Screwdriver",
+      "option3": "Chisel",
+      "option4": "File",
+      "answer": "Screwdriver"
+    },
+    {
+      "question": "Which tool is used to measure the diameter of a small object accurately?",
+      "option1": "Steel rule",
+      "option2": "Vernier caliper",
+      "option3": "Hammer",
+      "option4": "Spanner",
+      "answer": "Vernier caliper"
+    },
+    {
+      "question": "Which unit is used to measure mechanical work?",
+      "option1": "Watt",
+      "option2": "Joule",
+      "option3": "Newton",
+      "option4": "Pascal",
+      "answer": "Joule"
+    },
+    {
+      "question": "What is the SI unit of force?",
+      "option1": "Joule",
+      "option2": "Newton",
+      "option3": "Watt",
+      "option4": "Pascal",
+      "answer": "Newton"
+    },
+    {
+      "question": "Which simple machine is commonly used in a workshop to lift heavy loads?",
+      "option1": "Pulley",
+      "option2": "Thermometer",
+      "option3": "Voltmeter",
+      "option4": "Ammeter",
+      "answer": "Pulley"
+    },
+    {
+  "question": "Which law explains the relationship between current and magnetic field around a conductor?",
+  "option1": "Ampere's Law",
+  "option2": "Ohm's Law",
+  "option3": "Hooke's Law",
+  "option4": "Boyle's Law",
+  "answer": "Ampere's Law"
+},
+{
+  "question": "Which device is used to protect an electrical circuit by automatically switching off during overload?",
+  "option1": "MCB",
+  "option2": "Capacitor",
+  "option3": "Transformer",
+  "option4": "Inductor",
+  "answer": "MCB"
+},
+{
+  "question": "What is the main purpose of earthing in an electrical system?",
+  "option1": "Increase voltage",
+  "option2": "Reduce frequency",
+  "option3": "Provide a safe path for fault current",
+  "option4": "Increase resistance",
+  "answer": "Provide a safe path for fault current"
+},
+{
+  "question": "Which metal has very high electrical conductivity and is commonly used in electrical contacts?",
+  "option1": "Silver",
+  "option2": "Iron",
+  "option3": "Lead",
+  "option4": "Tin",
+  "answer": "Silver"
+},
+{
+  "question": "What is the unit of electrical resistance?",
+  "option1": "Ohm",
+  "option2": "Volt",
+  "option3": "Ampere",
+  "option4": "Coulomb",
+  "answer": "Ohm"
+},
+{
+  "question": "Which instrument can measure voltage, current and resistance?",
+  "option1": "Multimeter",
+  "option2": "Transformer",
+  "option3": "Oscillator",
+  "option4": "Rectifier",
+  "answer": "Multimeter"
+},
+{
+  "question": "What happens to current in a series circuit if resistance increases while voltage remains constant?",
+  "option1": "Current increases",
+  "option2": "Current decreases",
+  "option3": "Current becomes infinite",
+  "option4": "Current remains unchanged",
+  "answer": "Current decreases"
+},
+{
+  "question": "Which component opposes sudden changes in current in an electrical circuit?",
+  "option1": "Inductor",
+  "option2": "Fuse",
+  "option3": "Diode",
+  "option4": "Switch",
+  "answer": "Inductor"
+},
+{
+  "question": "Which type of motor is commonly used where high starting torque is required?",
+  "option1": "DC series motor",
+  "option2": "DC shunt motor",
+  "option3": "Synchronous motor",
+  "option4": "Induction motor",
+  "answer": "DC series motor"
+},
+{
+  "question": "Which device converts chemical energy directly into electrical energy?",
+  "option1": "Battery",
+  "option2": "Transformer",
+  "option3": "Motor",
+  "option4": "Generator",
+  "answer": "Battery"
+},
+{
+  "question": "Which instrument is used to measure very small electric currents?",
+  "option1": "Galvanometer",
+  "option2": "Voltmeter",
+  "option3": "Wattmeter",
+  "option4": "Energy meter",
+  "answer": "Galvanometer"
+},
+{
+  "question": "What is the purpose of insulation on an electrical wire?",
+  "option1": "Increase current",
+  "option2": "Prevent unwanted current flow",
+  "option3": "Increase voltage",
+  "option4": "Increase frequency",
+  "answer": "Prevent unwanted current flow"
+},
+{
+  "question": "Which type of material has conductivity between that of conductors and insulators?",
+  "option1": "Semiconductor",
+  "option2": "Superconductor",
+  "option3": "Electrolyte",
+  "option4": "Ferromagnetic material",
+  "answer": "Semiconductor"
+},
+{
+  "question": "Which semiconductor is widely used for making electronic components?",
+  "option1": "Silicon",
+  "option2": "Copper",
+  "option3": "Aluminium",
+  "option4": "Iron",
+  "answer": "Silicon"
+},
+{
+  "question": "Which device is used to amplify an electronic signal?",
+  "option1": "Transistor",
+  "option2": "Fuse",
+  "option3": "Switch",
+  "option4": "Resistor",
+  "answer": "Transistor"
+},
+{
+  "question": "Which logic gate gives an output of 1 only when all its inputs are 1?",
+  "option1": "OR",
+  "option2": "AND",
+  "option3": "NOT",
+  "option4": "NOR",
+  "answer": "AND"
+},
+{
+  "question": "Which logic gate reverses the input signal?",
+  "option1": "AND",
+  "option2": "OR",
+  "option3": "NOT",
+  "option4": "NAND",
+  "answer": "NOT"
+},
+{
+  "question": "Which physical quantity is measured using a thermometer?",
+  "option1": "Pressure",
+  "option2": "Temperature",
+  "option3": "Force",
+  "option4": "Current",
+  "answer": "Temperature"
+},
+{
+  "question": "What is the SI unit of pressure?",
+  "option1": "Newton",
+  "option2": "Pascal",
+  "option3": "Joule",
+  "option4": "Watt",
+  "answer": "Pascal"
+},
+{
+  "question": "Which force opposes the relative motion between two surfaces in contact?",
+  "option1": "Gravity",
+  "option2": "Friction",
+  "option3": "Magnetism",
+  "option4": "Buoyancy",
+  "answer": "Friction"
+},
+{
+  "question": "Which tool is mainly used for striking and driving objects?",
+  "option1": "Hammer",
+  "option2": "File",
+  "option3": "Pliers",
+  "option4": "Caliper",
+  "answer": "Hammer"
+},
+{
+  "question": "Which tool is used to hold and grip small components?",
+  "option1": "Pliers",
+  "option2": "Chisel",
+  "option3": "Hacksaw",
+  "option4": "Drill",
+  "answer": "Pliers"
+},
+{
+  "question": "Which tool is commonly used for cutting metal sheets and wires?",
+  "option1": "Cutter",
+  "option2": "Vernier caliper",
+  "option3": "Spanner",
+  "option4": "Level",
+  "answer": "Cutter"
+},
+{
+  "question": "Which measuring instrument is commonly used to measure the thickness of a thin sheet accurately?",
+  "option1": "Micrometer screw gauge",
+  "option2": "Hammer",
+  "option3": "Spanner",
+  "option4": "Pliers",
+  "answer": "Micrometer screw gauge"
+},
+{
+  "question": "Which safety equipment protects the eyes from sparks and flying particles during workshop work?",
+  "option1": "Safety goggles",
+  "option2": "Safety shoes",
+  "option3": "Ear plugs",
+  "option4": "Helmet",
+  "answer": "Safety goggles"
+},
+ {
+    "question": "Which electrical quantity is measured in amperes?",
+    "option1": "Voltage",
+    "option2": "Current",
+    "option3": "Resistance",
+    "option4": "Power",
+    "answer": "Current"
+  },
+  {
+    "question": "What is the main function of a relay?",
+    "option1": "Store electrical energy",
+    "option2": "Control a circuit using an electrically operated switch",
+    "option3": "Measure voltage",
+    "option4": "Convert AC into DC",
+    "answer": "Control a circuit using an electrically operated switch"
+  },
+  {
+    "question": "Which component is used to limit current in an electrical circuit?",
+    "option1": "Resistor",
+    "option2": "Capacitor",
+    "option3": "Transformer",
+    "option4": "Battery",
+    "answer": "Resistor"
+  },
+  {
+    "question": "In a parallel circuit, the voltage across each branch is generally:",
+    "option1": "Different",
+    "option2": "Zero",
+    "option3": "The same",
+    "option4": "Infinite",
+    "answer": "The same"
+  },
+  {
+    "question": "What is the unit of capacitance?",
+    "option1": "Henry",
+    "option2": "Farad",
+    "option3": "Tesla",
+    "option4": "Weber",
+    "answer": "Farad"
+  },
+  {
+    "question": "What is the unit of inductance?",
+    "option1": "Farad",
+    "option2": "Henry",
+    "option3": "Ohm",
+    "option4": "Coulomb",
+    "answer": "Henry"
+  },
+  {
+    "question": "Which effect is used in an electric heater?",
+    "option1": "Heating effect of current",
+    "option2": "Chemical effect",
+    "option3": "Photoelectric effect",
+    "option4": "Piezoelectric effect",
+    "answer": "Heating effect of current"
+  },
+  {
+    "question": "Which type of connection is commonly used for domestic electrical appliances?",
+    "option1": "Series",
+    "option2": "Parallel",
+    "option3": "Only open circuit",
+    "option4": "Short circuit",
+    "answer": "Parallel"
+  },
+  {
+    "question": "Which device is used to convert DC voltage from one level to another electronically?",
+    "option1": "DC-DC converter",
+    "option2": "Fuse",
+    "option3": "Ammeter",
+    "option4": "Switch",
+    "answer": "DC-DC converter"
+  },
+  {
+    "question": "Which type of motor is commonly used in ceiling fans?",
+    "option1": "Single-phase induction motor",
+    "option2": "DC series motor",
+    "option3": "Universal motor",
+    "option4": "Stepper motor",
+    "answer": "Single-phase induction motor"
+  },
+  {
+    "question": "What is the main purpose of a transformer core?",
+    "option1": "Increase resistance",
+    "option2": "Provide a magnetic path",
+    "option3": "Store electric charge",
+    "option4": "Reduce current to zero",
+    "answer": "Provide a magnetic path"
+  },
+  {
+    "question": "Which principle is responsible for electromagnetic induction?",
+    "option1": "Faraday's law",
+    "option2": "Newton's law",
+    "option3": "Boyle's law",
+    "option4": "Pascal's law",
+    "answer": "Faraday's law"
+  },
+  {
+    "question": "Which instrument displays electrical waveforms?",
+    "option1": "Oscilloscope",
+    "option2": "Ammeter",
+    "option3": "Megger",
+    "option4": "Energy meter",
+    "answer": "Oscilloscope"
+  },
+  {
+    "question": "Which instrument is commonly used to test insulation resistance?",
+    "option1": "Megger",
+    "option2": "Ammeter",
+    "option3": "Wattmeter",
+    "option4": "Thermometer",
+    "answer": "Megger"
+  },
+  {
+    "question": "Which device protects equipment against excessive voltage surges?",
+    "option1": "Surge protector",
+    "option2": "Resistor",
+    "option3": "Capacitor",
+    "option4": "Ammeter",
+    "answer": "Surge protector"
+  },
+  {
+    "question": "What is the primary function of a circuit breaker?",
+    "option1": "Generate electricity",
+    "option2": "Interrupt current during abnormal conditions",
+    "option3": "Store energy",
+    "option4": "Increase frequency",
+    "answer": "Interrupt current during abnormal conditions"
+  },
+  {
+    "question": "Which quantity is measured in watts?",
+    "option1": "Electrical power",
+    "option2": "Electrical charge",
+    "option3": "Resistance",
+    "option4": "Frequency",
+    "answer": "Electrical power"
+  },
+  {
+    "question": "Which quantity is measured in kilowatt-hour?",
+    "option1": "Power",
+    "option2": "Electrical energy",
+    "option3": "Current",
+    "option4": "Voltage",
+    "answer": "Electrical energy"
+  },
+  {
+    "question": "Which material is commonly used for making electrical heating elements?",
+    "option1": "Nichrome",
+    "option2": "Copper",
+    "option3": "Silver",
+    "option4": "Aluminium",
+    "answer": "Nichrome"
+  },
+  {
+    "question": "Which property allows a material to return to its original shape after removal of force?",
+    "option1": "Elasticity",
+    "option2": "Density",
+    "option3": "Conductivity",
+    "option4": "Viscosity",
+    "answer": "Elasticity"
+  },
+  {
+    "question": "Which simple machine is represented by a wheel with a groove through which a rope passes?",
+    "option1": "Lever",
+    "option2": "Pulley",
+    "option3": "Wedge",
+    "option4": "Screw",
+    "answer": "Pulley"
+  },
+  {
+    "question": "Which tool is used to cut metal using a fine-toothed blade?",
+    "option1": "Hacksaw",
+    "option2": "Screwdriver",
+    "option3": "Spanner",
+    "option4": "Pliers",
+    "answer": "Hacksaw"
+  },
+  {
+    "question": "Which tool is used to smooth and remove small amounts of material from a metal surface?",
+    "option1": "File",
+    "option2": "Hammer",
+    "option3": "Drill",
+    "option4": "Wrench",
+    "answer": "File"
+  },
+  {
+    "question": "Which tool is used to make circular holes in materials?",
+    "option1": "Drill",
+    "option2": "Chisel",
+    "option3": "File",
+    "option4": "Screwdriver",
+    "answer": "Drill"
+  },
+  {
+    "question": "Which safety device is commonly used to protect a worker's head in a workshop?",
+    "option1": "Safety helmet",
+    "option2": "Safety goggles",
+    "option3": "Ear plugs",
+    "option4": "Gloves",
+    "answer": "Safety helmet"
+  },
+  {
+    "question": "Which type of current is supplied by a dry cell?",
+    "option1": "Alternating current",
+    "option2": "Direct current",
+    "option3": "Pulsating current only",
+    "option4": "High-frequency current",
+    "answer": "Direct current"
+  },
+  {
+    "question": "Which terminal of a battery is usually marked with a positive sign?",
+    "option1": "Positive terminal",
+    "option2": "Negative terminal",
+    "option3": "Earth terminal",
+    "option4": "Neutral terminal",
+    "answer": "Positive terminal"
+  },
+  {
+    "question": "What happens when two opposite magnetic poles are brought close together?",
+    "option1": "They repel",
+    "option2": "They attract",
+    "option3": "They disappear",
+    "option4": "No force acts",
+    "answer": "They attract"
+  },
+  {
+    "question": "Which material is strongly attracted by a magnet?",
+    "option1": "Iron",
+    "option2": "Wood",
+    "option3": "Glass",
+    "option4": "Rubber",
+    "answer": "Iron"
+  },
+  {
+    "question": "Which device converts sound energy into an electrical signal?",
+    "option1": "Microphone",
+    "option2": "Speaker",
+    "option3": "Motor",
+    "option4": "Transformer",
+    "answer": "Microphone"
+  },
+  {
+    "question": "Which device converts an electrical signal into sound?",
+    "option1": "Microphone",
+    "option2": "Speaker",
+    "option3": "Ammeter",
+    "option4": "Rectifier",
+    "answer": "Speaker"
+  },
+  {
+    "question": "What is the purpose of a switch in an electrical circuit?",
+    "option1": "Measure current",
+    "option2": "Open or close the circuit",
+    "option3": "Increase resistance permanently",
+    "option4": "Generate electricity",
+    "answer": "Open or close the circuit"
+  },
+  {
+    "question": "Which electrical component is represented by the symbol of two parallel plates?",
+    "option1": "Resistor",
+    "option2": "Capacitor",
+    "option3": "Diode",
+    "option4": "Inductor",
+    "answer": "Capacitor"
+  },
+  {
+    "question": "Which component is commonly used to convert AC voltage to a different AC voltage level?",
+    "option1": "Transformer",
+    "option2": "Diode",
+    "option3": "Transistor",
+    "option4": "Fuse",
+    "answer": "Transformer"
+  },
+  {
+    "question": "What is the frequency of standard AC supply in India?",
+    "option1": "25 Hz",
+    "option2": "40 Hz",
+    "option3": "50 Hz",
+    "option4": "60 Hz",
+    "answer": "50 Hz"
+  },
+  {
+    "question": "Which colour is commonly used for the protective earth conductor?",
+    "option1": "Green or green-yellow",
+    "option2": "Red",
+    "option3": "Black",
+    "option4": "Blue",
+    "answer": "Green or green-yellow"
+  },
+  {
+    "question": "Which wire generally carries current from the supply to an electrical appliance?",
+    "option1": "Live wire",
+    "option2": "Earth wire",
+    "option3": "Ground rod",
+    "option4": "Shield wire",
+    "answer": "Live wire"
+  },
+  {
+    "question": "Which wire provides the return path in a typical single-phase domestic circuit?",
+    "option1": "Neutral wire",
+    "option2": "Earth wire",
+    "option3": "Fuse wire",
+    "option4": "Shield wire",
+    "answer": "Neutral wire"
+  },
+  {
+    "question": "Which instrument is used to measure rotational speed of a machine?",
+    "option1": "Tachometer",
+    "option2": "Barometer",
+    "option3": "Ammeter",
+    "option4": "Manometer",
+    "answer": "Tachometer"
+  },
+  {
+    "question": "Which instrument is used to measure pressure in a fluid system?",
+    "option1": "Pressure gauge",
+    "option2": "Tachometer",
+    "option3": "Voltmeter",
+    "option4": "Caliper",
+    "answer": "Pressure gauge"
+  },
+  {
+    "question": "Which device is used to convert mechanical motion into hydraulic pressure in some systems?",
+    "option1": "Hydraulic pump",
+    "option2": "Transformer",
+    "option3": "Capacitor",
+    "option4": "Relay",
+    "answer": "Hydraulic pump"
+  },
+  {
+    "question": "Which principle states that pressure applied to a confined fluid is transmitted equally in all directions?",
+    "option1": "Pascal's law",
+    "option2": "Ohm's law",
+    "option3": "Faraday's law",
+    "option4": "Newton's first law",
+    "answer": "Pascal's law"
+  },
+  {
+    "question": "Which component controls the flow of fluid in a hydraulic system?",
+    "option1": "Valve",
+    "option2": "Battery",
+    "option3": "Resistor",
+    "option4": "Transformer",
+    "answer": "Valve"
+  },
+  {
+    "question": "Which type of energy is stored in a compressed spring?",
+    "option1": "Elastic potential energy",
+    "option2": "Electrical energy",
+    "option3": "Nuclear energy",
+    "option4": "Chemical energy",
+    "answer": "Elastic potential energy"
+  },
+  {
+    "question": "Which mechanical quantity is the product of force and distance moved in the direction of force?",
+    "option1": "Work",
+    "option2": "Pressure",
+    "option3": "Density",
+    "option4": "Momentum",
+    "answer": "Work"
+  },
+  {
+    "question": "What is the SI unit of mechanical power?",
+    "option1": "Joule",
+    "option2": "Newton",
+    "option3": "Watt",
+    "option4": "Pascal",
+    "answer": "Watt"
+  },
+  {
+    "question": "Which law of motion states that every action has an equal and opposite reaction?",
+    "option1": "Newton's first law",
+    "option2": "Newton's second law",
+    "option3": "Newton's third law",
+    "option4": "Law of gravitation",
+    "answer": "Newton's third law"
+  },
+  {
+    "question": "Which property of a body resists a change in its state of motion?",
+    "option1": "Inertia",
+    "option2": "Elasticity",
+    "option3": "Density",
+    "option4": "Viscosity",
+    "answer": "Inertia"
+  },
+  {
+    "question": "Which type of bearing is commonly used to reduce friction between rotating parts?",
+    "option1": "Ball bearing",
+    "option2": "Plain glass",
+    "option3": "Rubber block",
+    "option4": "Wooden wedge",
+    "answer": "Ball bearing"
+  },
+  {
+    "question": "What is the main purpose of lubrication in machines?",
+    "option1": "Increase friction",
+    "option2": "Reduce friction and wear",
+    "option3": "Increase temperature",
+    "option4": "Stop all movement",
+    "answer": "Reduce friction and wear"
+  },
+   {
+    "question": "Which type of gear is commonly used to transmit motion between parallel shafts?",
+    "option1": "Spur gear",
+    "option2": "Worm gear",
+    "option3": "Bevel gear",
+    "option4": "Rack and pinion",
+    "answer": "Spur gear"
+  },
+  {
+    "question": "Which gear is mainly used to transmit motion between intersecting shafts?",
+    "option1": "Spur gear",
+    "option2": "Bevel gear",
+    "option3": "Worm gear",
+    "option4": "Rack and pinion",
+    "answer": "Bevel gear"
+  },
+  {
+    "question": "Which mechanism converts rotary motion into linear motion?",
+    "option1": "Rack and pinion",
+    "option2": "Pulley",
+    "option3": "Flywheel",
+    "option4": "Bearing",
+    "answer": "Rack and pinion"
+  },
+  {
+    "question": "What is the main function of a flywheel in a machine?",
+    "option1": "Store rotational energy and smooth speed fluctuations",
+    "option2": "Measure voltage",
+    "option3": "Reduce electrical resistance",
+    "option4": "Generate magnetic fields only",
+    "answer": "Store rotational energy and smooth speed fluctuations"
+  },
+  {
+    "question": "Which device is used to transmit power between two shafts using a flexible belt?",
+    "option1": "Belt drive",
+    "option2": "Transformer",
+    "option3": "Relay",
+    "option4": "Valve",
+    "answer": "Belt drive"
+  },
+  {
+    "question": "Which type of coupling is used to connect two shafts for transmitting torque?",
+    "option1": "Shaft coupling",
+    "option2": "Pressure gauge",
+    "option3": "Fuse",
+    "option4": "Thermometer",
+    "answer": "Shaft coupling"
+  },
+  {
+    "question": "Which process is used to remove material from a workpiece using a rotating cutting tool?",
+    "option1": "Milling",
+    "option2": "Forging",
+    "option3": "Casting",
+    "option4": "Annealing",
+    "answer": "Milling"
+  },
+  {
+    "question": "Which machine tool is mainly used to produce cylindrical surfaces?",
+    "option1": "Lathe",
+    "option2": "Drill press",
+    "option3": "Shaper",
+    "option4": "Grinding wheel",
+    "answer": "Lathe"
+  },
+  {
+    "question": "Which operation on a lathe reduces the diameter of a cylindrical workpiece?",
+    "option1": "Turning",
+    "option2": "Drilling",
+    "option3": "Knurling",
+    "option4": "Threading only",
+    "answer": "Turning"
+  },
+  {
+    "question": "Which lathe operation is used to produce a flat surface at the end of a workpiece?",
+    "option1": "Facing",
+    "option2": "Boring",
+    "option3": "Knurling",
+    "option4": "Reaming",
+    "answer": "Facing"
+  },
+  {
+    "question": "Which operation enlarges an existing hole accurately?",
+    "option1": "Boring",
+    "option2": "Forging",
+    "option3": "Welding",
+    "option4": "Casting",
+    "answer": "Boring"
+  },
+  {
+    "question": "Which process is used to join two metal pieces by melting and fusing them?",
+    "option1": "Welding",
+    "option2": "Grinding",
+    "option3": "Drilling",
+    "option4": "Turning",
+    "answer": "Welding"
+  },
+  {
+    "question": "Which welding process uses an electric arc to generate heat?",
+    "option1": "Arc welding",
+    "option2": "Gas welding only",
+    "option3": "Cold welding",
+    "option4": "Frictionless welding",
+    "answer": "Arc welding"
+  },
+  {
+    "question": "Which personal protective equipment is especially important during arc welding?",
+    "option1": "Welding helmet",
+    "option2": "Cotton cap",
+    "option3": "Safety belt",
+    "option4": "Earphone",
+    "answer": "Welding helmet"
+  },
+  {
+    "question": "Which process increases the hardness of steel by heating and controlled cooling?",
+    "option1": "Heat treatment",
+    "option2": "Painting",
+    "option3": "Polishing",
+    "option4": "Drilling",
+    "answer": "Heat treatment"
+  },
+  {
+    "question": "Which heat treatment process generally softens steel and improves machinability?",
+    "option1": "Annealing",
+    "option2": "Hardening",
+    "option3": "Quenching",
+    "option4": "Tempering only",
+    "answer": "Annealing"
+  },
+  {
+    "question": "Which process involves rapidly cooling a heated metal in a suitable medium?",
+    "option1": "Quenching",
+    "option2": "Annealing",
+    "option3": "Forging",
+    "option4": "Casting",
+    "answer": "Quenching"
+  },
+  {
+    "question": "Which property of a metal indicates its ability to withstand sudden impact without breaking?",
+    "option1": "Toughness",
+    "option2": "Conductivity",
+    "option3": "Density",
+    "option4": "Elasticity only",
+    "answer": "Toughness"
+  },
+  {
+    "question": "Which property indicates the ability of a material to resist scratching or indentation?",
+    "option1": "Hardness",
+    "option2": "Ductility",
+    "option3": "Malleability",
+    "option4": "Fluidity",
+    "answer": "Hardness"
+  },
+  {
+    "question": "Which property allows a metal to be drawn into wires?",
+    "option1": "Ductility",
+    "option2": "Brittleness",
+    "option3": "Hardness",
+    "option4": "Porosity",
+    "answer": "Ductility"
+  },
+  {
+    "question": "Which property allows a metal to be formed into thin sheets?",
+    "option1": "Malleability",
+    "option2": "Ductility",
+    "option3": "Brittleness",
+    "option4": "Elasticity",
+    "answer": "Malleability"
+  },
+  {
+    "question": "Which measuring instrument is commonly used to measure external and internal dimensions accurately?",
+    "option1": "Vernier caliper",
+    "option2": "Hammer",
+    "option3": "Hacksaw",
+    "option4": "Screwdriver",
+    "answer": "Vernier caliper"
+  },
+  {
+    "question": "Which instrument is primarily used to measure small linear dimensions with high precision?",
+    "option1": "Micrometer",
+    "option2": "Steel hammer",
+    "option3": "Pipe wrench",
+    "option4": "Spirit level",
+    "answer": "Micrometer"
+  },
+  {
+    "question": "Which instrument is used to check whether a surface is horizontal or vertical?",
+    "option1": "Spirit level",
+    "option2": "Micrometer",
+    "option3": "Ammeter",
+    "option4": "Tachometer",
+    "answer": "Spirit level"
+  },
+  {
+    "question": "Which tool is commonly used to tighten or loosen nuts and bolts?",
+    "option1": "Spanner",
+    "option2": "File",
+    "option3": "Chisel",
+    "option4": "Hacksaw",
+    "answer": "Spanner"
+  },
+   {
+    "question": "Which component is used to protect an electrical circuit from a short circuit by melting when excessive current flows?",
+    "option1": "Fuse",
+    "option2": "Capacitor",
+    "option3": "Transformer",
+    "option4": "Inductor",
+    "answer": "Fuse"
+  },
+  {
+    "question": "What is the main purpose of a heat sink in electronic equipment?",
+    "option1": "Remove excess heat",
+    "option2": "Increase voltage",
+    "option3": "Store electrical charge",
+    "option4": "Increase resistance",
+    "answer": "Remove excess heat"
+  },
+  {
+    "question": "Which semiconductor device is commonly used for switching and amplification?",
+    "option1": "Transistor",
+    "option2": "Fuse",
+    "option3": "Capacitor",
+    "option4": "Transformer",
+    "answer": "Transistor"
+  },
+  {
+    "question": "What does LED stand for?",
+    "option1": "Light Emitting Diode",
+    "option2": "Low Energy Device",
+    "option3": "Linear Electronic Diode",
+    "option4": "Light Energy Detector",
+    "answer": "Light Emitting Diode"
+  },
+  {
+    "question": "Which component emits light when current passes through it in the forward direction?",
+    "option1": "LED",
+    "option2": "Fuse",
+    "option3": "Relay",
+    "option4": "Resistor",
+    "answer": "LED"
+  },
+  {
+    "question": "Which device converts light energy into electrical energy?",
+    "option1": "Solar cell",
+    "option2": "Transformer",
+    "option3": "Motor",
+    "option4": "Relay",
+    "answer": "Solar cell"
+  },
+  {
+    "question": "Which type of motor is widely used in applications requiring precise angular movement?",
+    "option1": "Stepper motor",
+    "option2": "DC series motor",
+    "option3": "Induction motor",
+    "option4": "Universal motor",
+    "answer": "Stepper motor"
+  },
+  {
+    "question": "Which motor is commonly used in electric fans and blowers?",
+    "option1": "Single-phase induction motor",
+    "option2": "DC series motor",
+    "option3": "Stepper motor",
+    "option4": "Servo motor",
+    "answer": "Single-phase induction motor"
+  },
+  {
+    "question": "Which motor provides high speed control and is commonly used in precision systems?",
+    "option1": "Servo motor",
+    "option2": "Shunt motor",
+    "option3": "Squirrel cage motor",
+    "option4": "Universal motor",
+    "answer": "Servo motor"
+  },
+  {
+    "question": "Which device is used to change mechanical motion into an electrical signal for measurement?",
+    "option1": "Transducer",
+    "option2": "Fuse",
+    "option3": "Switch",
+    "option4": "Transformer",
+    "answer": "Transducer"
+  },
+  {
+    "question": "Which sensor is commonly used to measure temperature?",
+    "option1": "Thermocouple",
+    "option2": "Photodiode",
+    "option3": "LDR",
+    "option4": "Microphone",
+    "answer": "Thermocouple"
+  },
+  {
+    "question": "Which sensor changes its resistance according to the intensity of light?",
+    "option1": "LDR",
+    "option2": "Thermocouple",
+    "option3": "Thermistor",
+    "option4": "Strain gauge",
+    "answer": "LDR"
+  },
+  {
+    "question": "Which sensor is primarily used to measure strain or deformation?",
+    "option1": "Strain gauge",
+    "option2": "LDR",
+    "option3": "Photodiode",
+    "option4": "Thermocouple",
+    "answer": "Strain gauge"
+  },
+  {
+    "question": "Which instrument is used to measure the speed of rotating machinery?",
+    "option1": "Tachometer",
+    "option2": "Barometer",
+    "option3": "Voltmeter",
+    "option4": "Ammeter",
+    "answer": "Tachometer"
+  },
+  {
+    "question": "Which instrument is used to measure atmospheric pressure?",
+    "option1": "Barometer",
+    "option2": "Manometer",
+    "option3": "Tachometer",
+    "option4": "Thermometer",
+    "answer": "Barometer"
+  },
+  {
+    "question": "Which instrument is used to measure the pressure of a gas or liquid in a closed system?",
+    "option1": "Pressure gauge",
+    "option2": "Ammeter",
+    "option3": "Voltmeter",
+    "option4": "Wattmeter",
+    "answer": "Pressure gauge"
+  },
+  {
+    "question": "Which type of transmission uses gears to transfer mechanical power?",
+    "option1": "Gear transmission",
+    "option2": "Electrical transmission",
+    "option3": "Hydraulic insulation",
+    "option4": "Thermal transmission",
+    "answer": "Gear transmission"
+  },
+  {
+    "question": "Which gear is commonly used when a large speed reduction is required between perpendicular shafts?",
+    "option1": "Worm gear",
+    "option2": "Spur gear",
+    "option3": "Rack gear",
+    "option4": "Straight gear",
+    "answer": "Worm gear"
+  },
+  {
+    "question": "What is the main function of a clutch in a vehicle or machine?",
+    "option1": "Engage and disengage power transmission",
+    "option2": "Increase fuel level",
+    "option3": "Measure speed",
+    "option4": "Generate electricity",
+    "answer": "Engage and disengage power transmission"
+  },
+  {
+    "question": "Which component stores rotational energy and helps maintain uniform engine speed?",
+    "option1": "Flywheel",
+    "option2": "Fuse",
+    "option3": "Valve",
+    "option4": "Bearing",
+    "answer": "Flywheel"
+  },
+  {
+    "question": "Which part of an internal combustion engine moves up and down inside the cylinder?",
+    "option1": "Piston",
+    "option2": "Flywheel",
+    "option3": "Crankshaft",
+    "option4": "Camshaft",
+    "answer": "Piston"
+  },
+  {
+    "question": "Which engine component converts reciprocating motion of the piston into rotary motion?",
+    "option1": "Crankshaft",
+    "option2": "Radiator",
+    "option3": "Valve",
+    "option4": "Spark plug",
+    "answer": "Crankshaft"
+  },
+  {
+    "question": "Which component controls the opening and closing of the intake and exhaust passages in an engine?",
+    "option1": "Valve",
+    "option2": "Piston ring",
+    "option3": "Flywheel",
+    "option4": "Bearing",
+    "answer": "Valve"
+  },
+  {
+    "question": "Which component is used to ignite the air-fuel mixture in a petrol engine?",
+    "option1": "Spark plug",
+    "option2": "Fuel pump",
+    "option3": "Radiator",
+    "option4": "Clutch",
+    "answer": "Spark plug"
+  },
+  {
+    "question": "What is the main function of a radiator in an engine?",
+    "option1": "Cool the engine coolant",
+    "option2": "Increase fuel pressure",
+    "option3": "Generate electrical power",
+    "option4": "Increase engine speed",
+    "answer": "Cool the engine coolant"
+  },
+  {
+    "question": "Which component in a diesel engine supplies fuel to the engine at high pressure?",
+    "option1": "Fuel injection pump",
+    "option2": "Radiator",
+    "option3": "Flywheel",
+    "option4": "Clutch",
+    "answer": "Fuel injection pump"
+  },
+  {
+    "question": "Which type of engine generally uses a compression ignition system?",
+    "option1": "Diesel engine",
+    "option2": "Petrol engine",
+    "option3": "Steam engine",
+    "option4": "Electric motor",
+    "answer": "Diesel engine"
+  },
+  {
+    "question": "Which component filters impurities from engine lubricating oil?",
+    "option1": "Oil filter",
+    "option2": "Air filter",
+    "option3": "Fuel injector",
+    "option4": "Radiator",
+    "answer": "Oil filter"
+  },
+  {
+    "question": "What is the main purpose of engine lubrication?",
+    "option1": "Reduce friction and wear",
+    "option2": "Increase fuel consumption",
+    "option3": "Increase electrical resistance",
+    "option4": "Stop engine rotation",
+    "answer": "Reduce friction and wear"
+  },
+  {
+    "question": "Which component supplies clean air to an internal combustion engine?",
+    "option1": "Air filter",
+    "option2": "Oil pump",
+    "option3": "Fuel tank",
+    "option4": "Radiator",
+    "answer": "Air filter"
+  },
+  {
+    "question": "Which part of an engine connects the piston to the crankshaft?",
+    "option1": "Connecting rod",
+    "option2": "Camshaft",
+    "option3": "Valve",
+    "option4": "Flywheel",
+    "answer": "Connecting rod"
+  },
+  {
+    "question": "Which component controls the timing of valve operation in an engine?",
+    "option1": "Camshaft",
+    "option2": "Crankcase",
+    "option3": "Radiator",
+    "option4": "Piston ring",
+    "answer": "Camshaft"
+  },
+  {
+    "question": "What is the function of piston rings?",
+    "option1": "Seal the combustion chamber and control oil",
+    "option2": "Generate electricity",
+    "option3": "Cool the radiator",
+    "option4": "Operate the clutch",
+    "answer": "Seal the combustion chamber and control oil"
+  },
+  {
+    "question": "Which component stores electrical energy in a vehicle for starting and other electrical systems?",
+    "option1": "Battery",
+    "option2": "Radiator",
+    "option3": "Clutch",
+    "option4": "Muffler",
+    "answer": "Battery"
+  },
+  {
+    "question": "Which device charges the vehicle battery while the engine is running?",
+    "option1": "Alternator",
+    "option2": "Starter motor",
+    "option3": "Radiator",
+    "option4": "Fuel pump",
+    "answer": "Alternator"
+  },
+  {
+    "question": "What is the main function of a starter motor?",
+    "option1": "Crank the engine during starting",
+    "option2": "Cool the engine",
+    "option3": "Filter fuel",
+    "option4": "Reduce exhaust noise",
+    "answer": "Crank the engine during starting"
+  },
+  {
+    "question": "Which system is responsible for reducing the temperature of an operating engine?",
+    "option1": "Cooling system",
+    "option2": "Fuel system",
+    "option3": "Ignition system",
+    "option4": "Exhaust system",
+    "answer": "Cooling system"
+  },
+  {
+    "question": "Which coolant is commonly used in vehicle cooling systems?",
+    "option1": "Water-based coolant",
+    "option2": "Engine oil",
+    "option3": "Brake fluid",
+    "option4": "Kerosene",
+    "answer": "Water-based coolant"
+  },
+  {
+    "question": "Which component circulates coolant through an engine cooling system?",
+    "option1": "Water pump",
+    "option2": "Fuel pump",
+    "option3": "Oil filter",
+    "option4": "Starter motor",
+    "answer": "Water pump"
+  },
+  {
+    "question": "Which component regulates coolant flow according to engine temperature?",
+    "option1": "Thermostat",
+    "option2": "Alternator",
+    "option3": "Fuel injector",
+    "option4": "Clutch",
+    "answer": "Thermostat"
+  },
+  {
+    "question": "Which system removes burnt gases from an internal combustion engine?",
+    "option1": "Exhaust system",
+    "option2": "Cooling system",
+    "option3": "Lubrication system",
+    "option4": "Charging system",
+    "answer": "Exhaust system"
+  },
+  {
+    "question": "Which component reduces noise from engine exhaust gases?",
+    "option1": "Muffler",
+    "option2": "Radiator",
+    "option3": "Carburettor",
+    "option4": "Alternator",
+    "answer": "Muffler"
+  },
+  {
+    "question": "Which type of brake uses compressed air to operate the braking mechanism?",
+    "option1": "Air brake",
+    "option2": "Hydraulic brake",
+    "option3": "Mechanical brake",
+    "option4": "Electric heater",
+    "answer": "Air brake"
+  },
+  {
+    "question": "What is the main purpose of brakes in a vehicle?",
+    "option1": "Reduce or stop motion",
+    "option2": "Increase engine speed",
+    "option3": "Increase fuel pressure",
+    "option4": "Generate electricity",
+    "answer": "Reduce or stop motion"
+  },
+  {
+    "question": "Which type of brake system commonly uses brake fluid?",
+    "option1": "Hydraulic brake",
+    "option2": "Air brake",
+    "option3": "Magnetic compass",
+    "option4": "Belt brake only",
+    "answer": "Hydraulic brake"
+  },
+  {
+    "question": "Which component provides friction against a rotating brake disc in a disc brake?",
+    "option1": "Brake pad",
+    "option2": "Radiator",
+    "option3": "Flywheel",
+    "option4": "Piston ring",
+    "answer": "Brake pad"
+  },
+  {
+    "question": "Which safety system helps prevent wheel locking during hard braking?",
+    "option1": "ABS",
+    "option2": "ECU",
+    "option3": "Alternator",
+    "option4": "Radiator",
+    "answer": "ABS"
+  },
+  {
+    "question": "What does ABS stand for?",
+    "option1": "Anti-lock Braking System",
+    "option2": "Automatic Battery System",
+    "option3": "Advanced Brake Sensor",
+    "option4": "Automatic Balance System",
+    "answer": "Anti-lock Braking System"
+  },
+  {
+    "question": "Which device controls many electronic functions in a modern vehicle?",
+    "option1": "Electronic Control Unit",
+    "option2": "Radiator",
+    "option3": "Clutch plate",
+    "option4": "Muffler",
+    "answer": "Electronic Control Unit"
+  },
+  {
+    "question": "Which electrical safety practice should be followed before repairing an electrical circuit?",
+    "option1": "Disconnect the power supply",
+    "option2": "Increase the voltage",
+    "option3": "Touch exposed wires",
+    "option4": "Remove all insulation",
+    "answer": "Disconnect the power supply"
+  },
+  {
+    "question": "What is the SI unit of torque?",
+    "option1": "Newton-metre",
+    "option2": "Joule",
+    "option3": "Watt",
+    "option4": "Pascal",
+    "answer": "Newton-metre"
+  },
+  {
+    "question": "Torque is calculated as:",
+    "option1": "Force × perpendicular distance",
+    "option2": "Force ÷ distance",
+    "option3": "Mass × velocity",
+    "option4": "Power × time",
+    "answer": "Force × perpendicular distance"
+  },
+  {
+    "question": "Which instrument is used to measure rotational speed of a shaft?",
+    "option1": "Tachometer",
+    "option2": "Barometer",
+    "option3": "Ammeter",
+    "option4": "Thermometer",
+    "answer": "Tachometer"
+  },
+  {
+    "question": "What is mechanical advantage?",
+    "option1": "Load divided by effort",
+    "option2": "Effort divided by load",
+    "option3": "Load multiplied by effort",
+    "option4": "Distance divided by time",
+    "answer": "Load divided by effort"
+  },
+  {
+    "question": "Which simple machine is commonly used to lift heavy loads using a rope?",
+    "option1": "Pulley",
+    "option2": "Spring",
+    "option3": "Bearing",
+    "option4": "Gearbox",
+    "answer": "Pulley"
+  },
+  {
+    "question": "What is the SI unit of frequency?",
+    "option1": "Hertz",
+    "option2": "Volt",
+    "option3": "Ohm",
+    "option4": "Ampere",
+    "answer": "Hertz"
+  },
+  {
+    "question": "The time period of an AC waveform is the reciprocal of:",
+    "option1": "Frequency",
+    "option2": "Voltage",
+    "option3": "Resistance",
+    "option4": "Power",
+    "answer": "Frequency"
+  },
+  {
+    "question": "What is the standard frequency of AC supply in India?",
+    "option1": "50 Hz",
+    "option2": "40 Hz",
+    "option3": "60 Hz",
+    "option4": "100 Hz",
+    "answer": "50 Hz"
+  },
+  {
+    "question": "What is the purpose of a printed circuit board (PCB)?",
+    "option1": "To mechanically support and electrically connect components",
+    "option2": "To generate mechanical power",
+    "option3": "To store fuel",
+    "option4": "To cool an engine",
+    "answer": "To mechanically support and electrically connect components"
+  },
+  {
+    "question": "Which material is commonly used as solder in electronic assembly?",
+    "option1": "Solder alloy",
+    "option2": "Rubber",
+    "option3": "Glass",
+    "option4": "Wood",
+    "answer": "Solder alloy"
+  },
+  {
+    "question": "What is the purpose of flux during soldering?",
+    "option1": "Remove oxides and improve soldering",
+    "option2": "Increase circuit resistance",
+    "option3": "Cool the soldering iron",
+    "option4": "Insulate the PCB completely",
+    "answer": "Remove oxides and improve soldering"
+  },
+  {
+    "question": "Which tool is commonly used for soldering electronic components?",
+    "option1": "Soldering iron",
+    "option2": "Pipe wrench",
+    "option3": "Hacksaw",
+    "option4": "Cold chisel",
+    "answer": "Soldering iron"
+  },
+  {
+    "question": "Which instrument can be used to check whether an electrical path is continuous?",
+    "option1": "Multimeter",
+    "option2": "Barometer",
+    "option3": "Vernier caliper",
+    "option4": "Micrometer",
+    "answer": "Multimeter"
+  },
+  {
+    "question": "A circuit with a broken conducting path is called:",
+    "option1": "Open circuit",
+    "option2": "Short circuit",
+    "option3": "Closed circuit",
+    "option4": "Parallel circuit",
+    "answer": "Open circuit"
+  },
+  {
+    "question": "A very low-resistance unintended path between two points is called:",
+    "option1": "Short circuit",
+    "option2": "Open circuit",
+    "option3": "Earth circuit",
+    "option4": "Series circuit",
+    "answer": "Short circuit"
+  },
+  {
+    "question": "A diode conducts current mainly when it is:",
+    "option1": "Forward biased",
+    "option2": "Reverse biased",
+    "option3": "Unconnected",
+    "option4": "Insulated",
+    "answer": "Forward biased"
+  },
+  {
+    "question": "Which diode is commonly used for voltage regulation?",
+    "option1": "Zener diode",
+    "option2": "LED",
+    "option3": "Photodiode",
+    "option4": "Laser diode",
+    "answer": "Zener diode"
+  },
+  {
+    "question": "What is the main purpose of a rectifier?",
+    "option1": "Convert AC into DC",
+    "option2": "Convert DC into AC",
+    "option3": "Increase mechanical torque",
+    "option4": "Measure resistance",
+    "answer": "Convert AC into DC"
+  },
+  {
+    "question": "How many terminals does a conventional bipolar junction transistor have?",
+    "option1": "Three",
+    "option2": "Two",
+    "option3": "Four",
+    "option4": "Five",
+    "answer": "Three"
+  },
+  {
+    "question": "Which are the three terminals of a transistor?",
+    "option1": "Emitter, Base and Collector",
+    "option2": "Anode, Cathode and Gate",
+    "option3": "Phase, Neutral and Earth",
+    "option4": "Input, Output and Ground",
+    "answer": "Emitter, Base and Collector"
+  },
+  {
+    "question": "What is the smallest unit of digital information?",
+    "option1": "Bit",
+    "option2": "Byte",
+    "option3": "Kilobyte",
+    "option4": "Megabyte",
+    "answer": "Bit"
+  },
+  {
+    "question": "How many bits are present in one byte?",
+    "option1": "8",
+    "option2": "4",
+    "option3": "16",
+    "option4": "32",
+    "answer": "8"
+  },
+  {
+    "question": "Which device protects electrical equipment from excessive current by automatically opening the circuit?",
+    "option1": "Circuit breaker",
+    "option2": "Transformer",
+    "option3": "Capacitor",
+    "option4": "Inductor",
+    "answer": "Circuit breaker"
+  },
+  {
+    "question": "Which personal protective equipment is especially important when working with electrical circuits?",
+    "option1": "Insulated gloves",
+    "option2": "Cotton thread",
+    "option3": "Paper mask",
+    "option4": "Plastic ruler",
+    "answer": "Insulated gloves"
+  },
+  {
+    "question": "What should be done before working on a machine under maintenance?",
+    "option1": "Isolate the power source",
+    "option2": "Increase machine speed",
+    "option3": "Remove all safety guards",
+    "option4": "Start the machine",
+    "answer": "Isolate the power source"
+  }
+
+  ]
+}

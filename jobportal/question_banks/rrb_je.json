@@ -1,0 +1,1405 @@
+{
+  "exam": "RRB JE",
+  "questions": [
+    {
+      "question": "What is the SI unit of force?",
+      "option1": "Newton",
+      "option2": "Joule",
+      "option3": "Watt",
+      "option4": "Pascal",
+      "answer": "Newton"
+    },
+    {
+      "question": "Which branch of engineering deals mainly with machines and mechanical systems?",
+      "option1": "Mechanical Engineering",
+      "option2": "Civil Engineering",
+      "option3": "Chemical Engineering",
+      "option4": "Textile Engineering",
+      "answer": "Mechanical Engineering"
+    },
+    {
+      "question": "Which law states that stress is directly proportional to strain within the elastic limit?",
+      "option1": "Hooke's Law",
+      "option2": "Newton's Law",
+      "option3": "Ohm's Law",
+      "option4": "Pascal's Law",
+      "answer": "Hooke's Law"
+    },
+    {
+      "question": "Which property allows a material to return to its original shape after removal of load?",
+      "option1": "Elasticity",
+      "option2": "Plasticity",
+      "option3": "Hardness",
+      "option4": "Brittleness",
+      "answer": "Elasticity"
+    },
+    {
+      "question": "What is the SI unit of stress?",
+      "option1": "Pascal",
+      "option2": "Newton",
+      "option3": "Joule",
+      "option4": "Watt",
+      "answer": "Pascal"
+    },
+    {
+      "question": "Which instrument is commonly used to measure linear dimensions accurately in mechanical workshops?",
+      "option1": "Vernier caliper",
+      "option2": "Ammeter",
+      "option3": "Voltmeter",
+      "option4": "Thermometer",
+      "answer": "Vernier caliper"
+    },
+    {
+      "question": "Which instrument is used for measuring very small thicknesses or diameters accurately?",
+      "option1": "Micrometer",
+      "option2": "Spirit level",
+      "option3": "Steel rule",
+      "option4": "Try square",
+      "answer": "Micrometer"
+    },
+    {
+      "question": "Which machine tool is mainly used to produce cylindrical surfaces?",
+      "option1": "Lathe",
+      "option2": "Drilling machine",
+      "option3": "Shaper",
+      "option4": "Grinder",
+      "answer": "Lathe"
+    },
+    {
+      "question": "Which operation is used to make a hole using a drill?",
+      "option1": "Drilling",
+      "option2": "Turning",
+      "option3": "Facing",
+      "option4": "Knurling",
+      "answer": "Drilling"
+    },
+    {
+      "question": "Which operation is used to produce a flat surface at the end of a cylindrical workpiece on a lathe?",
+      "option1": "Facing",
+      "option2": "Boring",
+      "option3": "Threading",
+      "option4": "Knurling",
+      "answer": "Facing"
+    },
+    {
+      "question": "Which operation increases the diameter of an existing hole?",
+      "option1": "Boring",
+      "option2": "Facing",
+      "option3": "Turning",
+      "option4": "Knurling",
+      "answer": "Boring"
+    },
+    {
+      "question": "Which operation produces a rough or patterned surface on a cylindrical workpiece?",
+      "option1": "Knurling",
+      "option2": "Facing",
+      "option3": "Drilling",
+      "option4": "Boring",
+      "answer": "Knurling"
+    },
+    {
+      "question": "Which tool is used to check whether two surfaces are at right angles?",
+      "option1": "Try square",
+      "option2": "Micrometer",
+      "option3": "Vernier caliper",
+      "option4": "Divider",
+      "answer": "Try square"
+    },
+    {
+      "question": "Which tool is commonly used to mark lines on a metal workpiece?",
+      "option1": "Scriber",
+      "option2": "Spanner",
+      "option3": "Pliers",
+      "option4": "File",
+      "answer": "Scriber"
+    },
+    {
+      "question": "Which hand tool is primarily used for removing material from a metal surface by cutting action?",
+      "option1": "File",
+      "option2": "Hammer",
+      "option3": "Spanner",
+      "option4": "Screwdriver",
+      "answer": "File"
+    },
+    {
+      "question": "Which type of fit has a clearance between mating parts?",
+      "option1": "Clearance fit",
+      "option2": "Interference fit",
+      "option3": "Transition fit",
+      "option4": "Shrink fit",
+      "answer": "Clearance fit"
+    },
+    {
+      "question": "Which material is commonly used for making cutting tools because of its high hardness?",
+      "option1": "High-speed steel",
+      "option2": "Rubber",
+      "option3": "Wood",
+      "option4": "Glass",
+      "answer": "High-speed steel"
+    },
+    {
+      "question": "What is the main purpose of a bearing?",
+      "option1": "Reduce friction between moving parts",
+      "option2": "Increase electrical resistance",
+      "option3": "Store fuel",
+      "option4": "Generate heat",
+      "answer": "Reduce friction between moving parts"
+    },
+    {
+      "question": "Which type of bearing uses rolling balls between the inner and outer races?",
+      "option1": "Ball bearing",
+      "option2": "Plain bearing",
+      "option3": "Magnetic bearing",
+      "option4": "Fluid bearing",
+      "answer": "Ball bearing"
+    },
+    {
+      "question": "Which device is used to transmit rotary motion between shafts while allowing some misalignment?",
+      "option1": "Coupling",
+      "option2": "Spring",
+      "option3": "Piston",
+      "option4": "Valve",
+      "answer": "Coupling"
+    },
+    {
+      "question": "Which mechanism converts rotary motion into reciprocating motion?",
+      "option1": "Slider-crank mechanism",
+      "option2": "Belt drive",
+      "option3": "Chain drive",
+      "option4": "Gear train",
+      "answer": "Slider-crank mechanism"
+    },
+    {
+      "question": "Which component in a reciprocating engine converts reciprocating motion into rotary motion?",
+      "option1": "Crankshaft",
+      "option2": "Radiator",
+      "option3": "Fuel tank",
+      "option4": "Valve spring",
+      "answer": "Crankshaft"
+    },
+    {
+      "question": "Which cycle is commonly used in petrol engines?",
+      "option1": "Otto cycle",
+      "option2": "Diesel cycle",
+      "option3": "Rankine cycle",
+      "option4": "Brayton cycle",
+      "answer": "Otto cycle"
+    },
+    {
+      "question": "Which cycle is commonly associated with compression-ignition engines?",
+      "option1": "Diesel cycle",
+      "option2": "Otto cycle",
+      "option3": "Carnot cycle",
+      "option4": "Rankine cycle",
+      "answer": "Diesel cycle"
+    },
+    {
+      "question": "Which thermodynamic process occurs at constant temperature?",
+      "option1": "Isothermal process",
+      "option2": "Adiabatic process",
+      "option3": "Isochoric process",
+      "option4": "Isobaric process",
+      "answer": "Isothermal process"
+    },
+    {
+    "question": "Which property of a material represents its resistance to indentation or scratching?",
+    "option1": "Hardness",
+    "option2": "Ductility",
+    "option3": "Elasticity",
+    "option4": "Malleability",
+    "answer": "Hardness"
+  },
+  {
+    "question": "Which property allows a material to be drawn into thin wires?",
+    "option1": "Ductility",
+    "option2": "Malleability",
+    "option3": "Brittleness",
+    "option4": "Hardness",
+    "answer": "Ductility"
+  },
+  {
+    "question": "Which property allows a material to be hammered into thin sheets?",
+    "option1": "Malleability",
+    "option2": "Ductility",
+    "option3": "Toughness",
+    "option4": "Elasticity",
+    "answer": "Malleability"
+  },
+  {
+    "question": "What is the ability of a material to absorb energy before fracture called?",
+    "option1": "Toughness",
+    "option2": "Hardness",
+    "option3": "Brittleness",
+    "option4": "Plasticity",
+    "answer": "Toughness"
+  },
+  {
+    "question": "Which material property indicates the ability to resist sudden impact loading?",
+    "option1": "Toughness",
+    "option2": "Malleability",
+    "option3": "Conductivity",
+    "option4": "Elasticity",
+    "answer": "Toughness"
+  },
+  {
+    "question": "What is the ratio of stress to strain within the elastic limit called?",
+    "option1": "Young's modulus",
+    "option2": "Poisson's ratio",
+    "option3": "Bulk modulus",
+    "option4": "Shear stress",
+    "answer": "Young's modulus"
+  },
+  {
+    "question": "Which modulus is associated with deformation caused by shear stress?",
+    "option1": "Modulus of rigidity",
+    "option2": "Young's modulus",
+    "option3": "Bulk modulus",
+    "option4": "Elastic modulus",
+    "answer": "Modulus of rigidity"
+  },
+  {
+    "question": "Which modulus measures the resistance of a material to uniform change in volume?",
+    "option1": "Bulk modulus",
+    "option2": "Young's modulus",
+    "option3": "Shear modulus",
+    "option4": "Torsional modulus",
+    "answer": "Bulk modulus"
+  },
+  {
+    "question": "What type of stress acts perpendicular to the cross-sectional area of a component?",
+    "option1": "Normal stress",
+    "option2": "Shear stress",
+    "option3": "Torsional stress",
+    "option4": "Thermal stress",
+    "answer": "Normal stress"
+  },
+  {
+    "question": "What type of stress acts parallel to the surface of a material?",
+    "option1": "Shear stress",
+    "option2": "Normal stress",
+    "option3": "Compressive stress",
+    "option4": "Thermal stress",
+    "answer": "Shear stress"
+  },
+  {
+    "question": "Which type of load tends to stretch a component?",
+    "option1": "Tensile load",
+    "option2": "Compressive load",
+    "option3": "Shear load",
+    "option4": "Torsional load",
+    "answer": "Tensile load"
+  },
+  {
+    "question": "Which type of load tends to shorten a component?",
+    "option1": "Compressive load",
+    "option2": "Tensile load",
+    "option3": "Torsional load",
+    "option4": "Bending load",
+    "answer": "Compressive load"
+  },
+  {
+    "question": "Which type of loading causes twisting of a shaft?",
+    "option1": "Torsional loading",
+    "option2": "Tensile loading",
+    "option3": "Compressive loading",
+    "option4": "Impact loading",
+    "answer": "Torsional loading"
+  },
+  {
+    "question": "Which type of force causes a beam to bend?",
+    "option1": "Bending force",
+    "option2": "Tensile force only",
+    "option3": "Compressive force only",
+    "option4": "Magnetic force",
+    "answer": "Bending force"
+  },
+  {
+    "question": "Which type of support provides both vertical and horizontal reaction forces but allows rotation?",
+    "option1": "Pinned support",
+    "option2": "Fixed support",
+    "option3": "Free support",
+    "option4": "Sliding support",
+    "answer": "Pinned support"
+  },
+  {
+    "question": "Which support prevents both translation and rotation of a structural member?",
+    "option1": "Fixed support",
+    "option2": "Roller support",
+    "option3": "Pinned support",
+    "option4": "Free support",
+    "answer": "Fixed support"
+  },
+  {
+    "question": "Which support allows horizontal movement while providing vertical reaction?",
+    "option1": "Roller support",
+    "option2": "Fixed support",
+    "option3": "Pinned support",
+    "option4": "Rigid support",
+    "answer": "Roller support"
+  },
+  {
+    "question": "What is the center of gravity of a uniform rectangular plate located at?",
+    "option1": "Its geometric center",
+    "option2": "One corner",
+    "option3": "Any edge",
+    "option4": "Outside the plate",
+    "answer": "Its geometric center"
+  },
+  {
+    "question": "What is the SI unit of work?",
+    "option1": "Joule",
+    "option2": "Newton",
+    "option3": "Watt",
+    "option4": "Pascal",
+    "answer": "Joule"
+  },
+  {
+    "question": "What is the SI unit of power?",
+    "option1": "Watt",
+    "option2": "Joule",
+    "option3": "Newton",
+    "option4": "Volt",
+    "answer": "Watt"
+  },
+  {
+    "question": "Power is defined as:",
+    "option1": "Rate of doing work",
+    "option2": "Force multiplied by mass",
+    "option3": "Work multiplied by time",
+    "option4": "Mass divided by volume",
+    "answer": "Rate of doing work"
+  },
+  {
+    "question": "Which principle states that pressure applied to a confined fluid is transmitted equally in all directions?",
+    "option1": "Pascal's law",
+    "option2": "Hooke's law",
+    "option3": "Bernoulli's principle",
+    "option4": "Ohm's law",
+    "answer": "Pascal's law"
+  },
+  {
+    "question": "Which principle relates pressure, velocity and elevation in a flowing fluid?",
+    "option1": "Bernoulli's principle",
+    "option2": "Pascal's law",
+    "option3": "Hooke's law",
+    "option4": "Newton's law of cooling",
+    "answer": "Bernoulli's principle"
+  },
+  {
+    "question": "Which instrument is used to measure the pressure of a fluid?",
+    "option1": "Pressure gauge",
+    "option2": "Tachometer",
+    "option3": "Ammeter",
+    "option4": "Vernier caliper",
+    "answer": "Pressure gauge"
+  },
+  {
+    "question": "Which device is used to measure the flow rate of a fluid in a pipe?",
+    "option1": "Flow meter",
+    "option2": "Thermometer",
+    "option3": "Barometer",
+    "option4": "Voltmeter",
+    "answer": "Flow meter"
+  },
+  {
+    "question": "Which device converts hydraulic energy into mechanical energy?",
+    "option1": "Hydraulic motor",
+    "option2": "Hydraulic pump",
+    "option3": "Compressor",
+    "option4": "Accumulator",
+    "answer": "Hydraulic motor"
+  },
+  {
+    "question": "Which device converts mechanical energy into hydraulic energy?",
+    "option1": "Hydraulic pump",
+    "option2": "Hydraulic motor",
+    "option3": "Hydraulic cylinder",
+    "option4": "Valve",
+    "answer": "Hydraulic pump"
+  },
+  {
+    "question": "Which component controls the direction of fluid flow in a hydraulic system?",
+    "option1": "Directional control valve",
+    "option2": "Pressure gauge",
+    "option3": "Filter",
+    "option4": "Reservoir",
+    "answer": "Directional control valve"
+  },
+  {
+    "question": "Which component is used to remove impurities from hydraulic fluid?",
+    "option1": "Filter",
+    "option2": "Pump",
+    "option3": "Cylinder",
+    "option4": "Motor",
+    "answer": "Filter"
+  },
+  {
+    "question": "Which device stores pressurized hydraulic fluid?",
+    "option1": "Accumulator",
+    "option2": "Radiator",
+    "option3": "Compressor",
+    "option4": "Nozzle",
+    "answer": "Accumulator"
+  },
+  {
+    "question": "Which machine is used to convert electrical energy into mechanical energy?",
+    "option1": "Electric motor",
+    "option2": "Generator",
+    "option3": "Transformer",
+    "option4": "Rectifier",
+    "answer": "Electric motor"
+  },
+  {
+    "question": "Which machine converts mechanical energy into electrical energy?",
+    "option1": "Generator",
+    "option2": "Motor",
+    "option3": "Transformer",
+    "option4": "Inverter",
+    "answer": "Generator"
+  },
+  {
+    "question": "Which electrical machine operates on the principle of electromagnetic induction?",
+    "option1": "Generator",
+    "option2": "Resistor",
+    "option3": "Capacitor",
+    "option4": "Fuse",
+    "answer": "Generator"
+  },
+  {
+    "question": "Which material is commonly used for electrical wiring because of its high conductivity?",
+    "option1": "Copper",
+    "option2": "Rubber",
+    "option3": "Glass",
+    "option4": "Wood",
+    "answer": "Copper"
+  },
+  {
+    "question": "Which device is used to measure electric current?",
+    "option1": "Ammeter",
+    "option2": "Voltmeter",
+    "option3": "Wattmeter",
+    "option4": "Ohmmeter",
+    "answer": "Ammeter"
+  },
+  {
+    "question": "Which device is used to measure electrical power?",
+    "option1": "Wattmeter",
+    "option2": "Ammeter",
+    "option3": "Voltmeter",
+    "option4": "Galvanometer",
+    "answer": "Wattmeter"
+  },
+  {
+    "question": "Which device measures electrical energy consumed by a consumer?",
+    "option1": "Energy meter",
+    "option2": "Ammeter",
+    "option3": "Voltmeter",
+    "option4": "Tachometer",
+    "answer": "Energy meter"
+  },
+  {
+    "question": "Which law states that current through a conductor is proportional to voltage across it when physical conditions remain constant?",
+    "option1": "Ohm's law",
+    "option2": "Kirchhoff's law",
+    "option3": "Faraday's law",
+    "option4": "Lenz's law",
+    "answer": "Ohm's law"
+  },
+  {
+    "question": "Which law states that the algebraic sum of currents at a junction is zero?",
+    "option1": "Kirchhoff's Current Law",
+    "option2": "Kirchhoff's Voltage Law",
+    "option3": "Ohm's Law",
+    "option4": "Faraday's Law",
+    "answer": "Kirchhoff's Current Law"
+  },
+  {
+    "question": "Which law states that the algebraic sum of voltages around a closed loop is zero?",
+    "option1": "Kirchhoff's Voltage Law",
+    "option2": "Kirchhoff's Current Law",
+    "option3": "Ohm's Law",
+    "option4": "Coulomb's Law",
+    "answer": "Kirchhoff's Voltage Law"
+  },
+  {
+    "question": "What is the SI unit of electrical resistance?",
+    "option1": "Ohm",
+    "option2": "Volt",
+    "option3": "Ampere",
+    "option4": "Watt",
+    "answer": "Ohm"
+  },
+  {
+    "question": "What is the SI unit of capacitance?",
+    "option1": "Farad",
+    "option2": "Henry",
+    "option3": "Weber",
+    "option4": "Tesla",
+    "answer": "Farad"
+  },
+  {
+    "question": "What is the SI unit of inductance?",
+    "option1": "Henry",
+    "option2": "Farad",
+    "option3": "Ohm",
+    "option4": "Weber",
+    "answer": "Henry"
+  },
+  {
+    "question": "Which component stores electrical energy in an electric field?",
+    "option1": "Capacitor",
+    "option2": "Inductor",
+    "option3": "Resistor",
+    "option4": "Diode",
+    "answer": "Capacitor"
+  },
+  {
+    "question": "Which component stores energy in a magnetic field?",
+    "option1": "Inductor",
+    "option2": "Capacitor",
+    "option3": "Resistor",
+    "option4": "Fuse",
+    "answer": "Inductor"
+  },
+  {
+    "question": "Which material is generally used as an electrical insulator?",
+    "option1": "Rubber",
+    "option2": "Copper",
+    "option3": "Aluminium",
+    "option4": "Silver",
+    "answer": "Rubber"
+  },
+  {
+    "question": "Which semiconductor material is widely used in electronic devices?",
+    "option1": "Silicon",
+    "option2": "Copper",
+    "option3": "Iron",
+    "option4": "Aluminium",
+    "answer": "Silicon"
+  },
+  {
+    "question": "What is the main function of a fuse?",
+    "option1": "Protect a circuit from excessive current",
+    "option2": "Increase voltage",
+    "option3": "Store electrical energy",
+    "option4": "Measure current",
+    "answer": "Protect a circuit from excessive current"
+  },
+  {
+    "question": "Which device automatically switches off a circuit during an overload or short circuit and can be reset?",
+    "option1": "MCB",
+    "option2": "Capacitor",
+    "option3": "Transformer",
+    "option4": "Resistor",
+    "answer": "MCB"
+  },
+  {
+    "question": "What is the main purpose of electrical earthing?",
+    "option1": "Provide a safe path for fault current",
+    "option2": "Increase circuit voltage",
+    "option3": "Increase resistance",
+    "option4": "Store electrical energy",
+    "answer": "Provide a safe path for fault current"
+  },
+  {
+    "question": "What is the main purpose of a transformer?",
+    "option1": "Change AC voltage level",
+    "option2": "Convert AC into DC",
+    "option3": "Convert mechanical energy into heat",
+    "option4": "Store electrical charge",
+    "answer": "Change AC voltage level"
+  },
+  {
+    "question": "A transformer that increases voltage is called a:",
+    "option1": "Step-up transformer",
+    "option2": "Step-down transformer",
+    "option3": "Isolation transformer",
+    "option4": "Current transformer",
+    "answer": "Step-up transformer"
+  },
+  {
+    "question": "A transformer that decreases voltage is called a:",
+    "option1": "Step-down transformer",
+    "option2": "Step-up transformer",
+    "option3": "Auto transformer",
+    "option4": "Pulse transformer",
+    "answer": "Step-down transformer"
+  },
+  {
+    "question": "Which law explains the generation of induced EMF due to changing magnetic flux?",
+    "option1": "Faraday's law",
+    "option2": "Ohm's law",
+    "option3": "Pascal's law",
+    "option4": "Hooke's law",
+    "answer": "Faraday's law"
+  },
+  {
+    "question": "According to Lenz's law, the induced current opposes:",
+    "option1": "The change producing it",
+    "option2": "The resistance of the circuit",
+    "option3": "The supply voltage",
+    "option4": "The temperature",
+    "answer": "The change producing it"
+  },
+  {
+    "question": "What is the unit of magnetic flux?",
+    "option1": "Weber",
+    "option2": "Tesla",
+    "option3": "Henry",
+    "option4": "Farad",
+    "answer": "Weber"
+  },
+  {
+    "question": "What is the SI unit of magnetic flux density?",
+    "option1": "Tesla",
+    "option2": "Weber",
+    "option3": "Henry",
+    "option4": "Ampere",
+    "answer": "Tesla"
+  },
+  {
+    "question": "Which instrument is used to measure electrical resistance?",
+    "option1": "Ohmmeter",
+    "option2": "Ammeter",
+    "option3": "Voltmeter",
+    "option4": "Wattmeter",
+    "answer": "Ohmmeter"
+  },
+  {
+    "question": "A voltmeter is connected in a circuit:",
+    "option1": "In parallel",
+    "option2": "In series",
+    "option3": "Only to earth",
+    "option4": "Without connection",
+    "answer": "In parallel"
+  },
+  {
+    "question": "An ammeter is connected in a circuit:",
+    "option1": "In series",
+    "option2": "In parallel",
+    "option3": "Across the supply only",
+    "option4": "To earth only",
+    "answer": "In series"
+  },
+  {
+    "question": "What happens to the total resistance when resistors are connected in series?",
+    "option1": "It is the sum of individual resistances",
+    "option2": "It becomes zero",
+    "option3": "It is always less than the smallest resistance",
+    "option4": "It becomes infinite",
+    "answer": "It is the sum of individual resistances"
+  },
+  {
+    "question": "In a parallel circuit, the voltage across each branch is:",
+    "option1": "The same",
+    "option2": "Always zero",
+    "option3": "Different from the supply",
+    "option4": "Always doubled",
+    "answer": "The same"
+  },
+  {
+    "question": "Which electronic component is primarily used to amplify electrical signals?",
+    "option1": "Transistor",
+    "option2": "Fuse",
+    "option3": "Switch",
+    "option4": "Resistor",
+    "answer": "Transistor"
+  },
+  {
+    "question": "Which logic gate gives HIGH output only when all its inputs are HIGH?",
+    "option1": "AND gate",
+    "option2": "OR gate",
+    "option3": "NOT gate",
+    "option4": "XOR gate",
+    "answer": "AND gate"
+  },
+  {
+    "question": "Which logic gate gives HIGH output when at least one input is HIGH?",
+    "option1": "OR gate",
+    "option2": "AND gate",
+    "option3": "NOT gate",
+    "option4": "NAND gate",
+    "answer": "OR gate"
+  },
+  {
+    "question": "Which logic gate produces an output opposite to its input?",
+    "option1": "NOT gate",
+    "option2": "AND gate",
+    "option3": "OR gate",
+    "option4": "XOR gate",
+    "answer": "NOT gate"
+  },
+  {
+    "question": "What is the binary representation of decimal number 2?",
+    "option1": "10",
+    "option2": "01",
+    "option3": "11",
+    "option4": "100",
+    "answer": "10"
+  },
+  {
+    "question": "Which device is commonly used to convert digital signals into analog signals?",
+    "option1": "DAC",
+    "option2": "ADC",
+    "option3": "Rectifier",
+    "option4": "Oscillator",
+    "answer": "DAC"
+  },
+  {
+    "question": "Which device converts an analog signal into a digital signal?",
+    "option1": "ADC",
+    "option2": "DAC",
+    "option3": "Transformer",
+    "option4": "Amplifier",
+    "answer": "ADC"
+  },
+  {
+    "question": "What is the main function of an oscillator?",
+    "option1": "Generate periodic electrical signals",
+    "option2": "Measure resistance",
+    "option3": "Store mechanical energy",
+    "option4": "Reduce friction",
+    "answer": "Generate periodic electrical signals"
+  },
+  {
+    "question": "Which component is commonly used to limit current in an electronic circuit?",
+    "option1": "Resistor",
+    "option2": "Capacitor",
+    "option3": "Transistor",
+    "option4": "Transformer",
+    "answer": "Resistor"
+  },
+  {
+    "question": "Which phenomenon causes unwanted electrical resistance when current flows through a conductor?",
+    "option1": "Electrical resistivity",
+    "option2": "Magnetic induction",
+    "option3": "Capacitance",
+    "option4": "Electrolysis",
+    "answer": "Electrical resistivity"
+  },
+  {
+    "question": "Which metal has very high electrical conductivity and is commonly used in electrical contacts?",
+    "option1": "Silver",
+    "option2": "Iron",
+    "option3": "Lead",
+    "option4": "Zinc",
+    "answer": "Silver"
+  },
+  {
+    "question": "Which type of current periodically changes its direction?",
+    "option1": "Alternating current",
+    "option2": "Direct current",
+    "option3": "Static current",
+    "option4": "Leakage current",
+    "answer": "Alternating current"
+  },
+  {
+    "question": "Which type of current flows predominantly in one direction?",
+    "option1": "Direct current",
+    "option2": "Alternating current",
+    "option3": "Oscillating current",
+    "option4": "Induced current",
+    "answer": "Direct current"
+  },
+  {
+    "question": "Which type of gear is used to transmit motion between two parallel shafts?",
+    "option1": "Spur gear",
+    "option2": "Worm gear",
+    "option3": "Bevel gear",
+    "option4": "Hypoid gear",
+    "answer": "Spur gear"
+  },
+  {
+    "question": "Which type of gear is commonly used to transmit motion between intersecting shafts?",
+    "option1": "Bevel gear",
+    "option2": "Spur gear",
+    "option3": "Rack and pinion",
+    "option4": "Worm gear",
+    "answer": "Bevel gear"
+  },
+  {
+    "question": "Which gear arrangement converts rotary motion into linear motion?",
+    "option1": "Rack and pinion",
+    "option2": "Spur gear",
+    "option3": "Worm gear",
+    "option4": "Bevel gear",
+    "answer": "Rack and pinion"
+  },
+  {
+    "question": "Which gear drive provides a large speed reduction in a compact arrangement?",
+    "option1": "Worm gear",
+    "option2": "Spur gear",
+    "option3": "Rack and pinion",
+    "option4": "Bevel gear",
+    "answer": "Worm gear"
+  },
+  {
+    "question": "What is the primary purpose of a flywheel in a machine?",
+    "option1": "Store rotational energy",
+    "option2": "Increase electrical resistance",
+    "option3": "Reduce fuel pressure",
+    "option4": "Measure speed",
+    "answer": "Store rotational energy"
+  },
+  {
+    "question": "Which component is used to engage and disengage power transmission between a driving and driven shaft?",
+    "option1": "Clutch",
+    "option2": "Flywheel",
+    "option3": "Bearing",
+    "option4": "Pulley",
+    "answer": "Clutch"
+  },
+  {
+    "question": "Which type of clutch uses friction between mating surfaces to transmit power?",
+    "option1": "Friction clutch",
+    "option2": "Magnetic clutch",
+    "option3": "Fluid clutch",
+    "option4": "Ratchet clutch",
+    "answer": "Friction clutch"
+  },
+  {
+    "question": "Which device is used to transmit power between shafts using a flexible belt?",
+    "option1": "Belt drive",
+    "option2": "Gearbox",
+    "option3": "Coupling",
+    "option4": "Brake",
+    "answer": "Belt drive"
+  },
+  {
+    "question": "Which drive uses a chain and sprockets to transmit power?",
+    "option1": "Chain drive",
+    "option2": "Belt drive",
+    "option3": "Rope drive",
+    "option4": "Gear drive",
+    "answer": "Chain drive"
+  },
+  {
+    "question": "Which type of drive provides positive transmission without slip?",
+    "option1": "Chain drive",
+    "option2": "Flat belt drive",
+    "option3": "Rope drive",
+    "option4": "Leather belt drive",
+    "answer": "Chain drive"
+  },
+  {
+    "question": "What is the main function of a key fitted between a shaft and hub?",
+    "option1": "Prevent relative rotation",
+    "option2": "Reduce temperature",
+    "option3": "Increase lubrication",
+    "option4": "Measure shaft diameter",
+    "answer": "Prevent relative rotation"
+  },
+  {
+    "question": "Which component prevents leakage between two stationary or moving surfaces?",
+    "option1": "Seal",
+    "option2": "Flywheel",
+    "option3": "Gear",
+    "option4": "Coupling",
+    "answer": "Seal"
+  },
+  {
+    "question": "Which type of seal is commonly used around a rotating shaft?",
+    "option1": "Oil seal",
+    "option2": "Flat washer",
+    "option3": "Lock nut",
+    "option4": "Cotter pin",
+    "answer": "Oil seal"
+  },
+  {
+    "question": "Which fastener is normally used with a nut to join components?",
+    "option1": "Bolt",
+    "option2": "Rivet only",
+    "option3": "Key",
+    "option4": "Shaft",
+    "answer": "Bolt"
+  },
+  {
+    "question": "Which fastener is generally tightened directly into a threaded hole?",
+    "option1": "Screw",
+    "option2": "Rivet",
+    "option3": "Key",
+    "option4": "Pin",
+    "answer": "Screw"
+  },
+  {
+    "question": "Which device prevents a nut from loosening due to vibration?",
+    "option1": "Lock nut",
+    "option2": "Plain washer",
+    "option3": "Spacer",
+    "option4": "Bush",
+    "answer": "Lock nut"
+  },
+  {
+    "question": "Which tool is used to tighten or loosen a hexagonal nut or bolt?",
+    "option1": "Spanner",
+    "option2": "File",
+    "option3": "Chisel",
+    "option4": "Scriber",
+    "answer": "Spanner"
+  },
+  {
+    "question": "Which tool is specifically designed for tightening bolts to a specified torque?",
+    "option1": "Torque wrench",
+    "option2": "Pipe wrench",
+    "option3": "Hammer",
+    "option4": "Pliers",
+    "answer": "Torque wrench"
+  },
+  {
+    "question": "Which instrument is used to check the flatness of a surface with high accuracy?",
+    "option1": "Surface plate",
+    "option2": "Pipe wrench",
+    "option3": "Hammer",
+    "option4": "Screwdriver",
+    "answer": "Surface plate"
+  },
+  {
+    "question": "Which instrument is used to measure small angular differences accurately?",
+    "option1": "Bevel protractor",
+    "option2": "Ammeter",
+    "option3": "Micrometer",
+    "option4": "Pressure gauge",
+    "answer": "Bevel protractor"
+  },
+  {
+    "question": "Which instrument is used to measure the angle between two surfaces?",
+    "option1": "Protractor",
+    "option2": "Tachometer",
+    "option3": "Ohmmeter",
+    "option4": "Thermocouple",
+    "answer": "Protractor"
+  },
+  {
+    "question": "Which tool is used to make a small indentation before drilling a hole?",
+    "option1": "Centre punch",
+    "option2": "Spanner",
+    "option3": "File",
+    "option4": "Reamer",
+    "answer": "Centre punch"
+  },
+  {
+    "question": "Which cutting tool is used to make internal threads in a drilled hole?",
+    "option1": "Tap",
+    "option2": "Die",
+    "option3": "Drill bit",
+    "option4": "Reamer",
+    "answer": "Tap"
+  },
+  {
+    "question": "Which tool is used to cut external threads on a cylindrical rod?",
+    "option1": "Die",
+    "option2": "Tap",
+    "option3": "Drill",
+    "option4": "Counterbore",
+    "answer": "Die"
+  },
+  {
+    "question": "Which tool is used to finish and accurately size an existing hole?",
+    "option1": "Reamer",
+    "option2": "Scriber",
+    "option3": "Centre punch",
+    "option4": "Chisel",
+    "answer": "Reamer"
+  },
+   {
+    "question": "Which manufacturing process uses a mould to produce components by pouring molten metal into it?",
+    "option1": "Casting",
+    "option2": "Forging",
+    "option3": "Rolling",
+    "option4": "Extrusion",
+    "answer": "Casting"
+  },
+  {
+    "question": "Which manufacturing process shapes metal by applying compressive forces using dies?",
+    "option1": "Forging",
+    "option2": "Casting",
+    "option3": "Welding",
+    "option4": "Drilling",
+    "answer": "Forging"
+  },
+  {
+    "question": "Which process reduces the thickness of metal by passing it between rotating rolls?",
+    "option1": "Rolling",
+    "option2": "Forging",
+    "option3": "Casting",
+    "option4": "Brazing",
+    "answer": "Rolling"
+  },
+  {
+    "question": "Which manufacturing process forces heated metal through a die to produce a continuous shape?",
+    "option1": "Extrusion",
+    "option2": "Casting",
+    "option3": "Drilling",
+    "option4": "Grinding",
+    "answer": "Extrusion"
+  },
+  {
+    "question": "Which process joins metals by melting the base material or filler material using heat?",
+    "option1": "Welding",
+    "option2": "Turning",
+    "option3": "Milling",
+    "option4": "Grinding",
+    "answer": "Welding"
+  },
+  {
+    "question": "Which welding process uses an electric arc between an electrode and the workpiece?",
+    "option1": "Arc welding",
+    "option2": "Gas welding",
+    "option3": "Resistance welding",
+    "option4": "Friction welding",
+    "answer": "Arc welding"
+  },
+  {
+    "question": "Which welding process uses a flame produced by burning a fuel gas with oxygen?",
+    "option1": "Gas welding",
+    "option2": "Arc welding",
+    "option3": "Spot welding",
+    "option4": "Laser welding",
+    "answer": "Gas welding"
+  },
+  {
+    "question": "Which equipment protects a welder's eyes and face from intense light and sparks?",
+    "option1": "Welding helmet",
+    "option2": "Safety shoes",
+    "option3": "Ear plugs",
+    "option4": "Dust mask",
+    "answer": "Welding helmet"
+  },
+  {
+    "question": "Which process joins metals using a filler metal without melting the base metals?",
+    "option1": "Brazing",
+    "option2": "Forging",
+    "option3": "Casting",
+    "option4": "Rolling",
+    "answer": "Brazing"
+  },
+  {
+    "question": "Which process is similar to brazing but uses a filler metal with a lower melting temperature?",
+    "option1": "Soldering",
+    "option2": "Forging",
+    "option3": "Annealing",
+    "option4": "Quenching",
+    "answer": "Soldering"
+  },
+  {
+    "question": "Which heat treatment process involves heating steel and cooling it slowly to soften it?",
+    "option1": "Annealing",
+    "option2": "Quenching",
+    "option3": "Tempering",
+    "option4": "Hardening",
+    "answer": "Annealing"
+  },
+  {
+    "question": "Which heat treatment process rapidly cools heated steel, usually in water or oil?",
+    "option1": "Quenching",
+    "option2": "Annealing",
+    "option3": "Tempering",
+    "option4": "Normalizing",
+    "answer": "Quenching"
+  },
+  {
+    "question": "Which heat treatment process is commonly used after hardening to reduce brittleness?",
+    "option1": "Tempering",
+    "option2": "Casting",
+    "option3": "Rolling",
+    "option4": "Annealing",
+    "answer": "Tempering"
+  },
+  {
+    "question": "Which process improves the surface hardness of a steel component while keeping the core relatively tough?",
+    "option1": "Case hardening",
+    "option2": "Annealing",
+    "option3": "Normalizing",
+    "option4": "Tempering",
+    "answer": "Case hardening"
+  },
+  {
+    "question": "Which process removes small amounts of material using an abrasive wheel?",
+    "option1": "Grinding",
+    "option2": "Forging",
+    "option3": "Casting",
+    "option4": "Extrusion",
+    "answer": "Grinding"
+  },
+  {
+    "question": "Which machine tool is primarily used to produce flat surfaces and slots using a rotating cutter?",
+    "option1": "Milling machine",
+    "option2": "Lathe",
+    "option3": "Drilling machine",
+    "option4": "Shaper",
+    "answer": "Milling machine"
+  },
+  {
+    "question": "Which machine tool uses a reciprocating cutting tool to machine flat surfaces?",
+    "option1": "Shaper",
+    "option2": "Lathe",
+    "option3": "Milling machine",
+    "option4": "Drilling machine",
+    "answer": "Shaper"
+  },
+  {
+    "question": "Which operation is used to produce a conical or tapered surface on a lathe?",
+    "option1": "Taper turning",
+    "option2": "Facing",
+    "option3": "Knurling",
+    "option4": "Drilling",
+    "answer": "Taper turning"
+  },
+  {
+    "question": "Which operation produces screw threads on a workpiece using a lathe?",
+    "option1": "Thread cutting",
+    "option2": "Facing",
+    "option3": "Boring",
+    "option4": "Grinding",
+    "answer": "Thread cutting"
+  },
+  {
+    "question": "Which tool is used to hold a workpiece securely on a lathe?",
+    "option1": "Chuck",
+    "option2": "Reamer",
+    "option3": "Tap",
+    "option4": "Scriber",
+    "answer": "Chuck"
+  },
+  {
+    "question": "Which device supports the free end of a long workpiece on a lathe?",
+    "option1": "Tailstock",
+    "option2": "Chuck",
+    "option3": "Tool post",
+    "option4": "Lead screw",
+    "answer": "Tailstock"
+  },
+  {
+    "question": "Which part of a lathe holds and moves the cutting tool?",
+    "option1": "Tool post",
+    "option2": "Tailstock",
+    "option3": "Chuck",
+    "option4": "Headstock",
+    "answer": "Tool post"
+  },
+  {
+    "question": "Which device in a lathe provides automatic longitudinal movement of the carriage?",
+    "option1": "Lead screw",
+    "option2": "Chuck",
+    "option3": "Tailstock",
+    "option4": "Tool post",
+    "answer": "Lead screw"
+  },
+  {
+    "question": "Which safety device should be worn to protect the eyes during machining operations?",
+    "option1": "Safety goggles",
+    "option2": "Cotton gloves only",
+    "option3": "Loose clothing",
+    "option4": "Neck scarf",
+    "answer": "Safety goggles"
+  },
+  {
+    "question": "Why should loose clothing be avoided while operating rotating machinery?",
+    "option1": "It can get caught in moving parts",
+    "option2": "It increases machine accuracy",
+    "option3": "It reduces lubrication",
+    "option4": "It improves cutting speed",
+    "answer": "It can get caught in moving parts"
+  },
+  {
+    "question": "Which type of fit has a clearance between the shaft and hole?",
+    "option1": "Clearance fit",
+    "option2": "Interference fit",
+    "option3": "Transition fit",
+    "option4": "Press fit",
+    "answer": "Clearance fit"
+  },
+  {
+    "question": "Which fit is used when the shaft is always larger than the hole?",
+    "option1": "Clearance fit",
+    "option2": "Interference fit",
+    "option3": "Loose fit",
+    "option4": "Sliding fit",
+    "answer": "Interference fit"
+  },
+  {
+    "question": "Which material is commonly used for making cutting tools because of its high hardness?",
+    "option1": "High-speed steel",
+    "option2": "Rubber",
+    "option3": "Copper",
+    "option4": "Aluminium",
+    "answer": "High-speed steel"
+  },
+  {
+    "question": "Which property of a material represents its resistance to indentation?",
+    "option1": "Hardness",
+    "option2": "Ductility",
+    "option3": "Elasticity",
+    "option4": "Malleability",
+    "answer": "Hardness"
+  },
+  {
+    "question": "Which property enables a metal to be drawn into thin wires?",
+    "option1": "Ductility",
+    "option2": "Malleability",
+    "option3": "Hardness",
+    "option4": "Brittleness",
+    "answer": "Ductility"
+  },
+  {
+    "question": "Which property enables a metal to be formed into thin sheets?",
+    "option1": "Malleability",
+    "option2": "Ductility",
+    "option3": "Toughness",
+    "option4": "Hardness",
+    "answer": "Malleability"
+  },
+  {
+    "question": "Which heat treatment process involves slowly cooling a heated metal?",
+    "option1": "Annealing",
+    "option2": "Quenching",
+    "option3": "Tempering",
+    "option4": "Hardening",
+    "answer": "Annealing"
+  },
+  {
+    "question": "Which heat treatment process involves rapid cooling of heated metal?",
+    "option1": "Quenching",
+    "option2": "Annealing",
+    "option3": "Tempering",
+    "option4": "Normalizing",
+    "answer": "Quenching"
+  },
+  {
+    "question": "Which process reduces the brittleness of hardened steel?",
+    "option1": "Tempering",
+    "option2": "Quenching",
+    "option3": "Casting",
+    "option4": "Rolling",
+    "answer": "Tempering"
+  },
+  {
+    "question": "Which machine tool is mainly used for producing flat surfaces and slots?",
+    "option1": "Milling machine",
+    "option2": "Lathe",
+    "option3": "Drilling machine",
+    "option4": "Grinding machine",
+    "answer": "Milling machine"
+  },
+  {
+    "question": "Which machine tool is mainly used to produce holes?",
+    "option1": "Drilling machine",
+    "option2": "Lathe",
+    "option3": "Shaper",
+    "option4": "Planer",
+    "answer": "Drilling machine"
+  },
+  {
+    "question": "Which operation is used to produce external threads on a lathe?",
+    "option1": "Thread cutting",
+    "option2": "Facing",
+    "option3": "Knurling",
+    "option4": "Boring",
+    "answer": "Thread cutting"
+  },
+  {
+    "question": "Which operation is used to produce a conical surface on a lathe?",
+    "option1": "Taper turning",
+    "option2": "Facing",
+    "option3": "Knurling",
+    "option4": "Parting",
+    "answer": "Taper turning"
+  },
+  {
+    "question": "Which part of a lathe holds the cutting tool?",
+    "option1": "Tool post",
+    "option2": "Tailstock",
+    "option3": "Chuck",
+    "option4": "Headstock",
+    "answer": "Tool post"
+  },
+  {
+    "question": "Which part of a lathe supports the workpiece at its free end?",
+    "option1": "Tailstock",
+    "option2": "Tool post",
+    "option3": "Lead screw",
+    "option4": "Chuck",
+    "answer": "Tailstock"
+  },
+  {
+    "question": "Which device is used to hold a workpiece in a lathe?",
+    "option1": "Chuck",
+    "option2": "Tailstock",
+    "option3": "Tool post",
+    "option4": "Lead screw",
+    "answer": "Chuck"
+  },
+  {
+    "question": "Which electrical machine converts electrical energy into mechanical energy?",
+    "option1": "Electric motor",
+    "option2": "Generator",
+    "option3": "Transformer",
+    "option4": "Rectifier",
+    "answer": "Electric motor"
+  },
+  {
+    "question": "Which electrical machine converts mechanical energy into electrical energy?",
+    "option1": "Generator",
+    "option2": "Motor",
+    "option3": "Transformer",
+    "option4": "Inverter",
+    "answer": "Generator"
+  },
+  {
+    "question": "A transformer operates mainly on the principle of:",
+    "option1": "Mutual induction",
+    "option2": "Electrolysis",
+    "option3": "Thermal expansion",
+    "option4": "Static friction",
+    "answer": "Mutual induction"
+  },
+  {
+    "question": "Which transformer is used to increase voltage?",
+    "option1": "Step-up transformer",
+    "option2": "Step-down transformer",
+    "option3": "Isolation transformer",
+    "option4": "Current transformer",
+    "answer": "Step-up transformer"
+  },
+  {
+    "question": "Which component converts AC into DC?",
+    "option1": "Rectifier",
+    "option2": "Oscillator",
+    "option3": "Transformer",
+    "option4": "Amplifier",
+    "answer": "Rectifier"
+  },
+  {
+    "question": "Which component converts DC into AC?",
+    "option1": "Inverter",
+    "option2": "Rectifier",
+    "option3": "Fuse",
+    "option4": "Transformer",
+    "answer": "Inverter"
+  },
+  {
+    "question": "Which electronic component is primarily used for switching and amplification?",
+    "option1": "Transistor",
+    "option2": "Resistor",
+    "option3": "Capacitor",
+    "option4": "Inductor",
+    "answer": "Transistor"
+  },
+  {
+    "question": "Which semiconductor device allows current to flow mainly in one direction?",
+    "option1": "Diode",
+    "option2": "Resistor",
+    "option3": "Capacitor",
+    "option4": "Transformer",
+    "answer": "Diode"
+  },
+  {
+    "question": "Which logic gate produces HIGH output only when all inputs are HIGH?",
+    "option1": "AND gate",
+    "option2": "OR gate",
+    "option3": "NOT gate",
+    "option4": "NOR gate",
+    "answer": "AND gate"
+  }
+  ]
+}

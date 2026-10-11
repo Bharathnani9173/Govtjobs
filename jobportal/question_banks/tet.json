@@ -1,0 +1,2325 @@
+{
+  "exam": "TET",
+  "questions": [
+    {
+      "question": "What is the main objective of a Teacher Eligibility Test?",
+      "option1": "To select school principals",
+      "option2": "To assess the minimum teaching aptitude and knowledge required for teaching",
+      "option3": "To select college lecturers",
+      "option4": "To conduct school examinations",
+      "answer": "To assess the minimum teaching aptitude and knowledge required for teaching"
+    },
+    {
+      "question": "Which principle emphasizes that children learn at different rates?",
+      "option1": "Individual differences",
+      "option2": "Uniformity",
+      "option3": "Memorization",
+      "option4": "Punishment",
+      "answer": "Individual differences"
+    },
+    {
+      "question": "According to Piaget, children in the concrete operational stage can perform:",
+      "option1": "Only reflex actions",
+      "option2": "Logical operations on concrete objects",
+      "option3": "Only abstract reasoning",
+      "option4": "No classification",
+      "answer": "Logical operations on concrete objects"
+    },
+    {
+      "question": "The concept of Zone of Proximal Development is associated with:",
+      "option1": "Jean Piaget",
+      "option2": "Lev Vygotsky",
+      "option3": "B.F. Skinner",
+      "option4": "Ivan Pavlov",
+      "answer": "Lev Vygotsky"
+    },
+    {
+      "question": "Scaffolding in education means:",
+      "option1": "Punishing students for mistakes",
+      "option2": "Providing temporary support to help learners complete tasks",
+      "option3": "Avoiding difficult tasks",
+      "option4": "Giving only final answers",
+      "answer": "Providing temporary support to help learners complete tasks"
+    },
+    {
+      "question": "Which approach considers the learner as an active participant?",
+      "option1": "Child-centered approach",
+      "option2": "Teacher-centered approach",
+      "option3": "Lecture-only approach",
+      "option4": "Rote approach",
+      "answer": "Child-centered approach"
+    },
+    {
+      "question": "Learning by doing is strongly associated with:",
+      "option1": "John Dewey",
+      "option2": "Sigmund Freud",
+      "option3": "Charles Darwin",
+      "option4": "Ivan Pavlov",
+      "answer": "John Dewey"
+    },
+    {
+      "question": "Which is an example of intrinsic motivation?",
+      "option1": "Studying because of curiosity",
+      "option2": "Studying for a prize",
+      "option3": "Studying to avoid punishment",
+      "option4": "Studying for money",
+      "answer": "Studying because of curiosity"
+    },
+    {
+      "question": "Formative assessment is mainly conducted:",
+      "option1": "Only at the end of the year",
+      "option2": "During the teaching-learning process",
+      "option3": "Before admission",
+      "option4": "Only after final examinations",
+      "answer": "During the teaching-learning process"
+    },
+    {
+      "question": "Summative assessment is generally used:",
+      "option1": "During every classroom activity",
+      "option2": "At the end of a unit or course",
+      "option3": "Before teaching begins",
+      "option4": "Only for attendance",
+      "answer": "At the end of a unit or course"
+    },
+    {
+      "question": "Which assessment helps identify learning difficulties?",
+      "option1": "Diagnostic assessment",
+      "option2": "Summative assessment",
+      "option3": "Final assessment",
+      "option4": "Competitive assessment",
+      "answer": "Diagnostic assessment"
+    },
+    {
+      "question": "Inclusive education means:",
+      "option1": "Educating only high achievers",
+      "option2": "Educating learners with diverse needs together",
+      "option3": "Separating all children with disabilities",
+      "option4": "Teaching only through textbooks",
+      "answer": "Educating learners with diverse needs together"
+    },
+    {
+      "question": "A teacher should respond to individual differences by:",
+      "option1": "Using exactly one method for all students",
+      "option2": "Using varied teaching strategies",
+      "option3": "Ignoring weaker students",
+      "option4": "Giving identical tasks always",
+      "answer": "Using varied teaching strategies"
+    },
+    {
+      "question": "Which is an example of positive reinforcement?",
+      "option1": "Praising a student for good work",
+      "option2": "Ignoring all effort",
+      "option3": "Giving punishment",
+      "option4": "Removing learning opportunities",
+      "answer": "Praising a student for good work"
+    },
+    {
+      "question": "Bloom's taxonomy is mainly related to:",
+      "option1": "Educational objectives",
+      "option2": "School buildings",
+      "option3": "Student attendance",
+      "option4": "School transport",
+      "answer": "Educational objectives"
+    },
+    {
+      "question": "Which level of Bloom's taxonomy involves recalling information?",
+      "option1": "Remembering",
+      "option2": "Creating",
+      "option3": "Evaluating",
+      "option4": "Analyzing",
+      "answer": "Remembering"
+    },
+    {
+      "question": "Constructivism suggests that learners:",
+      "option1": "Passively receive knowledge",
+      "option2": "Construct knowledge through experiences",
+      "option3": "Learn only by memorization",
+      "option4": "Cannot learn independently",
+      "answer": "Construct knowledge through experiences"
+    },
+    {
+      "question": "Which classroom practice promotes critical thinking?",
+      "option1": "Asking open-ended questions",
+      "option2": "Encouraging rote copying",
+      "option3": "Discouraging questions",
+      "option4": "Giving only yes/no questions",
+      "answer": "Asking open-ended questions"
+    },
+    {
+      "question": "Peer learning means:",
+      "option1": "Students learning from and with one another",
+      "option2": "Students learning without interaction",
+      "option3": "Only teachers explaining lessons",
+      "option4": "Students studying only at home",
+      "answer": "Students learning from and with one another"
+    },
+    {
+      "question": "Remedial teaching is designed to:",
+      "option1": "Address identified learning difficulties",
+      "option2": "Replace all classroom teaching",
+      "option3": "Increase homework only",
+      "option4": "Punish weak learners",
+      "answer": "Address identified learning difficulties"
+    },
+    {
+      "question": "Which factor has a strong influence on learning?",
+      "option1": "Motivation",
+      "option2": "Only classroom furniture",
+      "option3": "Uniform color",
+      "option4": "School bell",
+      "answer": "Motivation"
+    },
+    {
+      "question": "A good teacher should primarily act as a:",
+      "option1": "Facilitator of learning",
+      "option2": "Strict dictator",
+      "option3": "Silent observer",
+      "option4": "Textbook reader",
+      "answer": "Facilitator of learning"
+    },
+    {
+      "question": "Which method encourages students to discover concepts themselves?",
+      "option1": "Discovery learning",
+      "option2": "Dictation method",
+      "option3": "Lecture-only method",
+      "option4": "Copying method",
+      "answer": "Discovery learning"
+    },
+    {
+      "question": "The term 'learning disability' refers to:",
+      "option1": "Difficulty in specific learning processes",
+      "option2": "Lack of intelligence in every area",
+      "option3": "Lack of interest in all activities",
+      "option4": "Physical illness only",
+      "answer": "Difficulty in specific learning processes"
+    },
+    {
+      "question": "Dyslexia primarily affects:",
+      "option1": "Reading and language processing",
+      "option2": "Hearing",
+      "option3": "Physical movement",
+      "option4": "Vision only",
+      "answer": "Reading and language processing"
+    },
+    {
+      "question": "Dyscalculia is mainly associated with difficulty in:",
+      "option1": "Mathematics",
+      "option2": "Reading",
+      "option3": "Drawing",
+      "option4": "Music",
+      "answer": "Mathematics"
+    },
+    {
+      "question": "A visually impaired learner may benefit from:",
+      "option1": "Braille materials",
+      "option2": "Only blackboard notes",
+      "option3": "Smaller print",
+      "option4": "No learning materials",
+      "answer": "Braille materials"
+    },
+    {
+      "question": "The best way to handle a child's mistake is to:",
+      "option1": "Use it as an opportunity for learning",
+      "option2": "Punish the child immediately",
+      "option3": "Ignore the child permanently",
+      "option4": "Remove the child from class",
+      "answer": "Use it as an opportunity for learning"
+    },
+    {
+      "question": "Child development is influenced by:",
+      "option1": "Heredity and environment",
+      "option2": "Heredity only",
+      "option3": "Environment only",
+      "option4": "Neither heredity nor environment",
+      "answer": "Heredity and environment"
+    },
+    {
+      "question": "Which is a characteristic of learner-centered teaching?",
+      "option1": "Active student participation",
+      "option2": "Teacher speaks throughout the lesson",
+      "option3": "Students only copy notes",
+      "option4": "No classroom interaction",
+      "answer": "Active student participation"
+    },
+    {
+      "question": "Language is primarily a means of:",
+      "option1": "Communication",
+      "option2": "Punishment",
+      "option3": "Competition",
+      "option4": "Classification",
+      "answer": "Communication"
+    },
+    {
+      "question": "The four major language skills are:",
+      "option1": "Listening, speaking, reading and writing",
+      "option2": "Reading, drawing, singing and writing",
+      "option3": "Speaking, calculating, reading and drawing",
+      "option4": "Listening, counting, writing and painting",
+      "answer": "Listening, speaking, reading and writing"
+    },
+    {
+      "question": "Which language skill generally develops first in children?",
+      "option1": "Listening",
+      "option2": "Writing",
+      "option3": "Reading",
+      "option4": "Essay writing",
+      "answer": "Listening"
+    },
+    {
+      "question": "Phonics is mainly concerned with:",
+      "option1": "Relationship between sounds and letters",
+      "option2": "Sentence translation",
+      "option3": "Essay organization",
+      "option4": "Handwriting style",
+      "answer": "Relationship between sounds and letters"
+    },
+    {
+      "question": "Which activity best develops speaking skills?",
+      "option1": "Role play",
+      "option2": "Silent copying",
+      "option3": "Reading without speaking",
+      "option4": "Memorizing punctuation",
+      "answer": "Role play"
+    },
+    {
+      "question": "Reading comprehension means:",
+      "option1": "Understanding the meaning of a text",
+      "option2": "Reading without understanding",
+      "option3": "Copying a passage",
+      "option4": "Counting words",
+      "answer": "Understanding the meaning of a text"
+    },
+    {
+      "question": "Which activity develops vocabulary effectively?",
+      "option1": "Using new words in meaningful contexts",
+      "option2": "Copying the same word repeatedly",
+      "option3": "Avoiding conversation",
+      "option4": "Memorizing only spellings",
+      "answer": "Using new words in meaningful contexts"
+    },
+    {
+      "question": "A synonym is a word that has:",
+      "option1": "A similar meaning",
+      "option2": "An opposite meaning",
+      "option3": "No meaning",
+      "option4": "Only a different spelling",
+      "answer": "A similar meaning"
+    },
+    {
+      "question": "An antonym is a word that has:",
+      "option1": "An opposite meaning",
+      "option2": "A similar meaning",
+      "option3": "The same spelling",
+      "option4": "No meaning",
+      "answer": "An opposite meaning"
+    },
+    {
+      "question": "Choose the synonym of 'rapid'.",
+      "option1": "Slow",
+      "option2": "Fast",
+      "option3": "Weak",
+      "option4": "Late",
+      "answer": "Fast"
+    },
+    {
+      "question": "Choose the antonym of 'ancient'.",
+      "option1": "Old",
+      "option2": "Modern",
+      "option3": "Historic",
+      "option4": "Traditional",
+      "answer": "Modern"
+    },
+    {
+      "question": "Choose the correctly spelled word.",
+      "option1": "Enviroment",
+      "option2": "Environment",
+      "option3": "Envirnment",
+      "option4": "Enviornment",
+      "answer": "Environment"
+    },
+    {
+      "question": "Choose the correct article: 'He is ___ honest man.'",
+      "option1": "a",
+      "option2": "an",
+      "option3": "the",
+      "option4": "no article",
+      "answer": "an"
+    },
+    {
+      "question": "Choose the correct plural form of 'child'.",
+      "option1": "Childs",
+      "option2": "Children",
+      "option3": "Childes",
+      "option4": "Childrens",
+      "answer": "Children"
+    },
+    {
+      "question": "Which word is a noun?",
+      "option1": "Beautiful",
+      "option2": "Quickly",
+      "option3": "Teacher",
+      "option4": "Teach",
+      "answer": "Teacher"
+    },
+    {
+      "question": "Which word is an adjective?",
+      "option1": "Beauty",
+      "option2": "Beautiful",
+      "option3": "Beautifully",
+      "option4": "Beautify",
+      "answer": "Beautiful"
+    },
+    {
+      "question": "Which word is an adverb?",
+      "option1": "Slowly",
+      "option2": "Slow",
+      "option3": "Slowness",
+      "option4": "Slower",
+      "answer": "Slowly"
+    },
+    {
+      "question": "Choose the correct sentence.",
+      "option1": "She go to school daily.",
+      "option2": "She goes to school daily.",
+      "option3": "She going school daily.",
+      "option4": "She gone school daily.",
+      "answer": "She goes to school daily."
+    },
+    {
+      "question": "What is the past tense of 'go'?",
+      "option1": "Goed",
+      "option2": "Went",
+      "option3": "Gone",
+      "option4": "Going",
+      "answer": "Went"
+    },
+    {
+      "question": "Which punctuation mark is used at the end of a question?",
+      "option1": "Full stop",
+      "option2": "Comma",
+      "option3": "Question mark",
+      "option4": "Colon",
+      "answer": "Question mark"
+    },
+    {
+      "question": "Choose the correct preposition: 'The book is ___ the table.'",
+      "option1": "on",
+      "option2": "at",
+      "option3": "from",
+      "option4": "by",
+      "answer": "on"
+    },
+    {
+      "question": "A paragraph should generally contain:",
+      "option1": "Related ideas",
+      "option2": "Unrelated words",
+      "option3": "Only questions",
+      "option4": "Only numbers",
+      "answer": "Related ideas"
+    },
+    {
+      "question": "Which method is useful for teaching a second language through meaningful interaction?",
+      "option1": "Communicative approach",
+      "option2": "Silent copying",
+      "option3": "Translation only",
+      "option4": "Memorization only",
+      "answer": "Communicative approach"
+    },
+    {
+      "question": "Mathematics is best learned when children:",
+      "option1": "Connect concepts with real-life situations",
+      "option2": "Only memorize formulas",
+      "option3": "Avoid problem solving",
+      "option4": "Copy solutions",
+      "answer": "Connect concepts with real-life situations"
+    },
+    {
+      "question": "What is the place value of 7 in 5,742?",
+      "option1": "7",
+      "option2": "70",
+      "option3": "700",
+      "option4": "7000",
+      "answer": "700"
+    },
+    {
+      "question": "What is 25% of 200?",
+      "option1": "25",
+      "option2": "40",
+      "option3": "50",
+      "option4": "75",
+      "answer": "50"
+    },
+    {
+      "question": "What is 3/4 expressed as a decimal?",
+      "option1": "0.25",
+      "option2": "0.50",
+      "option3": "0.75",
+      "option4": "1.25",
+      "answer": "0.75"
+    },
+    {
+      "question": "What is the HCF of 12 and 18?",
+      "option1": "2",
+      "option2": "3",
+      "option3": "6",
+      "option4": "9",
+      "answer": "6"
+    },
+    {
+      "question": "What is the LCM of 4 and 6?",
+      "option1": "8",
+      "option2": "10",
+      "option3": "12",
+      "option4": "24",
+      "answer": "12"
+    },
+    {
+      "question": "What is 15 × 6?",
+      "option1": "80",
+      "option2": "90",
+      "option3": "100",
+      "option4": "120",
+      "answer": "90"
+    },
+    {
+      "question": "What is 144 ÷ 12?",
+      "option1": "10",
+      "option2": "11",
+      "option3": "12",
+      "option4": "14",
+      "answer": "12"
+    },
+    {
+      "question": "What is the perimeter of a square with side 5 cm?",
+      "option1": "10 cm",
+      "option2": "15 cm",
+      "option3": "20 cm",
+      "option4": "25 cm",
+      "answer": "20 cm"
+    },
+    {
+      "question": "What is the area of a rectangle of length 8 cm and breadth 4 cm?",
+      "option1": "12 cm²",
+      "option2": "24 cm²",
+      "option3": "32 cm²",
+      "option4": "40 cm²",
+      "answer": "32 cm²"
+    },
+    {
+      "question": "How many degrees are there in a right angle?",
+      "option1": "45°",
+      "option2": "90°",
+      "option3": "180°",
+      "option4": "360°",
+      "answer": "90°"
+    },
+    {
+      "question": "Which number is a prime number?",
+      "option1": "21",
+      "option2": "27",
+      "option3": "29",
+      "option4": "33",
+      "answer": "29"
+    },
+    {
+      "question": "What is the average of 10, 20 and 30?",
+      "option1": "15",
+      "option2": "20",
+      "option3": "25",
+      "option4": "30",
+      "answer": "20"
+    },
+    {
+      "question": "If a book costs ₹100 and the price increases by 10%, what is the new price?",
+      "option1": "₹105",
+      "option2": "₹110",
+      "option3": "₹115",
+      "option4": "₹120",
+      "answer": "₹110"
+    },
+    {
+      "question": "What is the ratio 10:20 in simplest form?",
+      "option1": "1:2",
+      "option2": "2:3",
+      "option3": "1:3",
+      "option4": "2:5",
+      "answer": "1:2"
+    },
+    {
+      "question": "A triangle has how many sides?",
+      "option1": "2",
+      "option2": "3",
+      "option3": "4",
+      "option4": "5",
+      "answer": "3"
+    },
+    {
+      "question": "The sum of angles in a triangle is:",
+      "option1": "90°",
+      "option2": "180°",
+      "option3": "270°",
+      "option4": "360°",
+      "answer": "180°"
+    },
+    {
+      "question": "Which number is divisible by 5?",
+      "option1": "123",
+      "option2": "247",
+      "option3": "350",
+      "option4": "412",
+      "answer": "350"
+    },
+    {
+      "question": "What is 2.5 + 1.5?",
+      "option1": "3",
+      "option2": "4",
+      "option3": "4.5",
+      "option4": "5",
+      "answer": "4"
+    },
+    {
+      "question": "What is the fraction equivalent to 1/2?",
+      "option1": "2/4",
+      "option2": "2/3",
+      "option3": "3/5",
+      "option4": "4/5",
+      "answer": "2/4"
+    },
+    {
+      "question": "Which mathematical operation is represented by repeated addition?",
+      "option1": "Subtraction",
+      "option2": "Multiplication",
+      "option3": "Division",
+      "option4": "Comparison",
+      "answer": "Multiplication"
+    },
+    {
+      "question": "What is the successor of 999?",
+      "option1": "998",
+      "option2": "999",
+      "option3": "1000",
+      "option4": "1001",
+      "answer": "1000"
+    },
+    {
+      "question": "What is the predecessor of 500?",
+      "option1": "498",
+      "option2": "499",
+      "option3": "501",
+      "option4": "502",
+      "answer": "499"
+    },
+    {
+      "question": "Which instrument is commonly used to measure length?",
+      "option1": "Thermometer",
+      "option2": "Ruler",
+      "option3": "Balance",
+      "option4": "Clock",
+      "answer": "Ruler"
+    },
+    {
+      "question": "A pictograph represents data using:",
+      "option1": "Pictures or symbols",
+      "option2": "Only words",
+      "option3": "Only equations",
+      "option4": "Only paragraphs",
+      "answer": "Pictures or symbols"
+    },
+    {
+      "question": "Which is an even number?",
+      "option1": "17",
+      "option2": "21",
+      "option3": "28",
+      "option4": "35",
+      "answer": "28"
+    },
+    {
+      "question": "Which number is divisible by 3?",
+      "option1": "124",
+      "option2": "125",
+      "option3": "126",
+      "option4": "127",
+      "answer": "126"
+    },
+    {
+      "question": "What is 7²?",
+      "option1": "14",
+      "option2": "21",
+      "option3": "49",
+      "option4": "56",
+      "answer": "49"
+    },
+    {
+      "question": "What is the square root of 81?",
+      "option1": "7",
+      "option2": "8",
+      "option3": "9",
+      "option4": "10",
+      "answer": "9"
+    },
+    {
+      "question": "Which of the following is a unit of mass?",
+      "option1": "Kilogram",
+      "option2": "Metre",
+      "option3": "Litre",
+      "option4": "Second",
+      "answer": "Kilogram"
+    },
+    {
+      "question": "Which of the following is a unit of capacity?",
+      "option1": "Metre",
+      "option2": "Litre",
+      "option3": "Kilogram",
+      "option4": "Second",
+      "answer": "Litre"
+    },
+    {
+      "question": "Environmental Studies mainly encourages children to:",
+      "option1": "Connect classroom learning with their surroundings",
+      "option2": "Memorize only definitions",
+      "option3": "Avoid observation",
+      "option4": "Ignore local experiences",
+      "answer": "Connect classroom learning with their surroundings"
+    },
+    {
+      "question": "Which is a renewable source of energy?",
+      "option1": "Coal",
+      "option2": "Petroleum",
+      "option3": "Solar energy",
+      "option4": "Natural gas",
+      "answer": "Solar energy"
+    },
+    {
+      "question": "Which organ is primarily responsible for pumping blood?",
+      "option1": "Lungs",
+      "option2": "Heart",
+      "option3": "Kidney",
+      "option4": "Stomach",
+      "answer": "Heart"
+    },
+    {
+      "question": "Plants prepare food mainly through:",
+      "option1": "Respiration",
+      "option2": "Photosynthesis",
+      "option3": "Digestion",
+      "option4": "Excretion",
+      "answer": "Photosynthesis"
+    },
+    {
+      "question": "Which gas is mainly used by plants during photosynthesis?",
+      "option1": "Oxygen",
+      "option2": "Nitrogen",
+      "option3": "Carbon dioxide",
+      "option4": "Hydrogen",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "question": "Which part of a plant absorbs water from the soil?",
+      "option1": "Flower",
+      "option2": "Root",
+      "option3": "Fruit",
+      "option4": "Leaf",
+      "answer": "Root"
+    },
+    {
+      "question": "Which vitamin is mainly produced in the skin in the presence of sunlight?",
+      "option1": "Vitamin A",
+      "option2": "Vitamin B12",
+      "option3": "Vitamin C",
+      "option4": "Vitamin D",
+      "answer": "Vitamin D"
+    },
+    {
+      "question": "Which disease is caused by deficiency of vitamin C?",
+      "option1": "Scurvy",
+      "option2": "Rickets",
+      "option3": "Night blindness",
+      "option4": "Beriberi",
+      "answer": "Scurvy"
+    },
+    {
+      "question": "Which nutrient is mainly required for body growth and repair?",
+      "option1": "Protein",
+      "option2": "Water",
+      "option3": "Mineral salt",
+      "option4": "Fiber",
+      "answer": "Protein"
+    },
+    {
+      "question": "Which organ helps humans breathe?",
+      "option1": "Heart",
+      "option2": "Lungs",
+      "option3": "Liver",
+      "option4": "Kidney",
+      "answer": "Lungs"
+    },
+    {
+      "question": "Water changes into water vapour through:",
+      "option1": "Condensation",
+      "option2": "Evaporation",
+      "option3": "Freezing",
+      "option4": "Melting",
+      "answer": "Evaporation"
+    },
+    {
+      "question": "Water vapour changes into liquid water through:",
+      "option1": "Condensation",
+      "option2": "Evaporation",
+      "option3": "Sublimation",
+      "option4": "Melting",
+      "answer": "Condensation"
+    },
+    {
+      "question": "Which material is generally a good conductor of electricity?",
+      "option1": "Copper",
+      "option2": "Rubber",
+      "option3": "Plastic",
+      "option4": "Wood",
+      "answer": "Copper"
+    },
+    {
+      "question": "Which material is an insulator?",
+      "option1": "Copper",
+      "option2": "Aluminium",
+      "option3": "Rubber",
+      "option4": "Iron",
+      "answer": "Rubber"
+    },
+    {
+      "question": "Which force pulls objects toward the Earth?",
+      "option1": "Magnetic force",
+      "option2": "Gravitational force",
+      "option3": "Frictional force",
+      "option4": "Muscular force",
+      "answer": "Gravitational force"
+    },
+    {
+      "question": "Friction generally acts:",
+      "option1": "In the direction of motion",
+      "option2": "Opposite to relative motion",
+      "option3": "Only upward",
+      "option4": "Only downward",
+      "answer": "Opposite to relative motion"
+    },
+    {
+      "question": "Which is the natural satellite of Earth?",
+      "option1": "Mars",
+      "option2": "Moon",
+      "option3": "Venus",
+      "option4": "Sun",
+      "answer": "Moon"
+    },
+    {
+      "question": "The Earth revolves around the:",
+      "option1": "Moon",
+      "option2": "Sun",
+      "option3": "Mars",
+      "option4": "Pole Star",
+      "answer": "Sun"
+    },
+    {
+      "question": "Day and night are caused mainly by Earth's:",
+      "option1": "Revolution around the Sun",
+      "option2": "Rotation on its axis",
+      "option3": "Distance from the Moon",
+      "option4": "Shape only",
+      "answer": "Rotation on its axis"
+    },
+    {
+      "question": "Which layer protects Earth from much of the Sun's ultraviolet radiation?",
+      "option1": "Ozone layer",
+      "option2": "Troposphere",
+      "option3": "Core",
+      "option4": "Mantle",
+      "answer": "Ozone layer"
+    },
+    {
+      "question": "Which of the following is biodegradable?",
+      "option1": "Plastic bottle",
+      "option2": "Glass",
+      "option3": "Vegetable waste",
+      "option4": "Aluminium can",
+      "answer": "Vegetable waste"
+    },
+    {
+      "question": "Which practice helps conserve water?",
+      "option1": "Leaving taps open",
+      "option2": "Rainwater harvesting",
+      "option3": "Washing roads with drinking water",
+      "option4": "Ignoring leaks",
+      "answer": "Rainwater harvesting"
+    },
+    {
+      "question": "Which gas is most abundant in Earth's atmosphere?",
+      "option1": "Oxygen",
+      "option2": "Nitrogen",
+      "option3": "Carbon dioxide",
+      "option4": "Hydrogen",
+      "answer": "Nitrogen"
+    },
+    {
+      "question": "Which organ filters waste from the blood?",
+      "option1": "Heart",
+      "option2": "Kidney",
+      "option3": "Lung",
+      "option4": "Brain",
+      "answer": "Kidney"
+    },
+    {
+      "question": "Which blood cells help fight infections?",
+      "option1": "Red blood cells",
+      "option2": "White blood cells",
+      "option3": "Platelets",
+      "option4": "Plasma only",
+      "answer": "White blood cells"
+    },
+    {
+      "question": "Which blood component helps in clotting?",
+      "option1": "Platelets",
+      "option2": "Red blood cells",
+      "option3": "White blood cells",
+      "option4": "Plasma water",
+      "answer": "Platelets"
+    },
+    {
+      "question": "Which sense organ is used for hearing?",
+      "option1": "Eye",
+      "option2": "Ear",
+      "option3": "Nose",
+      "option4": "Skin",
+      "answer": "Ear"
+    },
+    {
+      "question": "Which sense organ detects smell?",
+      "option1": "Ear",
+      "option2": "Nose",
+      "option3": "Eye",
+      "option4": "Tongue",
+      "answer": "Nose"
+    },
+    {
+      "question": "Which part of the human body controls most activities?",
+      "option1": "Brain",
+      "option2": "Stomach",
+      "option3": "Liver",
+      "option4": "Skin",
+      "answer": "Brain"
+    },
+    {
+      "question": "Which food group is a major source of carbohydrates?",
+      "option1": "Rice",
+      "option2": "Egg",
+      "option3": "Fish",
+      "option4": "Milk",
+      "answer": "Rice"
+    },
+    {
+      "question": "The study of society and human relationships is called:",
+      "option1": "Social science",
+      "option2": "Astronomy",
+      "option3": "Geology",
+      "option4": "Botany",
+      "answer": "Social science"
+    },
+    {
+      "question": "The Constitution of India came into effect on:",
+      "option1": "15 August 1947",
+      "option2": "26 January 1950",
+      "option3": "26 November 1949",
+      "option4": "2 October 1950",
+      "answer": "26 January 1950"
+    },
+    {
+      "question": "India is a:",
+      "option1": "Monarchy",
+      "option2": "Democratic republic",
+      "option3": "Military state",
+      "option4": "Absolute monarchy",
+      "answer": "Democratic republic"
+    },
+    {
+      "question": "The Parliament of India consists of:",
+      "option1": "Lok Sabha only",
+      "option2": "Rajya Sabha only",
+      "option3": "President, Lok Sabha and Rajya Sabha",
+      "option4": "Supreme Court and Lok Sabha",
+      "answer": "President, Lok Sabha and Rajya Sabha"
+    },
+    {
+      "question": "The head of a Gram Panchayat is generally called:",
+      "option1": "Sarpanch",
+      "option2": "Governor",
+      "option3": "Mayor",
+      "option4": "Collector",
+      "answer": "Sarpanch"
+    },
+    {
+      "question": "Which is the lowest level of rural local self-government?",
+      "option1": "Gram Panchayat",
+      "option2": "State Assembly",
+      "option3": "Parliament",
+      "option4": "Zilla Parishad",
+      "answer": "Gram Panchayat"
+    },
+    {
+      "question": "The capital of Telangana is:",
+      "option1": "Warangal",
+      "option2": "Hyderabad",
+      "option3": "Nizamabad",
+      "option4": "Karimnagar",
+      "answer": "Hyderabad"
+    },
+    {
+      "question": "Telangana became a separate state in:",
+      "option1": "2009",
+      "option2": "2012",
+      "option3": "2014",
+      "option4": "2016",
+      "answer": "2014"
+    },
+    {
+      "question": "Which river is closely associated with the Godavari basin?",
+      "option1": "Godavari",
+      "option2": "Yamuna",
+      "option3": "Sutlej",
+      "option4": "Ravi",
+      "answer": "Godavari"
+    },
+    {
+      "question": "Which river flows through Telangana and is a tributary of the Krishna?",
+      "option1": "Musi",
+      "option2": "Ganga",
+      "option3": "Brahmaputra",
+      "option4": "Narmada",
+      "answer": "Musi"
+    },
+    {
+      "question": "Which is an important purpose of a map?",
+      "option1": "To represent places and spatial information",
+      "option2": "To measure temperature only",
+      "option3": "To calculate population only",
+      "option4": "To record rainfall only",
+      "answer": "To represent places and spatial information"
+    },
+    {
+      "question": "The Equator divides Earth into:",
+      "option1": "Eastern and Western Hemispheres",
+      "option2": "Northern and Southern Hemispheres",
+      "option3": "Upper and Lower Hemispheres",
+      "option4": "Land and Water Hemispheres",
+      "answer": "Northern and Southern Hemispheres"
+    },
+    {
+      "question": "Which continent is the largest by area?",
+      "option1": "Africa",
+      "option2": "Asia",
+      "option3": "Europe",
+      "option4": "Australia",
+      "answer": "Asia"
+    },
+    {
+      "question": "Which is the largest ocean?",
+      "option1": "Atlantic Ocean",
+      "option2": "Indian Ocean",
+      "option3": "Pacific Ocean",
+      "option4": "Arctic Ocean",
+      "answer": "Pacific Ocean"
+    },
+    {
+      "question": "The Indian national flag has how many main colors?",
+      "option1": "Two",
+      "option2": "Three",
+      "option3": "Four",
+      "option4": "Five",
+      "answer": "Three"
+    },
+    {
+      "question": "Who wrote the Indian national anthem?",
+      "option1": "Bankim Chandra Chattopadhyay",
+      "option2": "Rabindranath Tagore",
+      "option3": "Sarojini Naidu",
+      "option4": "Subramania Bharati",
+      "answer": "Rabindranath Tagore"
+    },
+    {
+      "question": "Which movement was launched by Mahatma Gandhi in 1942?",
+      "option1": "Non-Cooperation Movement",
+      "option2": "Quit India Movement",
+      "option3": "Swadeshi Movement",
+      "option4": "Civil Disobedience Movement",
+      "answer": "Quit India Movement"
+    },
+    {
+      "question": "The Indian Constitution was adopted on:",
+      "option1": "15 August 1947",
+      "option2": "26 November 1949",
+      "option3": "26 January 1950",
+      "option4": "2 October 1950",
+      "answer": "26 November 1949"
+    },
+    {
+      "question": "Who is known as the Father of the Indian Constitution?",
+      "option1": "Mahatma Gandhi",
+      "option2": "B. R. Ambedkar",
+      "option3": "Jawaharlal Nehru",
+      "option4": "Sardar Patel",
+      "answer": "B. R. Ambedkar"
+    },
+    {
+      "question": "Which fundamental right protects freedom of speech and expression?",
+      "option1": "Right to Equality",
+      "option2": "Right to Freedom",
+      "option3": "Right against Exploitation",
+      "option4": "Right to Education",
+      "answer": "Right to Freedom"
+    },
+    {
+      "question": "The Right to Education under Article 21A covers children of which age group?",
+      "option1": "3–6 years",
+      "option2": "6–14 years",
+      "option3": "14–18 years",
+      "option4": "18–21 years",
+      "answer": "6–14 years"
+    },
+    {
+      "question": "The Right to Education Act was enacted in:",
+      "option1": "2005",
+      "option2": "2007",
+      "option3": "2009",
+      "option4": "2012",
+      "answer": "2009"
+    },
+    {
+      "question": "Which teaching aid is most useful for showing geographical locations?",
+      "option1": "Map",
+      "option2": "Dictionary",
+      "option3": "Calculator",
+      "option4": "Notebook",
+      "answer": "Map"
+    },
+    {
+      "question": "A timeline is especially useful for teaching:",
+      "option1": "Historical sequence",
+      "option2": "Mathematical fractions",
+      "option3": "Grammar rules",
+      "option4": "Plant anatomy",
+      "answer": "Historical sequence"
+    },
+    {
+      "question": "Project work mainly promotes:",
+      "option1": "Active learning and investigation",
+      "option2": "Rote memorization",
+      "option3": "Passive listening",
+      "option4": "Copying from textbooks",
+      "answer": "Active learning and investigation"
+    },
+    {
+      "question": "Field visits can help students:",
+      "option1": "Connect classroom concepts with real situations",
+      "option2": "Avoid observation",
+      "option3": "Replace all classroom learning",
+      "option4": "Memorize without understanding",
+      "answer": "Connect classroom concepts with real situations"
+    },
+    {
+      "question": "Which question promotes higher-order thinking?",
+      "option1": "What is the definition?",
+      "option2": "Who wrote the book?",
+      "option3": "Why do you think this happened?",
+      "option4": "When did it happen?",
+      "answer": "Why do you think this happened?"
+    },
+    {
+      "question": "A portfolio is:",
+      "option1": "A collection of a learner's work over time",
+      "option2": "A final examination paper",
+      "option3": "An attendance register",
+      "option4": "A school timetable",
+      "answer": "A collection of a learner's work over time"
+    },
+    {
+      "question": "Rubrics are used to:",
+      "option1": "Provide criteria for evaluating performance",
+      "option2": "Record attendance",
+      "option3": "Prepare school timetables",
+      "option4": "Calculate school fees",
+      "answer": "Provide criteria for evaluating performance"
+    },
+    {
+      "question": "Which teaching strategy is particularly useful for developing cooperation?",
+      "option1": "Cooperative learning",
+      "option2": "Individual memorization only",
+      "option3": "Silent reading only",
+      "option4": "Dictation",
+      "answer": "Cooperative learning"
+    },
+    {
+      "question": "A classroom discussion should encourage:",
+      "option1": "Respectful exchange of ideas",
+      "option2": "Only teacher responses",
+      "option3": "Silence from students",
+      "option4": "Memorized answers only",
+      "answer": "Respectful exchange of ideas"
+    },
+    {
+      "question": "Which is an important characteristic of good feedback?",
+      "option1": "It should be specific and constructive",
+      "option2": "It should only criticize",
+      "option3": "It should be delayed indefinitely",
+      "option4": "It should compare students publicly",
+      "answer": "It should be specific and constructive"
+    },
+    {
+      "question": "A teacher notices that a student is struggling with subtraction. What should the teacher do first?",
+      "option1": "Diagnose the specific difficulty",
+      "option2": "Give punishment",
+      "option3": "Ignore the problem",
+      "option4": "Move immediately to advanced topics",
+      "answer": "Diagnose the specific difficulty"
+    },
+    {
+      "question": "Which classroom environment is most supportive of learning?",
+      "option1": "Safe and encouraging",
+      "option2": "Fear-based",
+      "option3": "Punishment-based",
+      "option4": "Silent and rigid",
+      "answer": "Safe and encouraging"
+    },
+    {
+      "question": "Children's questions in a classroom should generally be:",
+      "option1": "Encouraged",
+      "option2": "Discouraged",
+      "option3": "Punished",
+      "option4": "Ignored",
+      "answer": "Encouraged"
+    },
+    {
+      "question": "Which is an example of experiential learning?",
+      "option1": "Growing plants and observing their development",
+      "option2": "Copying a definition ten times",
+      "option3": "Memorizing a paragraph",
+      "option4": "Reading without discussion",
+      "answer": "Growing plants and observing their development"
+    },
+    {
+      "question": "The main purpose of homework should be to:",
+      "option1": "Reinforce and extend learning",
+      "option2": "Punish students",
+      "option3": "Keep students busy",
+      "option4": "Replace teaching",
+      "answer": "Reinforce and extend learning"
+    },
+    {
+      "question": "Which method is suitable for teaching young children through play?",
+      "option1": "Play-way method",
+      "option2": "Lecture method",
+      "option3": "Dictation method",
+      "option4": "Memorization method",
+      "answer": "Play-way method"
+    },
+    {
+      "question": "Storytelling is especially useful for:",
+      "option1": "Developing language and imagination",
+      "option2": "Teaching only calculations",
+      "option3": "Avoiding communication",
+      "option4": "Reducing vocabulary",
+      "answer": "Developing language and imagination"
+    },
+    {
+      "question": "Which strategy can help a teacher understand students' prior knowledge?",
+      "option1": "Pre-assessment",
+      "option2": "Final examination",
+      "option3": "Annual examination",
+      "option4": "Report card only",
+      "answer": "Pre-assessment"
+    },
+    {
+      "question": "Learning outcomes describe:",
+      "option1": "What learners are expected to know or do",
+      "option2": "Only the teacher's duties",
+      "option3": "The school building requirements",
+      "option4": "The examination timetable",
+      "answer": "What learners are expected to know or do"
+    },
+    {
+      "question": "Which classroom activity best develops problem-solving skills?",
+      "option1": "Giving real-life problems to solve",
+      "option2": "Copying solved examples only",
+      "option3": "Memorizing definitions",
+      "option4": "Repeating answers",
+      "answer": "Giving real-life problems to solve"
+    },
+    {
+      "question": "Which approach recognizes the importance of children's home experiences?",
+      "option1": "Contextual learning",
+      "option2": "Rote learning",
+      "option3": "Isolation approach",
+      "option4": "Lecture-only approach",
+      "answer": "Contextual learning"
+    },
+    {
+      "question": "The purpose of classroom observation is to:",
+      "option1": "Understand learner participation and behavior",
+      "option2": "Punish students",
+      "option3": "Replace assessment completely",
+      "option4": "Avoid interaction",
+      "answer": "Understand learner participation and behavior"
+    },
+    {
+      "question": "Which practice supports gender equality in the classroom?",
+      "option1": "Giving equal opportunities to all learners",
+      "option2": "Assigning activities based only on gender",
+      "option3": "Allowing only boys to lead",
+      "option4": "Allowing only girls to participate",
+      "answer": "Giving equal opportunities to all learners"
+    },
+    {
+      "question": "A multilingual classroom should be viewed as:",
+      "option1": "A resource for learning",
+      "option2": "A problem to eliminate",
+      "option3": "A reason to exclude learners",
+      "option4": "A reason to stop communication",
+      "answer": "A resource for learning"
+    },
+    {
+      "question": "Which method can help children learn scientific concepts through investigation?",
+      "option1": "Inquiry-based learning",
+      "option2": "Rote memorization",
+      "option3": "Dictation",
+      "option4": "Copying",
+      "answer": "Inquiry-based learning"
+    },
+    {
+      "question": "A hypothesis is:",
+      "option1": "A tentative explanation that can be tested",
+      "option2": "A final proven law",
+      "option3": "A random drawing",
+      "option4": "A classroom rule",
+      "answer": "A tentative explanation that can be tested"
+    },
+    {
+      "question": "Which process is used by green plants to release oxygen during food production?",
+      "option1": "Photosynthesis",
+      "option2": "Respiration only",
+      "option3": "Digestion",
+      "option4": "Transpiration only",
+      "answer": "Photosynthesis"
+    },
+    {
+      "question": "Which part of a flower develops into a fruit after fertilization?",
+      "option1": "Ovary",
+      "option2": "Petal",
+      "option3": "Anther",
+      "option4": "Sepal",
+      "answer": "Ovary"
+    },
+    {
+      "question": "Which force allows a person to walk without slipping easily?",
+      "option1": "Friction",
+      "option2": "Gravity only",
+      "option3": "Magnetism",
+      "option4": "Buoyancy",
+      "answer": "Friction"
+    },
+    {
+      "question": "Sound cannot travel through:",
+      "option1": "Solids",
+      "option2": "Liquids",
+      "option3": "Gases",
+      "option4": "Vacuum",
+      "answer": "Vacuum"
+    },
+    {
+      "question": "Which instrument measures temperature?",
+      "option1": "Barometer",
+      "option2": "Thermometer",
+      "option3": "Ammeter",
+      "option4": "Speedometer",
+      "answer": "Thermometer"
+    },
+    {
+      "question": "Which instrument measures atmospheric pressure?",
+      "option1": "Thermometer",
+      "option2": "Barometer",
+      "option3": "Ammeter",
+      "option4": "Voltmeter",
+      "answer": "Barometer"
+    },
+    {
+      "question": "Which simple machine is commonly used to draw water from a well?",
+      "option1": "Pulley",
+      "option2": "Screw",
+      "option3": "Wedge",
+      "option4": "Lever only",
+      "answer": "Pulley"
+    },
+    {
+      "question": "Which form of energy is stored in food?",
+      "option1": "Chemical energy",
+      "option2": "Sound energy",
+      "option3": "Light energy",
+      "option4": "Nuclear energy",
+      "answer": "Chemical energy"
+    },
+    {
+      "question": "Which process separates insoluble solid particles from a liquid?",
+      "option1": "Filtration",
+      "option2": "Evaporation",
+      "option3": "Condensation",
+      "option4": "Freezing",
+      "answer": "Filtration"
+    },
+    {
+      "question": "Which method is commonly used to obtain salt from seawater?",
+      "option1": "Evaporation",
+      "option2": "Filtration",
+      "option3": "Magnetism",
+      "option4": "Sieving",
+      "answer": "Evaporation"
+    },
+    {
+      "question": "Which disease is commonly spread by mosquitoes?",
+      "option1": "Malaria",
+      "option2": "Scurvy",
+      "option3": "Rickets",
+      "option4": "Diabetes",
+      "answer": "Malaria"
+    },
+    {
+      "question": "Which measure helps prevent the spread of many infectious diseases?",
+      "option1": "Hand hygiene",
+      "option2": "Sharing used personal items",
+      "option3": "Ignoring sanitation",
+      "option4": "Avoiding clean water",
+      "answer": "Hand hygiene"
+    },
+    {
+      "question": "Which part of the digestive system mainly absorbs nutrients?",
+      "option1": "Small intestine",
+      "option2": "Large intestine",
+      "option3": "Stomach only",
+      "option4": "Esophagus",
+      "answer": "Small intestine"
+    },
+    {
+      "question": "Which gas is essential for human respiration?",
+      "option1": "Carbon dioxide",
+      "option2": "Oxygen",
+      "option3": "Nitrogen",
+      "option4": "Helium",
+      "answer": "Oxygen"
+    },
+    {
+      "question": "Which is a good example of a balanced diet?",
+      "option1": "A diet containing different nutrients in appropriate amounts",
+      "option2": "Only carbohydrates",
+      "option3": "Only fats",
+      "option4": "Only proteins",
+      "answer": "A diet containing different nutrients in appropriate amounts"
+    },
+    {
+      "question": "Which of the following is a communicable disease?",
+      "option1": "Common cold",
+      "option2": "Diabetes",
+      "option3": "Hypertension",
+      "option4": "Arthritis",
+      "answer": "Common cold"
+    },
+    {
+      "question": "Which organ is responsible for pumping oxygenated blood throughout the body?",
+      "option1": "Heart",
+      "option2": "Kidney",
+      "option3": "Liver",
+      "option4": "Pancreas",
+      "answer": "Heart"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "option1": "Venus",
+      "option2": "Mars",
+      "option3": "Jupiter",
+      "option4": "Mercury",
+      "answer": "Mars"
+    },
+    {
+      "question": "Which is the largest planet in the Solar System?",
+      "option1": "Earth",
+      "option2": "Saturn",
+      "option3": "Jupiter",
+      "option4": "Neptune",
+      "answer": "Jupiter"
+    },
+    {
+      "question": "Which planet is closest to the Sun?",
+      "option1": "Mercury",
+      "option2": "Venus",
+      "option3": "Earth",
+      "option4": "Mars",
+      "answer": "Mercury"
+    },
+    {
+      "question": "Which natural resource is essential for all known forms of life?",
+      "option1": "Water",
+      "option2": "Gold",
+      "option3": "Coal",
+      "option4": "Iron",
+      "answer": "Water"
+    },
+    {
+      "question": "Deforestation can lead to:",
+      "option1": "Soil erosion",
+      "option2": "Increased forest cover",
+      "option3": "More biodiversity",
+      "option4": "Reduced carbon dioxide",
+      "answer": "Soil erosion"
+    },
+    {
+      "question": "Which practice helps reduce solid waste?",
+      "option1": "Reduce, reuse and recycle",
+      "option2": "Burning all waste",
+      "option3": "Dumping waste into rivers",
+      "option4": "Using disposable items unnecessarily",
+      "answer": "Reduce, reuse and recycle"
+    },
+    {
+      "question": "Which soil is generally suitable for growing many crops because of its balanced properties?",
+      "option1": "Loamy soil",
+      "option2": "Pure gravel",
+      "option3": "Solid rock",
+      "option4": "Only sand",
+      "answer": "Loamy soil"
+    },
+    {
+      "question": "Which agricultural practice involves supplying water to crops?",
+      "option1": "Irrigation",
+      "option2": "Harvesting",
+      "option3": "Threshing",
+      "option4": "Storage",
+      "answer": "Irrigation"
+    },
+    {
+      "question": "Which crop is commonly associated with the Kharif season?",
+      "option1": "Rice",
+      "option2": "Wheat",
+      "option3": "Gram",
+      "option4": "Mustard",
+      "answer": "Rice"
+    },
+    {
+      "question": "Which crop is commonly associated with the Rabi season?",
+      "option1": "Rice",
+      "option2": "Wheat",
+      "option3": "Cotton",
+      "option4": "Maize only",
+      "answer": "Wheat"
+    },
+    {
+      "question": "Which occupation is directly associated with farming?",
+      "option1": "Agriculture",
+      "option2": "Banking",
+      "option3": "Teaching",
+      "option4": "Carpentry",
+      "answer": "Agriculture"
+    },
+    {
+      "question": "Which institution is primarily responsible for implementing school education policies at the state level?",
+      "option1": "State School Education Department",
+      "option2": "Railway Board",
+      "option3": "Reserve Bank of India",
+      "option4": "Election Commission only",
+      "answer": "State School Education Department"
+    },
+    {
+      "question": "The main purpose of a school timetable is to:",
+      "option1": "Organize teaching and learning activities",
+      "option2": "Determine student intelligence",
+      "option3": "Replace the curriculum",
+      "option4": "Conduct elections",
+      "answer": "Organize teaching and learning activities"
+    },
+    {
+      "question": "Which document generally outlines what students should learn in a course?",
+      "option1": "Curriculum",
+      "option2": "Attendance register",
+      "option3": "Fee receipt",
+      "option4": "Identity card",
+      "answer": "Curriculum"
+    },
+    {
+      "question": "A syllabus mainly specifies:",
+      "option1": "Topics and content to be covered",
+      "option2": "Only student attendance",
+      "option3": "School building design",
+      "option4": "Teacher salary",
+      "answer": "Topics and content to be covered"
+    },
+    {
+      "question": "Which approach integrates different subjects around a common theme?",
+      "option1": "Integrated approach",
+      "option2": "Isolated approach",
+      "option3": "Lecture-only approach",
+      "option4": "Memorization approach",
+      "answer": "Integrated approach"
+    },
+    {
+      "question": "Which teaching material can make abstract concepts easier to understand?",
+      "option1": "Models and visual aids",
+      "option2": "Only lengthy definitions",
+      "option3": "Only punishment",
+      "option4": "No examples",
+      "answer": "Models and visual aids"
+    },
+    {
+      "question": "Which classroom practice helps develop creativity?",
+      "option1": "Allowing multiple ways to solve a problem",
+      "option2": "Demanding one memorized answer",
+      "option3": "Discouraging questions",
+      "option4": "Avoiding experimentation",
+      "answer": "Allowing multiple ways to solve a problem"
+    },
+    {
+      "question": "Which type of question has more than one possible reasonable answer?",
+      "option1": "Open-ended question",
+      "option2": "True/false question",
+      "option3": "One-word question",
+      "option4": "Matching question",
+      "answer": "Open-ended question"
+    },
+    {
+      "question": "Which classroom activity is most suitable for assessing speaking ability?",
+      "option1": "Oral presentation",
+      "option2": "Written copying",
+      "option3": "Silent reading",
+      "option4": "Multiple-choice worksheet only",
+      "answer": "Oral presentation"
+    },
+    {
+      "question": "Which activity best assesses reading comprehension?",
+      "option1": "Reading a passage and answering questions",
+      "option2": "Copying the passage",
+      "option3": "Drawing a picture only",
+      "option4": "Memorizing the title",
+      "answer": "Reading a passage and answering questions"
+    },
+    {
+      "question": "Which approach is most appropriate when teaching a concept to students with different ability levels?",
+      "option1": "Differentiated instruction",
+      "option2": "Identical tasks for everyone",
+      "option3": "Ignoring weaker learners",
+      "option4": "Teaching only advanced learners",
+      "answer": "Differentiated instruction"
+    },
+    {
+      "question": "The main purpose of peer assessment is to:",
+      "option1": "Help learners evaluate work using clear criteria",
+      "option2": "Replace teachers completely",
+      "option3": "Punish classmates",
+      "option4": "Rank students publicly",
+      "answer": "Help learners evaluate work using clear criteria"
+    },
+    {
+      "question": "Which practice can reduce examination anxiety?",
+      "option1": "Regular preparation and supportive feedback",
+      "option2": "Threatening students",
+      "option3": "Increasing punishment",
+      "option4": "Avoiding revision",
+      "answer": "Regular preparation and supportive feedback"
+    },
+    {
+      "question": "Which type of learning involves applying knowledge to a new situation?",
+      "option1": "Application",
+      "option2": "Memorization only",
+      "option3": "Recognition only",
+      "option4": "Copying",
+      "answer": "Application"
+    },
+    {
+      "question": "Which level of Bloom's taxonomy involves breaking information into parts?",
+      "option1": "Remembering",
+      "option2": "Understanding",
+      "option3": "Analyzing",
+      "option4": "Creating",
+      "answer": "Analyzing"
+    },
+    {
+      "question": "Which level of Bloom's taxonomy involves producing something new?",
+      "option1": "Remembering",
+      "option2": "Understanding",
+      "option3": "Applying",
+      "option4": "Creating",
+      "answer": "Creating"
+    },
+    {
+      "question": "Which classroom technique encourages students to generate many ideas?",
+      "option1": "Brainstorming",
+      "option2": "Dictation",
+      "option3": "Copying",
+      "option4": "Silent memorization",
+      "answer": "Brainstorming"
+    },
+    {
+      "question": "A concept map is useful for:",
+      "option1": "Showing relationships among ideas",
+      "option2": "Recording attendance only",
+      "option3": "Calculating marks only",
+      "option4": "Replacing textbooks",
+      "answer": "Showing relationships among ideas"
+    },
+    {
+      "question": "Which learning theory emphasizes behavior shaped by reinforcement?",
+      "option1": "Behaviorism",
+      "option2": "Constructivism",
+      "option3": "Humanism",
+      "option4": "Gestalt theory",
+      "answer": "Behaviorism"
+    },
+    {
+      "question": "Classical conditioning is associated with:",
+      "option1": "Ivan Pavlov",
+      "option2": "Jean Piaget",
+      "option3": "John Dewey",
+      "option4": "Lev Vygotsky",
+      "answer": "Ivan Pavlov"
+    },
+    {
+      "question": "Operant conditioning is strongly associated with:",
+      "option1": "B. F. Skinner",
+      "option2": "Piaget",
+      "option3": "Dewey",
+      "option4": "Rousseau",
+      "answer": "B. F. Skinner"
+    },
+    {
+      "question": "According to Piaget, the sensorimotor stage occurs approximately during:",
+      "option1": "Birth to 2 years",
+      "option2": "2 to 7 years",
+      "option3": "7 to 11 years",
+      "option4": "11 years and above",
+      "answer": "Birth to 2 years"
+    },
+    {
+      "question": "According to Piaget, the formal operational stage is characterized by:",
+      "option1": "Abstract reasoning",
+      "option2": "Only reflexes",
+      "option3": "Only sensory exploration",
+      "option4": "No logical thinking",
+      "answer": "Abstract reasoning"
+    },
+    {
+      "question": "Vygotsky emphasized the importance of:",
+      "option1": "Social interaction in learning",
+      "option2": "Learning without communication",
+      "option3": "Punishment",
+      "option4": "Rote memorization only",
+      "answer": "Social interaction in learning"
+    },
+    {
+      "question": "Which factor is essential for effective classroom communication?",
+      "option1": "Active listening",
+      "option2": "Ignoring students",
+      "option3": "Speaking continuously",
+      "option4": "Avoiding questions",
+      "answer": "Active listening"
+    },
+    {
+      "question": "Which teaching method is most appropriate for demonstrating a practical skill?",
+      "option1": "Demonstration method",
+      "option2": "Lecture-only method",
+      "option3": "Dictation",
+      "option4": "Silent reading",
+      "answer": "Demonstration method"
+    },
+    {
+      "question": "Which strategy helps students organize ideas before writing?",
+      "option1": "Mind mapping",
+      "option2": "Punishment",
+      "option3": "Random copying",
+      "option4": "Silent memorization",
+      "answer": "Mind mapping"
+    },
+    {
+      "question": "Which is the best example of formative feedback?",
+      "option1": "Guidance given during learning to improve future performance",
+      "option2": "A final rank after the course",
+      "option3": "A certificate after graduation",
+      "option4": "A final score without comments",
+      "answer": "Guidance given during learning to improve future performance"
+    },
+    {
+      "question": "Which assessment is conducted before instruction to understand learner readiness?",
+      "option1": "Diagnostic or baseline assessment",
+      "option2": "Summative assessment",
+      "option3": "Final assessment",
+      "option4": "Annual assessment",
+      "answer": "Diagnostic or baseline assessment"
+    },
+    {
+      "question": "Which is an important feature of inclusive classrooms?",
+      "option1": "Participation of learners with diverse abilities",
+      "option2": "Exclusion of children with disabilities",
+      "option3": "Only high achievers participate",
+      "option4": "Identical support for every learner regardless of need",
+      "answer": "Participation of learners with diverse abilities"
+    },
+    {
+      "question": "Which support can help a child with hearing impairment?",
+      "option1": "Visual instructions and appropriate assistive support",
+      "option2": "Only oral lectures",
+      "option3": "No classroom participation",
+      "option4": "Removing visual materials",
+      "answer": "Visual instructions and appropriate assistive support"
+    },
+    {
+      "question": "Which principle should guide classroom discipline?",
+      "option1": "Positive and constructive discipline",
+      "option2": "Fear and punishment",
+      "option3": "Public humiliation",
+      "option4": "Physical punishment",
+      "answer": "Positive and constructive discipline"
+    },
+    {
+      "question": "Which classroom practice encourages self-regulated learning?",
+      "option1": "Helping students set and monitor their own learning goals",
+      "option2": "Giving answers immediately",
+      "option3": "Discouraging reflection",
+      "option4": "Preventing students from planning",
+      "answer": "Helping students set and monitor their own learning goals"
+    },
+    {
+      "question": "Reflection in learning means:",
+      "option1": "Thinking about what was learned and how it was learned",
+      "option2": "Copying notes again",
+      "option3": "Avoiding mistakes",
+      "option4": "Memorizing without thinking",
+      "answer": "Thinking about what was learned and how it was learned"
+    },
+    {
+      "question": "Which is an example of collaborative learning?",
+      "option1": "Students working together on a project",
+      "option2": "Students working separately without communication",
+      "option3": "Teacher giving a lecture only",
+      "option4": "Students copying answers",
+      "answer": "Students working together on a project"
+    },
+    {
+      "question": "The main purpose of a teaching-learning material is to:",
+      "option1": "Support understanding and engagement",
+      "option2": "Replace the teacher",
+      "option3": "Increase homework",
+      "option4": "Make lessons longer",
+      "answer": "Support understanding and engagement"
+    },
+    {
+      "question": "Which teaching aid is particularly useful for teaching the solar system?",
+      "option1": "Model",
+      "option2": "Attendance register",
+      "option3": "Dictionary only",
+      "option4": "Notebook only",
+      "answer": "Model"
+    },
+    {
+      "question": "Which activity is most appropriate for teaching measurement to young children?",
+      "option1": "Measuring classroom objects",
+      "option2": "Memorizing unit names only",
+      "option3": "Copying definitions",
+      "option4": "Reading formulas without practice",
+      "answer": "Measuring classroom objects"
+    },
+    {
+      "question": "Which approach makes mathematics less abstract for young learners?",
+      "option1": "Using concrete materials",
+      "option2": "Using formulas only",
+      "option3": "Avoiding examples",
+      "option4": "Using definitions only",
+      "answer": "Using concrete materials"
+    },
+    {
+      "question": "Which material can be used to teach counting effectively?",
+      "option1": "Counters or everyday objects",
+      "option2": "Only advanced formulas",
+      "option3": "Only written definitions",
+      "option4": "Only verbal lectures",
+      "answer": "Counters or everyday objects"
+    },
+    {
+      "question": "Which strategy helps students understand fractions?",
+      "option1": "Using paper folding or concrete objects",
+      "option2": "Memorizing fraction names only",
+      "option3": "Avoiding visual representation",
+      "option4": "Giving unrelated examples",
+      "answer": "Using paper folding or concrete objects"
+    },
+    {
+      "question": "Which of the following is a primary source of historical information?",
+      "option1": "Original inscription",
+      "option2": "Modern textbook summary",
+      "option3": "Student's guess",
+      "option4": "Unverified social media post",
+      "answer": "Original inscription"
+    },
+    {
+      "question": "Which method is useful for teaching history chronologically?",
+      "option1": "Timeline",
+      "option2": "Flashlight",
+      "option3": "Thermometer",
+      "option4": "Balance",
+      "answer": "Timeline"
+    },
+    {
+      "question": "Which activity can help students understand local geography?",
+      "option1": "Drawing a map of their neighborhood",
+      "option2": "Memorizing world capitals only",
+      "option3": "Copying a paragraph",
+      "option4": "Avoiding outdoor observation",
+      "answer": "Drawing a map of their neighborhood"
+    },
+    {
+      "question": "Which source can provide information about weather conditions?",
+      "option1": "Weather observations",
+      "option2": "Historical fiction only",
+      "option3": "Dictionary only",
+      "option4": "Poetry only",
+      "answer": "Weather observations"
+    },
+    {
+      "question": "Which is an important objective of environmental education?",
+      "option1": "Developing awareness and responsible environmental behavior",
+      "option2": "Encouraging waste",
+      "option3": "Ignoring natural resources",
+      "option4": "Avoiding conservation",
+      "answer": "Developing awareness and responsible environmental behavior"
+    },
+    {
+      "question": "Which practice is an example of sustainable development?",
+      "option1": "Using resources responsibly for present and future needs",
+      "option2": "Using resources without limits",
+      "option3": "Destroying forests",
+      "option4": "Wasting water",
+      "answer": "Using resources responsibly for present and future needs"
+    },
+    {
+      "question": "Which gas is a major greenhouse gas released by burning fossil fuels?",
+      "option1": "Carbon dioxide",
+      "option2": "Oxygen",
+      "option3": "Nitrogen",
+      "option4": "Helium",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "question": "Which process converts atmospheric nitrogen into forms usable by plants through natural biological activity?",
+      "option1": "Nitrogen fixation",
+      "option2": "Photosynthesis",
+      "option3": "Evaporation",
+      "option4": "Condensation",
+      "answer": "Nitrogen fixation"
+    },
+    {
+      "question": "Which part of the ecosystem consists of living organisms?",
+      "option1": "Biotic component",
+      "option2": "Abiotic component",
+      "option3": "Mineral component only",
+      "option4": "Climate only",
+      "answer": "Biotic component"
+    },
+    {
+      "question": "Which of the following is an abiotic component?",
+      "option1": "Water",
+      "option2": "Plant",
+      "option3": "Animal",
+      "option4": "Bacteria",
+      "answer": "Water"
+    },
+    {
+      "question": "A food chain shows:",
+      "option1": "Transfer of energy through organisms",
+      "option2": "Only animal names",
+      "option3": "Only plant classification",
+      "option4": "Only weather changes",
+      "answer": "Transfer of energy through organisms"
+    },
+    {
+      "question": "Green plants are called producers because they:",
+      "option1": "Make their own food",
+      "option2": "Eat other plants",
+      "option3": "Eat animals",
+      "option4": "Decompose dead matter",
+      "answer": "Make their own food"
+    },
+    {
+      "question": "Organisms that break down dead organic matter are called:",
+      "option1": "Decomposers",
+      "option2": "Producers",
+      "option3": "Herbivores",
+      "option4": "Predators",
+      "answer": "Decomposers"
+    },
+    {
+      "question": "Which animal is a herbivore?",
+      "option1": "Cow",
+      "option2": "Tiger",
+      "option3": "Eagle",
+      "option4": "Snake",
+      "answer": "Cow"
+    },
+    {
+      "question": "Which animal is a carnivore?",
+      "option1": "Cow",
+      "option2": "Deer",
+      "option3": "Tiger",
+      "option4": "Goat",
+      "answer": "Tiger"
+    },
+    {
+      "question": "Which type of assessment compares a learner's performance against specified criteria?",
+      "option1": "Criterion-referenced assessment",
+      "option2": "Random assessment",
+      "option3": "Attendance assessment",
+      "option4": "Informal guessing",
+      "answer": "Criterion-referenced assessment"
+    },
+    {
+      "question": "A test that gives consistent results under similar conditions is said to have:",
+      "option1": "Reliability",
+      "option2": "Difficulty only",
+      "option3": "Subjectivity",
+      "option4": "Ambiguity",
+      "answer": "Reliability"
+    },
+    {
+      "question": "A test that measures what it is intended to measure has:",
+      "option1": "Validity",
+      "option2": "Bias",
+      "option3": "Randomness",
+      "option4": "Ambiguity",
+      "answer": "Validity"
+    },
+    {
+      "question": "Which assessment method provides a broad picture of student progress over time?",
+      "option1": "Portfolio assessment",
+      "option2": "One-question test",
+      "option3": "Single oral response",
+      "option4": "Attendance record",
+      "answer": "Portfolio assessment"
+    },
+    {
+      "question": "Which teaching approach begins with students' existing ideas and experiences?",
+      "option1": "Constructivist approach",
+      "option2": "Rote approach",
+      "option3": "Punitive approach",
+      "option4": "Lecture-only approach",
+      "answer": "Constructivist approach"
+    },
+    {
+      "question": "When students make an incorrect prediction during an experiment, the teacher should:",
+      "option1": "Encourage them to investigate the evidence",
+      "option2": "Punish them",
+      "option3": "Stop the experiment",
+      "option4": "Give the answer immediately",
+      "answer": "Encourage them to investigate the evidence"
+    },
+    {
+      "question": "Which classroom practice develops scientific attitude?",
+      "option1": "Observation, questioning and evidence-based reasoning",
+      "option2": "Accepting claims without evidence",
+      "option3": "Avoiding experiments",
+      "option4": "Memorizing every observation",
+      "answer": "Observation, questioning and evidence-based reasoning"
+    },
+    {
+      "question": "Which is an example of formative assessment in mathematics?",
+      "option1": "Checking student solutions during a lesson and giving feedback",
+      "option2": "Annual examination only",
+      "option3": "Final certificate",
+      "option4": "Admission test only",
+      "answer": "Checking student solutions during a lesson and giving feedback"
+    },
+    {
+      "question": "If many students make the same error, the teacher should:",
+      "option1": "Revisit the concept using another approach",
+      "option2": "Punish all students",
+      "option3": "Ignore the error",
+      "option4": "Move immediately to another subject",
+      "answer": "Revisit the concept using another approach"
+    },
+    {
+      "question": "Which practice promotes metacognition?",
+      "option1": "Asking students to explain how they solved a problem",
+      "option2": "Giving answers without explanation",
+      "option3": "Avoiding reflection",
+      "option4": "Only checking final answers",
+      "answer": "Asking students to explain how they solved a problem"
+    },
+    {
+      "question": "Metacognition refers to:",
+      "option1": "Thinking about one's own thinking and learning",
+      "option2": "Physical exercise",
+      "option3": "Memorizing facts",
+      "option4": "Learning without reflection",
+      "answer": "Thinking about one's own thinking and learning"
+    },
+    {
+      "question": "Which is most important in a child-centered classroom?",
+      "option1": "Learner participation",
+      "option2": "Teacher domination",
+      "option3": "Silence",
+      "option4": "Rote copying",
+      "answer": "Learner participation"
+    },
+    {
+      "question": "Which practice can help build confidence among learners?",
+      "option1": "Recognizing effort and progress",
+      "option2": "Publicly comparing students",
+      "option3": "Using insults",
+      "option4": "Ignoring improvement",
+      "answer": "Recognizing effort and progress"
+    },
+    {
+      "question": "Which type of motivation comes from external rewards?",
+      "option1": "Extrinsic motivation",
+      "option2": "Intrinsic motivation",
+      "option3": "Cognitive motivation",
+      "option4": "Natural maturation",
+      "answer": "Extrinsic motivation"
+    },
+    {
+      "question": "Which is an example of intrinsic motivation?",
+      "option1": "Reading because one enjoys learning",
+      "option2": "Reading to receive money",
+      "option3": "Reading to avoid punishment",
+      "option4": "Reading only for a prize",
+      "answer": "Reading because one enjoys learning"
+    },
+    {
+      "question": "Which classroom arrangement can support group work?",
+      "option1": "Small groups of learners facing one another",
+      "option2": "All students isolated from each other",
+      "option3": "Students facing only a wall",
+      "option4": "No seating arrangement",
+      "answer": "Small groups of learners facing one another"
+    },
+    {
+      "question": "Which strategy is useful for students who need additional time to learn?",
+      "option1": "Flexible pacing and additional support",
+      "option2": "Immediate punishment",
+      "option3": "Exclusion from activities",
+      "option4": "Removing practice opportunities",
+      "answer": "Flexible pacing and additional support"
+    },
+    {
+      "question": "Which principle supports learning from simple concepts to complex concepts?",
+      "option1": "Known to unknown and simple to complex",
+      "option2": "Complex to impossible",
+      "option3": "Unknown to unknown",
+      "option4": "Random sequencing",
+      "answer": "Known to unknown and simple to complex"
+    },
+    {
+      "question": "Which approach is useful for teaching from familiar local examples?",
+      "option1": "Contextual approach",
+      "option2": "Abstract-only approach",
+      "option3": "Lecture-only approach",
+      "option4": "Memorization-only approach",
+      "answer": "Contextual approach"
+    },
+    {
+      "question": "Which educational practice helps learners develop democratic values?",
+      "option1": "Discussion, participation and respect for different opinions",
+      "option2": "Suppressing student opinions",
+      "option3": "Encouraging discrimination",
+      "option4": "Preventing group activities",
+      "answer": "Discussion, participation and respect for different opinions"
+    },
+    {
+      "question": "The primary role of a teacher in an inquiry-based classroom is to:",
+      "option1": "Facilitate investigation and questioning",
+      "option2": "Give all answers immediately",
+      "option3": "Prevent experimentation",
+      "option4": "Discourage student questions",
+      "answer": "Facilitate investigation and questioning"
+    },
+    {
+      "question": "Which activity best promotes learning through observation?",
+      "option1": "Observing a plant and recording changes over time",
+      "option2": "Memorizing a plant definition",
+      "option3": "Copying a diagram without observation",
+      "option4": "Avoiding outdoor activities",
+      "answer": "Observing a plant and recording changes over time"
+    },
+    {
+      "question": "Which is the most appropriate response when two students have different answers to a problem?",
+      "option1": "Ask them to explain and compare their reasoning",
+      "option2": "Choose one without discussion",
+      "option3": "Punish both students",
+      "option4": "Ignore both answers",
+      "answer": "Ask them to explain and compare their reasoning"
+    },
+    {
+      "question": "Which classroom activity best develops communication skills?",
+      "option1": "Group discussion",
+      "option2": "Silent copying",
+      "option3": "Individual memorization only",
+      "option4": "Writing the same sentence repeatedly",
+      "answer": "Group discussion"
+    },
+    {
+      "question": "Which principle is important when evaluating children?",
+      "option1": "Use multiple sources of evidence",
+      "option2": "Use one observation only",
+      "option3": "Judge students only by handwriting",
+      "option4": "Compare children without criteria",
+      "answer": "Use multiple sources of evidence"
+    },
+    {
+      "question": "Which teaching strategy supports learners who have different learning needs?",
+      "option1": "Differentiated instruction",
+      "option2": "Single rigid method",
+      "option3": "Exclusion",
+      "option4": "No assessment",
+      "answer": "Differentiated instruction"
+    },
+    {
+      "question": "Which is an important quality of a good textbook?",
+      "option1": "Clear, accurate and age-appropriate content",
+      "option2": "Only difficult language",
+      "option3": "No illustrations",
+      "option4": "Unrelated information",
+      "answer": "Clear, accurate and age-appropriate content"
+    },
+    {
+      "question": "Which resource is most appropriate for improving children's pronunciation?",
+      "option1": "Listening and speaking activities",
+      "option2": "Silent copying only",
+      "option3": "Only grammar exercises",
+      "option4": "Only written tests",
+      "answer": "Listening and speaking activities"
+    },
+    {
+      "question": "Which activity develops listening comprehension?",
+      "option1": "Listening to a short passage and answering questions",
+      "option2": "Copying a paragraph",
+      "option3": "Drawing without instructions",
+      "option4": "Memorizing spellings",
+      "answer": "Listening to a short passage and answering questions"
+    },
+    {
+      "question": "Which activity best develops writing skills?",
+      "option1": "Writing a short paragraph based on an experience",
+      "option2": "Only tracing letters",
+      "option3": "Only listening to a lecture",
+      "option4": "Only repeating words orally",
+      "answer": "Writing a short paragraph based on an experience"
+    },
+    {
+      "question": "Which is an effective way to teach grammar?",
+      "option1": "Use grammar in meaningful contexts",
+      "option2": "Teach rules without examples",
+      "option3": "Avoid communication",
+      "option4": "Use only memorization",
+      "answer": "Use grammar in meaningful contexts"
+    },
+    {
+      "question": "Which activity can help children develop reading fluency?",
+      "option1": "Regular guided reading practice",
+      "option2": "Avoiding reading aloud",
+      "option3": "Copying words only",
+      "option4": "Memorizing punctuation marks",
+      "answer": "Regular guided reading practice"
+    },
+    {
+      "question": "Which approach treats errors as useful information about learning?",
+      "option1": "Diagnostic approach",
+      "option2": "Punitive approach",
+      "option3": "Exclusion approach",
+      "option4": "Rote approach",
+      "answer": "Diagnostic approach"
+    },
+    {
+      "question": "Which is a key purpose of TET?",
+      "option1": "To assess suitability against prescribed teacher eligibility standards",
+      "option2": "To conduct university entrance examinations",
+      "option3": "To select school principals only",
+      "option4": "To award college degrees",
+      "answer": "To assess suitability against prescribed teacher eligibility standards"
+    },
+    {
+      "question": "In Telangana TET, Paper-I is intended primarily for teaching which classes?",
+      "option1": "Classes I to V",
+      "option2": "Classes VI to VIII",
+      "option3": "Classes IX to X",
+      "option4": "Classes XI to XII",
+      "answer": "Classes I to V"
+    },
+    {
+      "question": "In Telangana TET, Paper-II is intended primarily for teaching which classes?",
+      "option1": "Classes I to II",
+      "option2": "Classes III to V",
+      "option3": "Classes VI to VIII",
+      "option4": "Classes IX to XII",
+      "answer": "Classes VI to VIII"
+    },
+    {
+      "question": "Candidates intending to teach classes I to VIII generally need to appear for:",
+      "option1": "Paper-I only",
+      "option2": "Paper-II only",
+      "option3": "Both Paper-I and Paper-II",
+      "option4": "Neither paper",
+      "answer": "Both Paper-I and Paper-II"
+    },
+    {
+      "question": "The current Telangana TET examination is conducted in which mode?",
+      "option1": "Computer Based Test",
+      "option2": "Only oral examination",
+      "option3": "Interview only",
+      "option4": "Practical examination only",
+      "answer": "Computer Based Test"
+    },
+    {
+      "question": "The Telangana TET examination papers are designed around the teaching-learning needs of:",
+      "option1": "School education",
+      "option2": "University research only",
+      "option3": "Corporate training",
+      "option4": "Industrial apprenticeships",
+      "answer": "School education"
+    },
+    {
+      "question": "Which document should candidates consult for the detailed Telangana TET syllabus?",
+      "option1": "Official TGTET syllabus and information bulletin",
+      "option2": "A random social media post",
+      "option3": "A private advertisement only",
+      "option4": "An unrelated university syllabus",
+      "answer": "Official TGTET syllabus and information bulletin"
+    },
+    {
+      "question": "Which principle is most consistent with the purpose of teacher eligibility assessment?",
+      "option1": "Ensuring minimum professional knowledge and teaching aptitude",
+      "option2": "Testing only handwriting",
+      "option3": "Testing only general memory",
+      "option4": "Selecting students for higher education",
+      "answer": "Ensuring minimum professional knowledge and teaching aptitude"
+    },
+    {
+      "question": "A teacher who adapts instruction after observing students' responses is practicing:",
+      "option1": "Reflective teaching",
+      "option2": "Rigid teaching",
+      "option3": "Passive teaching",
+      "option4": "Unplanned teaching",
+      "answer": "Reflective teaching"
+    },
+    {
+      "question": "Which practice best reflects child-friendly teaching?",
+      "option1": "Respecting children's ideas and encouraging participation",
+      "option2": "Using fear as the main motivator",
+      "option3": "Discouraging questions",
+      "option4": "Using physical punishment",
+      "answer": "Respecting children's ideas and encouraging participation"
+    },
+    {
+      "question": "The ultimate goal of effective teaching is:",
+      "option1": "Meaningful learning and development of the learner",
+      "option2": "Completing the textbook regardless of understanding",
+      "option3": "Maximizing homework",
+      "option4": "Maintaining silence only",
+      "answer": "Meaningful learning and development of the learner"
+    }
+  ]
+}

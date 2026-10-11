@@ -72,27 +72,35 @@ class JobAdmin(ImportExportModelAdmin):
 class PreviousPaperAdmin(admin.ModelAdmin):
 
     list_display = (
+        "paper_name",
+        "exam",
         "exam_name",
-        "job",
-        "category",
         "year",
+        "subject",
+        "category",
+        "exam_date",
     )
 
     search_fields = (
         "exam_name",
+        "paper_name",
+        "subject",
         "job__title",
         "job__organization",
+        "exam__name",
     )
 
     list_filter = (
         "category",
         "year",
+        "subject",
+        "exam",
     )
 
     ordering = (
         "-year",
+        "-created_at",
     )
-
 
 # =========================================================
 # ANSWER KEYS
@@ -132,26 +140,77 @@ class AnswerKeyAdmin(admin.ModelAdmin):
 class CurrentAffairAdmin(admin.ModelAdmin):
 
     list_display = (
+        "id",
+        "period",
         "title",
+        "title_te",
+        "category",
+        "date",
         "job",
+    )
+
+    list_filter = (
+        "period",
         "category",
         "date",
     )
 
     search_fields = (
         "title",
-        "job__title",
-        "job__organization",
+        "title_te",
         "description",
-    )
-
-    list_filter = (
-        "category",
-        "date",
+        "description_te",
     )
 
     ordering = (
         "-date",
+        "-id",
+    )
+
+    list_per_page = 50
+
+    fieldsets = (
+
+        (
+            "Current Affairs Information",
+            {
+                "fields": (
+                    "period",
+                    "category",
+                    "date",
+                )
+            },
+        ),
+
+        (
+            "English Content",
+            {
+                "fields": (
+                    "title",
+                    "description",
+                )
+            },
+        ),
+
+        (
+            "Telugu Content",
+            {
+                "fields": (
+                    "title_te",
+                    "description_te",
+                )
+            },
+        ),
+
+        (
+            "Additional Information",
+            {
+                "fields": (
+                    "pdf_link",
+                    "job",
+                )
+            },
+        ),
     )
 
 
@@ -327,17 +386,26 @@ class ResultAdmin(admin.ModelAdmin):
 
     list_display = (
         "exam_name",
+        "organization",
+        "category",
+        "year",
         "result_date",
-        "official_link",
+        "status",
+    )
+
+    list_filter = (
+        "category",
+        "year",
+        "status",
     )
 
     search_fields = (
         "exam_name",
+        "organization",
+        "title",
     )
 
-    ordering = (
-        "-result_date",
-    )
+    ordering = ("-result_date",)
 
 
 # =========================================================
@@ -346,18 +414,30 @@ class ResultAdmin(admin.ModelAdmin):
 
 @admin.register(AdmitCard)
 class AdmitCardAdmin(admin.ModelAdmin):
-
     list_display = (
         "exam_name",
+        "organization",
+        "category",
+        "year",
         "release_date",
-        "official_link",
+        "exam_date",
+        "status",
+    )
+
+    list_filter = (
+        "category",
+        "status",
+        "year",
     )
 
     search_fields = (
         "exam_name",
+        "organization",
+        "title",
     )
 
     ordering = (
+        "-year",
         "-release_date",
     )
 
@@ -556,4 +636,3 @@ class ExamAdmin(admin.ModelAdmin):
     ordering = (
         "-created_at",
     )
-

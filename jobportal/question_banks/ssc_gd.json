@@ -1,0 +1,1605 @@
+{
+  "exam": "SSC GD",
+  "questions": [
+    {
+      "question": "Find the odd one out: Apple, Mango, Banana, Potato",
+      "option1": "Apple",
+      "option2": "Mango",
+      "option3": "Banana",
+      "option4": "Potato",
+      "answer": "Potato"
+    },
+    {
+      "question": "Complete the series: 2, 4, 8, 16, ?",
+      "option1": "24",
+      "option2": "28",
+      "option3": "32",
+      "option4": "36",
+      "answer": "32"
+    },
+    {
+      "question": "Complete the series: 5, 10, 15, 20, ?",
+      "option1": "22",
+      "option2": "25",
+      "option3": "30",
+      "option4": "35",
+      "answer": "25"
+    },
+    {
+      "question": "Complete the series: 3, 6, 12, 24, ?",
+      "option1": "36",
+      "option2": "42",
+      "option3": "48",
+      "option4": "54",
+      "answer": "48"
+    },
+    {
+      "question": "Complete the alphabet series: A, C, E, G, ?",
+      "option1": "H",
+      "option2": "I",
+      "option3": "J",
+      "option4": "K",
+      "answer": "I"
+    },
+    {
+      "question": "Complete the alphabet series: B, E, H, K, ?",
+      "option1": "M",
+      "option2": "N",
+      "option3": "O",
+      "option4": "P",
+      "answer": "N"
+    },
+    {
+      "question": "If CAT is coded as DBU, how is DOG coded?",
+      "option1": "EPH",
+      "option2": "EOH",
+      "option3": "FPH",
+      "option4": "DPG",
+      "answer": "EPH"
+    },
+    {
+      "question": "If PEN is coded as QFO, how is BOOK coded?",
+      "option1": "CPPL",
+      "option2": "CQQM",
+      "option3": "BPPL",
+      "option4": "CQPL",
+      "answer": "CPPL"
+    },
+    {
+      "question": "Book is related to Reading in the same way as Food is related to:",
+      "option1": "Cooking",
+      "option2": "Eating",
+      "option3": "Buying",
+      "option4": "Serving",
+      "answer": "Eating"
+    },
+    {
+      "question": "Doctor is related to Hospital in the same way as Teacher is related to:",
+      "option1": "School",
+      "option2": "Court",
+      "option3": "Bank",
+      "option4": "Market",
+      "answer": "School"
+    },
+    {
+      "question": "Ravi walks 5 km north and then 3 km east. In which direction is he from his starting point?",
+      "option1": "North-East",
+      "option2": "North-West",
+      "option3": "South-East",
+      "option4": "South-West",
+      "answer": "North-East"
+    },
+    {
+      "question": "A person walks 4 km south and then 4 km west. In which direction is he from the starting point?",
+      "option1": "North-East",
+      "option2": "North-West",
+      "option3": "South-East",
+      "option4": "South-West",
+      "answer": "South-West"
+    },
+    {
+      "question": "A man faces east. He turns left and then left again. Which direction is he facing?",
+      "option1": "East",
+      "option2": "West",
+      "option3": "North",
+      "option4": "South",
+      "answer": "West"
+    },
+    {
+      "question": "A man faces north. He turns right and then right again. Which direction is he facing?",
+      "option1": "North",
+      "option2": "South",
+      "option3": "East",
+      "option4": "West",
+      "answer": "South"
+    },
+    {
+      "question": "Pointing to a man, Ravi says, 'He is the son of my father's only son.' How is the man related to Ravi?",
+      "option1": "Brother",
+      "option2": "Son",
+      "option3": "Father",
+      "option4": "Uncle",
+      "answer": "Son"
+    },
+    {
+      "question": "A is the brother of B. B is the sister of C. How is A related to C?",
+      "option1": "Brother",
+      "option2": "Sister",
+      "option3": "Father",
+      "option4": "Uncle",
+      "answer": "Brother"
+    },
+    {
+      "question": "P is the mother of Q. Q is the father of R. How is P related to R?",
+      "option1": "Mother",
+      "option2": "Grandmother",
+      "option3": "Sister",
+      "option4": "Aunt",
+      "answer": "Grandmother"
+    },
+    {
+      "question": "In a row, Amit is 7th from the left and 9th from the right. How many people are there in the row?",
+      "option1": "15",
+      "option2": "16",
+      "option3": "17",
+      "option4": "18",
+      "answer": "15"
+    },
+    {
+      "question": "In a class, Raju ranks 12th from the top and 18th from the bottom. How many students are there?",
+      "option1": "29",
+      "option2": "30",
+      "option3": "31",
+      "option4": "32",
+      "answer": "29"
+    },
+    {
+      "question": "Five persons A, B, C, D and E stand in a line. A is before B, B is before C, C is before D and D is before E. Who is in the middle?",
+      "option1": "A",
+      "option2": "B",
+      "option3": "C",
+      "option4": "D",
+      "answer": "C"
+    },
+    {
+      "question": "Which number is different from the others?",
+      "option1": "16",
+      "option2": "25",
+      "option3": "36",
+      "option4": "48",
+      "answer": "48"
+    },
+    {
+      "question": "Find the missing number: 4, 9, 14, 19, ?",
+      "option1": "22",
+      "option2": "23",
+      "option3": "24",
+      "option4": "25",
+      "answer": "24"
+    },
+    {
+      "question": "Find the missing number: 6, 12, 24, 48, ?",
+      "option1": "72",
+      "option2": "84",
+      "option3": "96",
+      "option4": "108",
+      "answer": "96"
+    },
+    {
+      "question": "Which number replaces the question mark? 7, 14, 28, 56, ?",
+      "option1": "84",
+      "option2": "96",
+      "option3": "112",
+      "option4": "120",
+      "answer": "112"
+    },
+    {
+      "question": "Which number replaces the question mark? 100, 90, 80, 70, ?",
+      "option1": "50",
+      "option2": "55",
+      "option3": "60",
+      "option4": "65",
+      "answer": "60"
+    },
+    {
+      "question": "Which figure has no line of symmetry?",
+      "option1": "Square",
+      "option2": "Rectangle",
+      "option3": "Circle",
+      "option4": "Scalene triangle",
+      "answer": "Scalene triangle"
+    },
+    {
+      "question": "How many sides does a hexagon have?",
+      "option1": "5",
+      "option2": "6",
+      "option3": "7",
+      "option4": "8",
+      "answer": "6"
+    },
+    {
+      "question": "How many diagonals does a square have?",
+      "option1": "1",
+      "option2": "2",
+      "option3": "3",
+      "option4": "4",
+      "answer": "2"
+    },
+    {
+      "question": "A clock shows 3:00. What is the angle between the hour and minute hands?",
+      "option1": "60°",
+      "option2": "90°",
+      "option3": "120°",
+      "option4": "180°",
+      "answer": "90°"
+    },
+    {
+      "question": "A clock shows 6:00. What is the angle between the hour and minute hands?",
+      "option1": "90°",
+      "option2": "120°",
+      "option3": "180°",
+      "option4": "360°",
+      "answer": "180°"
+    },
+    {
+      "question": "What is 25% of 240?",
+      "option1": "50",
+      "option2": "60",
+      "option3": "70",
+      "option4": "80",
+      "answer": "60"
+    },
+    {
+      "question": "What is the HCF of 24 and 36?",
+      "option1": "6",
+      "option2": "8",
+      "option3": "12",
+      "option4": "18",
+      "answer": "12"
+    },
+    {
+      "question": "What is the LCM of 6 and 8?",
+      "option1": "12",
+      "option2": "18",
+      "option3": "24",
+      "option4": "48",
+      "answer": "24"
+    },
+    {
+      "question": "What is the average of 10, 20, 30, 40 and 50?",
+      "option1": "25",
+      "option2": "30",
+      "option3": "35",
+      "option4": "40",
+      "answer": "30"
+    },
+    {
+      "question": "If 3x + 5 = 20, what is the value of x?",
+      "option1": "3",
+      "option2": "5",
+      "option3": "7",
+      "option4": "10",
+      "answer": "5"
+    },
+    {
+      "question": "A train travels 120 km in 2 hours. What is its average speed?",
+      "option1": "40 km/h",
+      "option2": "50 km/h",
+      "option3": "60 km/h",
+      "option4": "80 km/h",
+      "answer": "60 km/h"
+    },
+    {
+      "question": "What is the simple interest on Rs. 2000 at 5% per annum for 2 years?",
+      "option1": "Rs. 100",
+      "option2": "Rs. 150",
+      "option3": "Rs. 200",
+      "option4": "Rs. 250",
+      "answer": "Rs. 200"
+    },
+    {
+      "question": "If the cost price of an article is Rs. 500 and the selling price is Rs. 600, what is the profit percentage?",
+      "option1": "10%",
+      "option2": "15%",
+      "option3": "20%",
+      "option4": "25%",
+      "answer": "20%"
+    },
+    {
+      "question": "A shopkeeper gives a discount of 10% on an article marked at Rs. 800. What is the selling price?",
+      "option1": "Rs. 700",
+      "option2": "Rs. 720",
+      "option3": "Rs. 740",
+      "option4": "Rs. 760",
+      "answer": "Rs. 720"
+    },
+    {
+      "question": "What is the value of 15 + 25 × 2?",
+      "option1": "65",
+      "option2": "80",
+      "option3": "55",
+      "option4": "40",
+      "answer": "65"
+    },
+    {
+      "question": "What is 3/4 of 80?",
+      "option1": "40",
+      "option2": "50",
+      "option3": "60",
+      "option4": "70",
+      "answer": "60"
+    },
+    {
+      "question": "Who was the first President of independent India?",
+      "option1": "Jawaharlal Nehru",
+      "option2": "Dr. Rajendra Prasad",
+      "option3": "Sardar Vallabhbhai Patel",
+      "option4": "Dr. S. Radhakrishnan",
+      "answer": "Dr. Rajendra Prasad"
+    },
+    {
+      "question": "Who was the first Prime Minister of India?",
+      "option1": "Mahatma Gandhi",
+      "option2": "Sardar Vallabhbhai Patel",
+      "option3": "Jawaharlal Nehru",
+      "option4": "Rajendra Prasad",
+      "answer": "Jawaharlal Nehru"
+    },
+    {
+      "question": "The Constitution of India came into force on which date?",
+      "option1": "15 August 1947",
+      "option2": "26 January 1950",
+      "option3": "26 November 1949",
+      "option4": "2 October 1950",
+      "answer": "26 January 1950"
+    },
+    {
+      "question": "Who gave the slogan 'Do or Die' during the Indian freedom movement?",
+      "option1": "Subhas Chandra Bose",
+      "option2": "Mahatma Gandhi",
+      "option3": "Bhagat Singh",
+      "option4": "Bal Gangadhar Tilak",
+      "answer": "Mahatma Gandhi"
+    },
+    {
+      "question": "The Quit India Movement was launched in which year?",
+      "option1": "1930",
+      "option2": "1935",
+      "option3": "1942",
+      "option4": "1947",
+      "answer": "1942"
+    },
+    {
+      "question": "The Jallianwala Bagh massacre took place in which year?",
+      "option1": "1917",
+      "option2": "1919",
+      "option3": "1921",
+      "option4": "1922",
+      "answer": "1919"
+    },
+    {
+      "question": "Who founded the Maurya Empire?",
+      "option1": "Ashoka",
+      "option2": "Chandragupta Maurya",
+      "option3": "Bindusara",
+      "option4": "Harshavardhana",
+      "answer": "Chandragupta Maurya"
+    },
+    {
+      "question": "Who wrote the Arthashastra?",
+      "option1": "Kalidasa",
+      "option2": "Kautilya",
+      "option3": "Banabhatta",
+      "option4": "Megasthenes",
+      "answer": "Kautilya"
+    },
+    {
+      "question": "Which is the largest state in India by area?",
+      "option1": "Madhya Pradesh",
+      "option2": "Maharashtra",
+      "option3": "Rajasthan",
+      "option4": "Uttar Pradesh",
+      "answer": "Rajasthan"
+    },
+    {
+      "question": "Which is the longest river in India?",
+      "option1": "Yamuna",
+      "option2": "Ganga",
+      "option3": "Godavari",
+      "option4": "Narmada",
+      "answer": "Ganga"
+    },
+    {
+      "question": "Which soil is most suitable for cotton cultivation?",
+      "option1": "Alluvial soil",
+      "option2": "Black soil",
+      "option3": "Laterite soil",
+      "option4": "Red soil",
+      "answer": "Black soil"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "option1": "Venus",
+      "option2": "Mars",
+      "option3": "Jupiter",
+      "option4": "Saturn",
+      "answer": "Mars"
+    },
+    {
+      "question": "Who is known as the Iron Man of India?",
+      "option1": "Jawaharlal Nehru",
+      "option2": "Sardar Vallabhbhai Patel",
+      "option3": "Subhas Chandra Bose",
+      "option4": "Bhagat Singh",
+      "answer": "Sardar Vallabhbhai Patel"
+    },
+    {
+      "question": "Who was the first Governor-General of independent India?",
+      "option1": "Lord Mountbatten",
+      "option2": "C. Rajagopalachari",
+      "option3": "Warren Hastings",
+      "option4": "Lord Curzon",
+      "answer": "Lord Mountbatten"
+    },
+    {
+      "question": "The Non-Cooperation Movement was launched in which year?",
+      "option1": "1919",
+      "option2": "1920",
+      "option3": "1922",
+      "option4": "1930",
+      "answer": "1920"
+    },
+    {
+      "question": "Who gave the slogan 'Jai Hind'?",
+      "option1": "Mahatma Gandhi",
+      "option2": "Subhas Chandra Bose",
+      "option3": "Bal Gangadhar Tilak",
+      "option4": "Lala Lajpat Rai",
+      "answer": "Subhas Chandra Bose"
+    },
+    {
+      "question": "Who was the first Indian woman to become the President of the Indian National Congress?",
+      "option1": "Sarojini Naidu",
+      "option2": "Annie Besant",
+      "option3": "Indira Gandhi",
+      "option4": "Vijaya Lakshmi Pandit",
+      "answer": "Sarojini Naidu"
+    },
+    {
+      "question": "The Dandi March was associated with which movement?",
+      "option1": "Quit India Movement",
+      "option2": "Civil Disobedience Movement",
+      "option3": "Non-Cooperation Movement",
+      "option4": "Swadeshi Movement",
+      "answer": "Civil Disobedience Movement"
+    },
+    {
+      "question": "Who was the founder of the Mughal Empire in India?",
+      "option1": "Akbar",
+      "option2": "Babur",
+      "option3": "Humayun",
+      "option4": "Shah Jahan",
+      "answer": "Babur"
+    },
+    {
+      "question": "Who built the Taj Mahal?",
+      "option1": "Akbar",
+      "option2": "Aurangzeb",
+      "option3": "Shah Jahan",
+      "option4": "Jahangir",
+      "answer": "Shah Jahan"
+    },
+    {
+      "question": "Who was the last Mughal emperor?",
+      "option1": "Bahadur Shah I",
+      "option2": "Bahadur Shah II",
+      "option3": "Aurangzeb",
+      "option4": "Shah Alam II",
+      "answer": "Bahadur Shah II"
+    },
+    {
+      "question": "Which battle was fought in 1526?",
+      "option1": "Battle of Plassey",
+      "option2": "First Battle of Panipat",
+      "option3": "Battle of Buxar",
+      "option4": "Second Battle of Panipat",
+      "answer": "First Battle of Panipat"
+    },
+    {
+      "question": "Which is the capital of India?",
+      "option1": "Mumbai",
+      "option2": "Kolkata",
+      "option3": "New Delhi",
+      "option4": "Chennai",
+      "answer": "New Delhi"
+    },
+    {
+      "question": "Which is the largest river basin in India?",
+      "option1": "Godavari",
+      "option2": "Ganga",
+      "option3": "Narmada",
+      "option4": "Krishna",
+      "answer": "Ganga"
+    },
+    {
+      "question": "Which state is known as the 'Land of Rising Sun' in India?",
+      "option1": "Assam",
+      "option2": "Arunachal Pradesh",
+      "option3": "Sikkim",
+      "option4": "Manipur",
+      "answer": "Arunachal Pradesh"
+    },
+    {
+      "question": "Which is the largest freshwater lake in India?",
+      "option1": "Wular Lake",
+      "option2": "Dal Lake",
+      "option3": "Chilika Lake",
+      "option4": "Sambhar Lake",
+      "answer": "Wular Lake"
+    },
+    {
+      "question": "Which is the largest brackish water lagoon in India?",
+      "option1": "Wular Lake",
+      "option2": "Chilika Lake",
+      "option3": "Dal Lake",
+      "option4": "Loktak Lake",
+      "answer": "Chilika Lake"
+    },
+    {
+      "question": "Which mountain range separates India from the Tibetan Plateau?",
+      "option1": "Aravalli",
+      "option2": "Western Ghats",
+      "option3": "Himalayas",
+      "option4": "Eastern Ghats",
+      "answer": "Himalayas"
+    },
+    {
+      "question": "Which Indian state is famous for the Sundarbans?",
+      "option1": "Odisha",
+      "option2": "West Bengal",
+      "option3": "Assam",
+      "option4": "Bihar",
+      "answer": "West Bengal"
+    },
+    {
+      "question": "Which river flows through Hyderabad?",
+      "option1": "Krishna",
+      "option2": "Musi",
+      "option3": "Godavari",
+      "option4": "Tungabhadra",
+      "answer": "Musi"
+    },
+    {
+      "question": "Which is the highest waterfall in India?",
+      "option1": "Jog Falls",
+      "option2": "Dudhsagar Falls",
+      "option3": "Kunchikal Falls",
+      "option4": "Shivanasamudra Falls",
+      "answer": "Kunchikal Falls"
+    },
+    {
+      "question": "Which state is the largest producer of tea in India?",
+      "option1": "Assam",
+      "option2": "Kerala",
+      "option3": "Punjab",
+      "option4": "Gujarat",
+      "answer": "Assam"
+    },
+    {
+      "question": "What is the chemical symbol for silver?",
+      "option1": "Si",
+      "option2": "Ag",
+      "option3": "Au",
+      "option4": "Al",
+      "answer": "Ag"
+    },
+    {
+      "question": "Which gas is essential for respiration?",
+      "option1": "Nitrogen",
+      "option2": "Oxygen",
+      "option3": "Carbon dioxide",
+      "option4": "Hydrogen",
+      "answer": "Oxygen"
+    },
+    {
+      "question": "Which part of the plant performs photosynthesis?",
+      "option1": "Root",
+      "option2": "Stem",
+      "option3": "Leaf",
+      "option4": "Flower",
+      "answer": "Leaf"
+    },
+    {
+      "question": "Which blood group is known as the universal donor?",
+      "option1": "A positive",
+      "option2": "B positive",
+      "option3": "AB positive",
+      "option4": "O negative",
+      "answer": "O negative"
+    },
+    {
+      "question": "Which organ pumps blood throughout the human body?",
+      "option1": "Liver",
+      "option2": "Heart",
+      "option3": "Kidney",
+      "option4": "Lung",
+      "answer": "Heart"
+    },
+    {
+      "question": "Which is the largest organ of the human body?",
+      "option1": "Heart",
+      "option2": "Liver",
+      "option3": "Skin",
+      "option4": "Brain",
+      "answer": "Skin"
+    },
+    {
+      "question": "Which vitamin deficiency causes scurvy?",
+      "option1": "Vitamin A",
+      "option2": "Vitamin B",
+      "option3": "Vitamin C",
+      "option4": "Vitamin D",
+      "answer": "Vitamin C"
+    },
+    {
+      "question": "Which vitamin deficiency causes rickets?",
+      "option1": "Vitamin A",
+      "option2": "Vitamin B12",
+      "option3": "Vitamin C",
+      "option4": "Vitamin D",
+      "answer": "Vitamin D"
+    },
+    {
+      "question": "What is the boiling point of water at normal atmospheric pressure?",
+      "option1": "50°C",
+      "option2": "75°C",
+      "option3": "100°C",
+      "option4": "150°C",
+      "answer": "100°C"
+    },
+    {
+      "question": "What is the freezing point of water?",
+      "option1": "0°C",
+      "option2": "10°C",
+      "option3": "32°C",
+      "option4": "100°C",
+      "answer": "0°C"
+    },
+    {
+      "question": "Which instrument measures temperature?",
+      "option1": "Barometer",
+      "option2": "Thermometer",
+      "option3": "Hygrometer",
+      "option4": "Ammeter",
+      "answer": "Thermometer"
+    },
+    {
+      "question": "What is the SI unit of power?",
+      "option1": "Joule",
+      "option2": "Newton",
+      "option3": "Watt",
+      "option4": "Pascal",
+      "answer": "Watt"
+    },
+    {
+      "question": "What is the SI unit of energy?",
+      "option1": "Watt",
+      "option2": "Joule",
+      "option3": "Newton",
+      "option4": "Volt",
+      "answer": "Joule"
+    },
+    {
+      "question": "Which device converts electrical energy into mechanical energy?",
+      "option1": "Electric motor",
+      "option2": "Generator",
+      "option3": "Transformer",
+      "option4": "Battery",
+      "answer": "Electric motor"
+    },
+    {
+      "question": "Which device is used to measure electric current?",
+      "option1": "Voltmeter",
+      "option2": "Ammeter",
+      "option3": "Barometer",
+      "option4": "Thermometer",
+      "answer": "Ammeter"
+    },
+    {
+      "question": "What is the speed of light in vacuum approximately?",
+      "option1": "3 × 10^6 m/s",
+      "option2": "3 × 10^8 m/s",
+      "option3": "3 × 10^10 m/s",
+      "option4": "3 × 10^12 m/s",
+      "answer": "3 × 10^8 m/s"
+    },
+    {
+      "question": "Which metal is liquid at room temperature?",
+      "option1": "Iron",
+      "option2": "Copper",
+      "option3": "Mercury",
+      "option4": "Aluminium",
+      "answer": "Mercury"
+    },
+    {
+      "question": "Which gas is used by plants during photosynthesis?",
+      "option1": "Oxygen",
+      "option2": "Nitrogen",
+      "option3": "Carbon dioxide",
+      "option4": "Hydrogen",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "question": "Which is the hardest natural substance?",
+      "option1": "Gold",
+      "option2": "Iron",
+      "option3": "Diamond",
+      "option4": "Quartz",
+      "answer": "Diamond"
+    },
+    {
+      "question": "Which metal is the best conductor of electricity?",
+      "option1": "Copper",
+      "option2": "Silver",
+      "option3": "Aluminium",
+      "option4": "Iron",
+      "answer": "Silver"
+    },
+    {
+      "question": "What is the full form of CPU?",
+      "option1": "Central Processing Unit",
+      "option2": "Central Program Unit",
+      "option3": "Computer Processing Utility",
+      "option4": "Central Power Unit",
+      "answer": "Central Processing Unit"
+    },
+    {
+      "question": "What is the full form of RAM?",
+      "option1": "Read Access Memory",
+      "option2": "Random Access Memory",
+      "option3": "Rapid Access Module",
+      "option4": "Random Application Memory",
+      "answer": "Random Access Memory"
+    },
+    {
+      "question": "Which of the following is an input device?",
+      "option1": "Monitor",
+      "option2": "Printer",
+      "option3": "Keyboard",
+      "option4": "Speaker",
+      "answer": "Keyboard"
+    },
+    {
+      "question": "Which of the following is an output device?",
+      "option1": "Keyboard",
+      "option2": "Mouse",
+      "option3": "Scanner",
+      "option4": "Monitor",
+      "answer": "Monitor"
+    },
+    {
+      "question": "Which company developed the Windows operating system?",
+      "option1": "Apple",
+      "option2": "Microsoft",
+      "option3": "Google",
+      "option4": "IBM",
+      "answer": "Microsoft"
+    },
+    {
+      "question": "Which shortcut key is used to copy selected text?",
+      "option1": "Ctrl + X",
+      "option2": "Ctrl + C",
+      "option3": "Ctrl + V",
+      "option4": "Ctrl + Z",
+      "answer": "Ctrl + C"
+    },
+    {
+      "question": "Which shortcut key is used to paste copied text?",
+      "option1": "Ctrl + P",
+      "option2": "Ctrl + C",
+      "option3": "Ctrl + V",
+      "option4": "Ctrl + X",
+      "answer": "Ctrl + V"
+    },
+    {
+      "question": "What does WWW stand for?",
+      "option1": "World Wide Web",
+      "option2": "World Web Window",
+      "option3": "Wide World Web",
+      "option4": "Web World Wide",
+      "answer": "World Wide Web"
+    },
+    {
+      "question": "Which of the following is a web browser?",
+      "option1": "Windows",
+      "option2": "Google Chrome",
+      "option3": "Linux",
+      "option4": "Android",
+      "answer": "Google Chrome"
+    },
+    {
+      "question": "Find the next number: 4, 8, 16, 32, ?",
+      "option1": "48",
+      "option2": "56",
+      "option3": "64",
+      "option4": "72",
+      "answer": "64"
+    },
+    {
+      "question": "Find the next number: 10, 20, 30, 40, ?",
+      "option1": "45",
+      "option2": "50",
+      "option3": "55",
+      "option4": "60",
+      "answer": "50"
+    },
+    {
+      "question": "Find the odd one out: 3, 5, 7, 12",
+      "option1": "3",
+      "option2": "5",
+      "option3": "7",
+      "option4": "12",
+      "answer": "12"
+    },
+    {
+      "question": "Who was the first Indian to win a Nobel Prize?",
+      "option1": "C. V. Raman",
+      "option2": "Rabindranath Tagore",
+      "option3": "Mother Teresa",
+      "option4": "Amartya Sen",
+      "answer": "Rabindranath Tagore"
+    },
+    {
+      "question": "Who founded the Brahmo Samaj?",
+      "option1": "Raja Ram Mohan Roy",
+      "option2": "Swami Dayanand Saraswati",
+      "option3": "Swami Vivekananda",
+      "option4": "Ishwar Chandra Vidyasagar",
+      "answer": "Raja Ram Mohan Roy"
+    },
+    {
+      "question": "Which Mughal emperor built the Taj Mahal?",
+      "option1": "Akbar",
+      "option2": "Babur",
+      "option3": "Shah Jahan",
+      "option4": "Aurangzeb",
+      "answer": "Shah Jahan"
+    },
+    {
+      "question": "Who founded the Sikh religion?",
+      "option1": "Guru Gobind Singh",
+      "option2": "Guru Nanak",
+      "option3": "Guru Arjan Dev",
+      "option4": "Guru Tegh Bahadur",
+      "answer": "Guru Nanak"
+    },
+    {
+      "question": "Which battle was fought between Prithviraj Chauhan and Muhammad Ghori in 1191?",
+      "option1": "First Battle of Panipat",
+      "option2": "First Battle of Tarain",
+      "option3": "Battle of Plassey",
+      "option4": "Battle of Haldighati",
+      "answer": "First Battle of Tarain"
+    },
+    {
+      "question": "Who wrote the book 'Discovery of India'?",
+      "option1": "Mahatma Gandhi",
+      "option2": "Jawaharlal Nehru",
+      "option3": "B. R. Ambedkar",
+      "option4": "Sardar Patel",
+      "answer": "Jawaharlal Nehru"
+    },
+    {
+      "question": "The Revolt of 1857 started from which place?",
+      "option1": "Delhi",
+      "option2": "Meerut",
+      "option3": "Kanpur",
+      "option4": "Lucknow",
+      "answer": "Meerut"
+    },
+    {
+      "question": "Which Article of the Constitution provides the Right to Life and Personal Liberty?",
+      "option1": "Article 14",
+      "option2": "Article 19",
+      "option3": "Article 21",
+      "option4": "Article 32",
+      "answer": "Article 21"
+    },
+    {
+      "question": "What is the minimum age required to become the President of India?",
+      "option1": "25 years",
+      "option2": "30 years",
+      "option3": "35 years",
+      "option4": "40 years",
+      "answer": "35 years"
+    },
+    {
+      "question": "What is the minimum age required to become a member of the Lok Sabha?",
+      "option1": "18 years",
+      "option2": "21 years",
+      "option3": "25 years",
+      "option4": "30 years",
+      "answer": "25 years"
+    },
+    {
+      "question": "What is the minimum age required to become a member of the Rajya Sabha?",
+      "option1": "21 years",
+      "option2": "25 years",
+      "option3": "30 years",
+      "option4": "35 years",
+      "answer": "30 years"
+    },
+    {
+      "question": "Who is the constitutional head of India?",
+      "option1": "Prime Minister",
+      "option2": "President",
+      "option3": "Chief Justice",
+      "option4": "Vice-President",
+      "answer": "President"
+    },
+    {
+      "question": "Which part of the Indian Constitution deals with Fundamental Rights?",
+      "option1": "Part I",
+      "option2": "Part II",
+      "option3": "Part III",
+      "option4": "Part IV",
+      "answer": "Part III"
+    },
+    {
+      "question": "Which body is known as the guardian of the Constitution?",
+      "option1": "Parliament",
+      "option2": "Supreme Court",
+      "option3": "President",
+      "option4": "Election Commission",
+      "answer": "Supreme Court"
+    },
+    {
+      "question": "Who presides over the Lok Sabha?",
+      "option1": "President",
+      "option2": "Prime Minister",
+      "option3": "Speaker",
+      "option4": "Vice-President",
+      "answer": "Speaker"
+    },
+    {
+      "question": "Which amendment lowered the voting age in India from 21 to 18 years?",
+      "option1": "42nd Amendment",
+      "option2": "44th Amendment",
+      "option3": "61st Amendment",
+      "option4": "73rd Amendment",
+      "answer": "61st Amendment"
+    },
+    {
+      "question": "The Panchayati Raj system was given constitutional status by which amendment?",
+      "option1": "42nd Amendment",
+      "option2": "61st Amendment",
+      "option3": "73rd Amendment",
+      "option4": "74th Amendment",
+      "answer": "73rd Amendment"
+    },
+    {
+      "question": "Which is the largest saltwater lake in India?",
+      "option1": "Wular Lake",
+      "option2": "Chilika Lake",
+      "option3": "Dal Lake",
+      "option4": "Loktak Lake",
+      "answer": "Chilika Lake"
+    },
+    {
+      "question": "Which mountain range separates the Deccan Plateau from the northern plains?",
+      "option1": "Aravalli",
+      "option2": "Himalayas",
+      "option3": "Vindhya",
+      "option4": "Nilgiri",
+      "answer": "Vindhya"
+    },
+    {
+      "question": "Which is the southernmost point of mainland India?",
+      "option1": "Indira Point",
+      "option2": "Kanyakumari",
+      "option3": "Rameswaram",
+      "option4": "Kochi",
+      "answer": "Kanyakumari"
+    },
+    {
+      "question": "Which state is known as the 'Land of Five Rivers'?",
+      "option1": "Haryana",
+      "option2": "Punjab",
+      "option3": "Rajasthan",
+      "option4": "Uttar Pradesh",
+      "answer": "Punjab"
+    },
+    {
+      "question": "Which crop is mainly grown during the Kharif season?",
+      "option1": "Wheat",
+      "option2": "Rice",
+      "option3": "Gram",
+      "option4": "Mustard",
+      "answer": "Rice"
+    },
+    {
+      "question": "Which crop is mainly grown during the Rabi season?",
+      "option1": "Rice",
+      "option2": "Cotton",
+      "option3": "Wheat",
+      "option4": "Jute",
+      "answer": "Wheat"
+    },
+    {
+      "question": "Which state is famous for coffee production in India?",
+      "option1": "Karnataka",
+      "option2": "Punjab",
+      "option3": "Bihar",
+      "option4": "Haryana",
+      "answer": "Karnataka"
+    },
+    {
+      "question": "What is the hardest natural substance?",
+      "option1": "Gold",
+      "option2": "Iron",
+      "option3": "Diamond",
+      "option4": "Quartz",
+      "answer": "Diamond"
+    },
+    {
+      "question": "Which gas is released during photosynthesis?",
+      "option1": "Oxygen",
+      "option2": "Nitrogen",
+      "option3": "Hydrogen",
+      "option4": "Methane",
+      "answer": "Oxygen"
+    },
+    {
+      "question": "Which part of the plant carries water from roots to leaves?",
+      "option1": "Phloem",
+      "option2": "Xylem",
+      "option3": "Stomata",
+      "option4": "Cambium",
+      "answer": "Xylem"
+    },
+    {
+      "question": "Which blood group is known as the universal recipient?",
+      "option1": "O negative",
+      "option2": "A positive",
+      "option3": "AB positive",
+      "option4": "B negative",
+      "answer": "AB positive"
+    },
+    {
+      "question": "Which organ is responsible for pumping blood throughout the body?",
+      "option1": "Liver",
+      "option2": "Heart",
+      "option3": "Kidney",
+      "option4": "Lung",
+      "answer": "Heart"
+    },
+    {
+      "question": "Which vitamin deficiency causes night blindness?",
+      "option1": "Vitamin A",
+      "option2": "Vitamin B",
+      "option3": "Vitamin C",
+      "option4": "Vitamin D",
+      "answer": "Vitamin A"
+    },
+    {
+      "question": "Which instrument is used to measure temperature?",
+      "option1": "Barometer",
+      "option2": "Thermometer",
+      "option3": "Hygrometer",
+      "option4": "Ammeter",
+      "answer": "Thermometer"
+    },
+    {
+      "question": "Which instrument measures electric current?",
+      "option1": "Voltmeter",
+      "option2": "Ammeter",
+      "option3": "Barometer",
+      "option4": "Thermometer",
+      "answer": "Ammeter"
+    },
+    {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "option1": "China",
+      "option2": "Japan",
+      "option3": "South Korea",
+      "option4": "Thailand",
+      "answer": "Japan"
+    },
+    {
+      "question": "What is the capital of Australia?",
+      "option1": "Sydney",
+      "option2": "Melbourne",
+      "option3": "Canberra",
+      "option4": "Perth",
+      "answer": "Canberra"
+    },
+    {
+      "question": "What is the currency of the United Kingdom?",
+      "option1": "Euro",
+      "option2": "Dollar",
+      "option3": "Pound Sterling",
+      "option4": "Franc",
+      "answer": "Pound Sterling"
+    },
+    {
+      "question": "Where is the headquarters of the United Nations located?",
+      "option1": "London",
+      "option2": "New York",
+      "option3": "Geneva",
+      "option4": "Paris",
+      "answer": "New York"
+    },
+    {
+      "question": "Which is the national flower of India?",
+      "option1": "Rose",
+      "option2": "Lotus",
+      "option3": "Jasmine",
+      "option4": "Sunflower",
+      "answer": "Lotus"
+    },
+    {
+      "question": "Which is the national tree of India?",
+      "option1": "Neem",
+      "option2": "Banyan",
+      "option3": "Mango",
+      "option4": "Peepal",
+      "answer": "Banyan"
+    },
+    {
+      "question": "Which is the national fruit of India?",
+      "option1": "Apple",
+      "option2": "Banana",
+      "option3": "Mango",
+      "option4": "Orange",
+      "answer": "Mango"
+    },
+    {
+      "question": "Which Indian state is known as the Land of Festivals?",
+      "option1": "Nagaland",
+      "option2": "Punjab",
+      "option3": "Gujarat",
+      "option4": "Kerala",
+      "answer": "Nagaland"
+    },
+    {
+      "question": "Which city is known as the Silicon Valley of India?",
+      "option1": "Hyderabad",
+      "option2": "Bengaluru",
+      "option3": "Chennai",
+      "option4": "Pune",
+      "answer": "Bengaluru"
+    },
+    {
+      "question": "Which monument is located in Agra?",
+      "option1": "Qutub Minar",
+      "option2": "Gateway of India",
+      "option3": "Taj Mahal",
+      "option4": "Charminar",
+      "answer": "Taj Mahal"
+    },
+    {
+      "question": "Where is the Gateway of India located?",
+      "option1": "Mumbai",
+      "option2": "Delhi",
+      "option3": "Kolkata",
+      "option4": "Chennai",
+      "answer": "Mumbai"
+    },
+    {
+      "question": "Where is the Charminar located?",
+      "option1": "Hyderabad",
+      "option2": "Bengaluru",
+      "option3": "Lucknow",
+      "option4": "Jaipur",
+      "answer": "Hyderabad"
+    },
+    {
+      "question": "Which monument is located in Delhi?",
+      "option1": "Qutub Minar",
+      "option2": "Taj Mahal",
+      "option3": "Charminar",
+      "option4": "Victoria Memorial",
+      "answer": "Qutub Minar"
+    },
+    {
+      "question": "Which sport is associated with the Thomas Cup?",
+      "option1": "Cricket",
+      "option2": "Badminton",
+      "option3": "Hockey",
+      "option4": "Football",
+      "answer": "Badminton"
+    },
+    {
+      "question": "Which sport is associated with the Ranji Trophy?",
+      "option1": "Cricket",
+      "option2": "Football",
+      "option3": "Hockey",
+      "option4": "Tennis",
+      "answer": "Cricket"
+    },
+    {
+      "question": "How many players are there in a cricket team?",
+      "option1": "9",
+      "option2": "10",
+      "option3": "11",
+      "option4": "12",
+      "answer": "11"
+    },
+    {
+      "question": "How many players are there in a football team on the field?",
+      "option1": "9",
+      "option2": "10",
+      "option3": "11",
+      "option4": "12",
+      "answer": "11"
+    },
+    {
+      "question": "Which country hosted the first modern Olympic Games?",
+      "option1": "France",
+      "option2": "Greece",
+      "option3": "United Kingdom",
+      "option4": "Italy",
+      "answer": "Greece"
+    },
+    {
+      "question": "Which Indian athlete is known as the 'Flying Sikh'?",
+      "option1": "Milkha Singh",
+      "option2": "P. T. Usha",
+      "option3": "Neeraj Chopra",
+      "option4": "Abhinav Bindra",
+      "answer": "Milkha Singh"
+    },
+    {
+      "question": "Who won India's first individual Olympic gold medal?",
+      "option1": "Neeraj Chopra",
+      "option2": "Abhinav Bindra",
+      "option3": "Sushil Kumar",
+      "option4": "Leander Paes",
+      "answer": "Abhinav Bindra"
+    },
+    {
+      "question": "Which game is played at Wimbledon?",
+      "option1": "Tennis",
+      "option2": "Cricket",
+      "option3": "Hockey",
+      "option4": "Football",
+      "answer": "Tennis"
+    },
+    {
+      "question": "How many rings are there in the Olympic symbol?",
+      "option1": "4",
+      "option2": "5",
+      "option3": "6",
+      "option4": "7",
+      "answer": "5"
+    },
+    {
+      "question": "Which is the largest ocean in the world?",
+      "option1": "Atlantic Ocean",
+      "option2": "Indian Ocean",
+      "option3": "Pacific Ocean",
+      "option4": "Arctic Ocean",
+      "answer": "Pacific Ocean"
+    },
+    {
+      "question": "Which is the smallest ocean in the world?",
+      "option1": "Indian Ocean",
+      "option2": "Atlantic Ocean",
+      "option3": "Arctic Ocean",
+      "option4": "Pacific Ocean",
+      "answer": "Arctic Ocean"
+    },
+    {
+      "question": "Which is the largest continent?",
+      "option1": "Africa",
+      "option2": "Asia",
+      "option3": "Europe",
+      "option4": "North America",
+      "answer": "Asia"
+    },
+    {
+      "question": "Which is the smallest continent?",
+      "option1": "Europe",
+      "option2": "Australia",
+      "option3": "South America",
+      "option4": "Antarctica",
+      "answer": "Australia"
+    },
+    {
+      "question": "Which imaginary line divides the Earth into Northern and Southern Hemispheres?",
+      "option1": "Tropic of Cancer",
+      "option2": "Equator",
+      "option3": "Prime Meridian",
+      "option4": "Tropic of Capricorn",
+      "answer": "Equator"
+    },
+    {
+      "question": "Which line passes through Greenwich?",
+      "option1": "Equator",
+      "option2": "Prime Meridian",
+      "option3": "Tropic of Cancer",
+      "option4": "International Date Line",
+      "answer": "Prime Meridian"
+    },
+    {
+      "question": "Which planet is closest to the Sun?",
+      "option1": "Venus",
+      "option2": "Earth",
+      "option3": "Mercury",
+      "option4": "Mars",
+      "answer": "Mercury"
+    },
+    {
+      "question": "Which planet is known for its prominent rings?",
+      "option1": "Mars",
+      "option2": "Saturn",
+      "option3": "Venus",
+      "option4": "Mercury",
+      "answer": "Saturn"
+    },
+    {
+      "question": "What is Earth's natural satellite?",
+      "option1": "Sun",
+      "option2": "Mars",
+      "option3": "Moon",
+      "option4": "Venus",
+      "answer": "Moon"
+    },
+    {
+      "question": "Which is the nearest star to Earth?",
+      "option1": "Sirius",
+      "option2": "Sun",
+      "option3": "Polaris",
+      "option4": "Alpha Centauri",
+      "answer": "Sun"
+    },
+    {
+      "question": "What is the process by which plants prepare food?",
+      "option1": "Respiration",
+      "option2": "Photosynthesis",
+      "option3": "Transpiration",
+      "option4": "Digestion",
+      "answer": "Photosynthesis"
+    },
+    {
+      "question": "Which part of the human body controls balance?",
+      "option1": "Cerebrum",
+      "option2": "Cerebellum",
+      "option3": "Medulla",
+      "option4": "Spinal cord",
+      "answer": "Cerebellum"
+    },
+    {
+      "question": "Which is the largest gland in the human body?",
+      "option1": "Pancreas",
+      "option2": "Thyroid",
+      "option3": "Liver",
+      "option4": "Pituitary",
+      "answer": "Liver"
+    },
+    {
+      "question": "Which organ produces insulin?",
+      "option1": "Liver",
+      "option2": "Pancreas",
+      "option3": "Kidney",
+      "option4": "Heart",
+      "answer": "Pancreas"
+    },
+    {
+      "question": "Which component of blood helps in clotting?",
+      "option1": "Red blood cells",
+      "option2": "White blood cells",
+      "option3": "Platelets",
+      "option4": "Plasma",
+      "answer": "Platelets"
+    },
+    {
+      "question": "Which blood cells help fight infections?",
+      "option1": "Red blood cells",
+      "option2": "White blood cells",
+      "option3": "Platelets",
+      "option4": "Plasma",
+      "answer": "White blood cells"
+    },
+    {
+      "question": "Which acid is present in lemon?",
+      "option1": "Acetic acid",
+      "option2": "Citric acid",
+      "option3": "Sulphuric acid",
+      "option4": "Hydrochloric acid",
+      "answer": "Citric acid"
+    },
+    {
+      "question": "Which acid is present in vinegar?",
+      "option1": "Citric acid",
+      "option2": "Acetic acid",
+      "option3": "Lactic acid",
+      "option4": "Formic acid",
+      "answer": "Acetic acid"
+    },
+    {
+      "question": "What is the pH value of pure water at room temperature approximately?",
+      "option1": "5",
+      "option2": "6",
+      "option3": "7",
+      "option4": "8",
+      "answer": "7"
+    },
+    {
+      "question": "Which gas is commonly used in fire extinguishers?",
+      "option1": "Oxygen",
+      "option2": "Carbon dioxide",
+      "option3": "Hydrogen",
+      "option4": "Nitrogen",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "question": "Which device is used to measure wind speed?",
+      "option1": "Barometer",
+      "option2": "Anemometer",
+      "option3": "Hygrometer",
+      "option4": "Thermometer",
+      "answer": "Anemometer"
+    },
+    {
+      "question": "Which force pulls objects towards the Earth?",
+      "option1": "Magnetic force",
+      "option2": "Frictional force",
+      "option3": "Gravitational force",
+      "option4": "Electrical force",
+      "answer": "Gravitational force"
+    },
+    {
+      "question": "Which simple machine is commonly used to draw water from a well?",
+      "option1": "Lever",
+      "option2": "Pulley",
+      "option3": "Wheel",
+      "option4": "Screw",
+      "answer": "Pulley"
+    },
+    {
+      "question": "Which material is a good conductor of electricity?",
+      "option1": "Rubber",
+      "option2": "Wood",
+      "option3": "Copper",
+      "option4": "Plastic",
+      "answer": "Copper"
+    },
+    {
+      "question": "Which of the following is a renewable source of energy?",
+      "option1": "Coal",
+      "option2": "Petroleum",
+      "option3": "Solar energy",
+      "option4": "Natural gas",
+      "answer": "Solar energy"
+    },
+    {
+      "question": "Which fuel is commonly called a fossil fuel?",
+      "option1": "Coal",
+      "option2": "Solar energy",
+      "option3": "Wind energy",
+      "option4": "Hydropower",
+      "answer": "Coal"
+    },
+    {
+      "question": "Which device is used to type text into a computer?",
+      "option1": "Monitor",
+      "option2": "Keyboard",
+      "option3": "Printer",
+      "option4": "Speaker",
+      "answer": "Keyboard"
+    },
+    {
+      "question": "Which shortcut key is commonly used to copy selected text?",
+      "option1": "Ctrl + X",
+      "option2": "Ctrl + C",
+      "option3": "Ctrl + V",
+      "option4": "Ctrl + Z",
+      "answer": "Ctrl + C"
+    },
+    {
+      "question": "Which shortcut key is commonly used to paste copied text?",
+      "option1": "Ctrl + A",
+      "option2": "Ctrl + C",
+      "option3": "Ctrl + V",
+      "option4": "Ctrl + X",
+      "answer": "Ctrl + V"
+    },
+    {
+      "question": "Which shortcut key is commonly used to undo an action?",
+      "option1": "Ctrl + Z",
+      "option2": "Ctrl + Y",
+      "option3": "Ctrl + P",
+      "option4": "Ctrl + S",
+      "answer": "Ctrl + Z"
+    },
+    {
+      "question": "Which Indian state has the largest population according to the 2011 Census?",
+      "option1": "Maharashtra",
+      "option2": "Uttar Pradesh",
+      "option3": "Bihar",
+      "option4": "West Bengal",
+      "answer": "Uttar Pradesh"
+    },
+    {
+      "question": "Which is the longest National Highway in India?",
+      "option1": "NH 27",
+      "option2": "NH 44",
+      "option3": "NH 48",
+      "option4": "NH 19",
+      "answer": "NH 44"
+    },
+    {
+      "question": "Which Indian state is known as the 'Land of Rising Sun'?",
+      "option1": "Assam",
+      "option2": "Arunachal Pradesh",
+      "option3": "Sikkim",
+      "option4": "Manipur",
+      "answer": "Arunachal Pradesh"
+    },
+    {
+      "question": "The Gateway of India is located in which city?",
+      "option1": "Kolkata",
+      "option2": "Chennai",
+      "option3": "Mumbai",
+      "option4": "Kochi",
+      "answer": "Mumbai"
+    },
+    {
+      "question": "Who was the first Indian to win an individual Olympic gold medal?",
+      "option1": "Abhinav Bindra",
+      "option2": "Neeraj Chopra",
+      "option3": "Leander Paes",
+      "option4": "Rajyavardhan Singh Rathore",
+      "answer": "Abhinav Bindra"
+    },
+    {
+      "question": "Which sport is associated with the term 'checkmate'?",
+      "option1": "Hockey",
+      "option2": "Chess",
+      "option3": "Boxing",
+      "option4": "Wrestling",
+      "answer": "Chess"
+    },
+    {
+      "question": "The term 'LBW' is associated with which sport?",
+      "option1": "Football",
+      "option2": "Cricket",
+      "option3": "Hockey",
+      "option4": "Tennis",
+      "answer": "Cricket"
+    },
+    {
+      "question": "Which award is given for outstanding contribution to Indian cinema?",
+      "option1": "Arjuna Award",
+      "option2": "Dadasaheb Phalke Award",
+      "option3": "Bharat Ratna",
+      "option4": "Dhyan Chand Award",
+      "answer": "Dadasaheb Phalke Award"
+    },
+    {
+      "question": "Who was the first Indian woman to win an Olympic medal?",
+      "option1": "P. T. Usha",
+      "option2": "Karnam Malleswari",
+      "option3": "Saina Nehwal",
+      "option4": "Mary Kom",
+      "answer": "Karnam Malleswari"
+    },
+    {
+      "question": "Which is the highest civilian award of India?",
+      "option1": "Padma Shri",
+      "option2": "Padma Bhushan",
+      "option3": "Padma Vibhushan",
+      "option4": "Bharat Ratna",
+      "answer": "Bharat Ratna"
+    },
+    {
+      "question": "Who discovered the law of gravitation?",
+      "option1": "Albert Einstein",
+      "option2": "Isaac Newton",
+      "option3": "Galileo Galilei",
+      "option4": "Johannes Kepler",
+      "answer": "Isaac Newton"
+    }
+  ]
+}

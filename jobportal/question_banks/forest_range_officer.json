@@ -1,0 +1,3237 @@
+{
+  "exam": "Forest Range Officer",
+  "questions": [
+    {
+      "question": "What is silviculture?",
+      "option1": "Study and cultivation of forest trees",
+      "option2": "Study of rocks",
+      "option3": "Study of animals only",
+      "option4": "Study of atmospheric pressure",
+      "answer": "Study and cultivation of forest trees"
+    },
+    {
+      "question": "What is forestry?",
+      "option1": "Science, art and practice of managing forests",
+      "option2": "Study of oceans",
+      "option3": "Study of minerals",
+      "option4": "Study of human anatomy",
+      "answer": "Science, art and practice of managing forests"
+    },
+    {
+      "question": "Which branch deals with identification and classification of trees?",
+      "option1": "Dendrology",
+      "option2": "Ecology",
+      "option3": "Hydrology",
+      "option4": "Geology",
+      "answer": "Dendrology"
+    },
+    {
+      "question": "What is dendrochronology?",
+      "option1": "Study of tree rings",
+      "option2": "Study of tree roots",
+      "option3": "Study of forest insects",
+      "option4": "Study of forest soils",
+      "answer": "Study of tree rings"
+    },
+    {
+      "question": "Which part of a plant mainly absorbs water and minerals?",
+      "option1": "Root",
+      "option2": "Leaf",
+      "option3": "Flower",
+      "option4": "Fruit",
+      "answer": "Root"
+    },
+    {
+      "question": "Which tissue transports water upward in plants?",
+      "option1": "Xylem",
+      "option2": "Phloem",
+      "option3": "Cambium",
+      "option4": "Epidermis",
+      "answer": "Xylem"
+    },
+    {
+      "question": "Which tissue transports prepared food in plants?",
+      "option1": "Phloem",
+      "option2": "Xylem",
+      "option3": "Cork",
+      "option4": "Pith",
+      "answer": "Phloem"
+    },
+    {
+      "question": "What is photosynthesis?",
+      "option1": "Production of food using light energy",
+      "option2": "Absorption of minerals",
+      "option3": "Breakdown of rocks",
+      "option4": "Formation of soil",
+      "answer": "Production of food using light energy"
+    },
+    {
+      "question": "Which pigment is primarily responsible for photosynthesis?",
+      "option1": "Chlorophyll",
+      "option2": "Hemoglobin",
+      "option3": "Melanin",
+      "option4": "Keratin",
+      "answer": "Chlorophyll"
+    },
+    {
+      "question": "What is natural regeneration?",
+      "option1": "Regeneration occurring without artificial planting",
+      "option2": "Planting seedlings by machines",
+      "option3": "Cutting mature trees",
+      "option4": "Removing forest litter",
+      "answer": "Regeneration occurring without artificial planting"
+    },
+    {
+      "question": "What is artificial regeneration?",
+      "option1": "Establishing forests through human intervention",
+      "option2": "Natural seed dispersal",
+      "option3": "Natural succession",
+      "option4": "Natural pollination",
+      "answer": "Establishing forests through human intervention"
+    },
+    {
+      "question": "Which is a common method of artificial regeneration?",
+      "option1": "Planting seedlings",
+      "option2": "Natural succession",
+      "option3": "Natural seed fall",
+      "option4": "Animal migration",
+      "answer": "Planting seedlings"
+    },
+    {
+      "question": "What is a forest nursery?",
+      "option1": "Place where seedlings are raised",
+      "option2": "Place where timber is stored",
+      "option3": "Place where wildlife is hunted",
+      "option4": "Place where forest fires are controlled",
+      "answer": "Place where seedlings are raised"
+    },
+    {
+      "question": "What is seed germination?",
+      "option1": "Development of a seed into a seedling",
+      "option2": "Drying of leaves",
+      "option3": "Formation of timber",
+      "option4": "Removal of bark",
+      "answer": "Development of a seed into a seedling"
+    },
+    {
+      "question": "Which condition is generally essential for seed germination?",
+      "option1": "Moisture",
+      "option2": "Complete darkness only",
+      "option3": "Very high salinity",
+      "option4": "Absence of oxygen",
+      "answer": "Moisture"
+    },
+    {
+      "question": "What is seed dormancy?",
+      "option1": "Temporary failure of viable seeds to germinate",
+      "option2": "Permanent death of seeds",
+      "option3": "Growth of mature trees",
+      "option4": "Formation of flowers",
+      "answer": "Temporary failure of viable seeds to germinate"
+    },
+    {
+      "question": "What is thinning in forestry?",
+      "option1": "Removal of selected trees to improve remaining trees",
+      "option2": "Complete removal of a forest",
+      "option3": "Removal of forest soil",
+      "option4": "Planting trees closely",
+      "answer": "Removal of selected trees to improve remaining trees"
+    },
+    {
+      "question": "What is pruning?",
+      "option1": "Removal of selected branches",
+      "option2": "Removal of roots",
+      "option3": "Removal of soil",
+      "option4": "Removal of seeds",
+      "answer": "Removal of selected branches"
+    },
+    {
+      "question": "What is coppice regeneration?",
+      "option1": "Regeneration from shoots arising from stumps or roots",
+      "option2": "Regeneration only from seeds",
+      "option3": "Planting by tractors",
+      "option4": "Regeneration through flowers",
+      "answer": "Regeneration from shoots arising from stumps or roots"
+    },
+    {
+      "question": "What is a pure stand?",
+      "option1": "Stand dominated by one tree species",
+      "option2": "Stand containing only shrubs",
+      "option3": "Stand without trees",
+      "option4": "Stand containing only grasses",
+      "answer": "Stand dominated by one tree species"
+    },
+    {
+      "question": "What is a mixed forest stand?",
+      "option1": "Stand containing two or more tree species",
+      "option2": "Stand without vegetation",
+      "option3": "Stand containing only one species",
+      "option4": "Stand containing only grasses",
+      "answer": "Stand containing two or more tree species"
+    },
+    {
+      "question": "What is an even-aged stand?",
+      "option1": "Stand where trees are approximately of the same age",
+      "option2": "Stand containing trees of all ages",
+      "option3": "Stand without mature trees",
+      "option4": "Stand without seedlings",
+      "answer": "Stand where trees are approximately of the same age"
+    },
+    {
+      "question": "What is an uneven-aged stand?",
+      "option1": "Stand containing trees of different age classes",
+      "option2": "Stand containing trees of one age",
+      "option3": "Stand containing only seedlings",
+      "option4": "Stand without regeneration",
+      "answer": "Stand containing trees of different age classes"
+    },
+    {
+      "question": "What is forest succession?",
+      "option1": "Gradual change in vegetation communities over time",
+      "option2": "Complete cutting of trees",
+      "option3": "Artificial planting of one species",
+      "option4": "Movement of animals",
+      "answer": "Gradual change in vegetation communities over time"
+    },
+    {
+      "question": "Which community generally appears first during ecological succession?",
+      "option1": "Pioneer community",
+      "option2": "Climax community",
+      "option3": "Mature forest",
+      "option4": "Secondary consumer community",
+      "answer": "Pioneer community"
+    },
+    {
+      "question": "What is a climax community?",
+      "option1": "Relatively stable mature community",
+      "option2": "First community in succession",
+      "option3": "Recently burned vegetation",
+      "option4": "Artificial plantation",
+      "answer": "Relatively stable mature community"
+    },
+    {
+      "question": "What is ecology?",
+      "option1": "Study of relationships between organisms and their environment",
+      "option2": "Study of rocks",
+      "option3": "Study of machines",
+      "option4": "Study of stars",
+      "answer": "Study of relationships between organisms and their environment"
+    },
+    {
+      "question": "What is an ecosystem?",
+      "option1": "Interaction of living organisms with their environment",
+      "option2": "Only a group of animals",
+      "option3": "Only a group of plants",
+      "option4": "Only soil and water",
+      "answer": "Interaction of living organisms with their environment"
+    },
+    {
+      "question": "Which is a biotic component of a forest ecosystem?",
+      "option1": "Animals",
+      "option2": "Temperature",
+      "option3": "Rainfall",
+      "option4": "Soil",
+      "answer": "Animals"
+    },
+    {
+      "question": "Which is an abiotic factor?",
+      "option1": "Temperature",
+      "option2": "Tree",
+      "option3": "Bird",
+      "option4": "Bacteria",
+      "answer": "Temperature"
+    },
+    {
+      "question": "What is biodiversity?",
+      "option1": "Variety of living organisms",
+      "option2": "Number of rocks in an area",
+      "option3": "Amount of rainfall",
+      "option4": "Forest area only",
+      "answer": "Variety of living organisms"
+    },
+    {
+      "question": "What is genetic diversity?",
+      "option1": "Variation of genes within a species",
+      "option2": "Variation between ecosystems only",
+      "option3": "Number of forests",
+      "option4": "Number of rivers",
+      "answer": "Variation of genes within a species"
+    },
+    {
+      "question": "What is species diversity?",
+      "option1": "Variety of species in an area",
+      "option2": "Variation of genes only",
+      "option3": "Variation of climate",
+      "option4": "Variation of soil",
+      "answer": "Variety of species in an area"
+    },
+    {
+      "question": "What is ecosystem diversity?",
+      "option1": "Variety of ecosystems in a region",
+      "option2": "Variation within a species",
+      "option3": "Number of tree rings",
+      "option4": "Number of seeds",
+      "answer": "Variety of ecosystems in a region"
+    },
+    {
+      "question": "What is an endemic species?",
+      "option1": "Species naturally restricted to a particular region",
+      "option2": "Species found everywhere",
+      "option3": "Species introduced from another country",
+      "option4": "Extinct species",
+      "answer": "Species naturally restricted to a particular region"
+    },
+    {
+      "question": "What is an endangered species?",
+      "option1": "Species facing a high risk of extinction",
+      "option2": "Species with increasing population",
+      "option3": "Common domestic species",
+      "option4": "Recently discovered species",
+      "answer": "Species facing a high risk of extinction"
+    },
+    {
+      "question": "What is an invasive alien species?",
+      "option1": "Non-native species that can cause ecological harm",
+      "option2": "Native species only",
+      "option3": "Extinct species",
+      "option4": "Domestic livestock",
+      "answer": "Non-native species that can cause ecological harm"
+    },
+    {
+      "question": "Which gas is mainly responsible for photosynthesis?",
+      "option1": "Carbon dioxide",
+      "option2": "Nitrogen",
+      "option3": "Oxygen",
+      "option4": "Hydrogen",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "question": "Which gas is released during photosynthesis?",
+      "option1": "Oxygen",
+      "option2": "Nitrogen",
+      "option3": "Methane",
+      "option4": "Hydrogen",
+      "answer": "Oxygen"
+    },
+    {
+      "question": "What is transpiration?",
+      "option1": "Loss of water vapor from plant surfaces",
+      "option2": "Absorption of minerals",
+      "option3": "Formation of seeds",
+      "option4": "Formation of wood",
+      "answer": "Loss of water vapor from plant surfaces"
+    },
+    {
+      "question": "Which plant structure controls most gas exchange in leaves?",
+      "option1": "Stomata",
+      "option2": "Roots",
+      "option3": "Xylem",
+      "option4": "Bark",
+      "answer": "Stomata"
+    },
+    {
+      "question": "What is evapotranspiration?",
+      "option1": "Combined evaporation and plant transpiration",
+      "option2": "Only rainfall",
+      "option3": "Only groundwater movement",
+      "option4": "Only condensation",
+      "answer": "Combined evaporation and plant transpiration"
+    },
+    {
+      "question": "Which factor is important in determining forest distribution?",
+      "option1": "Climate",
+      "option2": "Road traffic only",
+      "option3": "Building height",
+      "option4": "Population density alone",
+      "answer": "Climate"
+    },
+    {
+      "question": "Which climatic factor directly provides water to forests?",
+      "option1": "Rainfall",
+      "option2": "Wind",
+      "option3": "Sunlight",
+      "option4": "Pressure",
+      "answer": "Rainfall"
+    },
+    {
+      "question": "What is a forest canopy?",
+      "option1": "Upper layer formed by tree crowns",
+      "option2": "Forest floor",
+      "option3": "Root zone",
+      "option4": "Soil layer",
+      "answer": "Upper layer formed by tree crowns"
+    },
+    {
+      "question": "What is a forest floor?",
+      "option1": "Ground surface covered by litter and organic material",
+      "option2": "Upper tree canopy",
+      "option3": "Tree crown",
+      "option4": "Forest boundary",
+      "answer": "Ground surface covered by litter and organic material"
+    },
+    {
+      "question": "What is leaf litter?",
+      "option1": "Fallen leaves and other plant debris",
+      "option2": "Fresh leaves on trees",
+      "option3": "Tree bark only",
+      "option4": "Forest soil only",
+      "answer": "Fallen leaves and other plant debris"
+    },
+    {
+      "question": "What is humus?",
+      "option1": "Decomposed organic matter in soil",
+      "option2": "Fresh rock",
+      "option3": "Pure sand",
+      "option4": "Forest water",
+      "answer": "Decomposed organic matter in soil"
+    },
+    {
+      "question": "Which organisms are major decomposers in forests?",
+      "option1": "Fungi and bacteria",
+      "option2": "Deer and elephants",
+      "option3": "Birds and reptiles",
+      "option4": "Trees and grasses",
+      "answer": "Fungi and bacteria"
+    },
+    {
+      "question": "What is a food chain?",
+      "option1": "Sequence of organisms through which energy passes",
+      "option2": "List of forest products",
+      "option3": "Forest boundary",
+      "option4": "Plant classification system",
+      "answer": "Sequence of organisms through which energy passes"
+    },
+    {
+      "question": "Which organism is generally a primary producer?",
+      "option1": "Green plant",
+      "option2": "Tiger",
+      "option3": "Deer",
+      "option4": "Fungus",
+      "answer": "Green plant"
+    },
+    {
+      "question": "Which organisms are primary consumers?",
+      "option1": "Herbivores",
+      "option2": "Carnivores",
+      "option3": "Decomposers",
+      "option4": "Producers",
+      "answer": "Herbivores"
+    },
+    {
+      "question": "What is a trophic level?",
+      "option1": "Position of an organism in a food chain",
+      "option2": "Height of a tree",
+      "option3": "Depth of soil",
+      "option4": "Age of forest",
+      "answer": "Position of an organism in a food chain"
+    },
+    {
+      "question": "What is ecological balance?",
+      "option1": "Relative stability among organisms and environmental factors",
+      "option2": "Complete absence of predators",
+      "option3": "Removal of all herbivores",
+      "option4": "Complete dominance of one species",
+      "answer": "Relative stability among organisms and environmental factors"
+    },
+    {
+      "question": "What is wildlife?",
+      "option1": "Wild animals, plants and other organisms living naturally",
+      "option2": "Only domestic animals",
+      "option3": "Only zoo animals",
+      "option4": "Only livestock",
+      "answer": "Wild animals, plants and other organisms living naturally"
+    },
+    {
+      "question": "What is wildlife conservation?",
+      "option1": "Protection and sustainable management of wild species and habitats",
+      "option2": "Hunting all wild animals",
+      "option3": "Removing forests",
+      "option4": "Capturing animals for trade",
+      "answer": "Protection and sustainable management of wild species and habitats"
+    },
+    {
+      "question": "What is in-situ conservation?",
+      "option1": "Conservation within the natural habitat",
+      "option2": "Conservation outside natural habitat",
+      "option3": "Conservation only in laboratories",
+      "option4": "Conservation through seed trade",
+      "answer": "Conservation within the natural habitat"
+    },
+    {
+      "question": "What is ex-situ conservation?",
+      "option1": "Conservation outside the natural habitat",
+      "option2": "Conservation in natural forests",
+      "option3": "Protection of natural rivers",
+      "option4": "Protection of soil only",
+      "answer": "Conservation outside the natural habitat"
+    },
+    {
+      "question": "Which is an example of ex-situ conservation?",
+      "option1": "Zoo",
+      "option2": "National park",
+      "option3": "Wildlife sanctuary",
+      "option4": "Biosphere reserve",
+      "answer": "Zoo"
+    },
+    {
+      "question": "Which is an example of in-situ conservation?",
+      "option1": "National park",
+      "option2": "Zoo",
+      "option3": "Botanical garden",
+      "option4": "Seed bank",
+      "answer": "National park"
+    },
+    {
+      "question": "What is a national park?",
+      "option1": "Protected area managed primarily for conservation",
+      "option2": "Commercial timber plantation",
+      "option3": "Urban recreation park only",
+      "option4": "Agricultural farm",
+      "answer": "Protected area managed primarily for conservation"
+    },
+    {
+      "question": "What is a wildlife sanctuary?",
+      "option1": "Protected area established for wildlife conservation",
+      "option2": "Timber market",
+      "option3": "Industrial forest",
+      "option4": "Agricultural field",
+      "answer": "Protected area established for wildlife conservation"
+    },
+    {
+      "question": "What is a biosphere reserve?",
+      "option1": "Large area supporting conservation and sustainable use",
+      "option2": "Only a zoo",
+      "option3": "Only a timber depot",
+      "option4": "Only a seed nursery",
+      "answer": "Large area supporting conservation and sustainable use"
+    },
+    {
+      "question": "What is a wildlife corridor?",
+      "option1": "Habitat connection allowing animal movement",
+      "option2": "Forest road for timber transport",
+      "option3": "Boundary wall",
+      "option4": "Artificial pond",
+      "answer": "Habitat connection allowing animal movement"
+    },
+    {
+      "question": "Why are wildlife corridors important?",
+      "option1": "They facilitate movement between habitats",
+      "option2": "They increase forest fires",
+      "option3": "They remove vegetation",
+      "option4": "They stop all animal movement",
+      "answer": "They facilitate movement between habitats"
+    },
+    {
+      "question": "What is habitat fragmentation?",
+      "option1": "Breaking a continuous habitat into smaller isolated areas",
+      "option2": "Increasing forest connectivity",
+      "option3": "Planting trees",
+      "option4": "Increasing rainfall",
+      "answer": "Breaking a continuous habitat into smaller isolated areas"
+    },
+    {
+      "question": "What is poaching?",
+      "option1": "Illegal hunting or capture of wildlife",
+      "option2": "Scientific wildlife study",
+      "option3": "Forest plantation",
+      "option4": "Legal forest management",
+      "answer": "Illegal hunting or capture of wildlife"
+    },
+    {
+      "question": "What is human-wildlife conflict?",
+      "option1": "Conflict arising from interaction between people and wildlife",
+      "option2": "Conflict between two tree species",
+      "option3": "Competition between forest soils",
+      "option4": "Competition between rocks",
+      "answer": "Conflict arising from interaction between people and wildlife"
+    },
+    {
+      "question": "What is an ecological niche?",
+      "option1": "Functional role of a species in an ecosystem",
+      "option2": "Physical height of a tree",
+      "option3": "Forest boundary",
+      "option4": "Animal shelter only",
+      "answer": "Functional role of a species in an ecosystem"
+    },
+    {
+      "question": "What is carrying capacity?",
+      "option1": "Maximum population an environment can sustainably support",
+      "option2": "Number of trees planted annually",
+      "option3": "Maximum rainfall",
+      "option4": "Maximum forest height",
+      "answer": "Maximum population an environment can sustainably support"
+    },
+    {
+      "question": "What is population density?",
+      "option1": "Number of individuals per unit area",
+      "option2": "Number of species in a forest",
+      "option3": "Number of trees in the world",
+      "option4": "Amount of rainfall per year",
+      "answer": "Number of individuals per unit area"
+    },
+    {
+      "question": "What is migration in wildlife?",
+      "option1": "Regular movement of animals between areas",
+      "option2": "Permanent extinction",
+      "option3": "Growth of trees",
+      "option4": "Formation of soil",
+      "answer": "Regular movement of animals between areas"
+    },
+    {
+      "question": "What is hibernation?",
+      "option1": "State of reduced activity during unfavorable conditions",
+      "option2": "Animal migration",
+      "option3": "Breeding behavior only",
+      "option4": "Daily feeding",
+      "answer": "State of reduced activity during unfavorable conditions"
+    },
+    {
+      "question": "What is camouflage?",
+      "option1": "Adaptation that helps an organism blend with surroundings",
+      "option2": "Animal migration",
+      "option3": "Forest harvesting",
+      "option4": "Seed dispersal",
+      "answer": "Adaptation that helps an organism blend with surroundings"
+    },
+    {
+      "question": "Which group includes mammals?",
+      "option1": "Elephant, tiger and deer",
+      "option2": "Snake, lizard and frog",
+      "option3": "Eagle, crow and pigeon",
+      "option4": "Fish, shark and carp",
+      "answer": "Elephant, tiger and deer"
+    },
+    {
+      "question": "Which branch studies birds?",
+      "option1": "Ornithology",
+      "option2": "Entomology",
+      "option3": "Herpetology",
+      "option4": "Ichthyology",
+      "answer": "Ornithology"
+    },
+    {
+      "question": "Which branch studies insects?",
+      "option1": "Entomology",
+      "option2": "Ornithology",
+      "option3": "Ichthyology",
+      "option4": "Mammalogy",
+      "answer": "Entomology"
+    },
+    {
+      "question": "Which branch studies fishes?",
+      "option1": "Ichthyology",
+      "option2": "Ornithology",
+      "option3": "Herpetology",
+      "option4": "Entomology",
+      "answer": "Ichthyology"
+    },
+    {
+      "question": "Which branch studies reptiles and amphibians?",
+      "option1": "Herpetology",
+      "option2": "Ornithology",
+      "option3": "Dendrology",
+      "option4": "Entomology",
+      "answer": "Herpetology"
+    },
+    {
+      "question": "What is forest management?",
+      "option1": "Planning and controlling forest resources for desired objectives",
+      "option2": "Complete removal of forests",
+      "option3": "Only tree planting",
+      "option4": "Only wildlife counting",
+      "answer": "Planning and controlling forest resources for desired objectives"
+    },
+    {
+      "question": "What is a working plan in forestry?",
+      "option1": "Systematic plan for management of a forest area",
+      "option2": "Plan for constructing houses",
+      "option3": "Plan for mining",
+      "option4": "Plan for road traffic",
+      "answer": "Systematic plan for management of a forest area"
+    },
+    {
+      "question": "What is sustained yield?",
+      "option1": "Continuous production without degrading the resource",
+      "option2": "Maximum extraction in one year",
+      "option3": "Complete forest clearance",
+      "option4": "No forest utilization",
+      "answer": "Continuous production without degrading the resource"
+    },
+    {
+      "question": "What is a rotation period?",
+      "option1": "Period between establishment and final harvest of a forest crop",
+      "option2": "Time taken for rainfall",
+      "option3": "Animal migration period",
+      "option4": "Seed storage period only",
+      "answer": "Period between establishment and final harvest of a forest crop"
+    },
+    {
+      "question": "What is forest mensuration?",
+      "option1": "Measurement of forest trees and stands",
+      "option2": "Study of forest animals",
+      "option3": "Study of forest diseases",
+      "option4": "Study of forest laws",
+      "answer": "Measurement of forest trees and stands"
+    },
+    {
+      "question": "Which measurement is commonly used to estimate tree size?",
+      "option1": "Diameter at breast height",
+      "option2": "Leaf color",
+      "option3": "Flower number",
+      "option4": "Bark smell",
+      "answer": "Diameter at breast height"
+    },
+    {
+      "question": "What does DBH stand for?",
+      "option1": "Diameter at Breast Height",
+      "option2": "Diameter Below Height",
+      "option3": "Diameter of Branch Height",
+      "option4": "Depth of Bark Height",
+      "answer": "Diameter at Breast Height"
+    },
+    {
+      "question": "DBH is commonly measured at approximately what height above ground?",
+      "option1": "1.37 metres",
+      "option2": "0.25 metres",
+      "option3": "3 metres",
+      "option4": "5 metres",
+      "answer": "1.37 metres"
+    },
+    {
+      "question": "What is basal area?",
+      "option1": "Cross-sectional area of tree stems at a specified height",
+      "option2": "Total leaf area",
+      "option3": "Forest floor area",
+      "option4": "Root length",
+      "answer": "Cross-sectional area of tree stems at a specified height"
+    },
+    {
+      "question": "What is volume estimation in forestry?",
+      "option1": "Estimation of wood volume in trees or stands",
+      "option2": "Estimation of rainfall",
+      "option3": "Estimation of wildlife population only",
+      "option4": "Estimation of soil color",
+      "answer": "Estimation of wood volume in trees or stands"
+    },
+    {
+      "question": "What is forest inventory?",
+      "option1": "Systematic collection of information about forest resources",
+      "option2": "Removal of all trees",
+      "option3": "Wildlife hunting",
+      "option4": "Forest road construction",
+      "answer": "Systematic collection of information about forest resources"
+    },
+    {
+      "question": "What is sampling in forest inventory?",
+      "option1": "Studying selected representative portions of a forest",
+      "option2": "Measuring every leaf",
+      "option3": "Removing all trees",
+      "option4": "Counting only animals",
+      "answer": "Studying selected representative portions of a forest"
+    },
+    {
+      "question": "What is remote sensing?",
+      "option1": "Collecting information without direct physical contact",
+      "option2": "Manual tree cutting",
+      "option3": "Soil excavation",
+      "option4": "Animal trapping",
+      "answer": "Collecting information without direct physical contact"
+    },
+    {
+      "question": "What does GIS stand for?",
+      "option1": "Geographic Information System",
+      "option2": "General Information Service",
+      "option3": "Geological Inspection System",
+      "option4": "Global Indian Survey",
+      "answer": "Geographic Information System"
+    },
+    {
+      "question": "What is GIS mainly used for in forestry?",
+      "option1": "Mapping and spatial analysis",
+      "option2": "Cooking forest products",
+      "option3": "Measuring blood pressure",
+      "option4": "Breeding livestock",
+      "answer": "Mapping and spatial analysis"
+    },
+    {
+      "question": "What does GPS stand for?",
+      "option1": "Global Positioning System",
+      "option2": "General Positioning Service",
+      "option3": "Geological Planning System",
+      "option4": "Global Plant Survey",
+      "answer": "Global Positioning System"
+    },
+    {
+      "question": "What is a contour line?",
+      "option1": "Line joining points of equal elevation",
+      "option2": "Line joining trees of equal age",
+      "option3": "Forest boundary only",
+      "option4": "River bank line",
+      "answer": "Line joining points of equal elevation"
+    },
+    {
+      "question": "What is watershed management?",
+      "option1": "Management of land and water resources within a watershed",
+      "option2": "Only river fishing",
+      "option3": "Only tree cutting",
+      "option4": "Only wildlife protection",
+      "answer": "Management of land and water resources within a watershed"
+    },
+    {
+      "question": "What is soil erosion?",
+      "option1": "Removal of soil by agents such as water or wind",
+      "option2": "Formation of soil",
+      "option3": "Addition of humus",
+      "option4": "Plant growth",
+      "answer": "Removal of soil by agents such as water or wind"
+    },
+    {
+      "question": "Which is a major cause of soil erosion?",
+      "option1": "Removal of vegetation cover",
+      "option2": "Forest conservation",
+      "option3": "Contour planting",
+      "option4": "Mulching",
+      "answer": "Removal of vegetation cover"
+    },
+    {
+      "question": "Which practice helps reduce soil erosion on slopes?",
+      "option1": "Contour planting",
+      "option2": "Clear cutting",
+      "option3": "Overgrazing",
+      "option4": "Burning vegetation",
+      "answer": "Contour planting"
+    },
+    {
+      "question": "What is afforestation?",
+      "option1": "Establishment of forests on land not recently under forest",
+      "option2": "Removal of forests",
+      "option3": "Forest fire",
+      "option4": "Forest harvesting only",
+      "answer": "Establishment of forests on land not recently under forest"
+    },
+    {
+      "question": "What is reforestation?",
+      "option1": "Re-establishment of forest on previously forested land",
+      "option2": "Conversion of forest to agriculture",
+      "option3": "Removal of seedlings",
+      "option4": "Construction of forest roads",
+      "answer": "Re-establishment of forest on previously forested land"
+    },
+    {
+      "question": "What is deforestation?",
+      "option1": "Conversion or removal of forest cover",
+      "option2": "Planting trees",
+      "option3": "Natural regeneration",
+      "option4": "Forest conservation",
+      "answer": "Conversion or removal of forest cover"
+    },
+    {
+      "question": "What is degradation of forest?",
+      "option1": "Decline in forest quality or ecological function",
+      "option2": "Increase in biodiversity",
+      "option3": "Increase in canopy cover",
+      "option4": "Natural regeneration",
+      "answer": "Decline in forest quality or ecological function"
+    },
+    {
+      "question": "What is social forestry?",
+      "option1": "Forestry aimed at meeting local community needs",
+      "option2": "Forestry only for industries",
+      "option3": "Forestry only inside zoos",
+      "option4": "Forestry without people",
+      "answer": "Forestry aimed at meeting local community needs"
+    },
+    {
+      "question": "What is agroforestry?",
+      "option1": "Integration of trees with crops and/or livestock",
+      "option2": "Growing trees only in forests",
+      "option3": "Growing crops without trees",
+      "option4": "Animal breeding only",
+      "answer": "Integration of trees with crops and/or livestock"
+    },
+    {
+      "question": "Which is a major benefit of agroforestry?",
+      "option1": "Soil conservation",
+      "option2": "Increased soil erosion",
+      "option3": "Loss of biodiversity",
+      "option4": "Desertification",
+      "answer": "Soil conservation"
+    },
+    {
+      "question": "What are multipurpose trees?",
+      "option1": "Trees providing several useful products or services",
+      "option2": "Trees with multiple trunks only",
+      "option3": "Trees without economic value",
+      "option4": "Trees found only in deserts",
+      "answer": "Trees providing several useful products or services"
+    },
+    {
+      "question": "What is social forestry primarily intended to provide?",
+      "option1": "Fuelwood, fodder, small timber and environmental benefits",
+      "option2": "Only export timber",
+      "option3": "Only wildlife trophies",
+      "option4": "Only minerals",
+      "answer": "Fuelwood, fodder, small timber and environmental benefits"
+    },
+    {
+      "question": "What is farm forestry?",
+      "option1": "Growing trees on agricultural farms",
+      "option2": "Growing crops in national parks",
+      "option3": "Growing trees only in zoos",
+      "option4": "Growing trees in oceans",
+      "answer": "Growing trees on agricultural farms"
+    },
+    {
+      "question": "What is Joint Forest Management?",
+      "option1": "Participatory management of forests involving local communities",
+      "option2": "Private ownership of all forests",
+      "option3": "Complete exclusion of communities",
+      "option4": "Forest mining",
+      "answer": "Participatory management of forests involving local communities"
+    },
+    {
+      "question": "What is a non-timber forest product?",
+      "option1": "Forest product other than conventional timber",
+      "option2": "Only saw timber",
+      "option3": "Only plywood",
+      "option4": "Only logs",
+      "answer": "Forest product other than conventional timber"
+    },
+    {
+      "question": "Which is an example of a non-timber forest product?",
+      "option1": "Gum",
+      "option2": "Sawn timber",
+      "option3": "Plywood",
+      "option4": "Wooden beam",
+      "answer": "Gum"
+    },
+    {
+      "question": "Which forest product is commonly obtained from bamboo?",
+      "option1": "Poles and handicraft material",
+      "option2": "Petroleum",
+      "option3": "Iron ore",
+      "option4": "Natural gas",
+      "answer": "Poles and handicraft material"
+    },
+    {
+      "question": "What is resin?",
+      "option1": "Plant secretion used for various products",
+      "option2": "Forest soil",
+      "option3": "Animal blood",
+      "option4": "Groundwater",
+      "answer": "Plant secretion used for various products"
+    },
+    {
+      "question": "What is gum?",
+      "option1": "Plant-derived substance obtained from certain trees and plants",
+      "option2": "Type of forest soil",
+      "option3": "Type of animal tissue",
+      "option4": "Type of mineral",
+      "answer": "Plant-derived substance obtained from certain trees and plants"
+    },
+    {
+      "question": "What is timber?",
+      "option1": "Wood suitable for construction or other uses",
+      "option2": "Fresh green leaves",
+      "option3": "Forest soil",
+      "option4": "Tree seeds",
+      "answer": "Wood suitable for construction or other uses"
+    },
+    {
+      "question": "What is plywood?",
+      "option1": "Wood product made by bonding thin layers of wood",
+      "option2": "Solid metal sheet",
+      "option3": "Forest soil product",
+      "option4": "Plant fertilizer",
+      "answer": "Wood product made by bonding thin layers of wood"
+    },
+    {
+      "question": "What is wood seasoning?",
+      "option1": "Controlled removal of moisture from wood",
+      "option2": "Addition of water to wood",
+      "option3": "Cutting tree roots",
+      "option4": "Planting seedlings",
+      "answer": "Controlled removal of moisture from wood"
+    },
+    {
+      "question": "Why is wood seasoned?",
+      "option1": "To reduce moisture and improve stability",
+      "option2": "To increase insect attack",
+      "option3": "To increase water content",
+      "option4": "To reduce strength",
+      "answer": "To reduce moisture and improve stability"
+    },
+    {
+      "question": "What is wood preservation?",
+      "option1": "Treatment of wood to increase resistance to deterioration",
+      "option2": "Drying leaves",
+      "option3": "Growing seedlings",
+      "option4": "Removing forest soil",
+      "answer": "Treatment of wood to increase resistance to deterioration"
+    },
+    {
+      "question": "Which factor strongly affects wood quality?",
+      "option1": "Moisture content",
+      "option2": "Bird population",
+      "option3": "Rainfall only",
+      "option4": "Forest boundary",
+      "answer": "Moisture content"
+    },
+    {
+      "question": "What is logging?",
+      "option1": "Felling and extraction of trees",
+      "option2": "Planting seeds",
+      "option3": "Forest protection",
+      "option4": "Wildlife census",
+      "answer": "Felling and extraction of trees"
+    },
+    {
+      "question": "What is clear felling?",
+      "option1": "Removal of most or all trees in a specified area",
+      "option2": "Removal of one branch",
+      "option3": "Planting seedlings",
+      "option4": "Selective pruning",
+      "answer": "Removal of most or all trees in a specified area"
+    },
+    {
+      "question": "What is selective felling?",
+      "option1": "Removal of selected trees from a stand",
+      "option2": "Removal of every tree",
+      "option3": "Removal of all shrubs only",
+      "option4": "Removal of all seedlings",
+      "answer": "Removal of selected trees from a stand"
+    },
+    {
+      "question": "What is a forest road?",
+      "option1": "Road constructed to facilitate forest management and transport",
+      "option2": "Urban highway",
+      "option3": "Railway line",
+      "option4": "Village street",
+      "answer": "Road constructed to facilitate forest management and transport"
+    },
+    {
+      "question": "What is forest engineering concerned with?",
+      "option1": "Engineering works supporting forest management",
+      "option2": "Medical treatment",
+      "option3": "Animal breeding",
+      "option4": "Crop genetics only",
+      "answer": "Engineering works supporting forest management"
+    },
+    {
+      "question": "What is a forest fire?",
+      "option1": "Uncontrolled burning of forest vegetation",
+      "option2": "Controlled nursery burning only",
+      "option3": "Natural decomposition",
+      "option4": "Forest irrigation",
+      "answer": "Uncontrolled burning of forest vegetation"
+    },
+    {
+      "question": "Which is a common cause of forest fires?",
+      "option1": "Human activities",
+      "option2": "Seed germination",
+      "option3": "Photosynthesis",
+      "option4": "Transpiration",
+      "answer": "Human activities"
+    },
+    {
+      "question": "What is a fire line?",
+      "option1": "Cleared strip used to slow or control forest fire spread",
+      "option2": "Forest boundary wall",
+      "option3": "Water pipeline",
+      "option4": "Animal trail",
+      "answer": "Cleared strip used to slow or control forest fire spread"
+    },
+    {
+      "question": "What is fire prevention?",
+      "option1": "Measures taken to reduce the occurrence of forest fires",
+      "option2": "Planting only fast-growing trees",
+      "option3": "Increasing dry vegetation",
+      "option4": "Removing water sources",
+      "answer": "Measures taken to reduce the occurrence of forest fires"
+    },
+    {
+      "question": "What is fire suppression?",
+      "option1": "Actions taken to control and extinguish a fire",
+      "option2": "Planting trees",
+      "option3": "Forest inventory",
+      "option4": "Seed treatment",
+      "answer": "Actions taken to control and extinguish a fire"
+    },
+    {
+      "question": "What is prescribed burning?",
+      "option1": "Planned use of fire under controlled conditions",
+      "option2": "Accidental forest fire",
+      "option3": "Illegal burning",
+      "option4": "Uncontrolled wildfire",
+      "answer": "Planned use of fire under controlled conditions"
+    },
+    {
+      "question": "What is forest pathology?",
+      "option1": "Study of diseases of forest trees",
+      "option2": "Study of forest economics",
+      "option3": "Study of wildlife migration",
+      "option4": "Study of forest roads",
+      "answer": "Study of diseases of forest trees"
+    },
+    {
+      "question": "What is a pathogen?",
+      "option1": "Organism capable of causing disease",
+      "option2": "Forest product",
+      "option3": "Forest soil",
+      "option4": "Tree measurement",
+      "answer": "Organism capable of causing disease"
+    },
+    {
+      "question": "Which organisms can cause plant diseases?",
+      "option1": "Fungi",
+      "option2": "Rocks",
+      "option3": "Sunlight",
+      "option4": "Water alone",
+      "answer": "Fungi"
+    },
+    {
+      "question": "What is forest entomology?",
+      "option1": "Study of insects associated with forests",
+      "option2": "Study of forest soils",
+      "option3": "Study of birds",
+      "option4": "Study of rivers",
+      "answer": "Study of insects associated with forests"
+    },
+    {
+      "question": "What is a forest pest?",
+      "option1": "Organism that causes significant damage to forest resources",
+      "option2": "Any forest animal",
+      "option3": "Any tree species",
+      "option4": "Any decomposer",
+      "answer": "Organism that causes significant damage to forest resources"
+    },
+    {
+      "question": "What is biological pest control?",
+      "option1": "Use of natural enemies to control pests",
+      "option2": "Use of fire to destroy forests",
+      "option3": "Removal of all wildlife",
+      "option4": "Use of only mechanical tools",
+      "answer": "Use of natural enemies to control pests"
+    },
+    {
+      "question": "What is integrated pest management?",
+      "option1": "Combination of compatible methods for pest management",
+      "option2": "Use of pesticides only",
+      "option3": "Removal of all insects",
+      "option4": "Use of fire only",
+      "answer": "Combination of compatible methods for pest management"
+    },
+    {
+      "question": "What is forest genetics?",
+      "option1": "Study of heredity and variation in forest trees",
+      "option2": "Study of forest roads",
+      "option3": "Study of forest economics",
+      "option4": "Study of wildlife tourism",
+      "answer": "Study of heredity and variation in forest trees"
+    },
+    {
+      "question": "What is tree improvement?",
+      "option1": "Development of trees with desirable characteristics",
+      "option2": "Removal of all trees",
+      "option3": "Forest fire control",
+      "option4": "Wildlife trapping",
+      "answer": "Development of trees with desirable characteristics"
+    },
+    {
+      "question": "What is clonal propagation?",
+      "option1": "Production of genetically similar plants from a parent plant",
+      "option2": "Production of plants only from seeds",
+      "option3": "Natural forest succession",
+      "option4": "Forest harvesting",
+      "answer": "Production of genetically similar plants from a parent plant"
+    },
+    {
+      "question": "What is grafting?",
+      "option1": "Joining plant parts so they grow as one plant",
+      "option2": "Cutting down a forest",
+      "option3": "Drying timber",
+      "option4": "Measuring trees",
+      "answer": "Joining plant parts so they grow as one plant"
+    },
+    {
+      "question": "What is vegetative propagation?",
+      "option1": "Propagation using plant parts other than seeds",
+      "option2": "Propagation only through seeds",
+      "option3": "Natural decomposition",
+      "option4": "Forest harvesting",
+      "answer": "Propagation using plant parts other than seeds"
+    },
+    {
+      "question": "What is seed dispersal?",
+      "option1": "Movement of seeds away from the parent plant",
+      "option2": "Seed germination",
+      "option3": "Seed storage",
+      "option4": "Seed dormancy",
+      "answer": "Movement of seeds away from the parent plant"
+    },
+    {
+      "question": "Which can act as a seed dispersal agent?",
+      "option1": "Wind",
+      "option2": "Concrete",
+      "option3": "Metal",
+      "option4": "Glass",
+      "answer": "Wind"
+    },
+    {
+      "question": "What is pollination?",
+      "option1": "Transfer of pollen to the receptive part of a flower",
+      "option2": "Formation of soil",
+      "option3": "Seed storage",
+      "option4": "Wood seasoning",
+      "answer": "Transfer of pollen to the receptive part of a flower"
+    },
+    {
+      "question": "What is fertilization in plants?",
+      "option1": "Fusion of male and female gametes",
+      "option2": "Seed dispersal",
+      "option3": "Leaf fall",
+      "option4": "Transpiration",
+      "answer": "Fusion of male and female gametes"
+    },
+    {
+      "question": "What is forest soil?",
+      "option1": "Soil developed under forest vegetation and related environmental conditions",
+      "option2": "Only sand",
+      "option3": "Only clay",
+      "option4": "Only rock",
+      "answer": "Soil developed under forest vegetation and related environmental conditions"
+    },
+    {
+      "question": "Which soil component improves water-holding capacity and fertility?",
+      "option1": "Organic matter",
+      "option2": "Gravel only",
+      "option3": "Large stones",
+      "option4": "Metal particles",
+      "answer": "Organic matter"
+    },
+    {
+      "question": "What is soil texture?",
+      "option1": "Relative proportion of sand, silt and clay",
+      "option2": "Soil color only",
+      "option3": "Soil temperature only",
+      "option4": "Amount of rainfall",
+      "answer": "Relative proportion of sand, silt and clay"
+    },
+    {
+      "question": "Which soil particle is the smallest among sand, silt and clay?",
+      "option1": "Clay",
+      "option2": "Sand",
+      "option3": "Gravel",
+      "option4": "Stone",
+      "answer": "Clay"
+    },
+    {
+      "question": "What is soil fertility?",
+      "option1": "Ability of soil to supply nutrients for plant growth",
+      "option2": "Ability to hold stones",
+      "option3": "Ability to produce rainfall",
+      "option4": "Ability to prevent sunlight",
+      "answer": "Ability of soil to supply nutrients for plant growth"
+    },
+    {
+      "question": "Which nutrient is generally required by plants in relatively large quantities?",
+      "option1": "Nitrogen",
+      "option2": "Gold",
+      "option3": "Silver",
+      "option4": "Mercury",
+      "answer": "Nitrogen"
+    },
+    {
+      "question": "What is nitrogen fixation?",
+      "option1": "Conversion of atmospheric nitrogen into usable nitrogen compounds",
+      "option2": "Removal of all nitrogen from soil",
+      "option3": "Burning nitrogen",
+      "option4": "Evaporation of nitrogen",
+      "answer": "Conversion of atmospheric nitrogen into usable nitrogen compounds"
+    },
+    {
+      "question": "Which organisms commonly participate in biological nitrogen fixation?",
+      "option1": "Certain bacteria",
+      "option2": "Birds",
+      "option3": "Mammals",
+      "option4": "Reptiles",
+      "answer": "Certain bacteria"
+    },
+    {
+      "question": "What is mycorrhiza?",
+      "option1": "Association between fungi and plant roots",
+      "option2": "Association between birds and trees",
+      "option3": "Forest fire",
+      "option4": "Type of soil erosion",
+      "answer": "Association between fungi and plant roots"
+    },
+    {
+      "question": "What is a watershed?",
+      "option1": "Area draining water to a common outlet",
+      "option2": "Forest nursery",
+      "option3": "Wildlife corridor",
+      "option4": "Timber depot",
+      "answer": "Area draining water to a common outlet"
+    },
+    {
+      "question": "Which vegetation practice helps conserve water?",
+      "option1": "Mulching",
+      "option2": "Clear felling",
+      "option3": "Overgrazing",
+      "option4": "Burning litter",
+      "answer": "Mulching"
+    },
+    {
+      "question": "What is desertification?",
+      "option1": "Land degradation in dry areas",
+      "option2": "Forest regeneration",
+      "option3": "Increase in biodiversity",
+      "option4": "Increase in rainfall",
+      "answer": "Land degradation in dry areas"
+    },
+    {
+      "question": "What is climate change?",
+      "option1": "Long-term change in climate patterns",
+      "option2": "Daily weather variation only",
+      "option3": "Change in tree height",
+      "option4": "Change in soil color",
+      "answer": "Long-term change in climate patterns"
+    },
+    {
+      "question": "Which gas is a major greenhouse gas?",
+      "option1": "Carbon dioxide",
+      "option2": "Helium",
+      "option3": "Neon",
+      "option4": "Argon",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "question": "What is carbon sequestration?",
+      "option1": "Capture and storage of carbon",
+      "option2": "Release of all carbon",
+      "option3": "Removal of oxygen",
+      "option4": "Production of nitrogen",
+      "answer": "Capture and storage of carbon"
+    },
+    {
+      "question": "Why are forests important for climate regulation?",
+      "option1": "They store carbon and influence water and energy cycles",
+      "option2": "They produce fossil fuels",
+      "option3": "They eliminate all greenhouse gases",
+      "option4": "They stop all rainfall",
+      "answer": "They store carbon and influence water and energy cycles"
+    },
+    {
+      "question": "What is an ecosystem service?",
+      "option1": "Benefit humans obtain from ecosystems",
+      "option2": "Forest road construction",
+      "option3": "Timber measurement only",
+      "option4": "Animal trapping",
+      "answer": "Benefit humans obtain from ecosystems"
+    },
+    {
+      "question": "Which is a regulating ecosystem service?",
+      "option1": "Climate regulation",
+      "option2": "Timber production",
+      "option3": "Fuelwood collection",
+      "option4": "Food production",
+      "answer": "Climate regulation"
+    },
+    {
+      "question": "Which is a provisioning ecosystem service?",
+      "option1": "Provision of timber",
+      "option2": "Climate regulation",
+      "option3": "Pollination",
+      "option4": "Soil formation",
+      "answer": "Provision of timber"
+    },
+    {
+      "question": "Which is a cultural ecosystem service?",
+      "option1": "Recreation",
+      "option2": "Timber",
+      "option3": "Fuelwood",
+      "option4": "Freshwater supply",
+      "answer": "Recreation"
+    },
+    {
+      "question": "What is ecological restoration?",
+      "option1": "Assisting recovery of degraded ecosystems",
+      "option2": "Complete forest clearance",
+      "option3": "Wildlife hunting",
+      "option4": "Mining forest land",
+      "answer": "Assisting recovery of degraded ecosystems"
+    },
+    {
+      "question": "What is conservation?",
+      "option1": "Protection and wise management of natural resources",
+      "option2": "Complete exploitation of resources",
+      "option3": "Removal of vegetation",
+      "option4": "Illegal wildlife trade",
+      "answer": "Protection and wise management of natural resources"
+    },
+    {
+      "question": "What is sustainable development?",
+      "option1": "Development meeting present needs without compromising future generations",
+      "option2": "Maximum resource extraction",
+      "option3": "Complete prohibition of development",
+      "option4": "Only industrial development",
+      "answer": "Development meeting present needs without compromising future generations"
+    },
+    {
+      "question": "What is environmental impact assessment?",
+      "option1": "Assessment of likely environmental effects of a proposed activity",
+      "option2": "Measurement of tree height only",
+      "option3": "Wildlife census only",
+      "option4": "Soil classification only",
+      "answer": "Assessment of likely environmental effects of a proposed activity"
+    },
+    {
+      "question": "What is pollution?",
+      "option1": "Undesirable change in environmental conditions",
+      "option2": "Natural forest regeneration",
+      "option3": "Tree growth",
+      "option4": "Seed dispersal",
+      "answer": "Undesirable change in environmental conditions"
+    },
+    {
+      "question": "Which is a major source of air pollution?",
+      "option1": "Vehicle emissions",
+      "option2": "Tree planting",
+      "option3": "Forest regeneration",
+      "option4": "Rainfall",
+      "answer": "Vehicle emissions"
+    },
+    {
+      "question": "What is eutrophication?",
+      "option1": "Excess nutrient enrichment of a water body",
+      "option2": "Forest fire",
+      "option3": "Soil erosion",
+      "option4": "Tree disease",
+      "answer": "Excess nutrient enrichment of a water body"
+    },
+    {
+      "question": "What is a wetland?",
+      "option1": "Land saturated or covered with water for significant periods",
+      "option2": "Dry desert only",
+      "option3": "Mountain peak only",
+      "option4": "Forest road",
+      "answer": "Land saturated or covered with water for significant periods"
+    },
+    {
+      "question": "Why are wetlands ecologically important?",
+      "option1": "They support biodiversity and regulate water",
+      "option2": "They eliminate biodiversity",
+      "option3": "They increase desertification",
+      "option4": "They prevent all plant growth",
+      "answer": "They support biodiversity and regulate water"
+    },
+    {
+      "question": "What are mangroves?",
+      "option1": "Salt-tolerant vegetation of coastal and tidal areas",
+      "option2": "Desert grasses",
+      "option3": "Mountain conifers",
+      "option4": "Freshwater algae only",
+      "answer": "Salt-tolerant vegetation of coastal and tidal areas"
+    },
+    {
+      "question": "Which adaptation is common in mangrove plants?",
+      "option1": "Specialized roots for waterlogged conditions",
+      "option2": "Absence of roots",
+      "option3": "Complete dependence on snow",
+      "option4": "Underground stems only",
+      "answer": "Specialized roots for waterlogged conditions"
+    },
+    {
+      "question": "What is a pneumatophore?",
+      "option1": "Specialized root that helps gas exchange in waterlogged soil",
+      "option2": "Tree seed",
+      "option3": "Forest insect",
+      "option4": "Type of leaf",
+      "answer": "Specialized root that helps gas exchange in waterlogged soil"
+    },
+    {
+      "question": "What is forest fragmentation likely to reduce?",
+      "option1": "Habitat connectivity",
+      "option2": "Human population",
+      "option3": "Rainfall everywhere",
+      "option4": "Soil minerals everywhere",
+      "answer": "Habitat connectivity"
+    },
+    {
+      "question": "What is edge effect?",
+      "option1": "Changes occurring at the boundary between habitats",
+      "option2": "Growth of tree roots",
+      "option3": "Formation of timber",
+      "option4": "Seed storage",
+      "answer": "Changes occurring at the boundary between habitats"
+    },
+    {
+      "question": "What is a keystone species?",
+      "option1": "Species having a disproportionately large ecological effect",
+      "option2": "Most abundant species always",
+      "option3": "Largest tree species only",
+      "option4": "Smallest species only",
+      "answer": "Species having a disproportionately large ecological effect"
+    },
+    {
+      "question": "What is a flagship species?",
+      "option1": "Species used to promote conservation awareness",
+      "option2": "Species used only for timber",
+      "option3": "Species with no ecological importance",
+      "option4": "Extinct species",
+      "answer": "Species used to promote conservation awareness"
+    },
+    {
+      "question": "What is an umbrella species?",
+      "option1": "Species whose conservation can protect many other species",
+      "option2": "Species living only under trees",
+      "option3": "Species with umbrella-shaped leaves",
+      "option4": "Species without habitat",
+      "answer": "Species whose conservation can protect many other species"
+    },
+    {
+      "question": "What is a flagship animal commonly associated with tiger conservation in India?",
+      "option1": "Tiger",
+      "option2": "Goat",
+      "option3": "Buffalo",
+      "option4": "Camel",
+      "answer": "Tiger"
+    },
+    {
+      "question": "What is Project Tiger primarily concerned with?",
+      "option1": "Tiger conservation",
+      "option2": "Elephant domestication",
+      "option3": "Forest road construction",
+      "option4": "Timber production",
+      "answer": "Tiger conservation"
+    },
+    {
+      "question": "What is Project Elephant primarily concerned with?",
+      "option1": "Elephant conservation",
+      "option2": "Tiger breeding",
+      "option3": "Forest soil testing",
+      "option4": "Timber harvesting",
+      "answer": "Elephant conservation"
+    },
+    {
+      "question": "What is a census?",
+      "option1": "Systematic counting or estimation of a population",
+      "option2": "Forest harvesting",
+      "option3": "Tree pruning",
+      "option4": "Seed treatment",
+      "answer": "Systematic counting or estimation of a population"
+    },
+    {
+      "question": "Which method can be used to estimate wildlife populations?",
+      "option1": "Camera trapping",
+      "option2": "Wood seasoning",
+      "option3": "Soil ploughing",
+      "option4": "Tree pruning",
+      "answer": "Camera trapping"
+    },
+    {
+      "question": "What is camera trapping?",
+      "option1": "Using motion-triggered cameras to record wildlife",
+      "option2": "Trapping animals physically",
+      "option3": "Cutting tree branches",
+      "option4": "Measuring soil moisture",
+      "answer": "Using motion-triggered cameras to record wildlife"
+    },
+    {
+      "question": "What is wildlife tracking?",
+      "option1": "Studying signs and movements of animals",
+      "option2": "Cutting forest trees",
+      "option3": "Testing timber",
+      "option4": "Growing seedlings",
+      "answer": "Studying signs and movements of animals"
+    },
+    {
+      "question": "What is a pugmark?",
+      "option1": "Footprint of an animal",
+      "option2": "Bird feather",
+      "option3": "Tree seed",
+      "option4": "Forest insect",
+      "answer": "Footprint of an animal"
+    },
+    {
+      "question": "What is biodiversity hotspot?",
+      "option1": "Region with high biodiversity and significant threat",
+      "option2": "Region without species",
+      "option3": "Industrial area",
+      "option4": "Desert without vegetation",
+      "answer": "Region with high biodiversity and significant threat"
+    },
+    {
+      "question": "What is the main objective of protected areas?",
+      "option1": "Conservation of biodiversity and ecosystems",
+      "option2": "Maximum timber extraction",
+      "option3": "Urban expansion",
+      "option4": "Mining expansion",
+      "answer": "Conservation of biodiversity and ecosystems"
+    },
+    {
+      "question": "What is the Wildlife Protection Act of India primarily concerned with?",
+      "option1": "Protection of wildlife",
+      "option2": "Regulation of banking",
+      "option3": "Forest accounting only",
+      "option4": "Agricultural taxation",
+      "answer": "Protection of wildlife"
+    },
+    {
+      "question": "What is the Forest Conservation Act concerned with?",
+      "option1": "Regulation of diversion of forest land for non-forest purposes",
+      "option2": "Wildlife census only",
+      "option3": "Banking regulation",
+      "option4": "Agricultural marketing",
+      "answer": "Regulation of diversion of forest land for non-forest purposes"
+    },
+    {
+      "question": "What is the Indian Forest Act, 1927 mainly related to?",
+      "option1": "Forest administration and regulation of forest produce",
+      "option2": "Banking regulation",
+      "option3": "Railway management",
+      "option4": "Education policy",
+      "answer": "Forest administration and regulation of forest produce"
+    },
+    {
+      "question": "What is the Forest Rights Act, 2006 concerned with?",
+      "option1": "Recognition of certain forest rights of forest-dwelling communities",
+      "option2": "Regulation of banks",
+      "option3": "Construction of highways",
+      "option4": "Wildlife census only",
+      "answer": "Recognition of certain forest rights of forest-dwelling communities"
+    },
+    {
+      "question": "What is the National Forest Policy of 1988 associated with?",
+      "option1": "Forest conservation and ecological stability",
+      "option2": "Maximum commercial exploitation",
+      "option3": "Mining expansion",
+      "option4": "Urban development only",
+      "answer": "Forest conservation and ecological stability"
+    },
+    {
+      "question": "What is forest governance?",
+      "option1": "Processes and institutions involved in managing forests",
+      "option2": "Tree planting only",
+      "option3": "Wildlife hunting",
+      "option4": "Timber transport only",
+      "answer": "Processes and institutions involved in managing forests"
+    },
+    {
+      "question": "What is participatory forest management?",
+      "option1": "Involvement of local people in forest management",
+      "option2": "Management without stakeholders",
+      "option3": "Complete privatization",
+      "option4": "Forest mining",
+      "answer": "Involvement of local people in forest management"
+    },
+    {
+      "question": "Why is community participation important in forest conservation?",
+      "option1": "It can improve local stewardship and resource management",
+      "option2": "It always increases deforestation",
+      "option3": "It removes all forest rights",
+      "option4": "It prevents regeneration",
+      "answer": "It can improve local stewardship and resource management"
+    },
+    {
+      "question": "What is forest economics?",
+      "option1": "Study of economic aspects of forest resources and management",
+      "option2": "Study of forest insects",
+      "option3": "Study of tree diseases",
+      "option4": "Study of forest soils only",
+      "answer": "Study of economic aspects of forest resources and management"
+    },
+    {
+      "question": "What is cost-benefit analysis?",
+      "option1": "Comparison of costs and benefits of an action",
+      "option2": "Measurement of tree height",
+      "option3": "Counting wildlife",
+      "option4": "Classification of soils",
+      "answer": "Comparison of costs and benefits of an action"
+    },
+    {
+      "question": "What is forest valuation?",
+      "option1": "Estimation of economic or social value of forest resources",
+      "option2": "Measurement of rainfall",
+      "option3": "Counting leaves",
+      "option4": "Measuring animal speed",
+      "answer": "Estimation of economic or social value of forest resources"
+    },
+    {
+      "question": "What is ecotourism?",
+      "option1": "Responsible tourism focused on natural areas and conservation",
+      "option2": "Industrial tourism",
+      "option3": "Timber harvesting tourism",
+      "option4": "Mining tourism",
+      "answer": "Responsible tourism focused on natural areas and conservation"
+    },
+    {
+      "question": "What is the primary principle of ecotourism?",
+      "option1": "Minimize environmental impact while supporting conservation",
+      "option2": "Maximize habitat destruction",
+      "option3": "Increase wildlife disturbance",
+      "option4": "Promote illegal hunting",
+      "answer": "Minimize environmental impact while supporting conservation"
+    },
+    {
+      "question": "What is environmental education?",
+      "option1": "Education about environment and responsible environmental behavior",
+      "option2": "Training only in timber cutting",
+      "option3": "Animal hunting training",
+      "option4": "Forest road engineering only",
+      "answer": "Education about environment and responsible environmental behavior"
+    },
+    {
+      "question": "What is natural resource management?",
+      "option1": "Sustainable management of natural resources",
+      "option2": "Complete exploitation of resources",
+      "option3": "Removal of all vegetation",
+      "option4": "Restriction of all human activity",
+      "answer": "Sustainable management of natural resources"
+    },
+    {
+      "question": "Which is a renewable forest resource?",
+      "option1": "Timber from sustainably managed forests",
+      "option2": "Coal",
+      "option3": "Petroleum",
+      "option4": "Natural gas",
+      "answer": "Timber from sustainably managed forests"
+    },
+    {
+      "question": "Which is a non-renewable resource?",
+      "option1": "Coal",
+      "option2": "Bamboo",
+      "option3": "Timber from managed forests",
+      "option4": "Forest biomass",
+      "answer": "Coal"
+    },
+    {
+      "question": "What is forest productivity?",
+      "option1": "Rate at which forest biomass or useful products are produced",
+      "option2": "Number of forest roads",
+      "option3": "Number of forest guards",
+      "option4": "Forest boundary length",
+      "answer": "Rate at which forest biomass or useful products are produced"
+    },
+    {
+      "question": "What is primary productivity?",
+      "option1": "Rate of biomass production by producers",
+      "option2": "Rate of animal hunting",
+      "option3": "Rate of soil erosion",
+      "option4": "Rate of timber transport",
+      "answer": "Rate of biomass production by producers"
+    },
+    {
+      "question": "What is net primary productivity?",
+      "option1": "Primary production remaining after plant respiration",
+      "option2": "Total rainfall",
+      "option3": "Total animal biomass",
+      "option4": "Total soil nutrients",
+      "answer": "Primary production remaining after plant respiration"
+    },
+    {
+      "question": "What is biomass?",
+      "option1": "Total mass of living biological material",
+      "option2": "Total mineral content",
+      "option3": "Total rainfall",
+      "option4": "Total soil depth",
+      "answer": "Total mass of living biological material"
+    },
+    {
+      "question": "What is a forest biome?",
+      "option1": "Large ecological region characterized by particular vegetation and climate",
+      "option2": "Small forest nursery",
+      "option3": "Single tree",
+      "option4": "Forest road",
+      "answer": "Large ecological region characterized by particular vegetation and climate"
+    },
+    {
+      "question": "Which forest type is commonly associated with high rainfall and high biodiversity?",
+      "option1": "Tropical evergreen forest",
+      "option2": "Desert scrub",
+      "option3": "Alpine meadow",
+      "option4": "Temperate grassland",
+      "answer": "Tropical evergreen forest"
+    },
+    {
+      "question": "Which tree is widely known as teak?",
+      "option1": "Tectona grandis",
+      "option2": "Azadirachta indica",
+      "option3": "Mangifera indica",
+      "option4": "Ficus religiosa",
+      "answer": "Tectona grandis"
+    },
+    {
+      "question": "What is the scientific name of neem?",
+      "option1": "Azadirachta indica",
+      "option2": "Tectona grandis",
+      "option3": "Dalbergia sissoo",
+      "option4": "Santalum album",
+      "answer": "Azadirachta indica"
+    },
+    {
+      "question": "What is the scientific name of sandalwood?",
+      "option1": "Santalum album",
+      "option2": "Tectona grandis",
+      "option3": "Azadirachta indica",
+      "option4": "Acacia nilotica",
+      "answer": "Santalum album"
+    },
+    {
+      "question": "What is the scientific name of shisham?",
+      "option1": "Dalbergia sissoo",
+      "option2": "Tectona grandis",
+      "option3": "Santalum album",
+      "option4": "Azadirachta indica",
+      "answer": "Dalbergia sissoo"
+    },
+    {
+      "question": "Which tree is commonly associated with lac production?",
+      "option1": "Kusum",
+      "option2": "Teak",
+      "option3": "Pine",
+      "option4": "Eucalyptus",
+      "answer": "Kusum"
+    },
+    {
+      "question": "What is a medicinal plant?",
+      "option1": "Plant used for medicinal purposes",
+      "option2": "Plant used only for timber",
+      "option3": "Plant without biological activity",
+      "option4": "Plant used only for fuel",
+      "answer": "Plant used for medicinal purposes"
+    },
+    {
+      "question": "What is ethnobotany?",
+      "option1": "Study of relationships between people and plants",
+      "option2": "Study of forest machines",
+      "option3": "Study of soil minerals",
+      "option4": "Study of atmospheric pressure",
+      "answer": "Study of relationships between people and plants"
+    },
+    {
+      "question": "What is a forest ecosystem food web?",
+      "option1": "Network of interconnected food chains",
+      "option2": "Forest road network",
+      "option3": "Root network only",
+      "option4": "Timber supply network",
+      "answer": "Network of interconnected food chains"
+    },
+    {
+      "question": "What is predation?",
+      "option1": "Interaction in which one organism kills and consumes another",
+      "option2": "Cooperation between plants",
+      "option3": "Seed germination",
+      "option4": "Forest regeneration",
+      "answer": "Interaction in which one organism kills and consumes another"
+    },
+    {
+      "question": "What is mutualism?",
+      "option1": "Interaction in which both species benefit",
+      "option2": "Interaction where both species are harmed",
+      "option3": "Interaction where one species always dies",
+      "option4": "No interaction",
+      "answer": "Interaction in which both species benefit"
+    },
+    {
+      "question": "What is parasitism?",
+      "option1": "Interaction where one organism benefits and the host is harmed",
+      "option2": "Both species benefit equally",
+      "option3": "Neither species is affected",
+      "option4": "Both species are predators",
+      "answer": "Interaction where one organism benefits and the host is harmed"
+    },
+    {
+      "question": "What is competition in ecology?",
+      "option1": "Interaction involving demand for limited resources",
+      "option2": "Complete cooperation",
+      "option3": "Natural decomposition",
+      "option4": "Seed dispersal",
+      "answer": "Interaction involving demand for limited resources"
+    },
+    {
+      "question": "What is ecological pyramid?",
+      "option1": "Diagram representing trophic relationships",
+      "option2": "Forest mountain",
+      "option3": "Tree crown",
+      "option4": "Forest nursery",
+      "answer": "Diagram representing trophic relationships"
+    },
+    {
+      "question": "Which ecological pyramid is always upright?",
+      "option1": "Pyramid of energy",
+      "option2": "Pyramid of biomass",
+      "option3": "Pyramid of numbers",
+      "option4": "All pyramids",
+      "answer": "Pyramid of energy"
+    },
+    {
+      "question": "What is nutrient cycling?",
+      "option1": "Movement of nutrients between living organisms and the environment",
+      "option2": "Movement of animals only",
+      "option3": "Movement of forest roads",
+      "option4": "Movement of timber",
+      "answer": "Movement of nutrients between living organisms and the environment"
+    },
+    {
+      "question": "Which cycle is strongly associated with forest carbon storage?",
+      "option1": "Carbon cycle",
+      "option2": "Water cycle only",
+      "option3": "Rock cycle",
+      "option4": "Tidal cycle",
+      "answer": "Carbon cycle"
+    },
+    {
+      "question": "What is the water cycle?",
+      "option1": "Continuous movement of water through the environment",
+      "option2": "Movement of soil only",
+      "option3": "Movement of animals",
+      "option4": "Movement of timber",
+      "answer": "Continuous movement of water through the environment"
+    },
+    {
+      "question": "What is infiltration?",
+      "option1": "Entry of water into soil",
+      "option2": "Water loss through leaves",
+      "option3": "Water evaporation from oceans only",
+      "option4": "River flooding only",
+      "answer": "Entry of water into soil"
+    },
+    {
+      "question": "What is groundwater recharge?",
+      "option1": "Process by which water replenishes groundwater",
+      "option2": "Removal of groundwater",
+      "option3": "Evaporation of groundwater",
+      "option4": "Pollution of groundwater",
+      "answer": "Process by which water replenishes groundwater"
+    },
+    {
+      "question": "How do forests help groundwater recharge?",
+      "option1": "Vegetation can improve infiltration and reduce runoff",
+      "option2": "Forests stop all rainfall",
+      "option3": "Forests eliminate soil",
+      "option4": "Forests increase surface runoff in all cases",
+      "answer": "Vegetation can improve infiltration and reduce runoff"
+    },
+    {
+      "question": "What is runoff?",
+      "option1": "Water flowing over the land surface",
+      "option2": "Water absorbed by roots",
+      "option3": "Water stored in seeds",
+      "option4": "Water vapor released by leaves",
+      "answer": "Water flowing over the land surface"
+    },
+    {
+      "question": "What is a check dam?",
+      "option1": "Small structure used to slow runoff and control erosion",
+      "option2": "Forest boundary wall",
+      "option3": "Wildlife cage",
+      "option4": "Timber storage shed",
+      "answer": "Small structure used to slow runoff and control erosion"
+    },
+    {
+      "question": "What is contour trenching?",
+      "option1": "Digging trenches along contour lines to conserve soil and water",
+      "option2": "Digging trenches along roads only",
+      "option3": "Removing all forest soil",
+      "option4": "Creating animal cages",
+      "answer": "Digging trenches along contour lines to conserve soil and water"
+    },
+    {
+      "question": "What is mulching?",
+      "option1": "Covering soil with organic or other material",
+      "option2": "Removing all soil cover",
+      "option3": "Cutting tree roots",
+      "option4": "Burning forest litter",
+      "answer": "Covering soil with organic or other material"
+    },
+    {
+      "question": "What is a shelterbelt?",
+      "option1": "Rows of trees planted to reduce wind speed",
+      "option2": "Wildlife enclosure",
+      "option3": "Forest nursery",
+      "option4": "Timber depot",
+      "answer": "Rows of trees planted to reduce wind speed"
+    },
+    {
+      "question": "What is a windbreak?",
+      "option1": "Vegetation barrier that reduces wind velocity",
+      "option2": "Forest fire",
+      "option3": "Tree disease",
+      "option4": "Forest road",
+      "answer": "Vegetation barrier that reduces wind velocity"
+    },
+    {
+      "question": "What is a plantation forest?",
+      "option1": "Forest established through deliberate planting or regeneration",
+      "option2": "Natural desert",
+      "option3": "Urban park only",
+      "option4": "Wildlife sanctuary only",
+      "answer": "Forest established through deliberate planting or regeneration"
+    },
+    {
+      "question": "What is commercial forestry?",
+      "option1": "Forestry involving production of forest goods for economic purposes",
+      "option2": "Wildlife photography",
+      "option3": "Forest education only",
+      "option4": "Forest recreation only",
+      "answer": "Forestry involving production of forest goods for economic purposes"
+    },
+    {
+      "question": "What is protective forestry?",
+      "option1": "Forestry aimed at protecting soil, water and environment",
+      "option2": "Forestry only for timber exports",
+      "option3": "Forestry only for recreation",
+      "option4": "Forestry only for hunting",
+      "answer": "Forestry aimed at protecting soil, water and environment"
+    },
+    {
+      "question": "What is productive forestry?",
+      "option1": "Forestry focused on sustainable production of forest goods",
+      "option2": "Forestry without management",
+      "option3": "Forest fire control only",
+      "option4": "Wildlife census only",
+      "answer": "Forestry focused on sustainable production of forest goods"
+    },
+    {
+      "question": "What is forest certification?",
+      "option1": "Verification that forest management meets specified standards",
+      "option2": "Measurement of tree height",
+      "option3": "Animal identification",
+      "option4": "Forest fire detection",
+      "answer": "Verification that forest management meets specified standards"
+    },
+    {
+      "question": "What is illegal logging?",
+      "option1": "Unauthorized harvesting or removal of timber",
+      "option2": "Legal forest management",
+      "option3": "Scientific research",
+      "option4": "Forest regeneration",
+      "answer": "Unauthorized harvesting or removal of timber"
+    },
+    {
+      "question": "What is forest encroachment?",
+      "option1": "Unauthorized occupation or use of forest land",
+      "option2": "Forest regeneration",
+      "option3": "Tree pruning",
+      "option4": "Wildlife monitoring",
+      "answer": "Unauthorized occupation or use of forest land"
+    },
+    {
+      "question": "What is forest patrolling?",
+      "option1": "Regular monitoring of forest areas for protection and management",
+      "option2": "Timber processing",
+      "option3": "Seed germination",
+      "option4": "Wood seasoning",
+      "answer": "Regular monitoring of forest areas for protection and management"
+    },
+    {
+      "question": "What is forest boundary demarcation?",
+      "option1": "Marking the legal limits of a forest area",
+      "option2": "Counting wildlife",
+      "option3": "Planting trees",
+      "option4": "Measuring rainfall",
+      "answer": "Marking the legal limits of a forest area"
+    },
+    {
+      "question": "What is forest protection?",
+      "option1": "Measures to prevent damage to forest resources",
+      "option2": "Complete forest exploitation",
+      "option3": "Only timber processing",
+      "option4": "Only wildlife tourism",
+      "answer": "Measures to prevent damage to forest resources"
+    },
+    {
+      "question": "Which activity can threaten forest biodiversity?",
+      "option1": "Habitat destruction",
+      "option2": "Habitat restoration",
+      "option3": "Wildlife monitoring",
+      "option4": "Native tree planting",
+      "answer": "Habitat destruction"
+    },
+    {
+      "question": "What is habitat restoration?",
+      "option1": "Improving degraded habitat conditions",
+      "option2": "Removing all vegetation",
+      "option3": "Increasing pollution",
+      "option4": "Illegal hunting",
+      "answer": "Improving degraded habitat conditions"
+    },
+    {
+      "question": "What is assisted natural regeneration?",
+      "option1": "Helping natural regeneration by reducing obstacles",
+      "option2": "Complete artificial planting",
+      "option3": "Clear felling",
+      "option4": "Forest mining",
+      "answer": "Helping natural regeneration by reducing obstacles"
+    },
+    {
+      "question": "Which factor can affect natural regeneration?",
+      "option1": "Grazing pressure",
+      "option2": "Tree identification",
+      "option3": "Forest mapping only",
+      "option4": "Wood seasoning",
+      "answer": "Grazing pressure"
+    },
+    {
+      "question": "What is grazing management?",
+      "option1": "Regulation of livestock grazing to protect vegetation",
+      "option2": "Complete removal of forests",
+      "option3": "Wildlife hunting",
+      "option4": "Timber seasoning",
+      "answer": "Regulation of livestock grazing to protect vegetation"
+    },
+    {
+      "question": "What is overgrazing?",
+      "option1": "Grazing beyond the sustainable capacity of land",
+      "option2": "Controlled grazing",
+      "option3": "Forest regeneration",
+      "option4": "Tree planting",
+      "answer": "Grazing beyond the sustainable capacity of land"
+    },
+    {
+      "question": "What is carrying capacity of a forest grazing area?",
+      "option1": "Amount of livestock the area can sustainably support",
+      "option2": "Number of forest roads",
+      "option3": "Number of trees harvested",
+      "option4": "Amount of rainfall only",
+      "answer": "Amount of livestock the area can sustainably support"
+    },
+    {
+      "question": "What is forest rehabilitation?",
+      "option1": "Improving the condition and productivity of degraded forest",
+      "option2": "Complete forest removal",
+      "option3": "Mining forest land",
+      "option4": "Urban construction",
+      "answer": "Improving the condition and productivity of degraded forest"
+    },
+    {
+      "question": "What is forest restoration?",
+      "option1": "Assisting recovery of forest ecosystem structure and function",
+      "option2": "Removing native vegetation",
+      "option3": "Increasing illegal logging",
+      "option4": "Converting forests to mines",
+      "answer": "Assisting recovery of forest ecosystem structure and function"
+    },
+    {
+      "question": "What is landscape ecology?",
+      "option1": "Study of ecological patterns and processes across landscapes",
+      "option2": "Study of individual tree roots",
+      "option3": "Study of timber prices only",
+      "option4": "Study of forest machinery only",
+      "answer": "Study of ecological patterns and processes across landscapes"
+    },
+    {
+      "question": "What is landscape connectivity?",
+      "option1": "Degree to which landscape allows movement between habitats",
+      "option2": "Number of roads in cities",
+      "option3": "Forest height",
+      "option4": "Soil depth",
+      "answer": "Degree to which landscape allows movement between habitats"
+    },
+    {
+      "question": "What is ecological resilience?",
+      "option1": "Ability of an ecosystem to recover after disturbance",
+      "option2": "Ability to prevent all disturbances",
+      "option3": "Ability to eliminate species",
+      "option4": "Ability to increase pollution",
+      "answer": "Ability of an ecosystem to recover after disturbance"
+    },
+    {
+      "question": "What is ecological resistance?",
+      "option1": "Ability of an ecosystem to withstand disturbance with limited change",
+      "option2": "Ability to migrate",
+      "option3": "Ability to produce timber only",
+      "option4": "Ability to increase erosion",
+      "answer": "Ability of an ecosystem to withstand disturbance with limited change"
+    },
+    {
+      "question": "What is a forest edge?",
+      "option1": "Boundary between forest and another land-cover type",
+      "option2": "Center of a forest",
+      "option3": "Forest root",
+      "option4": "Forest canopy only",
+      "answer": "Boundary between forest and another land-cover type"
+    },
+    {
+      "question": "What is canopy cover?",
+      "option1": "Proportion of ground covered by tree crowns when viewed from above",
+      "option2": "Total forest soil area",
+      "option3": "Number of forest roads",
+      "option4": "Tree root depth",
+      "answer": "Proportion of ground covered by tree crowns when viewed from above"
+    },
+    {
+      "question": "What is crown density?",
+      "option1": "Degree of compactness of foliage in a tree crown",
+      "option2": "Tree root length",
+      "option3": "Forest soil depth",
+      "option4": "Tree age only",
+      "answer": "Degree of compactness of foliage in a tree crown"
+    },
+    {
+      "question": "What is a dominant tree?",
+      "option1": "Tree occupying a prominent position in the canopy",
+      "option2": "Smallest seedling",
+      "option3": "Dead tree only",
+      "option4": "Tree growing underground",
+      "answer": "Tree occupying a prominent position in the canopy"
+    },
+    {
+      "question": "What is a suppressed tree?",
+      "option1": "Tree whose growth is limited by surrounding vegetation",
+      "option2": "Tree dominating the canopy",
+      "option3": "Recently planted tree only",
+      "option4": "Dead tree",
+      "answer": "Tree whose growth is limited by surrounding vegetation"
+    },
+    {
+      "question": "What is stand density?",
+      "option1": "Number or amount of trees occupying a unit area",
+      "option2": "Forest boundary length",
+      "option3": "Rainfall intensity",
+      "option4": "Soil temperature",
+      "answer": "Number or amount of trees occupying a unit area"
+    },
+    {
+      "question": "What is site quality in forestry?",
+      "option1": "Productive capacity of a forest site",
+      "option2": "Color of forest soil",
+      "option3": "Number of forest roads",
+      "option4": "Number of animals",
+      "answer": "Productive capacity of a forest site"
+    },
+    {
+      "question": "Which factor is an edaphic factor?",
+      "option1": "Soil",
+      "option2": "Rainfall",
+      "option3": "Temperature",
+      "option4": "Wind",
+      "answer": "Soil"
+    },
+    {
+      "question": "Which is a physiographic factor?",
+      "option1": "Slope",
+      "option2": "Rainfall",
+      "option3": "Humidity",
+      "option4": "Temperature",
+      "answer": "Slope"
+    },
+    {
+      "question": "Which factor describes the direction a slope faces?",
+      "option1": "Aspect",
+      "option2": "Altitude",
+      "option3": "Latitude",
+      "option4": "Longitude",
+      "answer": "Aspect"
+    },
+    {
+      "question": "How can altitude influence forest vegetation?",
+      "option1": "It affects temperature and environmental conditions",
+      "option2": "It has no relationship with climate",
+      "option3": "It controls only soil color",
+      "option4": "It controls only animal size",
+      "answer": "It affects temperature and environmental conditions"
+    },
+    {
+      "question": "What is microclimate?",
+      "option1": "Climate conditions of a small localized area",
+      "option2": "Global climate only",
+      "option3": "Climate of an entire continent",
+      "option4": "Climate of an ocean only",
+      "answer": "Climate conditions of a small localized area"
+    },
+    {
+      "question": "How does forest canopy influence microclimate?",
+      "option1": "It can moderate temperature and humidity",
+      "option2": "It eliminates rainfall",
+      "option3": "It stops photosynthesis",
+      "option4": "It removes all soil moisture",
+      "answer": "It can moderate temperature and humidity"
+    },
+    {
+      "question": "What is forest fragmentation mainly caused by?",
+      "option1": "Conversion of continuous habitat into separate patches",
+      "option2": "Natural seed germination",
+      "option3": "Forest regeneration",
+      "option4": "Rainfall",
+      "answer": "Conversion of continuous habitat into separate patches"
+    },
+    {
+      "question": "Which practice can improve forest connectivity?",
+      "option1": "Wildlife corridors",
+      "option2": "Habitat clearing",
+      "option3": "Road expansion without mitigation",
+      "option4": "Uncontrolled development",
+      "answer": "Wildlife corridors"
+    },
+    {
+      "question": "What is conservation genetics?",
+      "option1": "Use of genetic knowledge to conserve biodiversity",
+      "option2": "Study of forest roads",
+      "option3": "Study of timber prices",
+      "option4": "Study of rainfall",
+      "answer": "Use of genetic knowledge to conserve biodiversity"
+    },
+    {
+      "question": "Why is genetic diversity important for conservation?",
+      "option1": "It can improve adaptability to environmental change",
+      "option2": "It eliminates all diseases",
+      "option3": "It prevents reproduction",
+      "option4": "It removes natural selection",
+      "answer": "It can improve adaptability to environmental change"
+    },
+    {
+      "question": "What is seed bank conservation?",
+      "option1": "Storage of seeds for future use and conservation",
+      "option2": "Storage of timber",
+      "option3": "Storage of forest soil",
+      "option4": "Storage of wildlife",
+      "answer": "Storage of seeds for future use and conservation"
+    },
+    {
+      "question": "What is a botanical garden?",
+      "option1": "Managed collection of living plants for research and conservation",
+      "option2": "Wildlife hunting area",
+      "option3": "Timber market",
+      "option4": "Forest road",
+      "answer": "Managed collection of living plants for research and conservation"
+    },
+    {
+      "question": "What is a herbarium?",
+      "option1": "Collection of preserved plant specimens",
+      "option2": "Collection of live animals",
+      "option3": "Timber storage area",
+      "option4": "Forest nursery",
+      "answer": "Collection of preserved plant specimens"
+    },
+    {
+      "question": "What is taxonomy?",
+      "option1": "Science of classification of organisms",
+      "option2": "Study of forest economics",
+      "option3": "Study of rainfall",
+      "option4": "Study of soil erosion",
+      "answer": "Science of classification of organisms"
+    },
+    {
+      "question": "What is binomial nomenclature?",
+      "option1": "Scientific naming system using two names",
+      "option2": "Forest inventory method",
+      "option3": "Wildlife census method",
+      "option4": "Soil classification system",
+      "answer": "Scientific naming system using two names"
+    },
+    {
+      "question": "In binomial nomenclature, what does the first name generally represent?",
+      "option1": "Genus",
+      "option2": "Family",
+      "option3": "Order",
+      "option4": "Species only",
+      "answer": "Genus"
+    },
+    {
+      "question": "What is a species?",
+      "option1": "Basic biological unit of classification",
+      "option2": "Entire ecosystem",
+      "option3": "Forest compartment",
+      "option4": "Soil layer",
+      "answer": "Basic biological unit of classification"
+    },
+    {
+      "question": "What is an endemic plant?",
+      "option1": "Plant naturally restricted to a particular geographical area",
+      "option2": "Plant found worldwide",
+      "option3": "Artificial hybrid only",
+      "option4": "Dead plant",
+      "answer": "Plant naturally restricted to a particular geographical area"
+    },
+    {
+      "question": "What is a rare species?",
+      "option1": "Species with a relatively small or restricted population or distribution",
+      "option2": "Species found everywhere",
+      "option3": "Common crop",
+      "option4": "Domestic animal",
+      "answer": "Species with a relatively small or restricted population or distribution"
+    },
+    {
+      "question": "What is extinction?",
+      "option1": "Permanent disappearance of a species",
+      "option2": "Seasonal migration",
+      "option3": "Temporary dormancy",
+      "option4": "Population growth",
+      "answer": "Permanent disappearance of a species"
+    },
+    {
+      "question": "What is local extinction?",
+      "option1": "Disappearance of a species from a particular area",
+      "option2": "Global extinction",
+      "option3": "Increase in population",
+      "option4": "Natural regeneration",
+      "answer": "Disappearance of a species from a particular area"
+    },
+    {
+      "question": "What is population viability?",
+      "option1": "Likelihood that a population will persist over time",
+      "option2": "Number of forest roads",
+      "option3": "Amount of timber",
+      "option4": "Amount of rainfall",
+      "answer": "Likelihood that a population will persist over time"
+    },
+    {
+      "question": "What is a conservation breeding programme?",
+      "option1": "Managed breeding to support threatened species",
+      "option2": "Commercial livestock farming only",
+      "option3": "Tree plantation",
+      "option4": "Forest harvesting",
+      "answer": "Managed breeding to support threatened species"
+    },
+    {
+      "question": "What is reintroduction?",
+      "option1": "Release of a species into an area where it previously occurred",
+      "option2": "Removal of species from forests",
+      "option3": "Forest fire management",
+      "option4": "Tree pruning",
+      "answer": "Release of a species into an area where it previously occurred"
+    },
+    {
+      "question": "What is translocation in wildlife management?",
+      "option1": "Deliberate movement of animals from one location to another",
+      "option2": "Natural seed dispersal",
+      "option3": "Forest harvesting",
+      "option4": "Soil erosion",
+      "answer": "Deliberate movement of animals from one location to another"
+    },
+    {
+      "question": "What is wildlife rescue?",
+      "option1": "Safe intervention for animals in distress or danger",
+      "option2": "Illegal capture of wildlife",
+      "option3": "Wildlife hunting",
+      "option4": "Forest clearing",
+      "answer": "Safe intervention for animals in distress or danger"
+    },
+    {
+      "question": "What is human-wildlife conflict mitigation?",
+      "option1": "Measures to reduce harmful interactions between people and wildlife",
+      "option2": "Increasing habitat destruction",
+      "option3": "Increasing illegal hunting",
+      "option4": "Removing all wildlife",
+      "answer": "Measures to reduce harmful interactions between people and wildlife"
+    },
+    {
+      "question": "Which approach can help reduce crop damage by wildlife?",
+      "option1": "Appropriate barriers and community-based prevention",
+      "option2": "Destroying all wildlife habitat",
+      "option3": "Illegal hunting",
+      "option4": "Forest burning",
+      "answer": "Appropriate barriers and community-based prevention"
+    },
+    {
+      "question": "What is forest fire risk assessment?",
+      "option1": "Evaluation of factors influencing likelihood and impact of fires",
+      "option2": "Tree identification",
+      "option3": "Wildlife census only",
+      "option4": "Timber grading",
+      "answer": "Evaluation of factors influencing likelihood and impact of fires"
+    },
+    {
+      "question": "Which condition generally increases forest fire risk?",
+      "option1": "Dry vegetation",
+      "option2": "High soil moisture",
+      "option3": "Heavy rainfall",
+      "option4": "Wet litter",
+      "answer": "Dry vegetation"
+    },
+    {
+      "question": "What is fuel load in forest fire management?",
+      "option1": "Amount of combustible vegetation available",
+      "option2": "Amount of groundwater",
+      "option3": "Number of animals",
+      "option4": "Forest soil depth",
+      "answer": "Amount of combustible vegetation available"
+    },
+    {
+      "question": "What is fuel reduction?",
+      "option1": "Reducing combustible vegetation to lower fire risk",
+      "option2": "Increasing dry biomass",
+      "option3": "Increasing forest litter",
+      "option4": "Increasing deadwood everywhere",
+      "answer": "Reducing combustible vegetation to lower fire risk"
+    },
+    {
+      "question": "What is disaster management in forestry?",
+      "option1": "Planning and response for forest-related hazards",
+      "option2": "Timber marketing only",
+      "option3": "Seed collection only",
+      "option4": "Tree classification only",
+      "answer": "Planning and response for forest-related hazards"
+    },
+    {
+      "question": "Which natural event can cause extensive forest damage?",
+      "option1": "Cyclone",
+      "option2": "Photosynthesis",
+      "option3": "Seed germination",
+      "option4": "Pollination",
+      "answer": "Cyclone"
+    },
+    {
+      "question": "What is windthrow?",
+      "option1": "Trees being uprooted or broken by strong winds",
+      "option2": "Seed dispersal by wind",
+      "option3": "Wind erosion only",
+      "option4": "Tree pollination",
+      "answer": "Trees being uprooted or broken by strong winds"
+    },
+    {
+      "question": "What is drought?",
+      "option1": "Extended period of unusually low water availability",
+      "option2": "Excess rainfall",
+      "option3": "Forest regeneration",
+      "option4": "Soil formation",
+      "answer": "Extended period of unusually low water availability"
+    },
+    {
+      "question": "What is drought resistance in plants?",
+      "option1": "Ability to survive or function under water stress",
+      "option2": "Ability to grow only in flooded areas",
+      "option3": "Ability to prevent rainfall",
+      "option4": "Ability to eliminate soil",
+      "answer": "Ability to survive or function under water stress"
+    },
+    {
+      "question": "What is forest resource assessment?",
+      "option1": "Evaluation of quantity, quality and condition of forest resources",
+      "option2": "Only wildlife hunting",
+      "option3": "Only road construction",
+      "option4": "Only seed collection",
+      "answer": "Evaluation of quantity, quality and condition of forest resources"
+    },
+    {
+      "question": "What is forest survey?",
+      "option1": "Systematic examination and measurement of forest areas",
+      "option2": "Forest burning",
+      "option3": "Timber marketing",
+      "option4": "Wildlife trapping",
+      "answer": "Systematic examination and measurement of forest areas"
+    },
+    {
+      "question": "What is a forest compartment?",
+      "option1": "Defined management unit within a forest",
+      "option2": "Animal shelter",
+      "option3": "Tree nursery",
+      "option4": "Timber product",
+      "answer": "Defined management unit within a forest"
+    },
+    {
+      "question": "What is a forest beat?",
+      "option1": "Administrative or protection unit within a forest range",
+      "option2": "Tree species",
+      "option3": "Forest product",
+      "option4": "Soil type",
+      "answer": "Administrative or protection unit within a forest range"
+    },
+    {
+      "question": "What is a forest range?",
+      "option1": "Administrative unit of forest management",
+      "option2": "Single tree",
+      "option3": "Forest product",
+      "option4": "Wildlife species",
+      "answer": "Administrative unit of forest management"
+    },
+    {
+      "question": "What is the primary role of a Forest Range Officer?",
+      "option1": "Supervision and management of forest resources and field activities",
+      "option2": "Bank management",
+      "option3": "Hospital administration",
+      "option4": "Railway operation",
+      "answer": "Supervision and management of forest resources and field activities"
+    },
+    {
+      "question": "Which activity is important for a Forest Range Officer?",
+      "option1": "Forest protection and field supervision",
+      "option2": "Bank auditing",
+      "option3": "Railway signaling",
+      "option4": "Hospital surgery",
+      "answer": "Forest protection and field supervision"
+    },
+    {
+      "question": "Why is record keeping important in forest administration?",
+      "option1": "It supports monitoring, accountability and management",
+      "option2": "It prevents all forest growth",
+      "option3": "It eliminates wildlife",
+      "option4": "It increases forest fires",
+      "answer": "It supports monitoring, accountability and management"
+    },
+    {
+      "question": "What is forest accounting?",
+      "option1": "Recording and management of financial transactions related to forestry activities",
+      "option2": "Counting only trees",
+      "option3": "Counting animals only",
+      "option4": "Measuring rainfall",
+      "answer": "Recording and management of financial transactions related to forestry activities"
+    },
+    {
+      "question": "What is forest administration?",
+      "option1": "Organization and implementation of forest policies and management",
+      "option2": "Only tree planting",
+      "option3": "Only wildlife photography",
+      "option4": "Only timber cutting",
+      "answer": "Organization and implementation of forest policies and management"
+    },
+    {
+      "question": "What is forest policy?",
+      "option1": "Principles and guidelines governing forest management and use",
+      "option2": "Forest fire only",
+      "option3": "Tree disease only",
+      "option4": "Wildlife census only",
+      "answer": "Principles and guidelines governing forest management and use"
+    },
+    {
+      "question": "What is sustainable forest management?",
+      "option1": "Management maintaining ecological, economic and social values over time",
+      "option2": "Maximum timber extraction",
+      "option3": "Complete forest protection without any management",
+      "option4": "Forest conversion to agriculture",
+      "answer": "Management maintaining ecological, economic and social values over time"
+    },
+    {
+      "question": "Which three dimensions are commonly considered in sustainable forest management?",
+      "option1": "Ecological, economic and social",
+      "option2": "Political, military and industrial",
+      "option3": "Urban, rural and marine",
+      "option4": "Chemical, physical and mechanical",
+      "answer": "Ecological, economic and social"
+    },
+    {
+      "question": "What is forest certification intended to promote?",
+      "option1": "Responsible forest management",
+      "option2": "Illegal logging",
+      "option3": "Forest conversion",
+      "option4": "Uncontrolled hunting",
+      "answer": "Responsible forest management"
+    },
+    {
+      "question": "What is adaptive forest management?",
+      "option1": "Adjusting management based on monitoring and changing conditions",
+      "option2": "Using one method permanently",
+      "option3": "Avoiding monitoring",
+      "option4": "Stopping all forest activities",
+      "answer": "Adjusting management based on monitoring and changing conditions"
+    },
+    {
+      "question": "What is monitoring in forest management?",
+      "option1": "Regular collection and analysis of information",
+      "option2": "Complete removal of trees",
+      "option3": "Wildlife hunting",
+      "option4": "Forest burning",
+      "answer": "Regular collection and analysis of information"
+    },
+    {
+      "question": "What is a forest management objective?",
+      "option1": "Desired outcome of managing a forest",
+      "option2": "Forest disease",
+      "option3": "Tree seed",
+      "option4": "Wildlife footprint",
+      "answer": "Desired outcome of managing a forest"
+    },
+    {
+      "question": "Which is an example of a forest management objective?",
+      "option1": "Biodiversity conservation",
+      "option2": "Uncontrolled deforestation",
+      "option3": "Illegal logging",
+      "option4": "Habitat destruction",
+      "answer": "Biodiversity conservation"
+    },
+    {
+      "question": "What is forest landscape restoration?",
+      "option1": "Long-term process of restoring ecological function across degraded landscapes",
+      "option2": "Complete clearing of landscapes",
+      "option3": "Urban construction only",
+      "option4": "Mining forest areas",
+      "answer": "Long-term process of restoring ecological function across degraded landscapes"
+    },
+    {
+      "question": "What is restoration ecology?",
+      "option1": "Scientific study and practice of restoring degraded ecosystems",
+      "option2": "Study of timber prices",
+      "option3": "Study of forest roads",
+      "option4": "Study of forest accounting",
+      "answer": "Scientific study and practice of restoring degraded ecosystems"
+    },
+    {
+      "question": "What is the main ecological role of forests in watersheds?",
+      "option1": "Regulation of runoff, infiltration and soil protection",
+      "option2": "Increase of soil erosion",
+      "option3": "Elimination of groundwater",
+      "option4": "Prevention of rainfall",
+      "answer": "Regulation of runoff, infiltration and soil protection"
+    },
+    {
+      "question": "Which forest practice can help control erosion?",
+      "option1": "Maintaining vegetation cover",
+      "option2": "Clear felling on steep slopes",
+      "option3": "Overgrazing",
+      "option4": "Removing leaf litter",
+      "answer": "Maintaining vegetation cover"
+    },
+    {
+      "question": "Why is forest litter important?",
+      "option1": "It contributes to nutrient cycling and protects soil",
+      "option2": "It always causes erosion",
+      "option3": "It prevents decomposition",
+      "option4": "It eliminates soil organisms",
+      "answer": "It contributes to nutrient cycling and protects soil"
+    },
+    {
+      "question": "What is decomposition?",
+      "option1": "Breakdown of dead organic matter",
+      "option2": "Formation of rocks",
+      "option3": "Tree planting",
+      "option4": "Animal migration",
+      "answer": "Breakdown of dead organic matter"
+    },
+    {
+      "question": "Which organisms are important in decomposition?",
+      "option1": "Fungi and bacteria",
+      "option2": "Tigers and elephants",
+      "option3": "Eagles and deer",
+      "option4": "Fish and reptiles",
+      "answer": "Fungi and bacteria"
+    },
+    {
+      "question": "What is nutrient mineralization?",
+      "option1": "Conversion of organic nutrients into inorganic forms",
+      "option2": "Removal of all nutrients",
+      "option3": "Formation of rocks",
+      "option4": "Water evaporation",
+      "answer": "Conversion of organic nutrients into inorganic forms"
+    },
+    {
+      "question": "What is soil organic carbon?",
+      "option1": "Carbon stored in soil organic matter",
+      "option2": "Carbon in rocks only",
+      "option3": "Carbon in atmospheric gases only",
+      "option4": "Carbon in metals",
+      "answer": "Carbon stored in soil organic matter"
+    },
+    {
+      "question": "Why is soil organic matter important?",
+      "option1": "It improves soil structure, fertility and water retention",
+      "option2": "It always increases erosion",
+      "option3": "It removes all microorganisms",
+      "option4": "It prevents plant growth",
+      "answer": "It improves soil structure, fertility and water retention"
+    },
+    {
+      "question": "What is soil compaction?",
+      "option1": "Reduction of soil pore space due to pressure",
+      "option2": "Increase in soil organic matter",
+      "option3": "Formation of humus",
+      "option4": "Natural seed dispersal",
+      "answer": "Reduction of soil pore space due to pressure"
+    },
+    {
+      "question": "Why can soil compaction harm tree growth?",
+      "option1": "It can reduce air and water movement through soil",
+      "option2": "It increases root oxygen everywhere",
+      "option3": "It creates more pore space",
+      "option4": "It eliminates soil resistance",
+      "answer": "It can reduce air and water movement through soil"
+    },
+    {
+      "question": "What is salinity?",
+      "option1": "Excess concentration of soluble salts in soil or water",
+      "option2": "Absence of minerals",
+      "option3": "Excess organic matter only",
+      "option4": "Low temperature",
+      "answer": "Excess concentration of soluble salts in soil or water"
+    },
+    {
+      "question": "What is soil pH?",
+      "option1": "Measure of soil acidity or alkalinity",
+      "option2": "Measure of soil depth",
+      "option3": "Measure of rainfall",
+      "option4": "Measure of tree height",
+      "answer": "Measure of soil acidity or alkalinity"
+    },
+    {
+      "question": "A soil pH below 7 is generally described as what?",
+      "option1": "Acidic",
+      "option2": "Alkaline",
+      "option3": "Neutral",
+      "option4": "Saline",
+      "answer": "Acidic"
+    },
+    {
+      "question": "A soil pH around 7 is generally described as what?",
+      "option1": "Neutral",
+      "option2": "Strongly acidic",
+      "option3": "Strongly alkaline",
+      "option4": "Saline",
+      "answer": "Neutral"
+    },
+    {
+      "question": "What is nutrient deficiency?",
+      "option1": "Insufficient availability of an essential nutrient for plant growth",
+      "option2": "Excess rainfall",
+      "option3": "Excess sunlight",
+      "option4": "Forest fire",
+      "answer": "Insufficient availability of an essential nutrient for plant growth"
+    },
+    {
+      "question": "What is fertilization in plantation forestry?",
+      "option1": "Application of nutrients to improve plant growth where needed",
+      "option2": "Removal of all soil nutrients",
+      "option3": "Removal of seedlings",
+      "option4": "Forest fire control",
+      "answer": "Application of nutrients to improve plant growth where needed"
+    },
+    {
+      "question": "What is site preparation?",
+      "option1": "Preparing land for successful tree establishment",
+      "option2": "Harvesting mature timber",
+      "option3": "Counting wildlife",
+      "option4": "Measuring rainfall",
+      "answer": "Preparing land for successful tree establishment"
+    },
+    {
+      "question": "What is hardening of seedlings?",
+      "option1": "Gradual preparation of nursery seedlings for field conditions",
+      "option2": "Drying timber",
+      "option3": "Increasing fertilizer excessively",
+      "option4": "Removing roots",
+      "answer": "Gradual preparation of nursery seedlings for field conditions"
+    },
+    {
+      "question": "Why are seedlings hardened before planting?",
+      "option1": "To improve survival after transplantation",
+      "option2": "To stop root growth",
+      "option3": "To prevent photosynthesis",
+      "option4": "To increase transplant shock",
+      "answer": "To improve survival after transplantation"
+    },
+    {
+      "question": "What is transplant shock?",
+      "option1": "Stress experienced by plants after transplantation",
+      "option2": "Forest fire",
+      "option3": "Tree disease only",
+      "option4": "Seed dormancy",
+      "answer": "Stress experienced by plants after transplantation"
+    },
+    {
+      "question": "What is spacing in plantation forestry?",
+      "option1": "Distance maintained between planted trees",
+      "option2": "Distance between forest offices",
+      "option3": "Distance between animals",
+      "option4": "Distance between rivers",
+      "answer": "Distance maintained between planted trees"
+    },
+    {
+      "question": "Why is proper spacing important in plantations?",
+      "option1": "It reduces excessive competition among trees",
+      "option2": "It prevents all growth",
+      "option3": "It eliminates sunlight",
+      "option4": "It increases overcrowding",
+      "answer": "It reduces excessive competition among trees"
+    },
+    {
+      "question": "What is singling?",
+      "option1": "Retaining one desirable stem from multiple shoots",
+      "option2": "Removing all trees",
+      "option3": "Planting multiple species",
+      "option4": "Cutting all roots",
+      "answer": "Retaining one desirable stem from multiple shoots"
+    },
+    {
+      "question": "What is coppice with standards?",
+      "option1": "Management combining coppice shoots with retained mature trees",
+      "option2": "Pure seed regeneration",
+      "option3": "Clear felling without regeneration",
+      "option4": "Plantation without trees",
+      "answer": "Management combining coppice shoots with retained mature trees"
+    },
+    {
+      "question": "What is pollarding?",
+      "option1": "Cutting upper branches to encourage new shoots",
+      "option2": "Removing tree roots",
+      "option3": "Removing all leaves manually",
+      "option4": "Cutting the tree below ground",
+      "answer": "Cutting upper branches to encourage new shoots"
+    },
+    {
+      "question": "What is lopping?",
+      "option1": "Cutting branches from a tree",
+      "option2": "Removing roots",
+      "option3": "Harvesting seeds",
+      "option4": "Removing soil",
+      "answer": "Cutting branches from a tree"
+    },
+    {
+      "question": "What is a silvicultural system?",
+      "option1": "Set of practices used to establish, tend and regenerate a forest stand",
+      "option2": "Wildlife census system",
+      "option3": "Forest accounting software",
+      "option4": "Soil testing method",
+      "answer": "Set of practices used to establish, tend and regenerate a forest stand"
+    },
+    {
+      "question": "What is the shelterwood system?",
+      "option1": "Regeneration established under partial shelter of existing trees",
+      "option2": "Complete removal before regeneration",
+      "option3": "Planting without trees",
+      "option4": "Coppice management only",
+      "answer": "Regeneration established under partial shelter of existing trees"
+    },
+    {
+      "question": "What is the selection system?",
+      "option1": "Periodic removal of selected trees while maintaining an uneven-aged stand",
+      "option2": "Complete clear felling",
+      "option3": "Removal of all seedlings",
+      "option4": "Planting only one age class",
+      "answer": "Periodic removal of selected trees while maintaining an uneven-aged stand"
+    },
+    {
+      "question": "What is the clear-felling system?",
+      "option1": "Removal of trees from a designated area followed by regeneration",
+      "option2": "Removal of only dead branches",
+      "option3": "Selection of individual trees only",
+      "option4": "No harvesting",
+      "answer": "Removal of trees from a designated area followed by regeneration"
+    },
+    {
+      "question": "What is coppice system?",
+      "option1": "Regeneration mainly through shoots from stools or roots",
+      "option2": "Regeneration only through seeds",
+      "option3": "Regeneration through animals",
+      "option4": "Regeneration through rainfall",
+      "answer": "Regeneration mainly through shoots from stools or roots"
+    },
+    {
+      "question": "What is rotation age?",
+      "option1": "Age at which a forest crop is normally harvested under a management plan",
+      "option2": "Age of the forest officer",
+      "option3": "Age of wildlife",
+      "option4": "Age of soil",
+      "answer": "Age at which a forest crop is normally harvested under a management plan"
+    },
+    {
+      "question": "What is increment in forestry?",
+      "option1": "Increase in tree or stand size over time",
+      "option2": "Decrease in tree height",
+      "option3": "Forest fire damage",
+      "option4": "Soil erosion",
+      "answer": "Increase in tree or stand size over time"
+    },
+    {
+      "question": "What is mean annual increment?",
+      "option1": "Average annual increase in a forest crop up to a given age",
+      "option2": "Annual rainfall",
+      "option3": "Annual wildlife population",
+      "option4": "Annual soil loss",
+      "answer": "Average annual increase in a forest crop up to a given age"
+    },
+    {
+      "question": "What is current annual increment?",
+      "option1": "Increase in volume during a particular year",
+      "option2": "Average age of trees",
+      "option3": "Annual rainfall",
+      "option4": "Annual seed production only",
+      "answer": "Increase in volume during a particular year"
+    },
+    {
+      "question": "What is forest regeneration assessment?",
+      "option1": "Evaluation of quantity and quality of young forest growth",
+      "option2": "Measurement of old timber only",
+      "option3": "Counting forest roads",
+      "option4": "Measuring rainfall",
+      "answer": "Evaluation of quantity and quality of young forest growth"
+    },
+    {
+      "question": "What is regeneration survey?",
+      "option1": "Survey of seedlings, saplings and young growth",
+      "option2": "Survey of only mature timber",
+      "option3": "Survey of forest roads",
+      "option4": "Survey of rainfall",
+      "answer": "Survey of seedlings, saplings and young growth"
+    },
+    {
+      "question": "What is a seed orchard?",
+      "option1": "Plantation established to produce genetically improved seed",
+      "option2": "Forest fire control area",
+      "option3": "Wildlife enclosure",
+      "option4": "Timber depot",
+      "answer": "Plantation established to produce genetically improved seed"
+    },
+    {
+      "question": "What is seed certification?",
+      "option1": "Process of ensuring seed quality and identity according to standards",
+      "option2": "Tree cutting process",
+      "option3": "Forest fire control",
+      "option4": "Wildlife census",
+      "answer": "Process of ensuring seed quality and identity according to standards"
+    },
+    {
+      "question": "What is seed viability?",
+      "option1": "Ability of a seed to remain capable of germination",
+      "option2": "Seed color",
+      "option3": "Seed size only",
+      "option4": "Seed weight only",
+      "answer": "Ability of a seed to remain capable of germination"
+    },
+    {
+      "question": "What is seed storage?",
+      "option1": "Preserving seeds under suitable conditions until required",
+      "option2": "Planting seeds immediately",
+      "option3": "Removing seed coats",
+      "option4": "Burning seeds",
+      "answer": "Preserving seeds under suitable conditions until required"
+    },
+    {
+      "question": "Why is moisture control important during seed storage?",
+      "option1": "It can help maintain seed viability",
+      "option2": "It always destroys seeds",
+      "option3": "It prevents seed dormancy completely",
+      "option4": "It increases insect damage",
+      "answer": "It can help maintain seed viability"
+    },
+    {
+      "question": "What is forest seed technology?",
+      "option1": "Science and practice of collection, processing, storage and testing of forest seeds",
+      "option2": "Study of forest roads",
+      "option3": "Study of wildlife behavior",
+      "option4": "Study of timber markets",
+      "answer": "Science and practice of collection, processing, storage and testing of forest seeds"
+    },
+    {
+      "question": "What is provenance in forestry?",
+      "option1": "Geographical origin of seed or planting material",
+      "option2": "Age of a tree",
+      "option3": "Height of a tree",
+      "option4": "Forest soil type",
+      "answer": "Geographical origin of seed or planting material"
+    },
+    {
+      "question": "Why is provenance selection important?",
+      "option1": "It can improve adaptation of planting material to site conditions",
+      "option2": "It prevents all plant growth",
+      "option3": "It eliminates genetic variation",
+      "option4": "It increases forest fires",
+      "answer": "It can improve adaptation of planting material to site conditions"
+    },
+    {
+      "question": "What is climate-smart forestry?",
+      "option1": "Forest management considering climate mitigation and adaptation",
+      "option2": "Forest management without climate considerations",
+      "option3": "Forest clearing for development",
+      "option4": "Forest burning",
+      "answer": "Forest management considering climate mitigation and adaptation"
+    },
+    {
+      "question": "What is climate adaptation in forestry?",
+      "option1": "Adjusting management to reduce climate-related risks",
+      "option2": "Increasing greenhouse gas emissions",
+      "option3": "Removing forest cover",
+      "option4": "Stopping all monitoring",
+      "answer": "Adjusting management to reduce climate-related risks"
+    },
+    {
+      "question": "What is climate mitigation in forestry?",
+      "option1": "Actions that reduce greenhouse gas emissions or increase carbon storage",
+      "option2": "Increasing deforestation",
+      "option3": "Increasing forest fires",
+      "option4": "Increasing fossil fuel use",
+      "answer": "Actions that reduce greenhouse gas emissions or increase carbon storage"
+    },
+    {
+      "question": "Why are forests important carbon sinks?",
+      "option1": "They absorb and store carbon through biomass and soils",
+      "option2": "They produce only carbon dioxide",
+      "option3": "They eliminate oxygen",
+      "option4": "They prevent photosynthesis",
+      "answer": "They absorb and store carbon through biomass and soils"
+    },
+    {
+      "question": "What is blue carbon?",
+      "option1": "Carbon stored in coastal and marine ecosystems",
+      "option2": "Carbon stored only in deserts",
+      "option3": "Carbon stored only in mountains",
+      "option4": "Carbon stored only in timber",
+      "answer": "Carbon stored in coastal and marine ecosystems"
+    },
+    {
+      "question": "What is green carbon?",
+      "option1": "Carbon stored in terrestrial vegetation and ecosystems",
+      "option2": "Carbon stored only in oceans",
+      "option3": "Carbon stored in minerals",
+      "option4": "Carbon stored in metals",
+      "answer": "Carbon stored in terrestrial vegetation and ecosystems"
+    },
+    {
+      "question": "What is biodiversity conservation planning?",
+      "option1": "Planning actions to maintain species, habitats and ecological processes",
+      "option2": "Planning timber extraction only",
+      "option3": "Planning forest conversion",
+      "option4": "Planning wildlife hunting",
+      "answer": "Planning actions to maintain species, habitats and ecological processes"
+    },
+    {
+      "question": "What is a protected species?",
+      "option1": "Species receiving legal or conservation protection",
+      "option2": "Species used only for timber",
+      "option3": "Species without ecological value",
+      "option4": "Domestic crop species",
+      "answer": "Species receiving legal or conservation protection"
+    },
+    {
+      "question": "What is illegal wildlife trade?",
+      "option1": "Unauthorized trade in wild animals, plants or their products",
+      "option2": "Legal ecotourism",
+      "option3": "Forest restoration",
+      "option4": "Wildlife research",
+      "answer": "Unauthorized trade in wild animals, plants or their products"
+    },
+    {
+      "question": "Why is wildlife trade a conservation concern?",
+      "option1": "It can reduce populations and threaten species",
+      "option2": "It always increases biodiversity",
+      "option3": "It always improves habitats",
+      "option4": "It prevents poaching",
+      "answer": "It can reduce populations and threaten species"
+    },
+    {
+      "question": "What is forest crime detection?",
+      "option1": "Identification and investigation of illegal activities affecting forests",
+      "option2": "Forest plantation",
+      "option3": "Seed storage",
+      "option4": "Tree pruning",
+      "answer": "Identification and investigation of illegal activities affecting forests"
+    },
+    {
+      "question": "What is evidence preservation in forest crime investigation?",
+      "option1": "Protecting relevant evidence from contamination or loss",
+      "option2": "Destroying evidence",
+      "option3": "Removing forest records",
+      "option4": "Burning seized material",
+      "answer": "Protecting relevant evidence from contamination or loss"
+    },
+    {
+      "question": "What is a seizure in forest law enforcement?",
+      "option1": "Legal taking into custody of suspected illegal material",
+      "option2": "Planting a tree",
+      "option3": "Measuring forest height",
+      "option4": "Wildlife feeding",
+      "answer": "Legal taking into custody of suspected illegal material"
+    },
+    {
+      "question": "What is community-based conservation?",
+      "option1": "Conservation involving local communities in decision-making and management",
+      "option2": "Conservation excluding all local people",
+      "option3": "Commercial logging only",
+      "option4": "Wildlife hunting",
+      "answer": "Conservation involving local communities in decision-making and management"
+    },
+    {
+      "question": "What is benefit sharing in forest management?",
+      "option1": "Sharing appropriate benefits from forest-related activities with stakeholders",
+      "option2": "Giving all forests to one person",
+      "option3": "Removing local participation",
+      "option4": "Stopping forest use completely",
+      "answer": "Sharing appropriate benefits from forest-related activities with stakeholders"
+    },
+    {
+      "question": "What is tribal development in forestry context?",
+      "option1": "Supporting sustainable livelihoods and welfare of forest-dependent tribal communities",
+      "option2": "Removing all tribal communities from forests",
+      "option3": "Increasing illegal logging",
+      "option4": "Stopping all community participation",
+      "answer": "Supporting sustainable livelihoods and welfare of forest-dependent tribal communities"
+    },
+    {
+      "question": "What is a forest-dependent community?",
+      "option1": "Community relying significantly on forest resources or ecosystem services",
+      "option2": "Community living only in cities",
+      "option3": "Industrial workers only",
+      "option4": "People with no connection to forests",
+      "answer": "Community relying significantly on forest resources or ecosystem services"
+    },
+    {
+      "question": "What is livelihood security?",
+      "option1": "Reliable access to resources and opportunities needed for living",
+      "option2": "Forest destruction",
+      "option3": "Wildlife hunting",
+      "option4": "Timber extraction only",
+      "answer": "Reliable access to resources and opportunities needed for living"
+    },
+    {
+      "question": "What is forest extension?",
+      "option1": "Communication of forestry knowledge and practices to stakeholders",
+      "option2": "Forest boundary expansion",
+      "option3": "Tree height measurement",
+      "option4": "Wildlife trapping",
+      "answer": "Communication of forestry knowledge and practices to stakeholders"
+    },
+    {
+      "question": "What is capacity building in forest management?",
+      "option1": "Developing skills and knowledge of people and institutions",
+      "option2": "Removing trained staff",
+      "option3": "Reducing forest knowledge",
+      "option4": "Increasing illegal activities",
+      "answer": "Developing skills and knowledge of people and institutions"
+    },
+    {
+      "question": "What is professional ethics in forest management?",
+      "option1": "Following integrity, responsibility and lawful professional conduct",
+      "option2": "Ignoring forest laws",
+      "option3": "Supporting illegal logging",
+      "option4": "Misusing public resources",
+      "answer": "Following integrity, responsibility and lawful professional conduct"
+    },
+    {
+      "question": "What is the precautionary principle?",
+      "option1": "Taking preventive action when serious environmental harm is possible despite uncertainty",
+      "option2": "Ignoring environmental risks",
+      "option3": "Always exploiting resources",
+      "option4": "Stopping all scientific research",
+      "answer": "Taking preventive action when serious environmental harm is possible despite uncertainty"
+    },
+    {
+      "question": "What is the polluter pays principle?",
+      "option1": "Polluters should bear appropriate costs of pollution control and damage",
+      "option2": "Government always pays all costs",
+      "option3": "Victims always pay costs",
+      "option4": "Nobody pays for pollution",
+      "answer": "Polluters should bear appropriate costs of pollution control and damage"
+    },
+    {
+      "question": "What is the principle of intergenerational equity?",
+      "option1": "Natural resources should be managed fairly for present and future generations",
+      "option2": "Resources should be exhausted by the present generation",
+      "option3": "Future generations should receive no resources",
+      "option4": "Only current economic benefits matter",
+      "answer": "Natural resources should be managed fairly for present and future generations"
+    },
+    {
+      "question": "What is environmental governance?",
+      "option1": "Processes through which environmental decisions are made and implemented",
+      "option2": "Only tree planting",
+      "option3": "Only wildlife census",
+      "option4": "Only timber production",
+      "answer": "Processes through which environmental decisions are made and implemented"
+    },
+    {
+      "question": "What is the main purpose of forest conservation?",
+      "option1": "Maintain forests and their ecological, economic and social values",
+      "option2": "Maximize forest destruction",
+      "option3": "Eliminate biodiversity",
+      "option4": "Prevent all natural processes",
+      "answer": "Maintain forests and their ecological, economic and social values"
+    },
+    {
+      "question": "Which approach best supports long-term forest management?",
+      "option1": "Sustainable forest management",
+      "option2": "Uncontrolled exploitation",
+      "option3": "Illegal logging",
+      "option4": "Habitat destruction",
+      "answer": "Sustainable forest management"
+    }
+  ]
+}

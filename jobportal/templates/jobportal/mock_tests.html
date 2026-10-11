@@ -20,7 +20,7 @@
 
                 <div class="card-body">
 
-                    <h4>{{ exam.name }}</h4>
+                    <h4>{{ exam.exam_name }}</h4>
 
                     <p class="text-muted">
                         Practice Mock Test
@@ -34,7 +34,7 @@
                         <strong>Duration:</strong> 20 Minutes
                     </p>
 
-                    <a href="{% url 'exam_mock_test' exam.name %}"
+                    <a href="{% url 'exam_mock_test' exam.exam_name %}"
                        class="btn btn-primary w-100">
                         Start Mock Test
                     </a>

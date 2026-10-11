@@ -1,123 +1,67 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Previous Papers - Govt Jobs Portal</title>
+{% extends "jobportal/base.html" %}
 
-    <style>
-        body {
-            margin: 0;
-            font-family: Arial, sans-serif;
-            background: #f4f6f9;
-        }
+{% block content %}
 
-        .container {
-            max-width: 1100px;
-            margin: 40px auto;
-            padding: 20px;
-        }
+<div class="container py-5">
 
-        h1 {
-            text-align: center;
-            color: #063b70;
-        }
+    <div class="text-center mb-5">
+        <h1>Previous Year Papers</h1>
+        <p class="text-muted">
+            Download previous year question papers for government examinations.
+        </p>
+    </div>
 
-        .subtitle {
-            text-align: center;
-            color: #666;
-            margin-bottom: 35px;
-        }
+    <div class="row">
 
-        .papers-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 25px;
-        }
+        {% for exam in exams %}
 
-        .paper-card {
-            background: white;
-            padding: 25px;
-            border-radius: 12px;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.08);
-            text-align: center;
-        }
+        <div class="col-md-4 mb-4">
 
-        .paper-card h2 {
-            color: #063b70;
-            margin-bottom: 10px;
-        }
+            <div class="card h-100 shadow-sm">
 
-        .paper-card p {
-            color: #666;
-            line-height: 1.5;
-        }
+                <div class="card-body">
 
-        .download-btn {
-            display: inline-block;
-            margin-top: 15px;
-            padding: 11px 22px;
-            background: #0866c6;
-            color: white;
-            text-decoration: none;
-            border-radius: 7px;
-            font-weight: bold;
-        }
+                    <h4>{{ exam.name }}</h4>
 
-        .download-btn:hover {
-            background: #064f9c;
-        }
+                    {% if exam.organization %}
+                        <p class="text-muted">
+                            {{ exam.organization }}
+                        </p>
+                    {% endif %}
 
-        .empty {
-            text-align: center;
-            color: #777;
-            padding: 40px;
-        }
-    </style>
-</head>
+                    <p>
+                        <strong>State:</strong>
+                        {{ exam.state }}
+                    </p>
 
-<body>
+                    <p>
+                        <strong>Papers:</strong>
+                        {{ exam.previous_papers.count }}
+                    </p>
 
-<div class="container">
+                    <a
+                        href="{% url 'exam_previous_papers' exam.id %}"
+                        class="btn btn-primary w-100"
+                    >
+                        View Previous Papers
+                    </a>
 
-    <h1>Previous Year Papers</h1>
+                </div>
 
-    <p class="subtitle">
-        Download previous year question papers for government competitive exams.
-    </p>
-
-    <div class="papers-grid">
-
-        {% for paper in papers %}
-
-        <div class="paper-card">
-
-            <h2>{{ paper.exam_name }}</h2>
-
-            <p>
-                <strong>Year:</strong> {{ paper.year }}
-            </p>
-
-            <p>
-                <strong>Category:</strong> {{ paper.category }}
-            </p>
-
-            {% if paper.pdf_link %}
-
-                <a href="{{ paper.pdf_link }}"
-                   class="download-btn"
-                   target="_blank"
-                   rel="noopener noreferrer">
-                    View Paper
-                </a>
-
-            {% endif %}
+            </div>
 
         </div>
 
         {% empty %}
 
-        <div class="empty">
-            <h2>No Previous Papers Available</h2>
-            <p>Previous year papers will be added soon.</p>
+        <div class="col-12 text-center">
+
+            <h4>No previous papers available.</h4>
+
+            <p class="text-muted">
+                Previous papers will be added soon.
+            </p>
+
         </div>
 
         {% endfor %}
@@ -126,5 +70,4 @@
 
 </div>
 
-</body>
-</html>
+{% endblock %}

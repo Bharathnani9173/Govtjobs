@@ -1,0 +1,3477 @@
+{
+  "exam": "Telangana AE",
+  "questions": [
+    {
+      "question": "What is the SI unit of force?",
+      "option1": "Newton",
+      "option2": "Joule",
+      "option3": "Pascal",
+      "option4": "Watt",
+      "answer": "Newton"
+    },
+    {
+      "question": "What is the SI unit of pressure?",
+      "option1": "Newton",
+      "option2": "Pascal",
+      "option3": "Joule",
+      "option4": "Watt",
+      "answer": "Pascal"
+    },
+    {
+      "question": "Which instrument is used to measure atmospheric pressure?",
+      "option1": "Thermometer",
+      "option2": "Barometer",
+      "option3": "Hygrometer",
+      "option4": "Manometer",
+      "answer": "Barometer"
+    },
+    {
+      "question": "The density of water is approximately:",
+      "option1": "500 kg/m³",
+      "option2": "750 kg/m³",
+      "option3": "1000 kg/m³",
+      "option4": "1500 kg/m³",
+      "answer": "1000 kg/m³"
+    },
+    {
+      "question": "Which material is commonly used as a binding material in concrete?",
+      "option1": "Cement",
+      "option2": "Sand",
+      "option3": "Gravel",
+      "option4": "Water",
+      "answer": "Cement"
+    },
+    {
+      "question": "The main constituent of ordinary Portland cement is:",
+      "option1": "Lime",
+      "option2": "Silica",
+      "option3": "Alumina",
+      "option4": "Iron oxide",
+      "answer": "Lime"
+    },
+    {
+      "question": "What is the approximate specific gravity of cement?",
+      "option1": "1.15",
+      "option2": "2.15",
+      "option3": "3.15",
+      "option4": "4.15",
+      "answer": "3.15"
+    },
+    {
+      "question": "Which test is used to determine the consistency of cement paste?",
+      "option1": "Slump test",
+      "option2": "Vicat test",
+      "option3": "Impact test",
+      "option4": "Los Angeles test",
+      "answer": "Vicat test"
+    },
+    {
+      "question": "The initial setting time of ordinary Portland cement should not be less than:",
+      "option1": "10 minutes",
+      "option2": "30 minutes",
+      "option3": "60 minutes",
+      "option4": "120 minutes",
+      "answer": "30 minutes"
+    },
+    {
+      "question": "Which test is commonly used to measure the workability of concrete?",
+      "option1": "Slump test",
+      "option2": "Compression test",
+      "option3": "Tensile test",
+      "option4": "Abrasion test",
+      "answer": "Slump test"
+    },
+    {
+      "question": "The nominal maximum size of aggregate is generally selected based on:",
+      "option1": "Colour of concrete",
+      "option2": "Member dimensions and reinforcement spacing",
+      "option3": "Age of concrete",
+      "option4": "Type of paint",
+      "answer": "Member dimensions and reinforcement spacing"
+    },
+    {
+      "question": "Which aggregate has a size generally greater than 4.75 mm?",
+      "option1": "Fine aggregate",
+      "option2": "Coarse aggregate",
+      "option3": "Silt",
+      "option4": "Clay",
+      "answer": "Coarse aggregate"
+    },
+    {
+      "question": "The main purpose of curing concrete is to:",
+      "option1": "Increase evaporation",
+      "option2": "Maintain moisture for hydration",
+      "option3": "Reduce cement content",
+      "option4": "Remove aggregates",
+      "answer": "Maintain moisture for hydration"
+    },
+    {
+      "question": "Concrete gains most of its strength due to:",
+      "option1": "Evaporation",
+      "option2": "Hydration of cement",
+      "option3": "Drying of sand",
+      "option4": "Heating of aggregate",
+      "answer": "Hydration of cement"
+    },
+    {
+      "question": "Which grade of concrete has a characteristic compressive strength of 20 MPa at 28 days?",
+      "option1": "M10",
+      "option2": "M15",
+      "option3": "M20",
+      "option4": "M25",
+      "answer": "M20"
+    },
+    {
+      "question": "Reinforced cement concrete is abbreviated as:",
+      "option1": "RCC",
+      "option2": "PCC",
+      "option3": "PSC",
+      "option4": "AAC",
+      "answer": "RCC"
+    },
+    {
+      "question": "Prestressed concrete is mainly used to:",
+      "option1": "Reduce structural efficiency",
+      "option2": "Introduce beneficial stresses before loading",
+      "option3": "Eliminate aggregates",
+      "option4": "Increase dead load only",
+      "answer": "Introduce beneficial stresses before loading"
+    },
+    {
+      "question": "Which type of stress develops when a body is subjected to pulling force?",
+      "option1": "Compressive stress",
+      "option2": "Tensile stress",
+      "option3": "Shear stress",
+      "option4": "Bearing stress",
+      "answer": "Tensile stress"
+    },
+    {
+      "question": "Which type of stress is produced by a force acting parallel to a surface?",
+      "option1": "Tensile stress",
+      "option2": "Compressive stress",
+      "option3": "Shear stress",
+      "option4": "Thermal stress",
+      "answer": "Shear stress"
+    },
+    {
+      "question": "Young's modulus is defined as the ratio of:",
+      "option1": "Stress to strain",
+      "option2": "Strain to stress",
+      "option3": "Load to area",
+      "option4": "Moment to force",
+      "answer": "Stress to strain"
+    },
+    {
+      "question": "The SI unit of Young's modulus is:",
+      "option1": "Newton",
+      "option2": "Pascal",
+      "option3": "Metre",
+      "option4": "Joule",
+      "answer": "Pascal"
+    },
+    {
+      "question": "Poisson's ratio is the ratio of:",
+      "option1": "Longitudinal strain to lateral strain",
+      "option2": "Lateral strain to longitudinal strain",
+      "option3": "Stress to strain",
+      "option4": "Load to deformation",
+      "answer": "Lateral strain to longitudinal strain"
+    },
+    {
+      "question": "The centroid of a rectangle lies at:",
+      "option1": "One corner",
+      "option2": "Midpoint of its diagonal intersection",
+      "option3": "One-third of its height",
+      "option4": "Its longest side",
+      "answer": "Midpoint of its diagonal intersection"
+    },
+    {
+      "question": "A simply supported beam has:",
+      "option1": "Two fixed supports",
+      "option2": "A pin and a roller support",
+      "option3": "Two roller supports only",
+      "option4": "One fixed support only",
+      "answer": "A pin and a roller support"
+    },
+    {
+      "question": "The bending moment at a simple support of a simply supported beam is generally:",
+      "option1": "Maximum",
+      "option2": "Zero",
+      "option3": "Infinite",
+      "option4": "Negative infinity",
+      "answer": "Zero"
+    },
+    {
+      "question": "The point where bending moment changes sign is called:",
+      "option1": "Neutral axis",
+      "option2": "Point of contraflexure",
+      "option3": "Centroid",
+      "option4": "Shear centre",
+      "answer": "Point of contraflexure"
+    },
+    {
+      "question": "The neutral axis of a homogeneous symmetrical beam section passes through its:",
+      "option1": "Top surface",
+      "option2": "Bottom surface",
+      "option3": "Centroid",
+      "option4": "Extreme fibre",
+      "answer": "Centroid"
+    },
+    {
+      "question": "The maximum bending stress in a beam occurs at the:",
+      "option1": "Neutral axis",
+      "option2": "Extreme fibre",
+      "option3": "Centroid only",
+      "option4": "Support centre",
+      "answer": "Extreme fibre"
+    },
+    {
+      "question": "The slope of the bending moment diagram represents:",
+      "option1": "Load intensity",
+      "option2": "Shear force",
+      "option3": "Deflection",
+      "option4": "Stress",
+      "answer": "Shear force"
+    },
+    {
+      "question": "The slope of the shear force diagram represents:",
+      "option1": "Load intensity",
+      "option2": "Bending moment",
+      "option3": "Deflection",
+      "option4": "Strain",
+      "answer": "Load intensity"
+    },
+    {
+      "question": "A column is primarily designed to resist:",
+      "option1": "Axial compression",
+      "option2": "Pure tension",
+      "option3": "Torsion only",
+      "option4": "Temperature only",
+      "answer": "Axial compression"
+    },
+    {
+      "question": "A column is considered short when its failure is mainly governed by:",
+      "option1": "Buckling",
+      "option2": "Crushing",
+      "option3": "Fatigue",
+      "option4": "Torsion",
+      "answer": "Crushing"
+    },
+    {
+      "question": "Euler's theory of columns is mainly applicable to:",
+      "option1": "Short columns",
+      "option2": "Long slender columns",
+      "option3": "Masonry walls",
+      "option4": "Foundations",
+      "answer": "Long slender columns"
+    },
+    {
+      "question": "The tendency of a slender column to bend laterally under axial load is called:",
+      "option1": "Shearing",
+      "option2": "Buckling",
+      "option3": "Creep",
+      "option4": "Shrinkage",
+      "answer": "Buckling"
+    },
+    {
+      "question": "The ratio of effective length to least radius of gyration is called:",
+      "option1": "Slenderness ratio",
+      "option2": "Poisson ratio",
+      "option3": "Shape factor",
+      "option4": "Modulus ratio",
+      "answer": "Slenderness ratio"
+    },
+    {
+      "question": "Which foundation is generally used when soil bearing capacity is low and loads are heavy?",
+      "option1": "Isolated footing",
+      "option2": "Raft foundation",
+      "option3": "Strip footing only",
+      "option4": "Wall footing only",
+      "answer": "Raft foundation"
+    },
+    {
+      "question": "A foundation constructed below an individual column is called:",
+      "option1": "Raft foundation",
+      "option2": "Isolated footing",
+      "option3": "Mat foundation",
+      "option4": "Pile cap",
+      "answer": "Isolated footing"
+    },
+    {
+      "question": "Pile foundations are classified as:",
+      "option1": "Shallow foundations",
+      "option2": "Deep foundations",
+      "option3": "Surface coatings",
+      "option4": "Temporary supports",
+      "answer": "Deep foundations"
+    },
+    {
+      "question": "The purpose of a pile cap is to:",
+      "option1": "Connect piles and distribute column load",
+      "option2": "Increase soil moisture",
+      "option3": "Reduce concrete strength",
+      "option4": "Replace reinforcement",
+      "answer": "Connect piles and distribute column load"
+    },
+    {
+      "question": "Which soil has the smallest particle size among the following?",
+      "option1": "Gravel",
+      "option2": "Sand",
+      "option3": "Silt",
+      "option4": "Clay",
+      "answer": "Clay"
+    },
+    {
+      "question": "The water content of soil is expressed as the ratio of:",
+      "option1": "Weight of water to weight of dry soil",
+      "option2": "Weight of dry soil to weight of water",
+      "option3": "Volume of air to volume of soil",
+      "option4": "Volume of water to volume of air",
+      "answer": "Weight of water to weight of dry soil"
+    },
+    {
+      "question": "The liquid limit of soil is determined using:",
+      "option1": "Casagrande apparatus",
+      "option2": "Proctor apparatus",
+      "option3": "Plate load test",
+      "option4": "Pycnometer",
+      "answer": "Casagrande apparatus"
+    },
+    {
+      "question": "The Proctor test is used to determine:",
+      "option1": "Soil permeability",
+      "option2": "Optimum moisture content and maximum dry density",
+      "option3": "Liquid limit only",
+      "option4": "Plastic limit only",
+      "answer": "Optimum moisture content and maximum dry density"
+    },
+    {
+      "question": "The ability of soil to allow water to pass through it is called:",
+      "option1": "Compressibility",
+      "option2": "Permeability",
+      "option3": "Plasticity",
+      "option4": "Consistency",
+      "answer": "Permeability"
+    },
+    {
+      "question": "Darcy's law is applicable to:",
+      "option1": "Flow through porous media",
+      "option2": "Open channel flow only",
+      "option3": "Traffic flow",
+      "option4": "Heat transfer only",
+      "answer": "Flow through porous media"
+    },
+    {
+      "question": "The coefficient of permeability is commonly denoted by:",
+      "option1": "K",
+      "option2": "E",
+      "option3": "G",
+      "option4": "M",
+      "answer": "K"
+    },
+    {
+      "question": "Which soil generally has very low permeability?",
+      "option1": "Gravel",
+      "option2": "Clean sand",
+      "option3": "Clay",
+      "option4": "Coarse aggregate",
+      "answer": "Clay"
+    },
+    {
+      "question": "The process of gradual compression of saturated clay due to expulsion of pore water is called:",
+      "option1": "Compaction",
+      "option2": "Consolidation",
+      "option3": "Erosion",
+      "option4": "Percolation",
+      "answer": "Consolidation"
+    },
+    {
+      "question": "The shear strength of soil is commonly described by:",
+      "option1": "Darcy's law",
+      "option2": "Mohr-Coulomb theory",
+      "option3": "Bernoulli's theorem",
+      "option4": "Hooke's law only",
+      "answer": "Mohr-Coulomb theory"
+    },
+    {
+      "question": "The angle of internal friction is an important parameter of:",
+      "option1": "Soil shear strength",
+      "option2": "Concrete setting",
+      "option3": "Steel corrosion",
+      "option4": "Water hardness",
+      "answer": "Soil shear strength"
+    },
+    {
+      "question": "A retaining wall is constructed primarily to:",
+      "option1": "Retain soil",
+      "option2": "Store drinking water",
+      "option3": "Support roof tiles",
+      "option4": "Increase road width",
+      "answer": "Retain soil"
+    },
+    {
+      "question": "The lateral earth pressure acting on a retaining wall depends strongly on:",
+      "option1": "Soil properties",
+      "option2": "Paint colour",
+      "option3": "Cement brand only",
+      "option4": "Roof type",
+      "answer": "Soil properties"
+    },
+    {
+      "question": "Which device is used to measure horizontal angles in surveying?",
+      "option1": "Theodolite",
+      "option2": "Planimeter",
+      "option3": "Rain gauge",
+      "option4": "Barometer",
+      "answer": "Theodolite"
+    },
+    {
+      "question": "A total station combines electronic distance measurement with:",
+      "option1": "Electronic angle measurement",
+      "option2": "Soil testing",
+      "option3": "Concrete mixing",
+      "option4": "Water treatment",
+      "answer": "Electronic angle measurement"
+    },
+    {
+      "question": "Levelling in surveying is mainly used to determine:",
+      "option1": "Relative elevations",
+      "option2": "Soil colour",
+      "option3": "Concrete grade",
+      "option4": "Traffic density",
+      "answer": "Relative elevations"
+    },
+    {
+      "question": "A benchmark in surveying is a point of known:",
+      "option1": "Elevation",
+      "option2": "Temperature",
+      "option3": "Pressure",
+      "option4": "Soil density",
+      "answer": "Elevation"
+    },
+    {
+      "question": "The line joining points of equal elevation is called:",
+      "option1": "Contour line",
+      "option2": "Base line",
+      "option3": "Tie line",
+      "option4": "Chain line",
+      "answer": "Contour line"
+    },
+    {
+      "question": "Contour lines generally do not:",
+      "option1": "Represent equal elevations",
+      "option2": "Intersect each other in ordinary terrain",
+      "option3": "Indicate slopes",
+      "option4": "Help in route planning",
+      "answer": "Intersect each other in ordinary terrain"
+    },
+    {
+      "question": "The chain commonly used in metric surveying is:",
+      "option1": "20 m chain",
+      "option2": "30 m chain",
+      "option3": "50 m chain",
+      "option4": "100 m chain",
+      "answer": "20 m chain"
+    },
+    {
+      "question": "Remote sensing mainly involves obtaining information about objects:",
+      "option1": "Without physical contact",
+      "option2": "Only by excavation",
+      "option3": "Only through drilling",
+      "option4": "Only through weighing",
+      "answer": "Without physical contact"
+    },
+    {
+      "question": "GPS stands for:",
+      "option1": "Global Positioning System",
+      "option2": "General Planning System",
+      "option3": "Geographical Processing Service",
+      "option4": "Global Planning Survey",
+      "answer": "Global Positioning System"
+    },
+    {
+      "question": "GIS stands for:",
+      "option1": "Geographic Information System",
+      "option2": "General Information Service",
+      "option3": "Geological Inspection System",
+      "option4": "Global Internet Service",
+      "answer": "Geographic Information System"
+    },
+    {
+      "question": "Which instrument is used for measuring distances electronically in surveying?",
+      "option1": "EDM",
+      "option2": "Vernier scale only",
+      "option3": "Plumb bob",
+      "option4": "Staff only",
+      "answer": "EDM"
+    },
+    {
+      "question": "A road pavement primarily provides:",
+      "option1": "A smooth and durable surface for traffic",
+      "option2": "Water storage",
+      "option3": "Electricity generation",
+      "option4": "Building ventilation",
+      "answer": "A smooth and durable surface for traffic"
+    },
+    {
+      "question": "Flexible pavement generally uses:",
+      "option1": "Bituminous layers",
+      "option2": "Only steel plates",
+      "option3": "Glass sheets",
+      "option4": "Timber beams",
+      "answer": "Bituminous layers"
+    },
+    {
+      "question": "Rigid pavement is generally constructed using:",
+      "option1": "Cement concrete",
+      "option2": "Loose soil",
+      "option3": "Bitumen only",
+      "option4": "Wood",
+      "answer": "Cement concrete"
+    },
+    {
+      "question": "The camber of a road is provided mainly for:",
+      "option1": "Drainage of rainwater",
+      "option2": "Increasing vehicle weight",
+      "option3": "Reducing road width",
+      "option4": "Increasing traffic signals",
+      "answer": "Drainage of rainwater"
+    },
+    {
+      "question": "The extra width provided to a vehicle path on a horizontal curve is called:",
+      "option1": "Camber",
+      "option2": "Extra widening",
+      "option3": "Gradient",
+      "option4": "Super elevation",
+      "answer": "Extra widening"
+    },
+    {
+      "question": "Super elevation is provided on:",
+      "option1": "Horizontal curves",
+      "option2": "Straight roads only",
+      "option3": "Footpaths only",
+      "option4": "Bridges only",
+      "answer": "Horizontal curves"
+    },
+    {
+      "question": "The longitudinal slope of a road is called:",
+      "option1": "Gradient",
+      "option2": "Camber",
+      "option3": "Superelevation",
+      "option4": "Crown",
+      "answer": "Gradient"
+    },
+    {
+      "question": "The subgrade of a road is:",
+      "option1": "The prepared soil layer supporting pavement",
+      "option2": "The top bituminous layer",
+      "option3": "A drainage pipe",
+      "option4": "A road sign",
+      "answer": "The prepared soil layer supporting pavement"
+    },
+    {
+      "question": "CBR test is mainly used in highway engineering to evaluate:",
+      "option1": "Subgrade strength",
+      "option2": "Cement setting time",
+      "option3": "Steel strength",
+      "option4": "Water quality",
+      "answer": "Subgrade strength"
+    },
+    {
+      "question": "Bitumen is primarily used in road construction as:",
+      "option1": "A binder",
+      "option2": "An aggregate",
+      "option3": "A reinforcing bar",
+      "option4": "A soil stabilizer only",
+      "answer": "A binder"
+    },
+    {
+      "question": "The Los Angeles abrasion test determines:",
+      "option1": "Abrasion resistance of aggregates",
+      "option2": "Cement fineness",
+      "option3": "Soil plasticity",
+      "option4": "Water hardness",
+      "answer": "Abrasion resistance of aggregates"
+    },
+    {
+      "question": "The impact value test of aggregate indicates its:",
+      "option1": "Resistance to sudden impact",
+      "option2": "Colour",
+      "option3": "Water absorption only",
+      "option4": "Cement content",
+      "answer": "Resistance to sudden impact"
+    },
+    {
+      "question": "The main purpose of road drainage is to:",
+      "option1": "Remove water from pavement and surroundings",
+      "option2": "Increase pavement moisture",
+      "option3": "Store traffic water",
+      "option4": "Increase vehicle speed directly",
+      "answer": "Remove water from pavement and surroundings"
+    },
+    {
+      "question": "A culvert is generally provided to:",
+      "option1": "Allow water to pass beneath a road",
+      "option2": "Store fuel",
+      "option3": "Support electric wires",
+      "option4": "Measure traffic speed",
+      "answer": "Allow water to pass beneath a road"
+    },
+    {
+      "question": "A bridge deck is the part of a bridge that:",
+      "option1": "Carries traffic",
+      "option2": "Stores water",
+      "option3": "Measures rainfall",
+      "option4": "Filters groundwater",
+      "answer": "Carries traffic"
+    },
+    {
+      "question": "A pier in a bridge is used to:",
+      "option1": "Support the superstructure between spans",
+      "option2": "Measure discharge",
+      "option3": "Control traffic lights",
+      "option4": "Store construction materials",
+      "answer": "Support the superstructure between spans"
+    },
+    {
+      "question": "An abutment is generally located at:",
+      "option1": "The ends of a bridge",
+      "option2": "The middle of a beam only",
+      "option3": "The centre of a road",
+      "option4": "The top of a dam",
+      "answer": "The ends of a bridge"
+    },
+    {
+      "question": "The part of a bridge resting on a pier or abutment is called:",
+      "option1": "Bearing",
+      "option2": "Camber",
+      "option3": "Kerb",
+      "option4": "Drain",
+      "answer": "Bearing"
+    },
+    {
+      "question": "Hydrology is the study of:",
+      "option1": "Water and its occurrence and movement",
+      "option2": "Road traffic only",
+      "option3": "Building materials only",
+      "option4": "Steel structures only",
+      "answer": "Water and its occurrence and movement"
+    },
+    {
+      "question": "The hydrologic cycle includes:",
+      "option1": "Evaporation, condensation and precipitation",
+      "option2": "Only excavation",
+      "option3": "Only filtration",
+      "option4": "Only combustion",
+      "answer": "Evaporation, condensation and precipitation"
+    },
+    {
+      "question": "Rainfall is measured using a:",
+      "option1": "Rain gauge",
+      "option2": "Barometer",
+      "option3": "Theodolite",
+      "option4": "Current meter",
+      "answer": "Rain gauge"
+    },
+    {
+      "question": "A hydrograph represents the variation of:",
+      "option1": "Stream discharge with time",
+      "option2": "Soil density with depth",
+      "option3": "Temperature with pressure",
+      "option4": "Road width with traffic",
+      "answer": "Stream discharge with time"
+    },
+    {
+      "question": "The maximum discharge during a flood event is called:",
+      "option1": "Peak discharge",
+      "option2": "Base flow",
+      "option3": "Minimum flow",
+      "option4": "Dry flow",
+      "answer": "Peak discharge"
+    },
+    {
+      "question": "A watershed is an area:",
+      "option1": "Draining to a common outlet",
+      "option2": "Used only for buildings",
+      "option3": "Containing only groundwater",
+      "option4": "Without rainfall",
+      "answer": "Draining to a common outlet"
+    },
+    {
+      "question": "A dam is primarily constructed to:",
+      "option1": "Store or regulate water",
+      "option2": "Increase soil erosion",
+      "option3": "Reduce irrigation",
+      "option4": "Prevent all rainfall",
+      "answer": "Store or regulate water"
+    },
+    {
+      "question": "A spillway is provided in a dam to:",
+      "option1": "Safely release excess water",
+      "option2": "Increase reservoir sediment",
+      "option3": "Store construction equipment",
+      "option4": "Measure soil density",
+      "answer": "Safely release excess water"
+    },
+    {
+      "question": "A gravity dam resists water pressure mainly through:",
+      "option1": "Its own weight",
+      "option2": "Vegetation",
+      "option3": "Steel cables only",
+      "option4": "Air pressure",
+      "answer": "Its own weight"
+    },
+    {
+      "question": "A canal is an artificial waterway used mainly for:",
+      "option1": "Conveying water",
+      "option2": "Generating traffic",
+      "option3": "Storing cement",
+      "option4": "Measuring rainfall",
+      "answer": "Conveying water"
+    },
+    {
+      "question": "Irrigation is the artificial application of water to:",
+      "option1": "Agricultural land",
+      "option2": "Road surfaces",
+      "option3": "Building roofs",
+      "option4": "Railway tracks",
+      "answer": "Agricultural land"
+    },
+    {
+      "question": "The main purpose of irrigation is to:",
+      "option1": "Supply water to crops",
+      "option2": "Increase soil erosion",
+      "option3": "Reduce crop growth",
+      "option4": "Remove all groundwater",
+      "answer": "Supply water to crops"
+    },
+    {
+      "question": "Drip irrigation supplies water:",
+      "option1": "Directly near plant roots",
+      "option2": "Only through canals",
+      "option3": "Only by flooding entire fields",
+      "option4": "Through rainfall",
+      "answer": "Directly near plant roots"
+    },
+    {
+      "question": "Sprinkler irrigation applies water in the form of:",
+      "option1": "Artificial rainfall",
+      "option2": "Underground pressure only",
+      "option3": "Solid blocks",
+      "option4": "Steam",
+      "answer": "Artificial rainfall"
+    },
+    {
+      "question": "Waterlogging in agricultural land can result from:",
+      "option1": "Excess irrigation and poor drainage",
+      "option2": "Very low water supply",
+      "option3": "Good drainage",
+      "option4": "Low groundwater table",
+      "answer": "Excess irrigation and poor drainage"
+    },
+    {
+      "question": "The duty of water in irrigation engineering is related to:",
+      "option1": "Area irrigated by a unit discharge",
+      "option2": "Depth of a foundation",
+      "option3": "Strength of concrete",
+      "option4": "Road gradient",
+      "answer": "Area irrigated by a unit discharge"
+    },
+    {
+      "question": "The time between the first watering and harvesting of a crop is called:",
+      "option1": "Base period",
+      "option2": "Duty period",
+      "option3": "Delta",
+      "option4": "Crop coefficient",
+      "answer": "Base period"
+    },
+    {
+      "question": "The total depth of water required by a crop during its base period is called:",
+      "option1": "Delta",
+      "option2": "Duty",
+      "option3": "Discharge",
+      "option4": "Runoff",
+      "answer": "Delta"
+    },
+    {
+      "question": "Which of the following is a unit of discharge?",
+      "option1": "m³/s",
+      "option2": "m/s²",
+      "option3": "N/m²",
+      "option4": "kg/m³",
+      "answer": "m³/s"
+    },
+    {
+      "question": "The continuity equation for incompressible steady flow is based on conservation of:",
+      "option1": "Mass",
+      "option2": "Energy only",
+      "option3": "Momentum only",
+      "option4": "Temperature",
+      "answer": "Mass"
+    },
+    {
+      "question": "Bernoulli's equation is based primarily on conservation of:",
+      "option1": "Energy",
+      "option2": "Mass only",
+      "option3": "Temperature",
+      "option4": "Volume",
+      "answer": "Energy"
+    },
+    {
+      "question": "The Reynolds number is used to characterize:",
+      "option1": "Flow regime",
+      "option2": "Soil classification",
+      "option3": "Concrete grade",
+      "option4": "Road width",
+      "answer": "Flow regime"
+    },
+    {
+      "question": "Flow in a pipe is generally laminar when Reynolds number is:",
+      "option1": "Low",
+      "option2": "Extremely high",
+      "option3": "Infinite",
+      "option4": "Always zero",
+      "answer": "Low"
+    },
+    {
+      "question": "The hydraulic radius of a channel is equal to:",
+      "option1": "Area divided by wetted perimeter",
+      "option2": "Wetted perimeter divided by area",
+      "option3": "Area multiplied by perimeter",
+      "option4": "Depth divided by width",
+      "answer": "Area divided by wetted perimeter"
+    },
+    {
+      "question": "Open channel flow has a free surface exposed to:",
+      "option1": "Atmospheric pressure",
+      "option2": "Vacuum only",
+      "option3": "Steel pressure",
+      "option4": "Soil pressure only",
+      "answer": "Atmospheric pressure"
+    },
+    {
+      "question": "A hydraulic jump is associated with a transition from:",
+      "option1": "Supercritical to subcritical flow",
+      "option2": "Subcritical to supercritical flow",
+      "option3": "Laminar to solid flow",
+      "option4": "Water to ice",
+      "answer": "Supercritical to subcritical flow"
+    },
+    {
+      "question": "The Froude number is particularly important in:",
+      "option1": "Open channel flow",
+      "option2": "Steel design",
+      "option3": "Soil compaction",
+      "option4": "Cement testing",
+      "answer": "Open channel flow"
+    },
+    {
+      "question": "A venturimeter is used to measure:",
+      "option1": "Flow discharge",
+      "option2": "Temperature",
+      "option3": "Soil moisture",
+      "option4": "Rainfall",
+      "answer": "Flow discharge"
+    },
+    {
+      "question": "A manometer is commonly used to measure:",
+      "option1": "Pressure",
+      "option2": "Road width",
+      "option3": "Concrete strength",
+      "option4": "Humidity only",
+      "answer": "Pressure"
+    },
+    {
+      "question": "Water treatment is primarily carried out to:",
+      "option1": "Make water suitable for intended use",
+      "option2": "Increase contamination",
+      "option3": "Increase turbidity",
+      "option4": "Add soil particles",
+      "answer": "Make water suitable for intended use"
+    },
+    {
+      "question": "The pH of neutral water at approximately room temperature is:",
+      "option1": "5",
+      "option2": "6",
+      "option3": "7",
+      "option4": "9",
+      "answer": "7"
+    },
+    {
+      "question": "The process of removing suspended particles by gravity is called:",
+      "option1": "Sedimentation",
+      "option2": "Chlorination",
+      "option3": "Aeration",
+      "option4": "Disinfection",
+      "answer": "Sedimentation"
+    },
+    {
+      "question": "The main purpose of coagulation in water treatment is to:",
+      "option1": "Destabilize fine colloidal particles",
+      "option2": "Increase water hardness",
+      "option3": "Add oxygen only",
+      "option4": "Increase turbidity",
+      "answer": "Destabilize fine colloidal particles"
+    },
+    {
+      "question": "A commonly used coagulant in water treatment is:",
+      "option1": "Alum",
+      "option2": "Sand",
+      "option3": "Gravel",
+      "option4": "Bitumen",
+      "answer": "Alum"
+    },
+    {
+      "question": "Filtration of drinking water is mainly used to remove:",
+      "option1": "Fine suspended particles",
+      "option2": "All dissolved salts",
+      "option3": "All gases",
+      "option4": "All minerals",
+      "answer": "Fine suspended particles"
+    },
+    {
+      "question": "Chlorination is commonly used for:",
+      "option1": "Disinfection",
+      "option2": "Sedimentation",
+      "option3": "Filtration",
+      "option4": "Desalination",
+      "answer": "Disinfection"
+    },
+    {
+      "question": "BOD stands for:",
+      "option1": "Biochemical Oxygen Demand",
+      "option2": "Basic Oxygen Density",
+      "option3": "Biological Organic Drainage",
+      "option4": "Bacterial Oxygen Distribution",
+      "answer": "Biochemical Oxygen Demand"
+    },
+    {
+      "question": "High BOD in wastewater generally indicates:",
+      "option1": "High biodegradable organic pollution",
+      "option2": "Very pure water",
+      "option3": "Low organic matter",
+      "option4": "No microorganisms",
+      "answer": "High biodegradable organic pollution"
+    },
+    {
+      "question": "COD stands for:",
+      "option1": "Chemical Oxygen Demand",
+      "option2": "Chemical Organic Density",
+      "option3": "Controlled Oxygen Drainage",
+      "option4": "Carbon Oxygen Distribution",
+      "answer": "Chemical Oxygen Demand"
+    },
+    {
+      "question": "Sewage primarily consists of:",
+      "option1": "Domestic wastewater",
+      "option2": "Only rainwater",
+      "option3": "Only groundwater",
+      "option4": "Only industrial gases",
+      "answer": "Domestic wastewater"
+    },
+    {
+      "question": "The primary treatment of sewage mainly removes:",
+      "option1": "Settleable solids",
+      "option2": "All dissolved salts",
+      "option3": "All viruses",
+      "option4": "All gases",
+      "answer": "Settleable solids"
+    },
+    {
+      "question": "Secondary sewage treatment is primarily based on:",
+      "option1": "Biological processes",
+      "option2": "Only screening",
+      "option3": "Only grit removal",
+      "option4": "Only chlorination",
+      "answer": "Biological processes"
+    },
+    {
+      "question": "Activated sludge process is a:",
+      "option1": "Biological wastewater treatment process",
+      "option2": "Water storage method",
+      "option3": "Road construction process",
+      "option4": "Soil testing method",
+      "answer": "Biological wastewater treatment process"
+    },
+    {
+      "question": "A septic tank is commonly used for:",
+      "option1": "On-site sewage treatment",
+      "option2": "Road drainage",
+      "option3": "Bridge construction",
+      "option4": "Water reservoir storage",
+      "answer": "On-site sewage treatment"
+    },
+    {
+      "question": "Solid waste management includes:",
+      "option1": "Collection, transportation, processing and disposal",
+      "option2": "Only collection",
+      "option3": "Only burning",
+      "option4": "Only transportation",
+      "answer": "Collection, transportation, processing and disposal"
+    },
+    {
+      "question": "Composting is a biological process used mainly for:",
+      "option1": "Organic waste",
+      "option2": "Steel waste",
+      "option3": "Glass only",
+      "option4": "Concrete rubble only",
+      "answer": "Organic waste"
+    },
+    {
+      "question": "Landfills are used for:",
+      "option1": "Final disposal of solid waste",
+      "option2": "Measuring rainfall",
+      "option3": "Treating drinking water",
+      "option4": "Surveying roads",
+      "answer": "Final disposal of solid waste"
+    },
+    {
+      "question": "Which gas is commonly associated with anaerobic decomposition in landfills?",
+      "option1": "Methane",
+      "option2": "Oxygen",
+      "option3": "Nitrogen only",
+      "option4": "Helium",
+      "answer": "Methane"
+    },
+    {
+      "question": "Which material is commonly recyclable?",
+      "option1": "Glass",
+      "option2": "Contaminated soil only",
+      "option3": "Untreated sewage",
+      "option4": "Smoke",
+      "answer": "Glass"
+    },
+    {
+      "question": "The main purpose of building ventilation is to:",
+      "option1": "Provide fresh air and remove stale air",
+      "option2": "Increase indoor pollution",
+      "option3": "Reduce daylight",
+      "option4": "Increase structural load",
+      "answer": "Provide fresh air and remove stale air"
+    },
+    {
+      "question": "A foundation transfers building loads to:",
+      "option1": "Ground or supporting soil",
+      "option2": "Roof only",
+      "option3": "Windows",
+      "option4": "Doors",
+      "answer": "Ground or supporting soil"
+    },
+    {
+      "question": "Damp proof course is provided to prevent:",
+      "option1": "Moisture penetration",
+      "option2": "Concrete strength",
+      "option3": "Steel reinforcement",
+      "option4": "Roof ventilation",
+      "answer": "Moisture penetration"
+    },
+    {
+      "question": "Lintel is provided over:",
+      "option1": "Door and window openings",
+      "option2": "Foundation soil",
+      "option3": "Road drains",
+      "option4": "Water tanks only",
+      "answer": "Door and window openings"
+    },
+    {
+      "question": "A staircase is primarily provided for:",
+      "option1": "Vertical movement between floors",
+      "option2": "Water storage",
+      "option3": "Drainage",
+      "option4": "Foundation reinforcement",
+      "answer": "Vertical movement between floors"
+    },
+    {
+      "question": "The horizontal part of a stair on which a person steps is called:",
+      "option1": "Tread",
+      "option2": "Riser",
+      "option3": "Stringer",
+      "option4": "Newel",
+      "answer": "Tread"
+    },
+    {
+      "question": "The vertical portion between two consecutive treads is called:",
+      "option1": "Riser",
+      "option2": "Tread",
+      "option3": "Landing",
+      "option4": "Nosing",
+      "answer": "Riser"
+    },
+    {
+      "question": "A lintel mainly carries:",
+      "option1": "Load above an opening",
+      "option2": "Foundation load only",
+      "option3": "Groundwater",
+      "option4": "Road traffic",
+      "answer": "Load above an opening"
+    },
+    {
+      "question": "Plinth level refers to the level:",
+      "option1": "Above ground around a building",
+      "option2": "At roof top only",
+      "option3": "Below foundation only",
+      "option4": "Inside a sewer",
+      "answer": "Above ground around a building"
+    },
+    {
+      "question": "Which material is widely used for masonry construction?",
+      "option1": "Bricks",
+      "option2": "Bitumen only",
+      "option3": "Glass powder only",
+      "option4": "Copper wire",
+      "answer": "Bricks"
+    },
+    {
+      "question": "The frog in a brick is provided mainly to:",
+      "option1": "Improve bond with mortar",
+      "option2": "Increase weight only",
+      "option3": "Reduce wall thickness",
+      "option4": "Prevent all water absorption",
+      "answer": "Improve bond with mortar"
+    },
+    {
+      "question": "Mortar is commonly used to:",
+      "option1": "Bind masonry units",
+      "option2": "Measure soil strength",
+      "option3": "Generate electricity",
+      "option4": "Measure rainfall",
+      "answer": "Bind masonry units"
+    },
+    {
+      "question": "Which type of brick is generally preferred for high-quality masonry?",
+      "option1": "First-class brick",
+      "option2": "Unburnt brick",
+      "option3": "Broken brick",
+      "option4": "Mud lump",
+      "answer": "First-class brick"
+    },
+    {
+      "question": "The process of removing unwanted projections from a masonry wall is called:",
+      "option1": "Pointing",
+      "option2": "Plastering",
+      "option3": "Dressing",
+      "option4": "Curing",
+      "answer": "Dressing"
+    },
+    {
+      "question": "Plastering is mainly done to:",
+      "option1": "Provide a smooth protective surface",
+      "option2": "Increase soil bearing capacity",
+      "option3": "Measure building height",
+      "option4": "Construct foundations",
+      "answer": "Provide a smooth protective surface"
+    },
+    {
+      "question": "Which type of steel is commonly used as reinforcement in RCC?",
+      "option1": "Reinforcement steel",
+      "option2": "Tool steel only",
+      "option3": "Cast iron only",
+      "option4": "Lead",
+      "answer": "Reinforcement steel"
+    },
+    {
+      "question": "The main purpose of reinforcement in RCC is to resist:",
+      "option1": "Tensile stresses",
+      "option2": "Only water pressure",
+      "option3": "Only temperature",
+      "option4": "Only soil pressure",
+      "answer": "Tensile stresses"
+    },
+    {
+      "question": "Clear cover to reinforcement is mainly provided for:",
+      "option1": "Protection against corrosion and fire",
+      "option2": "Increasing brick size",
+      "option3": "Reducing concrete strength",
+      "option4": "Increasing water absorption",
+      "answer": "Protection against corrosion and fire"
+    },
+    {
+      "question": "A slab supported mainly on two opposite sides is called:",
+      "option1": "One-way slab",
+      "option2": "Two-way slab",
+      "option3": "Flat slab",
+      "option4": "Raft slab",
+      "answer": "One-way slab"
+    },
+    {
+      "question": "A slab supported on all four sides may act as a two-way slab when:",
+      "option1": "Its aspect ratio is sufficiently low",
+      "option2": "It has no reinforcement",
+      "option3": "It has no supports",
+      "option4": "It is made only of timber",
+      "answer": "Its aspect ratio is sufficiently low"
+    },
+    {
+      "question": "A beam primarily resists:",
+      "option1": "Bending and shear",
+      "option2": "Only compression",
+      "option3": "Only tension",
+      "option4": "Only temperature",
+      "answer": "Bending and shear"
+    },
+    {
+      "question": "A column in a framed structure primarily carries:",
+      "option1": "Axial load",
+      "option2": "Only roof water",
+      "option3": "Only wind speed",
+      "option4": "Only temperature",
+      "answer": "Axial load"
+    },
+    {
+      "question": "A footing should be designed to ensure that soil pressure does not exceed:",
+      "option1": "Safe bearing capacity",
+      "option2": "Concrete density",
+      "option3": "Steel density",
+      "option4": "Water pressure",
+      "answer": "Safe bearing capacity"
+    },
+    {
+      "question": "Factor of safety is used in engineering design to account for:",
+      "option1": "Uncertainties and variations in loads and strength",
+      "option2": "Paint colour",
+      "option3": "Building appearance only",
+      "option4": "Road traffic signs",
+      "answer": "Uncertainties and variations in loads and strength"
+    },
+    {
+      "question": "The unit weight of a material is defined as:",
+      "option1": "Weight per unit volume",
+      "option2": "Volume per unit weight",
+      "option3": "Mass per unit area",
+      "option4": "Force per unit length only",
+      "answer": "Weight per unit volume"
+    },
+    {
+      "question": "Dead load of a structure includes:",
+      "option1": "Self-weight of structural components",
+      "option2": "Moving vehicles only",
+      "option3": "People only",
+      "option4": "Wind only",
+      "answer": "Self-weight of structural components"
+    },
+    {
+      "question": "Live load generally refers to:",
+      "option1": "Movable or imposed loads",
+      "option2": "Self-weight of beams",
+      "option3": "Weight of foundation soil only",
+      "option4": "Permanent wall weight only",
+      "answer": "Movable or imposed loads"
+    },
+    {
+      "question": "Wind load is classified as:",
+      "option1": "Environmental load",
+      "option2": "Dead load",
+      "option3": "Self-weight",
+      "option4": "Permanent load",
+      "answer": "Environmental load"
+    },
+    {
+      "question": "Earthquake-resistant design primarily aims to:",
+      "option1": "Improve structural safety during seismic events",
+      "option2": "Eliminate all building movement",
+      "option3": "Increase unnecessary dead load",
+      "option4": "Remove foundations",
+      "answer": "Improve structural safety during seismic events"
+    },
+    {
+      "question": "Ductility in structural engineering means the ability of a material to:",
+      "option1": "Undergo significant deformation before failure",
+      "option2": "Fail without deformation",
+      "option3": "Resist only water",
+      "option4": "Remain completely rigid",
+      "answer": "Undergo significant deformation before failure"
+    },
+    {
+      "question": "The centre of gravity of a uniform rectangular plate is at:",
+      "option1": "Its geometric centre",
+      "option2": "One corner",
+      "option3": "One edge",
+      "option4": "Outside the plate",
+      "answer": "Its geometric centre"
+    },
+    {
+      "question": "The moment of a force about a point equals:",
+      "option1": "Force multiplied by perpendicular distance",
+      "option2": "Force divided by distance",
+      "option3": "Distance divided by force",
+      "option4": "Force plus distance",
+      "answer": "Force multiplied by perpendicular distance"
+    },
+    {
+      "question": "The SI unit of bending moment is:",
+      "option1": "N-m",
+      "option2": "N/m²",
+      "option3": "N/m",
+      "option4": "Pa",
+      "answer": "N-m"
+    },
+    {
+      "question": "A structure is in static equilibrium when:",
+      "option1": "Resultant force and moment are zero",
+      "option2": "Only force is maximum",
+      "option3": "Only moment is maximum",
+      "option4": "Velocity is maximum",
+      "answer": "Resultant force and moment are zero"
+    },
+    {
+      "question": "The principle of virtual work is used in structural analysis to:",
+      "option1": "Determine responses such as displacement",
+      "option2": "Measure rainfall",
+      "option3": "Test cement fineness",
+      "option4": "Determine water hardness",
+      "answer": "Determine responses such as displacement"
+    },
+    {
+      "question": "A truss is generally composed of:",
+      "option1": "Straight members connected at joints",
+      "option2": "Only curved plates",
+      "option3": "Only concrete walls",
+      "option4": "Only soil layers",
+      "answer": "Straight members connected at joints"
+    },
+    {
+      "question": "In an ideal pin-jointed truss, members primarily carry:",
+      "option1": "Axial forces",
+      "option2": "Pure bending",
+      "option3": "Torsion only",
+      "option4": "Hydrostatic pressure",
+      "answer": "Axial forces"
+    },
+    {
+      "question": "A member subjected to pulling force in a truss is in:",
+      "option1": "Tension",
+      "option2": "Compression",
+      "option3": "Bending",
+      "option4": "Torsion",
+      "answer": "Tension"
+    },
+    {
+      "question": "A member subjected to pushing force in a truss is in:",
+      "option1": "Compression",
+      "option2": "Tension",
+      "option3": "Shear only",
+      "option4": "Bending only",
+      "answer": "Compression"
+    },
+    {
+      "question": "The torsional moment acting on a shaft is called:",
+      "option1": "Torque",
+      "option2": "Shear force",
+      "option3": "Bending moment",
+      "option4": "Axial force",
+      "answer": "Torque"
+    },
+    {
+      "question": "A circular shaft subjected to torque develops primarily:",
+      "option1": "Shear stress",
+      "option2": "Compressive stress only",
+      "option3": "Tensile stress only",
+      "option4": "Thermal stress only",
+      "answer": "Shear stress"
+    },
+    {
+      "question": "The ability of a material to absorb energy before fracture is related to:",
+      "option1": "Toughness",
+      "option2": "Brittleness",
+      "option3": "Hardness only",
+      "option4": "Density",
+      "answer": "Toughness"
+    },
+    {
+      "question": "Hardness of a material indicates resistance to:",
+      "option1": "Indentation or scratching",
+      "option2": "Water flow",
+      "option3": "Rainfall",
+      "option4": "Electrical current only",
+      "answer": "Indentation or scratching"
+    },
+    {
+      "question": "The ability of a material to undergo plastic deformation in tension is called:",
+      "option1": "Ductility",
+      "option2": "Brittleness",
+      "option3": "Elasticity",
+      "option4": "Hardness",
+      "answer": "Ductility"
+    },
+    {
+      "question": "Elasticity is the ability of a material to:",
+      "option1": "Return to original shape after removal of load",
+      "option2": "Remain permanently deformed",
+      "option3": "Break immediately",
+      "option4": "Absorb water",
+      "answer": "Return to original shape after removal of load"
+    },
+    {
+      "question": "Creep is:",
+      "option1": "Time-dependent deformation under sustained load",
+      "option2": "Sudden brittle failure",
+      "option3": "Loss of soil particles",
+      "option4": "Water evaporation",
+      "answer": "Time-dependent deformation under sustained load"
+    },
+    {
+      "question": "Shrinkage in concrete occurs mainly due to:",
+      "option1": "Loss of moisture",
+      "option2": "Increase in aggregate size",
+      "option3": "Increase in reinforcement",
+      "option4": "Increase in air pressure",
+      "answer": "Loss of moisture"
+    },
+    {
+      "question": "The water-cement ratio strongly influences:",
+      "option1": "Concrete strength and workability",
+      "option2": "Steel colour",
+      "option3": "Brick shape only",
+      "option4": "Road alignment only",
+      "answer": "Concrete strength and workability"
+    },
+    {
+      "question": "As the water-cement ratio increases excessively, concrete strength generally:",
+      "option1": "Decreases",
+      "option2": "Increases indefinitely",
+      "option3": "Remains exactly constant",
+      "option4": "Becomes zero immediately",
+      "answer": "Decreases"
+    },
+    {
+      "question": "A concrete cube compression test is used to determine:",
+      "option1": "Compressive strength",
+      "option2": "Water absorption of soil",
+      "option3": "Road gradient",
+      "option4": "Rainfall intensity",
+      "answer": "Compressive strength"
+    },
+    {
+      "question": "The standard age commonly used for specifying characteristic compressive strength of concrete is:",
+      "option1": "7 days",
+      "option2": "14 days",
+      "option3": "28 days",
+      "option4": "90 days",
+      "answer": "28 days"
+    },
+    {
+      "question": "Segregation in concrete means:",
+      "option1": "Separation of concrete constituents",
+      "option2": "Hydration of cement",
+      "option3": "Hardening of steel",
+      "option4": "Drying of bricks",
+      "answer": "Separation of concrete constituents"
+    },
+    {
+      "question": "Bleeding in concrete refers to:",
+      "option1": "Upward movement of water to the surface",
+      "option2": "Loss of cement by wind",
+      "option3": "Breaking of aggregate",
+      "option4": "Expansion of steel",
+      "answer": "Upward movement of water to the surface"
+    },
+    {
+      "question": "Compaction of fresh concrete is done mainly to:",
+      "option1": "Remove entrapped air",
+      "option2": "Increase air voids",
+      "option3": "Reduce cement hydration",
+      "option4": "Increase segregation",
+      "answer": "Remove entrapped air"
+    },
+    {
+      "question": "A concrete vibrator is used for:",
+      "option1": "Compaction",
+      "option2": "Mixing cement chemically",
+      "option3": "Measuring temperature",
+      "option4": "Testing soil",
+      "answer": "Compaction"
+    },
+    {
+      "question": "The process of arranging construction activities in a logical time sequence is called:",
+      "option1": "Scheduling",
+      "option2": "Surveying",
+      "option3": "Levelling",
+      "option4": "Plastering",
+      "answer": "Scheduling"
+    },
+    {
+      "question": "CPM stands for:",
+      "option1": "Critical Path Method",
+      "option2": "Construction Planning Measure",
+      "option3": "Concrete Performance Method",
+      "option4": "Cost Planning Model",
+      "answer": "Critical Path Method"
+    },
+    {
+      "question": "PERT stands for:",
+      "option1": "Program Evaluation and Review Technique",
+      "option2": "Project Engineering Road Technique",
+      "option3": "Planning Evaluation Road Test",
+      "option4": "Project Estimation Review Table",
+      "answer": "Program Evaluation and Review Technique"
+    },
+    {
+      "question": "The critical path in a project is the path with:",
+      "option1": "Longest total duration",
+      "option2": "Shortest duration always",
+      "option3": "No activities",
+      "option4": "Only one activity",
+      "answer": "Longest total duration"
+    },
+    {
+      "question": "Float in project management represents:",
+      "option1": "Allowable delay without affecting a specified project condition",
+      "option2": "Concrete strength",
+      "option3": "Water pressure",
+      "option4": "Soil density",
+      "answer": "Allowable delay without affecting a specified project condition"
+    },
+    {
+      "question": "A bar chart used for project scheduling is commonly called:",
+      "option1": "Gantt chart",
+      "option2": "Pie chart",
+      "option3": "Histogram only",
+      "option4": "Contour chart",
+      "answer": "Gantt chart"
+    },
+    {
+      "question": "An estimate prepared before construction to determine approximate cost is called:",
+      "option1": "Preliminary estimate",
+      "option2": "Final bill",
+      "option3": "Measurement book",
+      "option4": "Completion certificate",
+      "answer": "Preliminary estimate"
+    },
+    {
+      "question": "A detailed estimate is generally based on:",
+      "option1": "Detailed quantities and rates",
+      "option2": "Guesswork only",
+      "option3": "Weather forecast only",
+      "option4": "Population only",
+      "answer": "Detailed quantities and rates"
+    },
+    {
+      "question": "The document recording measurements of completed work is called:",
+      "option1": "Measurement Book",
+      "option2": "Logarithm table",
+      "option3": "Weather register",
+      "option4": "Soil map",
+      "answer": "Measurement Book"
+    },
+    {
+      "question": "Rate analysis is used to determine:",
+      "option1": "Unit cost of an item of work",
+      "option2": "Rainfall intensity",
+      "option3": "Soil classification only",
+      "option4": "Bridge span only",
+      "answer": "Unit cost of an item of work"
+    },
+    {
+      "question": "A tender is generally an invitation to:",
+      "option1": "Submit an offer for executing specified work",
+      "option2": "Measure rainfall",
+      "option3": "Test concrete",
+      "option4": "Survey a river",
+      "answer": "Submit an offer for executing specified work"
+    },
+    {
+      "question": "Quality control in construction aims to:",
+      "option1": "Ensure work meets specified requirements",
+      "option2": "Increase defects",
+      "option3": "Reduce inspection",
+      "option4": "Ignore specifications",
+      "answer": "Ensure work meets specified requirements"
+    },
+    {
+      "question": "Safety management at a construction site is primarily intended to:",
+      "option1": "Prevent accidents and injuries",
+      "option2": "Increase hazards",
+      "option3": "Reduce protective equipment",
+      "option4": "Ignore unsafe conditions",
+      "answer": "Prevent accidents and injuries"
+    },
+    {
+      "question": "Personal protective equipment is abbreviated as:",
+      "option1": "PPE",
+      "option2": "PPC",
+      "option3": "PQM",
+      "option4": "PMS",
+      "answer": "PPE"
+    },
+    {
+      "question": "A helmet at a construction site primarily protects the:",
+      "option1": "Head",
+      "option2": "Feet",
+      "option3": "Hands",
+      "option4": "Eyes only",
+      "answer": "Head"
+    },
+    {
+      "question": "Which Telangana river is a major tributary of the Krishna?",
+      "option1": "Musi",
+      "option2": "Maner",
+      "option3": "Munneru",
+      "option4": "Bhima",
+      "answer": "Munneru"
+    },
+    {
+      "question": "The Musi River flows through:",
+      "option1": "Hyderabad",
+      "option2": "Warangal only",
+      "option3": "Adilabad only",
+      "option4": "Nizamabad only",
+      "answer": "Hyderabad"
+    },
+    {
+      "question": "Hyderabad is situated on the banks of the:",
+      "option1": "Musi River",
+      "option2": "Godavari River",
+      "option3": "Krishna River",
+      "option4": "Pranahita River",
+      "answer": "Musi River"
+    },
+    {
+      "question": "The Godavari is one of the major rivers flowing through:",
+      "option1": "Telangana",
+      "option2": "Punjab only",
+      "option3": "Rajasthan only",
+      "option4": "Kerala only",
+      "answer": "Telangana"
+    },
+    {
+      "question": "The Krishna River forms an important river system in:",
+      "option1": "Southern India",
+      "option2": "Northern India only",
+      "option3": "Northeastern India only",
+      "option4": "Western Himalayas only",
+      "answer": "Southern India"
+    },
+    {
+      "question": "The capital city of Telangana is:",
+      "option1": "Hyderabad",
+      "option2": "Warangal",
+      "option3": "Nizamabad",
+      "option4": "Karimnagar",
+      "answer": "Hyderabad"
+    },
+    {
+      "question": "Telangana became a separate state on:",
+      "option1": "2 June 2014",
+      "option2": "15 August 2014",
+      "option3": "1 November 1956",
+      "option4": "26 January 2015",
+      "answer": "2 June 2014"
+    },
+    {
+      "question": "Telangana is the:",
+      "option1": "29th state formed in 2014",
+      "option2": "25th state formed in 2000",
+      "option3": "28th state formed in 2010",
+      "option4": "30th state formed in 2016",
+      "answer": "29th state formed in 2014"
+    },
+    {
+      "question": "The Telangana state formation movement was primarily associated with the demand for:",
+      "option1": "A separate Telangana state",
+      "option2": "A new national capital",
+      "option3": "A separate currency",
+      "option4": "A new constitution",
+      "answer": "A separate Telangana state"
+    },
+    {
+      "question": "The Telangana region was part of Hyderabad State before the:",
+      "option1": "States Reorganisation",
+      "option2": "Green Revolution",
+      "option3": "Industrial Revolution",
+      "option4": "Economic Liberalisation",
+      "answer": "States Reorganisation"
+    },
+    {
+      "question": "The States Reorganisation Act came into effect in:",
+      "option1": "1956",
+      "option2": "1947",
+      "option3": "1969",
+      "option4": "1975",
+      "answer": "1956"
+    },
+    {
+      "question": "The Gentlemen's Agreement was associated with:",
+      "option1": "Formation of Andhra Pradesh",
+      "option2": "Formation of Telangana in 2014",
+      "option3": "Indian independence",
+      "option4": "Green Revolution",
+      "answer": "Formation of Andhra Pradesh"
+    },
+    {
+      "question": "The Mulki rules were historically associated with:",
+      "option1": "Local employment in Hyderabad State",
+      "option2": "Forest conservation",
+      "option3": "Irrigation projects",
+      "option4": "Banking reforms",
+      "answer": "Local employment in Hyderabad State"
+    },
+    {
+      "question": "The 1969 movement in Telangana is commonly known as:",
+      "option1": "Jai Telangana movement",
+      "option2": "Quit India movement",
+      "option3": "Swadeshi movement",
+      "option4": "Green movement",
+      "answer": "Jai Telangana movement"
+    },
+    {
+      "question": "The major mass movement leading to the formation of Telangana state intensified during:",
+      "option1": "2000s and early 2010s",
+      "option2": "1880s",
+      "option3": "1920s",
+      "option4": "1940s only",
+      "answer": "2000s and early 2010s"
+    },
+    {
+      "question": "Bathukamma is a major festival associated with:",
+      "option1": "Telangana",
+      "option2": "Punjab",
+      "option3": "Goa",
+      "option4": "Kerala",
+      "answer": "Telangana"
+    },
+    {
+      "question": "Bonalu is a traditional festival prominently celebrated in:",
+      "option1": "Telangana",
+      "option2": "Himachal Pradesh",
+      "option3": "Bihar",
+      "option4": "Assam",
+      "answer": "Telangana"
+    },
+    {
+      "question": "Perini Shivatandavam is a traditional dance associated with:",
+      "option1": "Telangana",
+      "option2": "Odisha",
+      "option3": "Manipur",
+      "option4": "Gujarat",
+      "answer": "Telangana"
+    },
+    {
+      "question": "The Ramappa Temple is located in:",
+      "option1": "Palampet",
+      "option2": "Hyderabad",
+      "option3": "Nizamabad",
+      "option4": "Adilabad",
+      "answer": "Palampet"
+    },
+    {
+      "question": "The Ramappa Temple is associated with the:",
+      "option1": "Kakatiya period",
+      "option2": "Mauryan period",
+      "option3": "Gupta period",
+      "option4": "Mughal period",
+      "answer": "Kakatiya period"
+    },
+    {
+      "question": "Warangal was an important capital of the:",
+      "option1": "Kakatiyas",
+      "option2": "Mauryas",
+      "option3": "Cholas",
+      "option4": "Pallavas",
+      "answer": "Kakatiyas"
+    },
+    {
+      "question": "The Thousand Pillar Temple is located at:",
+      "option1": "Hanamkonda",
+      "option2": "Karimnagar",
+      "option3": "Khammam",
+      "option4": "Nalgonda",
+      "answer": "Hanamkonda"
+    },
+    {
+      "question": "The Charminar is located in:",
+      "option1": "Hyderabad",
+      "option2": "Warangal",
+      "option3": "Medak",
+      "option4": "Nalgonda",
+      "answer": "Hyderabad"
+    },
+    {
+      "question": "The Charminar was built during the rule of:",
+      "option1": "Muhammad Quli Qutb Shah",
+      "option2": "Aurangzeb",
+      "option3": "Akbar",
+      "option4": "Ibrahim Lodi",
+      "answer": "Muhammad Quli Qutb Shah"
+    },
+    {
+      "question": "Golconda Fort is historically associated with the:",
+      "option1": "Qutb Shahi dynasty",
+      "option2": "Mauryan dynasty",
+      "option3": "Gupta dynasty",
+      "option4": "Chola dynasty",
+      "answer": "Qutb Shahi dynasty"
+    },
+    {
+      "question": "The famous Koh-i-Noor diamond has historical connections with the:",
+      "option1": "Golconda region",
+      "option2": "Konkan region",
+      "option3": "Malwa region only",
+      "option4": "Kashmir valley only",
+      "answer": "Golconda region"
+    },
+    {
+      "question": "The Telangana Legislative Assembly is located in:",
+      "option1": "Hyderabad",
+      "option2": "Warangal",
+      "option3": "Karimnagar",
+      "option4": "Khammam",
+      "answer": "Hyderabad"
+    },
+    {
+      "question": "The Governor of a state is appointed by the:",
+      "option1": "President of India",
+      "option2": "Chief Minister",
+      "option3": "State Assembly",
+      "option4": "Chief Justice of the High Court",
+      "answer": "President of India"
+    },
+    {
+      "question": "The constitutional head of a state is the:",
+      "option1": "Governor",
+      "option2": "Chief Minister",
+      "option3": "Speaker",
+      "option4": "Chief Secretary",
+      "answer": "Governor"
+    },
+    {
+      "question": "The real executive authority in a state is exercised by the:",
+      "option1": "Chief Minister and Council of Ministers",
+      "option2": "Governor alone",
+      "option3": "Speaker alone",
+      "option4": "Chief Justice alone",
+      "answer": "Chief Minister and Council of Ministers"
+    },
+    {
+      "question": "The High Court serving Telangana is located in:",
+      "option1": "Hyderabad",
+      "option2": "Warangal",
+      "option3": "Vijayawada",
+      "option4": "Karimnagar",
+      "answer": "Hyderabad"
+    },
+    {
+      "question": "The fundamental law of India is the:",
+      "option1": "Constitution",
+      "option2": "Indian Penal Code",
+      "option3": "Companies Act",
+      "option4": "Budget",
+      "answer": "Constitution"
+    },
+    {
+      "question": "The Constitution of India came into force on:",
+      "option1": "26 January 1950",
+      "option2": "15 August 1947",
+      "option3": "26 November 1949",
+      "option4": "2 June 2014",
+      "answer": "26 January 1950"
+    },
+    {
+      "question": "The Constitution of India was adopted on:",
+      "option1": "26 November 1949",
+      "option2": "15 August 1947",
+      "option3": "26 January 1950",
+      "option4": "2 October 1950",
+      "answer": "26 November 1949"
+    },
+    {
+      "question": "Fundamental Rights are contained in:",
+      "option1": "Part III of the Constitution",
+      "option2": "Part I",
+      "option3": "Part V",
+      "option4": "Part IX only",
+      "answer": "Part III of the Constitution"
+    },
+    {
+      "question": "Directive Principles of State Policy are contained in:",
+      "option1": "Part IV",
+      "option2": "Part II",
+      "option3": "Part VI",
+      "option4": "Part X",
+      "answer": "Part IV"
+    },
+    {
+      "question": "Fundamental Duties are included in:",
+      "option1": "Article 51A",
+      "option2": "Article 14",
+      "option3": "Article 21",
+      "option4": "Article 32",
+      "answer": "Article 51A"
+    },
+    {
+      "question": "The Right to Equality is primarily covered under:",
+      "option1": "Articles 14 to 18",
+      "option2": "Articles 19 to 22",
+      "option3": "Articles 25 to 28",
+      "option4": "Articles 29 to 32",
+      "answer": "Articles 14 to 18"
+    },
+    {
+      "question": "The Right to Constitutional Remedies is associated with:",
+      "option1": "Article 32",
+      "option2": "Article 14",
+      "option3": "Article 19",
+      "option4": "Article 51A",
+      "answer": "Article 32"
+    },
+    {
+      "question": "The Supreme Court of India is the:",
+      "option1": "Highest judicial court in India",
+      "option2": "Highest executive body",
+      "option3": "State legislature",
+      "option4": "Election commission",
+      "answer": "Highest judicial court in India"
+    },
+    {
+      "question": "The Election Commission of India is responsible for conducting:",
+      "option1": "Elections to Parliament and state legislatures",
+      "option2": "University examinations",
+      "option3": "Civil engineering tests",
+      "option4": "Driving tests",
+      "answer": "Elections to Parliament and state legislatures"
+    },
+    {
+      "question": "The Comptroller and Auditor General of India primarily audits:",
+      "option1": "Government accounts",
+      "option2": "Private family budgets",
+      "option3": "School examinations",
+      "option4": "Weather records",
+      "answer": "Government accounts"
+    },
+    {
+      "question": "The Finance Commission is constituted under:",
+      "option1": "Article 280",
+      "option2": "Article 32",
+      "option3": "Article 14",
+      "option4": "Article 356",
+      "answer": "Article 280"
+    },
+    {
+      "question": "The Panchayati Raj system is associated with:",
+      "option1": "Local self-government in rural areas",
+      "option2": "Central banking",
+      "option3": "Judicial review",
+      "option4": "Foreign affairs",
+      "answer": "Local self-government in rural areas"
+    },
+    {
+      "question": "The 73rd Constitutional Amendment relates to:",
+      "option1": "Panchayati Raj institutions",
+      "option2": "Municipalities",
+      "option3": "Fundamental Duties",
+      "option4": "Emergency provisions",
+      "answer": "Panchayati Raj institutions"
+    },
+    {
+      "question": "The 74th Constitutional Amendment relates to:",
+      "option1": "Urban local bodies",
+      "option2": "Panchayats",
+      "option3": "Fundamental Rights",
+      "option4": "Finance Commission",
+      "answer": "Urban local bodies"
+    },
+    {
+      "question": "The Gram Panchayat functions mainly at the:",
+      "option1": "Village level",
+      "option2": "District level only",
+      "option3": "State level",
+      "option4": "National level",
+      "answer": "Village level"
+    },
+    {
+      "question": "The district-level rural local government institution is generally called:",
+      "option1": "Zilla Parishad",
+      "option2": "Gram Sabha",
+      "option3": "Municipal Corporation",
+      "option4": "Rajya Sabha",
+      "answer": "Zilla Parishad"
+    },
+    {
+      "question": "The basic objective of public administration is to:",
+      "option1": "Implement public policies and provide services",
+      "option2": "Maximize private profit only",
+      "option3": "Eliminate public services",
+      "option4": "Control rainfall",
+      "answer": "Implement public policies and provide services"
+    },
+    {
+      "question": "E-governance refers to the use of:",
+      "option1": "Information and communication technology in governance",
+      "option2": "Only paper records",
+      "option3": "Only manual accounting",
+      "option4": "Only traditional communication",
+      "answer": "Information and communication technology in governance"
+    },
+    {
+      "question": "RTI stands for:",
+      "option1": "Right to Information",
+      "option2": "Right to Inspection",
+      "option3": "Regional Technology Initiative",
+      "option4": "Rural Training Institution",
+      "answer": "Right to Information"
+    },
+    {
+      "question": "The Right to Information Act in India was enacted in:",
+      "option1": "2005",
+      "option2": "1991",
+      "option3": "2010",
+      "option4": "2014",
+      "answer": "2005"
+    },
+    {
+      "question": "The main purpose of the RTI Act is to promote:",
+      "option1": "Transparency and accountability",
+      "option2": "Secrecy in administration",
+      "option3": "Private ownership",
+      "option4": "Tax exemption",
+      "answer": "Transparency and accountability"
+    },
+    {
+      "question": "GDP stands for:",
+      "option1": "Gross Domestic Product",
+      "option2": "General Development Plan",
+      "option3": "Gross Development Price",
+      "option4": "Government Domestic Policy",
+      "answer": "Gross Domestic Product"
+    },
+    {
+      "question": "Inflation means:",
+      "option1": "General rise in price levels",
+      "option2": "General fall in prices only",
+      "option3": "Increase in rainfall",
+      "option4": "Decrease in population",
+      "answer": "General rise in price levels"
+    },
+    {
+      "question": "The Reserve Bank of India is India's:",
+      "option1": "Central bank",
+      "option2": "Supreme court",
+      "option3": "Election body",
+      "option4": "Planning department",
+      "answer": "Central bank"
+    },
+    {
+      "question": "The main function of the RBI includes:",
+      "option1": "Monetary policy and currency management",
+      "option2": "Conducting school exams",
+      "option3": "Building highways",
+      "option4": "Managing forests",
+      "answer": "Monetary policy and currency management"
+    },
+    {
+      "question": "Fiscal policy primarily deals with:",
+      "option1": "Government revenue and expenditure",
+      "option2": "Rainfall measurement",
+      "option3": "Soil classification",
+      "option4": "Building design only",
+      "answer": "Government revenue and expenditure"
+    },
+    {
+      "question": "Monetary policy is primarily concerned with:",
+      "option1": "Money supply and interest rates",
+      "option2": "Road construction",
+      "option3": "Forest management",
+      "option4": "Building materials",
+      "answer": "Money supply and interest rates"
+    },
+    {
+      "question": "NITI Aayog replaced the:",
+      "option1": "Planning Commission",
+      "option2": "Finance Commission",
+      "option3": "Election Commission",
+      "option4": "Union Public Service Commission",
+      "answer": "Planning Commission"
+    },
+    {
+      "question": "The Green Revolution primarily increased production of:",
+      "option1": "Food grains",
+      "option2": "Coal",
+      "option3": "Steel",
+      "option4": "Petroleum",
+      "answer": "Food grains"
+    },
+    {
+      "question": "Which sector includes agriculture?",
+      "option1": "Primary sector",
+      "option2": "Secondary sector",
+      "option3": "Tertiary sector",
+      "option4": "Quaternary sector only",
+      "answer": "Primary sector"
+    },
+    {
+      "question": "Manufacturing belongs mainly to the:",
+      "option1": "Secondary sector",
+      "option2": "Primary sector",
+      "option3": "Tertiary sector",
+      "option4": "Household sector only",
+      "answer": "Secondary sector"
+    },
+    {
+      "question": "Banking and transport are generally part of the:",
+      "option1": "Tertiary sector",
+      "option2": "Primary sector",
+      "option3": "Secondary sector",
+      "option4": "Agricultural sector",
+      "answer": "Tertiary sector"
+    },
+    {
+      "question": "Which crop is widely grown in Telangana?",
+      "option1": "Cotton",
+      "option2": "Tea",
+      "option3": "Coffee",
+      "option4": "Rubber",
+      "answer": "Cotton"
+    },
+    {
+      "question": "Rice is primarily a:",
+      "option1": "Kharif crop",
+      "option2": "Rabi crop only",
+      "option3": "Zaid crop only",
+      "option4": "Plantation crop",
+      "answer": "Kharif crop"
+    },
+    {
+      "question": "Wheat is primarily a:",
+      "option1": "Rabi crop",
+      "option2": "Kharif crop",
+      "option3": "Plantation crop",
+      "option4": "Forest crop",
+      "answer": "Rabi crop"
+    },
+    {
+      "question": "Black soil is particularly suitable for:",
+      "option1": "Cotton",
+      "option2": "Tea",
+      "option3": "Rubber",
+      "option4": "Coconut only",
+      "answer": "Cotton"
+    },
+    {
+      "question": "Red soils generally obtain their colour from:",
+      "option1": "Iron compounds",
+      "option2": "Calcium carbonate only",
+      "option3": "Salt",
+      "option4": "Organic carbon only",
+      "answer": "Iron compounds"
+    },
+    {
+      "question": "Afforestation means:",
+      "option1": "Planting trees on land without adequate forest cover",
+      "option2": "Removing all forests",
+      "option3": "Building roads in forests",
+      "option4": "Mining coal",
+      "answer": "Planting trees on land without adequate forest cover"
+    },
+    {
+      "question": "Deforestation can lead to:",
+      "option1": "Soil erosion",
+      "option2": "Increased forest cover",
+      "option3": "Reduced runoff always",
+      "option4": "Increased biodiversity always",
+      "answer": "Soil erosion"
+    },
+    {
+      "question": "The main cause of acid rain is associated with emissions of:",
+      "option1": "Sulphur dioxide and nitrogen oxides",
+      "option2": "Oxygen only",
+      "option3": "Helium",
+      "option4": "Hydrogen only",
+      "answer": "Sulphur dioxide and nitrogen oxides"
+    },
+    {
+      "question": "The ozone layer is mainly located in the:",
+      "option1": "Stratosphere",
+      "option2": "Troposphere",
+      "option3": "Mesosphere",
+      "option4": "Thermosphere",
+      "answer": "Stratosphere"
+    },
+    {
+      "question": "The greenhouse gas most commonly associated with fossil fuel combustion is:",
+      "option1": "Carbon dioxide",
+      "option2": "Helium",
+      "option3": "Neon",
+      "option4": "Argon",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "question": "Renewable energy includes:",
+      "option1": "Solar energy",
+      "option2": "Coal",
+      "option3": "Petroleum",
+      "option4": "Natural gas",
+      "answer": "Solar energy"
+    },
+    {
+      "question": "Solar photovoltaic cells convert solar energy into:",
+      "option1": "Electrical energy",
+      "option2": "Chemical energy only",
+      "option3": "Mechanical energy directly",
+      "option4": "Sound energy",
+      "answer": "Electrical energy"
+    },
+    {
+      "question": "Hydroelectric power is generated using:",
+      "option1": "Energy of flowing or falling water",
+      "option2": "Coal combustion only",
+      "option3": "Wind pressure only",
+      "option4": "Nuclear fission only",
+      "answer": "Energy of flowing or falling water"
+    },
+    {
+      "question": "Wind turbines convert wind energy mainly into:",
+      "option1": "Electrical energy",
+      "option2": "Chemical energy",
+      "option3": "Nuclear energy",
+      "option4": "Thermal energy only",
+      "answer": "Electrical energy"
+    },
+    {
+      "question": "Which is an example of a non-renewable energy source?",
+      "option1": "Coal",
+      "option2": "Solar",
+      "option3": "Wind",
+      "option4": "Hydropower",
+      "answer": "Coal"
+    },
+    {
+      "question": "The unit of electrical power is:",
+      "option1": "Watt",
+      "option2": "Volt",
+      "option3": "Ampere",
+      "option4": "Ohm",
+      "answer": "Watt"
+    },
+    {
+      "question": "The SI unit of electrical resistance is:",
+      "option1": "Ohm",
+      "option2": "Volt",
+      "option3": "Ampere",
+      "option4": "Watt",
+      "answer": "Ohm"
+    },
+    {
+      "question": "Ohm's law states that, at constant physical conditions:",
+      "option1": "V = IR",
+      "option2": "V = I/R",
+      "option3": "I = VR",
+      "option4": "R = VI",
+      "answer": "V = IR"
+    },
+    {
+      "question": "A transformer operates on the principle of:",
+      "option1": "Electromagnetic induction",
+      "option2": "Electrolysis",
+      "option3": "Thermal expansion",
+      "option4": "Chemical reaction",
+      "answer": "Electromagnetic induction"
+    },
+    {
+      "question": "A device used to protect an electrical circuit from excessive current is:",
+      "option1": "Fuse",
+      "option2": "Transformer",
+      "option3": "Motor",
+      "option4": "Generator",
+      "answer": "Fuse"
+    },
+    {
+      "question": "The unit of frequency is:",
+      "option1": "Hertz",
+      "option2": "Watt",
+      "option3": "Joule",
+      "option4": "Newton",
+      "answer": "Hertz"
+    },
+    {
+      "question": "Which device converts mechanical energy into electrical energy?",
+      "option1": "Generator",
+      "option2": "Motor",
+      "option3": "Transformer",
+      "option4": "Rectifier",
+      "answer": "Generator"
+    },
+    {
+      "question": "Which device converts electrical energy into mechanical energy?",
+      "option1": "Motor",
+      "option2": "Generator",
+      "option3": "Transformer",
+      "option4": "Battery",
+      "answer": "Motor"
+    },
+    {
+      "question": "A diode primarily allows current to flow:",
+      "option1": "Mainly in one direction",
+      "option2": "Equally in all directions",
+      "option3": "Only through air",
+      "option4": "Only under zero voltage",
+      "answer": "Mainly in one direction"
+    },
+    {
+      "question": "A microprocessor is primarily used for:",
+      "option1": "Processing instructions and data",
+      "option2": "Measuring rainfall",
+      "option3": "Testing soil",
+      "option4": "Producing cement",
+      "answer": "Processing instructions and data"
+    },
+    {
+      "question": "CAD stands for:",
+      "option1": "Computer-Aided Design",
+      "option2": "Central Architecture Development",
+      "option3": "Computer Analysis Department",
+      "option4": "Construction Application Design",
+      "answer": "Computer-Aided Design"
+    },
+    {
+      "question": "AutoCAD is commonly used for:",
+      "option1": "Computer-aided drafting and design",
+      "option2": "Water purification",
+      "option3": "Concrete curing",
+      "option4": "Soil compaction",
+      "answer": "Computer-aided drafting and design"
+    },
+    {
+      "question": "BIM stands for:",
+      "option1": "Building Information Modeling",
+      "option2": "Building Inspection Method",
+      "option3": "Basic Infrastructure Measurement",
+      "option4": "Bridge Information Management",
+      "answer": "Building Information Modeling"
+    },
+    {
+      "question": "BIM is mainly used to:",
+      "option1": "Manage digital information about built assets",
+      "option2": "Measure rainfall",
+      "option3": "Test soil permeability",
+      "option4": "Measure electrical resistance",
+      "answer": "Manage digital information about built assets"
+    },
+    {
+      "question": "Which organization is responsible for standards development in India?",
+      "option1": "Bureau of Indian Standards",
+      "option2": "Reserve Bank of India",
+      "option3": "Election Commission",
+      "option4": "NITI Aayog",
+      "answer": "Bureau of Indian Standards"
+    },
+    {
+      "question": "BIS stands for:",
+      "option1": "Bureau of Indian Standards",
+      "option2": "Board of Indian Surveys",
+      "option3": "Building Inspection Service",
+      "option4": "Bureau of Infrastructure Studies",
+      "answer": "Bureau of Indian Standards"
+    },
+    {
+      "question": "IS codes are published by:",
+      "option1": "Bureau of Indian Standards",
+      "option2": "RBI",
+      "option3": "SEBI",
+      "option4": "UPSC",
+      "answer": "Bureau of Indian Standards"
+    },
+    {
+      "question": "IS 456 is associated with:",
+      "option1": "Plain and reinforced concrete",
+      "option2": "Steel bridges only",
+      "option3": "Highway traffic signals",
+      "option4": "Water treatment only",
+      "answer": "Plain and reinforced concrete"
+    },
+    {
+      "question": "IS 800 is associated with:",
+      "option1": "General construction in steel",
+      "option2": "Concrete mix design only",
+      "option3": "Water supply",
+      "option4": "Soil classification only",
+      "answer": "General construction in steel"
+    },
+    {
+      "question": "IS 875 primarily deals with:",
+      "option1": "Design loads for buildings and structures",
+      "option2": "Water quality",
+      "option3": "Brick testing only",
+      "option4": "Surveying instruments",
+      "answer": "Design loads for buildings and structures"
+    },
+    {
+      "question": "IS 1893 is primarily associated with:",
+      "option1": "Earthquake-resistant design",
+      "option2": "Water treatment",
+      "option3": "Road drainage",
+      "option4": "Concrete curing",
+      "answer": "Earthquake-resistant design"
+    },
+    {
+      "question": "IS 10262 is commonly associated with:",
+      "option1": "Concrete mix proportioning",
+      "option2": "Bridge bearings",
+      "option3": "Road traffic signs",
+      "option4": "Soil classification",
+      "answer": "Concrete mix proportioning"
+    },
+    {
+      "question": "The main objective of sustainable construction is to:",
+      "option1": "Reduce environmental impact while meeting functional needs",
+      "option2": "Increase waste generation",
+      "option3": "Increase energy consumption",
+      "option4": "Avoid resource efficiency",
+      "answer": "Reduce environmental impact while meeting functional needs"
+    },
+    {
+      "question": "Rainwater harvesting is intended to:",
+      "option1": "Collect and use or recharge rainwater",
+      "option2": "Increase stormwater pollution",
+      "option3": "Prevent groundwater recharge",
+      "option4": "Increase water wastage",
+      "answer": "Collect and use or recharge rainwater"
+    },
+    {
+      "question": "Groundwater recharge means:",
+      "option1": "Increasing water entering underground aquifers",
+      "option2": "Removing all groundwater",
+      "option3": "Increasing surface evaporation",
+      "option4": "Reducing rainfall",
+      "answer": "Increasing water entering underground aquifers"
+    },
+    {
+      "question": "Percolation pits are commonly used for:",
+      "option1": "Groundwater recharge",
+      "option2": "Road widening",
+      "option3": "Concrete testing",
+      "option4": "Bridge painting",
+      "answer": "Groundwater recharge"
+    },
+    {
+      "question": "Urban stormwater drainage is designed primarily to:",
+      "option1": "Remove excess rainwater from urban areas",
+      "option2": "Store sewage permanently",
+      "option3": "Increase flooding",
+      "option4": "Supply drinking water directly",
+      "answer": "Remove excess rainwater from urban areas"
+    },
+    {
+      "question": "Flood frequency analysis is used to estimate:",
+      "option1": "Likelihood of floods of different magnitudes",
+      "option2": "Concrete strength",
+      "option3": "Soil colour",
+      "option4": "Road width",
+      "answer": "Likelihood of floods of different magnitudes"
+    },
+    {
+      "question": "A return period of a flood is related to:",
+      "option1": "Average recurrence interval",
+      "option2": "Concrete curing period",
+      "option3": "Road construction period",
+      "option4": "Building occupancy period",
+      "answer": "Average recurrence interval"
+    },
+    {
+      "question": "The rational method is commonly used to estimate:",
+      "option1": "Peak runoff from small catchments",
+      "option2": "Concrete compressive strength",
+      "option3": "Steel yield strength",
+      "option4": "Soil plasticity",
+      "answer": "Peak runoff from small catchments"
+    },
+    {
+      "question": "The coefficient of runoff represents the fraction of rainfall that becomes:",
+      "option1": "Runoff",
+      "option2": "Evaporation only",
+      "option3": "Groundwater only",
+      "option4": "Condensation",
+      "answer": "Runoff"
+    },
+    {
+      "question": "Which method is commonly used to determine the discharge in a stream?",
+      "option1": "Velocity-area method",
+      "option2": "Slump method",
+      "option3": "Vicat method",
+      "option4": "Proctor method",
+      "answer": "Velocity-area method"
+    },
+    {
+      "question": "A current meter is used to measure:",
+      "option1": "Water velocity",
+      "option2": "Soil density",
+      "option3": "Concrete strength",
+      "option4": "Air temperature",
+      "answer": "Water velocity"
+    },
+    {
+      "question": "A weir can be used to measure:",
+      "option1": "Flow discharge",
+      "option2": "Soil bearing capacity",
+      "option3": "Steel hardness",
+      "option4": "Road roughness",
+      "answer": "Flow discharge"
+    },
+    {
+      "question": "A notch in a weir is provided to:",
+      "option1": "Control and measure flow",
+      "option2": "Increase soil strength",
+      "option3": "Support reinforcement",
+      "option4": "Prevent all water movement",
+      "answer": "Control and measure flow"
+    },
+    {
+      "question": "A sluice gate is used to:",
+      "option1": "Control water flow",
+      "option2": "Measure concrete strength",
+      "option3": "Compact soil",
+      "option4": "Test bitumen",
+      "answer": "Control water flow"
+    },
+    {
+      "question": "Canal lining is provided mainly to:",
+      "option1": "Reduce seepage losses",
+      "option2": "Increase seepage",
+      "option3": "Increase erosion",
+      "option4": "Reduce canal capacity",
+      "answer": "Reduce seepage losses"
+    },
+    {
+      "question": "A distributary canal supplies water to:",
+      "option1": "Smaller channels or fields",
+      "option2": "Only dams",
+      "option3": "Only rivers",
+      "option4": "Only treatment plants",
+      "answer": "Smaller channels or fields"
+    },
+    {
+      "question": "The Kaleshwaram Lift Irrigation Project is associated with the:",
+      "option1": "Godavari River basin",
+      "option2": "Narmada basin",
+      "option3": "Ganga basin",
+      "option4": "Cauvery basin",
+      "answer": "Godavari River basin"
+    },
+    {
+      "question": "The Nagarjuna Sagar project is associated with the:",
+      "option1": "Krishna River",
+      "option2": "Godavari River",
+      "option3": "Musi River",
+      "option4": "Tungabhadra River only",
+      "answer": "Krishna River"
+    },
+    {
+      "question": "The Srisailam project is constructed across the:",
+      "option1": "Krishna River",
+      "option2": "Godavari River",
+      "option3": "Musi River",
+      "option4": "Maner River",
+      "answer": "Krishna River"
+    },
+    {
+      "question": "The Lower Manair Dam is associated with the:",
+      "option1": "Manair River",
+      "option2": "Musi River",
+      "option3": "Tungabhadra River",
+      "option4": "Pennar River",
+      "answer": "Manair River"
+    },
+    {
+      "question": "The primary purpose of irrigation reservoirs is to:",
+      "option1": "Store water for regulated use",
+      "option2": "Increase evaporation",
+      "option3": "Prevent agriculture",
+      "option4": "Increase floods",
+      "answer": "Store water for regulated use"
+    },
+    {
+      "question": "Sedimentation in reservoirs generally causes:",
+      "option1": "Reduction in storage capacity",
+      "option2": "Increase in useful storage indefinitely",
+      "option3": "Increase in rainfall",
+      "option4": "Increase in dam height automatically",
+      "answer": "Reduction in storage capacity"
+    },
+    {
+      "question": "A catchment area is the area from which:",
+      "option1": "Runoff drains to a common point",
+      "option2": "Only groundwater evaporates",
+      "option3": "Road traffic originates",
+      "option4": "Buildings receive electricity",
+      "answer": "Runoff drains to a common point"
+    },
+    {
+      "question": "Which parameter is important in determining the capacity of a drainage channel?",
+      "option1": "Design discharge",
+      "option2": "Paint thickness",
+      "option3": "Building height only",
+      "option4": "Steel colour",
+      "answer": "Design discharge"
+    },
+    {
+      "question": "The main objective of a hydraulic structure is to:",
+      "option1": "Control, convey, store or manage water",
+      "option2": "Increase uncontrolled flooding",
+      "option3": "Prevent all water movement",
+      "option4": "Replace all roads",
+      "answer": "Control, convey, store or manage water"
+    },
+    {
+      "question": "The term 'freeboard' in hydraulic structures refers to:",
+      "option1": "Vertical distance between water level and top level",
+      "option2": "Width of a road",
+      "option3": "Depth of foundation",
+      "option4": "Thickness of reinforcement",
+      "answer": "Vertical distance between water level and top level"
+    },
+    {
+      "question": "The main purpose of freeboard in a reservoir is to:",
+      "option1": "Provide safety against overtopping",
+      "option2": "Increase seepage",
+      "option3": "Reduce storage",
+      "option4": "Increase sedimentation",
+      "answer": "Provide safety against overtopping"
+    },
+    {
+      "question": "Seepage through an earth dam is controlled mainly by:",
+      "option1": "Impervious core and drainage measures",
+      "option2": "Paint coating",
+      "option3": "Road signs",
+      "option4": "Steel beams only",
+      "answer": "Impervious core and drainage measures"
+    },
+    {
+      "question": "The main function of a filter in an earth dam is to:",
+      "option1": "Control seepage and prevent migration of soil particles",
+      "option2": "Increase erosion",
+      "option3": "Store rainfall",
+      "option4": "Increase reservoir sediment",
+      "answer": "Control seepage and prevent migration of soil particles"
+    },
+    {
+      "question": "The process of protecting river banks from erosion is called:",
+      "option1": "River training",
+      "option2": "Soil compaction",
+      "option3": "Concrete curing",
+      "option4": "Road surfacing",
+      "answer": "River training"
+    },
+    {
+      "question": "Groynes are structures used in river engineering mainly to:",
+      "option1": "Control river flow and protect banks",
+      "option2": "Measure rainfall",
+      "option3": "Treat sewage",
+      "option4": "Support building roofs",
+      "answer": "Control river flow and protect banks"
+    },
+    {
+      "question": "A guide bank is used to:",
+      "option1": "Guide river flow near a structure",
+      "option2": "Measure soil density",
+      "option3": "Store drinking water",
+      "option4": "Support electrical wires",
+      "answer": "Guide river flow near a structure"
+    },
+    {
+      "question": "The main purpose of a check dam is to:",
+      "option1": "Reduce runoff velocity and soil erosion",
+      "option2": "Increase flood velocity",
+      "option3": "Prevent groundwater recharge",
+      "option4": "Increase channel erosion",
+      "answer": "Reduce runoff velocity and soil erosion"
+    },
+    {
+      "question": "Contour bunding is used mainly for:",
+      "option1": "Soil and water conservation",
+      "option2": "Bridge construction",
+      "option3": "Building ventilation",
+      "option4": "Sewage treatment",
+      "answer": "Soil and water conservation"
+    },
+    {
+      "question": "Terracing is particularly useful for controlling erosion on:",
+      "option1": "Sloping agricultural land",
+      "option2": "Flat roofs only",
+      "option3": "Urban roads only",
+      "option4": "Concrete floors",
+      "answer": "Sloping agricultural land"
+    },
+    {
+      "question": "The main purpose of soil conservation is to:",
+      "option1": "Prevent soil erosion and maintain productivity",
+      "option2": "Increase erosion",
+      "option3": "Remove vegetation",
+      "option4": "Increase runoff only",
+      "answer": "Prevent soil erosion and maintain productivity"
+    },
+    {
+      "question": "Which of the following is a mechanical soil conservation measure?",
+      "option1": "Contour bunding",
+      "option2": "Crop rotation",
+      "option3": "Afforestation only",
+      "option4": "Mulching only",
+      "answer": "Contour bunding"
+    },
+    {
+      "question": "The main purpose of a retaining structure in a hill road is to:",
+      "option1": "Support soil and prevent slope failure",
+      "option2": "Increase slope erosion",
+      "option3": "Store drinking water",
+      "option4": "Increase traffic noise",
+      "answer": "Support soil and prevent slope failure"
+    },
+    {
+      "question": "A landslide is a:",
+      "option1": "Downward movement of soil or rock under gravity",
+      "option2": "Type of rainfall",
+      "option3": "Concrete failure only",
+      "option4": "Road marking",
+      "answer": "Downward movement of soil or rock under gravity"
+    },
+    {
+      "question": "Slope stability analysis is used to determine:",
+      "option1": "Safety against slope failure",
+      "option2": "Water hardness",
+      "option3": "Concrete setting time",
+      "option4": "Road traffic volume",
+      "answer": "Safety against slope failure"
+    },
+    {
+      "question": "A factor of safety for a slope is generally expressed as:",
+      "option1": "Resisting forces divided by driving forces",
+      "option2": "Driving forces divided by resisting forces",
+      "option3": "Load multiplied by time",
+      "option4": "Area divided by volume",
+      "answer": "Resisting forces divided by driving forces"
+    },
+    {
+      "question": "The main purpose of a geotextile in civil engineering is to:",
+      "option1": "Perform functions such as separation, filtration or reinforcement",
+      "option2": "Generate electricity",
+      "option3": "Replace all concrete",
+      "option4": "Measure rainfall",
+      "answer": "Perform functions such as separation, filtration or reinforcement"
+    },
+    {
+      "question": "Geosynthetics are commonly used in:",
+      "option1": "Soil reinforcement and drainage applications",
+      "option2": "Only electrical wiring",
+      "option3": "Only painting",
+      "option4": "Only plumbing fixtures",
+      "answer": "Soil reinforcement and drainage applications"
+    },
+    {
+      "question": "The primary purpose of a pavement sub-base is to:",
+      "option1": "Provide support and distribute loads",
+      "option2": "Serve as a traffic signal",
+      "option3": "Store rainwater permanently",
+      "option4": "Replace road drainage",
+      "answer": "Provide support and distribute loads"
+    },
+    {
+      "question": "Road shoulders are provided mainly to:",
+      "option1": "Provide lateral support and emergency space",
+      "option2": "Increase traffic congestion",
+      "option3": "Store sewage",
+      "option4": "Reduce pavement width",
+      "answer": "Provide lateral support and emergency space"
+    },
+    {
+      "question": "Road markings are primarily used to:",
+      "option1": "Guide and regulate road users",
+      "option2": "Increase pavement thickness",
+      "option3": "Measure rainfall",
+      "option4": "Strengthen foundations",
+      "answer": "Guide and regulate road users"
+    },
+    {
+      "question": "A zebra crossing is intended primarily for:",
+      "option1": "Pedestrian crossing",
+      "option2": "Vehicle parking",
+      "option3": "Drainage",
+      "option4": "Road widening",
+      "answer": "Pedestrian crossing"
+    },
+    {
+      "question": "A traffic signal controls:",
+      "option1": "Movement of road traffic",
+      "option2": "Groundwater flow",
+      "option3": "Concrete curing",
+      "option4": "Rainfall",
+      "answer": "Movement of road traffic"
+    },
+    {
+      "question": "Traffic volume is generally expressed as:",
+      "option1": "Vehicles per unit time",
+      "option2": "Metres per second only",
+      "option3": "Kilograms per metre",
+      "option4": "Newtons per square metre",
+      "answer": "Vehicles per unit time"
+    },
+    {
+      "question": "The primary purpose of a traffic survey is to:",
+      "option1": "Collect traffic characteristics for planning and design",
+      "option2": "Measure cement strength",
+      "option3": "Measure groundwater depth only",
+      "option4": "Determine soil plasticity",
+      "answer": "Collect traffic characteristics for planning and design"
+    },
+    {
+      "question": "The main function of a building code is to:",
+      "option1": "Provide standards for safe and functional construction",
+      "option2": "Increase construction hazards",
+      "option3": "Eliminate safety requirements",
+      "option4": "Control rainfall",
+      "answer": "Provide standards for safe and functional construction"
+    },
+    {
+      "question": "Occupancy of a building refers to:",
+      "option1": "Its intended use or function",
+      "option2": "Its concrete grade",
+      "option3": "Its foundation depth only",
+      "option4": "Its paint type",
+      "answer": "Its intended use or function"
+    },
+    {
+      "question": "Fire-resistant construction aims to:",
+      "option1": "Delay spread of fire and protect occupants and structure",
+      "option2": "Increase fire spread",
+      "option3": "Increase smoke production",
+      "option4": "Reduce emergency access",
+      "answer": "Delay spread of fire and protect occupants and structure"
+    },
+    {
+      "question": "An emergency exit is provided to:",
+      "option1": "Facilitate safe evacuation",
+      "option2": "Store construction materials",
+      "option3": "Increase building load",
+      "option4": "Prevent ventilation",
+      "answer": "Facilitate safe evacuation"
+    },
+    {
+      "question": "The main objective of a building drainage system is to:",
+      "option1": "Remove wastewater safely",
+      "option2": "Store sewage inside buildings",
+      "option3": "Increase water leakage",
+      "option4": "Prevent all plumbing",
+      "answer": "Remove wastewater safely"
+    },
+    {
+      "question": "A trap in plumbing is used mainly to:",
+      "option1": "Prevent sewer gases from entering buildings",
+      "option2": "Increase sewage odour",
+      "option3": "Store drinking water",
+      "option4": "Increase pipe pressure",
+      "answer": "Prevent sewer gases from entering buildings"
+    },
+    {
+      "question": "A water distribution network is designed to:",
+      "option1": "Supply water to consumers",
+      "option2": "Collect solid waste",
+      "option3": "Carry traffic",
+      "option4": "Support bridges",
+      "answer": "Supply water to consumers"
+    },
+    {
+      "question": "The pressure in a water distribution system should be sufficient to:",
+      "option1": "Deliver water to required points",
+      "option2": "Stop all flow",
+      "option3": "Increase pipe leakage",
+      "option4": "Damage pipelines",
+      "answer": "Deliver water to required points"
+    },
+    {
+      "question": "A service reservoir in a water supply system is used to:",
+      "option1": "Store treated water",
+      "option2": "Treat sewage only",
+      "option3": "Store solid waste",
+      "option4": "Measure soil strength",
+      "answer": "Store treated water"
+    },
+    {
+      "question": "The per capita water demand is expressed as:",
+      "option1": "Litres per person per day",
+      "option2": "Cubic metres per second only",
+      "option3": "Kilograms per metre",
+      "option4": "Newton per square metre",
+      "answer": "Litres per person per day"
+    },
+    {
+      "question": "The main objective of water conservation is to:",
+      "option1": "Use water efficiently and reduce wastage",
+      "option2": "Increase unnecessary consumption",
+      "option3": "Reduce groundwater recharge",
+      "option4": "Increase leakage",
+      "answer": "Use water efficiently and reduce wastage"
+    },
+    {
+      "question": "Which practice helps reduce domestic water consumption?",
+      "option1": "Repairing leaks",
+      "option2": "Leaving taps open",
+      "option3": "Increasing leakage",
+      "option4": "Ignoring damaged pipes",
+      "answer": "Repairing leaks"
+    },
+    {
+      "question": "The main objective of environmental impact assessment is to:",
+      "option1": "Identify and evaluate environmental effects of proposed projects",
+      "option2": "Increase pollution",
+      "option3": "Eliminate environmental monitoring",
+      "option4": "Avoid project planning",
+      "answer": "Identify and evaluate environmental effects of proposed projects"
+    },
+    {
+      "question": "Sustainable development means:",
+      "option1": "Meeting present needs without compromising future generations' ability to meet their needs",
+      "option2": "Using all resources immediately",
+      "option3": "Ignoring environmental impacts",
+      "option4": "Stopping all development",
+      "answer": "Meeting present needs without compromising future generations' ability to meet their needs"
+    },
+    {
+      "question": "The 3R principle in waste management stands for:",
+      "option1": "Reduce, Reuse, Recycle",
+      "option2": "Read, Run, Repair",
+      "option3": "Remove, Replace, Return",
+      "option4": "Reduce, Remove, Recover",
+      "answer": "Reduce, Reuse, Recycle"
+    },
+    {
+      "question": "Which of the following is biodegradable?",
+      "option1": "Vegetable waste",
+      "option2": "Glass bottle",
+      "option3": "Aluminium can",
+      "option4": "Plastic pipe",
+      "answer": "Vegetable waste"
+    },
+    {
+      "question": "Which gas is required for aerobic biological treatment?",
+      "option1": "Oxygen",
+      "option2": "Helium",
+      "option3": "Neon",
+      "option4": "Hydrogen only",
+      "answer": "Oxygen"
+    },
+    {
+      "question": "Aeration in water treatment is used mainly to:",
+      "option1": "Transfer gases and improve water quality",
+      "option2": "Increase suspended solids",
+      "option3": "Remove all minerals",
+      "option4": "Increase turbidity",
+      "answer": "Transfer gases and improve water quality"
+    },
+    {
+      "question": "Water hardness is mainly caused by salts of:",
+      "option1": "Calcium and magnesium",
+      "option2": "Sodium and potassium only",
+      "option3": "Iron and copper only",
+      "option4": "Hydrogen and oxygen",
+      "answer": "Calcium and magnesium"
+    },
+    {
+      "question": "Temporary hardness of water is mainly associated with:",
+      "option1": "Bicarbonates of calcium and magnesium",
+      "option2": "Chlorides only",
+      "option3": "Sulphates only",
+      "option4": "Nitrates only",
+      "answer": "Bicarbonates of calcium and magnesium"
+    },
+    {
+      "question": "The unit commonly used for expressing water hardness is:",
+      "option1": "mg/L as CaCO3",
+      "option2": "m/s",
+      "option3": "N-m",
+      "option4": "kg/m²",
+      "answer": "mg/L as CaCO3"
+    },
+    {
+      "question": "A water supply pipe designed to carry water under pressure is generally called a:",
+      "option1": "Pressure main",
+      "option2": "Open drain",
+      "option3": "Canal bank",
+      "option4": "Sewer manhole",
+      "answer": "Pressure main"
+    },
+    {
+      "question": "A manhole in a sewer system is provided mainly for:",
+      "option1": "Inspection and maintenance",
+      "option2": "Increasing sewage blockage",
+      "option3": "Storing drinking water",
+      "option4": "Measuring rainfall",
+      "answer": "Inspection and maintenance"
+    },
+    {
+      "question": "The gradient of a sewer is provided mainly to:",
+      "option1": "Maintain desired flow",
+      "option2": "Stop sewage movement",
+      "option3": "Increase pipe corrosion",
+      "option4": "Store sewage permanently",
+      "answer": "Maintain desired flow"
+    },
+    {
+      "question": "Self-cleansing velocity in a sewer is the velocity sufficient to:",
+      "option1": "Prevent excessive deposition of solids",
+      "option2": "Stop all flow",
+      "option3": "Increase sedimentation",
+      "option4": "Reduce pipe capacity",
+      "answer": "Prevent excessive deposition of solids"
+    },
+    {
+      "question": "The final objective of sewage treatment is to:",
+      "option1": "Reduce pollutants before safe discharge or reuse",
+      "option2": "Increase pollution",
+      "option3": "Increase pathogens",
+      "option4": "Increase organic load",
+      "answer": "Reduce pollutants before safe discharge or reuse"
+    },
+    {
+      "question": "Which biological process is commonly used in anaerobic sludge digestion?",
+      "option1": "Anaerobic digestion",
+      "option2": "Chlorination",
+      "option3": "Screening",
+      "option4": "Sedimentation only",
+      "answer": "Anaerobic digestion"
+    },
+    {
+      "question": "Biogas produced during anaerobic digestion contains a significant amount of:",
+      "option1": "Methane",
+      "option2": "Oxygen",
+      "option3": "Helium",
+      "option4": "Neon",
+      "answer": "Methane"
+    },
+    {
+      "question": "The main purpose of screening in sewage treatment is to remove:",
+      "option1": "Large floating solids",
+      "option2": "Dissolved salts",
+      "option3": "Fine gases",
+      "option4": "All microorganisms",
+      "answer": "Large floating solids"
+    },
+    {
+      "question": "Grit chambers are designed to remove:",
+      "option1": "Heavy inorganic particles",
+      "option2": "Dissolved oxygen",
+      "option3": "Bacteria only",
+      "option4": "Organic gases",
+      "answer": "Heavy inorganic particles"
+    },
+    {
+      "question": "A primary clarifier in sewage treatment is mainly used for:",
+      "option1": "Sedimentation",
+      "option2": "Aeration",
+      "option3": "Chlorination only",
+      "option4": "Incineration",
+      "answer": "Sedimentation"
+    },
+    {
+      "question": "The main objective of engineering ethics is to:",
+      "option1": "Promote responsible and safe professional practice",
+      "option2": "Ignore public safety",
+      "option3": "Increase construction defects",
+      "option4": "Avoid professional responsibility",
+      "answer": "Promote responsible and safe professional practice"
+    },
+    {
+      "question": "An engineer's primary responsibility in public infrastructure is to consider:",
+      "option1": "Public safety and welfare",
+      "option2": "Only personal profit",
+      "option3": "Only project appearance",
+      "option4": "Only construction speed",
+      "answer": "Public safety and welfare"
+    },
+    {
+      "question": "A specification in construction describes:",
+      "option1": "Required quality, materials and workmanship",
+      "option2": "Only project location",
+      "option3": "Only contractor name",
+      "option4": "Only weather conditions",
+      "answer": "Required quality, materials and workmanship"
+    },
+    {
+      "question": "A drawing revision should be properly documented to:",
+      "option1": "Maintain design and construction records",
+      "option2": "Create confusion",
+      "option3": "Remove quality control",
+      "option4": "Avoid communication",
+      "answer": "Maintain design and construction records"
+    },
+    {
+      "question": "A site inspection is conducted mainly to:",
+      "option1": "Verify construction against drawings and specifications",
+      "option2": "Increase defects",
+      "option3": "Avoid measurements",
+      "option4": "Replace all design documents",
+      "answer": "Verify construction against drawings and specifications"
+    },
+    {
+      "question": "The main purpose of a snag list is to:",
+      "option1": "Record incomplete or defective work requiring correction",
+      "option2": "Record rainfall",
+      "option3": "Measure soil density",
+      "option4": "Calculate traffic volume",
+      "answer": "Record incomplete or defective work requiring correction"
+    },
+    {
+      "question": "Project cost control aims to:",
+      "option1": "Monitor and manage expenditure against the budget",
+      "option2": "Increase uncontrolled expenditure",
+      "option3": "Ignore project costs",
+      "option4": "Eliminate budgeting",
+      "answer": "Monitor and manage expenditure against the budget"
+    },
+    {
+      "question": "A work breakdown structure divides a project into:",
+      "option1": "Manageable components",
+      "option2": "Only buildings",
+      "option3": "Only workers",
+      "option4": "Only materials",
+      "answer": "Manageable components"
+    },
+    {
+      "question": "The main purpose of project documentation is to:",
+      "option1": "Maintain accurate records for communication and control",
+      "option2": "Increase uncertainty",
+      "option3": "Avoid accountability",
+      "option4": "Remove specifications",
+      "answer": "Maintain accurate records for communication and control"
+    },
+    {
+      "question": "Which of the following is a common cause of construction delay?",
+      "option1": "Late material delivery",
+      "option2": "Proper planning",
+      "option3": "Timely inspection",
+      "option4": "Adequate resources",
+      "answer": "Late material delivery"
+    },
+    {
+      "question": "A contingency allowance in a project budget is intended to cover:",
+      "option1": "Uncertain or unforeseen costs",
+      "option2": "Only fixed salaries",
+      "option3": "Only completed work",
+      "option4": "Only taxes",
+      "answer": "Uncertain or unforeseen costs"
+    },
+    {
+      "question": "Value engineering aims to:",
+      "option1": "Achieve required function at optimum overall cost",
+      "option2": "Reduce function regardless of need",
+      "option3": "Increase unnecessary cost",
+      "option4": "Eliminate quality",
+      "answer": "Achieve required function at optimum overall cost"
+    },
+    {
+      "question": "The main purpose of preventive maintenance is to:",
+      "option1": "Reduce failures through planned maintenance",
+      "option2": "Wait for complete failure",
+      "option3": "Increase breakdowns",
+      "option4": "Avoid inspections",
+      "answer": "Reduce failures through planned maintenance"
+    },
+    {
+      "question": "A condition survey of a structure is carried out to:",
+      "option1": "Assess its existing condition",
+      "option2": "Increase structural damage",
+      "option3": "Change rainfall",
+      "option4": "Measure traffic signals",
+      "answer": "Assess its existing condition"
+    },
+    {
+      "question": "Cracks in concrete structures should be investigated primarily to determine:",
+      "option1": "Their cause and structural significance",
+      "option2": "Their colour only",
+      "option3": "Their paint thickness",
+      "option4": "Their surface temperature only",
+      "answer": "Their cause and structural significance"
+    },
+    {
+      "question": "Corrosion of reinforcement in RCC can cause:",
+      "option1": "Cracking and spalling of concrete",
+      "option2": "Increase in concrete durability",
+      "option3": "Increase in steel strength",
+      "option4": "Improved bond always",
+      "answer": "Cracking and spalling of concrete"
+    },
+    {
+      "question": "One method of protecting reinforcement from corrosion is:",
+      "option1": "Providing adequate concrete cover",
+      "option2": "Reducing cover to zero",
+      "option3": "Increasing water permeability",
+      "option4": "Removing cement paste",
+      "answer": "Providing adequate concrete cover"
+    },
+    {
+      "question": "The main objective of structural rehabilitation is to:",
+      "option1": "Restore or improve structural performance",
+      "option2": "Reduce structural safety",
+      "option3": "Increase deterioration",
+      "option4": "Remove all structural members",
+      "answer": "Restore or improve structural performance"
+    },
+    {
+      "question": "Retrofitting of a structure means:",
+      "option1": "Improving an existing structure to meet required performance",
+      "option2": "Demolishing every structure",
+      "option3": "Painting only",
+      "option4": "Removing foundations",
+      "answer": "Improving an existing structure to meet required performance"
+    },
+    {
+      "question": "The main purpose of seismic retrofitting is to:",
+      "option1": "Improve earthquake resistance of existing structures",
+      "option2": "Increase earthquake damage",
+      "option3": "Reduce structural strength",
+      "option4": "Remove all walls",
+      "answer": "Improve earthquake resistance of existing structures"
+    },
+    {
+      "question": "Base isolation in earthquake-resistant design is intended to:",
+      "option1": "Reduce transmission of ground motion to a structure",
+      "option2": "Increase seismic forces",
+      "option3": "Increase foundation weight only",
+      "option4": "Eliminate structural joints",
+      "answer": "Reduce transmission of ground motion to a structure"
+    },
+    {
+      "question": "Damping in a structure helps to:",
+      "option1": "Dissipate vibration energy",
+      "option2": "Increase vibration indefinitely",
+      "option3": "Remove gravity",
+      "option4": "Increase soil density",
+      "answer": "Dissipate vibration energy"
+    },
+    {
+      "question": "Resonance occurs when:",
+      "option1": "Excitation frequency is close to natural frequency",
+      "option2": "There is no vibration",
+      "option3": "Mass becomes zero",
+      "option4": "Gravity disappears",
+      "answer": "Excitation frequency is close to natural frequency"
+    },
+    {
+      "question": "The natural frequency of a structure depends on:",
+      "option1": "Mass and stiffness",
+      "option2": "Paint colour",
+      "option3": "Rainfall only",
+      "option4": "Building name only",
+      "answer": "Mass and stiffness"
+    },
+    {
+      "question": "The main purpose of expansion joints in structures is to:",
+      "option1": "Allow movement due to temperature and other effects",
+      "option2": "Prevent all movement",
+      "option3": "Increase cracking",
+      "option4": "Reduce structural continuity intentionally in all cases",
+      "answer": "Allow movement due to temperature and other effects"
+    },
+    {
+      "question": "Construction joints are provided mainly to:",
+      "option1": "Divide concrete work into manageable stages",
+      "option2": "Increase uncontrolled cracking",
+      "option3": "Remove reinforcement",
+      "option4": "Prevent concrete placement",
+      "answer": "Divide concrete work into manageable stages"
+    },
+    {
+      "question": "A cold joint in concrete may occur when:",
+      "option1": "Fresh concrete is placed after previously placed concrete has set significantly",
+      "option2": "Concrete is properly compacted",
+      "option3": "Concrete is adequately cured",
+      "option4": "Aggregate is properly graded",
+      "answer": "Fresh concrete is placed after previously placed concrete has set significantly"
+    },
+    {
+      "question": "The main purpose of formwork is to:",
+      "option1": "Support and shape fresh concrete until it gains sufficient strength",
+      "option2": "Measure rainfall",
+      "option3": "Increase soil permeability",
+      "option4": "Replace reinforcement permanently",
+      "answer": "Support and shape fresh concrete until it gains sufficient strength"
+    },
+    {
+      "question": "Formwork should be sufficiently strong to resist:",
+      "option1": "Loads from fresh concrete and construction activities",
+      "option2": "Only sunlight",
+      "option3": "Only rainfall",
+      "option4": "Only paint",
+      "answer": "Loads from fresh concrete and construction activities"
+    },
+    {
+      "question": "Shuttering oil is applied to formwork mainly to:",
+      "option1": "Facilitate removal of formwork",
+      "option2": "Increase concrete bleeding",
+      "option3": "Reduce cement hydration",
+      "option4": "Increase reinforcement corrosion",
+      "answer": "Facilitate removal of formwork"
+    },
+    {
+      "question": "Scaffolding is mainly used to:",
+      "option1": "Provide temporary access and working platforms",
+      "option2": "Store drinking water",
+      "option3": "Test soil",
+      "option4": "Measure road traffic",
+      "answer": "Provide temporary access and working platforms"
+    },
+    {
+      "question": "The main purpose of dewatering during foundation construction is to:",
+      "option1": "Lower or remove groundwater from the excavation",
+      "option2": "Increase groundwater inflow",
+      "option3": "Increase soil saturation",
+      "option4": "Flood the foundation",
+      "answer": "Lower or remove groundwater from the excavation"
+    },
+    {
+      "question": "A cofferdam is a temporary structure used to:",
+      "option1": "Exclude water from a construction area",
+      "option2": "Store drinking water permanently",
+      "option3": "Increase river flooding",
+      "option4": "Measure rainfall",
+      "answer": "Exclude water from a construction area"
+    },
+    {
+      "question": "A caisson foundation is commonly used for:",
+      "option1": "Deep foundation construction under difficult water or soil conditions",
+      "option2": "Small residential walls only",
+      "option3": "Road markings",
+      "option4": "Surface painting",
+      "answer": "Deep foundation construction under difficult water or soil conditions"
+    },
+    {
+      "question": "Under-reamed piles are particularly useful in:",
+      "option1": "Expansive soils",
+      "option2": "Clean rock only",
+      "option3": "Dry sand only",
+      "option4": "Concrete floors",
+      "answer": "Expansive soils"
+    },
+    {
+      "question": "Black cotton soil is known for:",
+      "option1": "High shrink-swell behaviour",
+      "option2": "Zero plasticity",
+      "option3": "Very high permeability always",
+      "option4": "No volume change",
+      "answer": "High shrink-swell behaviour"
+    },
+    {
+      "question": "The Atterberg limits are used mainly to describe:",
+      "option1": "Consistency characteristics of fine-grained soil",
+      "option2": "Concrete strength",
+      "option3": "Steel hardness",
+      "option4": "Road traffic",
+      "answer": "Consistency characteristics of fine-grained soil"
+    },
+    {
+      "question": "Plastic limit is the water content at which soil changes from:",
+      "option1": "Semi-solid to plastic state",
+      "option2": "Liquid to gas",
+      "option3": "Solid to liquid metal",
+      "option4": "Gas to liquid",
+      "answer": "Semi-solid to plastic state"
+    },
+    {
+      "question": "Plasticity index is equal to:",
+      "option1": "Liquid limit minus plastic limit",
+      "option2": "Plastic limit minus liquid limit",
+      "option3": "Liquid limit plus plastic limit",
+      "option4": "Shrinkage limit plus liquid limit",
+      "answer": "Liquid limit minus plastic limit"
+    },
+    {
+      "question": "Soil compaction primarily increases:",
+      "option1": "Dry density",
+      "option2": "Air voids",
+      "option3": "Water content indefinitely",
+      "option4": "Soil compressibility",
+      "answer": "Dry density"
+    },
+    {
+      "question": "The field density of compacted soil can be determined using:",
+      "option1": "Core cutter method",
+      "option2": "Slump test",
+      "option3": "Vicat apparatus",
+      "option4": "Los Angeles machine",
+      "answer": "Core cutter method"
+    },
+    {
+      "question": "The sand replacement method is used to determine:",
+      "option1": "Field density of soil",
+      "option2": "Cement fineness",
+      "option3": "Concrete slump",
+      "option4": "Bitumen viscosity",
+      "answer": "Field density of soil"
+    },
+    {
+      "question": "The bearing capacity of soil refers to its ability to:",
+      "option1": "Support structural loads safely",
+      "option2": "Transmit rainfall",
+      "option3": "Store air only",
+      "option4": "Produce cement",
+      "answer": "Support structural loads safely"
+    },
+    {
+      "question": "Settlement of a foundation refers to:",
+      "option1": "Downward movement of the foundation",
+      "option2": "Upward movement only",
+      "option3": "Horizontal road widening",
+      "option4": "Increase in building height",
+      "answer": "Downward movement of the foundation"
+    },
+    {
+      "question": "Differential settlement occurs when:",
+      "option1": "Different parts of a structure settle by different amounts",
+      "option2": "All parts settle equally",
+      "option3": "No part settles",
+      "option4": "Only the roof expands",
+      "answer": "Different parts of a structure settle by different amounts"
+    },
+    {
+      "question": "Differential settlement can lead to:",
+      "option1": "Cracking and structural distress",
+      "option2": "Automatic strengthening",
+      "option3": "Improved alignment always",
+      "option4": "Increased soil bearing capacity",
+      "answer": "Cracking and structural distress"
+    },
+    {
+      "question": "The primary objective of a soil investigation is to determine:",
+      "option1": "Subsurface conditions relevant to design and construction",
+      "option2": "Paint quality",
+      "option3": "Traffic signals",
+      "option4": "Building colour",
+      "answer": "Subsurface conditions relevant to design and construction"
+    },
+    {
+      "question": "A borehole is used in geotechnical investigation to:",
+      "option1": "Explore subsurface soil and rock conditions",
+      "option2": "Measure rainfall",
+      "option3": "Test electrical circuits",
+      "option4": "Construct road markings",
+      "answer": "Explore subsurface soil and rock conditions"
+    },
+    {
+      "question": "The Standard Penetration Test is abbreviated as:",
+      "option1": "SPT",
+      "option2": "SCT",
+      "option3": "CPT",
+      "option4": "RCC",
+      "answer": "SPT"
+    },
+    {
+      "question": "SPT is commonly used to assess:",
+      "option1": "In-situ soil resistance",
+      "option2": "Concrete slump",
+      "option3": "Cement setting time",
+      "option4": "Bitumen viscosity",
+      "answer": "In-situ soil resistance"
+    },
+    {
+      "question": "The cone penetration test is commonly abbreviated as:",
+      "option1": "CPT",
+      "option2": "SPT",
+      "option3": "RCC",
+      "option4": "CBR",
+      "answer": "CPT"
+    },
+    {
+      "question": "The main purpose of a geotechnical report is to:",
+      "option1": "Provide soil and foundation-related design information",
+      "option2": "Provide weather forecasts only",
+      "option3": "Describe traffic signals only",
+      "option4": "Record building paint colours",
+      "answer": "Provide soil and foundation-related design information"
+    }
+  ]
+}

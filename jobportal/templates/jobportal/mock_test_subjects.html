@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>{{ exam.name }} - Mock Test</title>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #f4f6f9;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 50px 20px;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+
+        .header h1 {
+            margin-bottom: 10px;
+            color: #003366;
+        }
+
+        .header p {
+            color: #666;
+            font-size: 17px;
+        }
+
+        .subjects {
+            display: flex;
+            justify-content: center;
+            gap: 25px;
+            flex-wrap: wrap;
+        }
+
+        .card {
+            background: white;
+            width: 300px;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+            text-align: center;
+        }
+
+        .card h2 {
+            color: #003366;
+            margin-bottom: 20px;
+        }
+
+        .card p {
+            color: #555;
+            margin: 8px 0;
+        }
+
+        .btn {
+            display: inline-block;
+            width: 100%;
+            box-sizing: border-box;
+            margin-top: 20px;
+            padding: 12px 0;
+            background: #003366;
+            color: white;
+            text-decoration: none;
+            border-radius: 6px;
+            font-weight: bold;
+        }
+
+        .btn:hover {
+            background: #002244;
+        }
+
+        .empty {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            text-align: center;
+            color: #666;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <div class="header">
+        <h1>{{ exam.name }}</h1>
+        <p>Select a subject to start your mock test</p>
+    </div>
+
+    <div class="subjects">
+
+        {% for pattern in patterns %}
+
+        <div class="card">
+
+            <h2>{{ pattern.subject }}</h2>
+
+            <p>
+                <strong>Questions:</strong>
+                {{ pattern.question_count }}
+            </p>
+
+            <p>
+                <strong>Time:</strong>
+                {{ pattern.duration_minutes }} Minutes
+            </p>
+
+            <p>
+                <strong>Marks:</strong>
+                {{ pattern.marks_per_question }} per question
+            </p>
+
+            <p>
+                <strong>Negative Marking:</strong>
+                {{ pattern.negative_marking }}
+            </p>
+
+            <a
+                href="?subject={{ pattern.subject|urlencode }}"
+                class="btn"
+            >
+                Start Test
+            </a>
+
+        </div>
+
+        {% empty %}
+
+        <div class="empty">
+
+            <h3>No subjects available</h3>
+
+            <p>
+                Exam pattern has not been configured yet.
+            </p>
+
+        </div>
+
+        {% endfor %}
+
+    </div>
+
+</div>
+
+</body>
+</html>

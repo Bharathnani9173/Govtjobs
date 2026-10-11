@@ -1,0 +1,1605 @@
+{
+  "exam": "RRB Group D",
+  "questions": [
+    {
+      "question": "Which is the capital of India?",
+      "option1": "New Delhi",
+      "option2": "Mumbai",
+      "option3": "Kolkata",
+      "option4": "Chennai",
+      "answer": "New Delhi"
+    },
+    {
+      "question": "Which is the largest state in India by area?",
+      "option1": "Rajasthan",
+      "option2": "Madhya Pradesh",
+      "option3": "Maharashtra",
+      "option4": "Uttar Pradesh",
+      "answer": "Rajasthan"
+    },
+    {
+      "question": "Which is the smallest state in India by area?",
+      "option1": "Goa",
+      "option2": "Sikkim",
+      "option3": "Tripura",
+      "option4": "Mizoram",
+      "answer": "Goa"
+    },
+    {
+      "question": "Which river is known as the Sorrow of Bihar?",
+      "option1": "Kosi",
+      "option2": "Ganga",
+      "option3": "Yamuna",
+      "option4": "Son",
+      "answer": "Kosi"
+    },
+    {
+      "question": "Which is the longest river in India?",
+      "option1": "Ganga",
+      "option2": "Godavari",
+      "option3": "Yamuna",
+      "option4": "Narmada",
+      "answer": "Ganga"
+    },
+    {
+      "question": "Which Indian city is known as the Pink City?",
+      "option1": "Jaipur",
+      "option2": "Udaipur",
+      "option3": "Jodhpur",
+      "option4": "Bikaner",
+      "answer": "Jaipur"
+    },
+    {
+      "question": "Which is the national animal of India?",
+      "option1": "Bengal Tiger",
+      "option2": "Lion",
+      "option3": "Elephant",
+      "option4": "Leopard",
+      "answer": "Bengal Tiger"
+    },
+    {
+      "question": "Which is the national bird of India?",
+      "option1": "Peacock",
+      "option2": "Eagle",
+      "option3": "Sparrow",
+      "option4": "Parrot",
+      "answer": "Peacock"
+    },
+    {
+      "question": "Which is the national flower of India?",
+      "option1": "Lotus",
+      "option2": "Rose",
+      "option3": "Sunflower",
+      "option4": "Jasmine",
+      "answer": "Lotus"
+    },
+    {
+      "question": "Who wrote the national anthem of India?",
+      "option1": "Rabindranath Tagore",
+      "option2": "Bankim Chandra Chattopadhyay",
+      "option3": "Sarojini Naidu",
+      "option4": "Subhas Chandra Bose",
+      "answer": "Rabindranath Tagore"
+    },
+    {
+      "question": "When did the Constitution of India come into force?",
+      "option1": "26 January 1950",
+      "option2": "15 August 1947",
+      "option3": "26 November 1949",
+      "option4": "2 October 1950",
+      "answer": "26 January 1950"
+    },
+    {
+      "question": "Who is known as the Father of the Indian Constitution?",
+      "option1": "Dr. B. R. Ambedkar",
+      "option2": "Mahatma Gandhi",
+      "option3": "Jawaharlal Nehru",
+      "option4": "Rajendra Prasad",
+      "answer": "Dr. B. R. Ambedkar"
+    },
+    {
+      "question": "Who was the first President of independent India?",
+      "option1": "Dr. Rajendra Prasad",
+      "option2": "Dr. S. Radhakrishnan",
+      "option3": "Jawaharlal Nehru",
+      "option4": "Sardar Vallabhbhai Patel",
+      "answer": "Dr. Rajendra Prasad"
+    },
+    {
+      "question": "Who was the first Prime Minister of India?",
+      "option1": "Jawaharlal Nehru",
+      "option2": "Rajendra Prasad",
+      "option3": "Sardar Vallabhbhai Patel",
+      "option4": "Lal Bahadur Shastri",
+      "answer": "Jawaharlal Nehru"
+    },
+    {
+      "question": "The Quit India Movement was launched in which year?",
+      "option1": "1942",
+      "option2": "1930",
+      "option3": "1935",
+      "option4": "1947",
+      "answer": "1942"
+    },
+    {
+      "question": "Who gave the slogan 'Do or Die'?",
+      "option1": "Mahatma Gandhi",
+      "option2": "Subhas Chandra Bose",
+      "option3": "Bhagat Singh",
+      "option4": "Bal Gangadhar Tilak",
+      "answer": "Mahatma Gandhi"
+    },
+    {
+      "question": "Who founded the Maurya Empire?",
+      "option1": "Chandragupta Maurya",
+      "option2": "Ashoka",
+      "option3": "Bindusara",
+      "option4": "Harshavardhana",
+      "answer": "Chandragupta Maurya"
+    },
+    {
+      "question": "Who wrote the Arthashastra?",
+      "option1": "Kautilya",
+      "option2": "Kalidasa",
+      "option3": "Banabhatta",
+      "option4": "Megasthenes",
+      "answer": "Kautilya"
+    },
+    {
+      "question": "Where was the ancient university of Nalanda located?",
+      "option1": "Bihar",
+      "option2": "Uttar Pradesh",
+      "option3": "Rajasthan",
+      "option4": "Madhya Pradesh",
+      "answer": "Bihar"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "option1": "Mars",
+      "option2": "Venus",
+      "option3": "Jupiter",
+      "option4": "Saturn",
+      "answer": "Mars"
+    },
+    {
+      "question": "Which is the largest planet in the Solar System?",
+      "option1": "Jupiter",
+      "option2": "Saturn",
+      "option3": "Earth",
+      "option4": "Neptune",
+      "answer": "Jupiter"
+    },
+    {
+      "question": "What is the chemical formula of water?",
+      "option1": "H2O",
+      "option2": "CO2",
+      "option3": "O2",
+      "option4": "H2O2",
+      "answer": "H2O"
+    },
+    {
+      "question": "What is the chemical symbol of gold?",
+      "option1": "Au",
+      "option2": "Ag",
+      "option3": "Fe",
+      "option4": "Gd",
+      "answer": "Au"
+    },
+    {
+      "question": "Which gas is most abundant in Earth's atmosphere?",
+      "option1": "Nitrogen",
+      "option2": "Oxygen",
+      "option3": "Carbon dioxide",
+      "option4": "Hydrogen",
+      "answer": "Nitrogen"
+    },
+    {
+      "question": "What is the SI unit of force?",
+      "option1": "Newton",
+      "option2": "Joule",
+      "option3": "Watt",
+      "option4": "Pascal",
+      "answer": "Newton"
+    },
+    {
+      "question": "What is the SI unit of electric current?",
+      "option1": "Ampere",
+      "option2": "Volt",
+      "option3": "Ohm",
+      "option4": "Watt",
+      "answer": "Ampere"
+    },
+    {
+      "question": "Which instrument measures atmospheric pressure?",
+      "option1": "Barometer",
+      "option2": "Thermometer",
+      "option3": "Hygrometer",
+      "option4": "Anemometer",
+      "answer": "Barometer"
+    },
+    {
+      "question": "Which organ purifies blood in the human body?",
+      "option1": "Kidney",
+      "option2": "Heart",
+      "option3": "Lung",
+      "option4": "Stomach",
+      "answer": "Kidney"
+    },
+    {
+      "question": "Which vitamin is mainly produced through sunlight exposure?",
+      "option1": "Vitamin D",
+      "option2": "Vitamin A",
+      "option3": "Vitamin B12",
+      "option4": "Vitamin C",
+      "answer": "Vitamin D"
+    },
+    {
+      "question": "What is the currency of Japan?",
+      "option1": "Yen",
+      "option2": "Won",
+      "option3": "Yuan",
+      "option4": "Ringgit",
+      "answer": "Yen"
+    },
+    {
+      "question": "Where is the headquarters of the Reserve Bank of India?",
+      "option1": "Mumbai",
+      "option2": "New Delhi",
+      "option3": "Kolkata",
+      "option4": "Chennai",
+      "answer": "Mumbai"
+    },
+    {
+      "question": "What does GDP stand for?",
+      "option1": "Gross Domestic Product",
+      "option2": "General Domestic Product",
+      "option3": "Gross Development Plan",
+      "option4": "General Development Product",
+      "answer": "Gross Domestic Product"
+    },
+    {
+      "question": "Which sector is known as the primary sector of the economy?",
+      "option1": "Agriculture",
+      "option2": "Manufacturing",
+      "option3": "Banking",
+      "option4": "Transport",
+      "answer": "Agriculture"
+    },
+    {
+      "question": "Which Indian state has the longest coastline?",
+      "option1": "Gujarat",
+      "option2": "Maharashtra",
+      "option3": "Tamil Nadu",
+      "option4": "Andhra Pradesh",
+      "answer": "Gujarat"
+    },
+    {
+      "question": "Which soil is most suitable for cotton cultivation?",
+      "option1": "Black soil",
+      "option2": "Alluvial soil",
+      "option3": "Laterite soil",
+      "option4": "Red soil",
+      "answer": "Black soil"
+    },
+    {
+      "question": "Which desert is mainly located in Rajasthan?",
+      "option1": "Thar Desert",
+      "option2": "Sahara Desert",
+      "option3": "Gobi Desert",
+      "option4": "Kalahari Desert",
+      "answer": "Thar Desert"
+    },
+    {
+      "question": "Which classical dance form originated in Kerala?",
+      "option1": "Kathakali",
+      "option2": "Kathak",
+      "option3": "Odissi",
+      "option4": "Bharatanatyam",
+      "answer": "Kathakali"
+    },
+    {
+      "question": "Which festival is known as the Festival of Lights?",
+      "option1": "Diwali",
+      "option2": "Holi",
+      "option3": "Onam",
+      "option4": "Dussehra",
+      "answer": "Diwali"
+    },
+    {
+      "question": "Which is the largest ocean in the world?",
+      "option1": "Pacific Ocean",
+      "option2": "Atlantic Ocean",
+      "option3": "Indian Ocean",
+      "option4": "Arctic Ocean",
+      "answer": "Pacific Ocean"
+    },
+    {
+      "question": "Which is the highest mountain peak in India?",
+      "option1": "Kanchenjunga",
+      "option2": "Nanda Devi",
+      "option3": "Anamudi",
+      "option4": "Kamet",
+      "answer": "Kanchenjunga"
+    },
+    {
+      "question": "Which metal is liquid at room temperature?",
+      "option1": "Mercury",
+      "option2": "Iron",
+      "option3": "Copper",
+      "option4": "Aluminium",
+      "answer": "Mercury"
+    },
+    {
+      "question": "Which blood group is known as the universal donor?",
+      "option1": "O negative",
+      "option2": "AB positive",
+      "option3": "A positive",
+      "option4": "B negative",
+      "answer": "O negative"
+    },
+    {
+      "question": "Which blood group is known as the universal recipient?",
+      "option1": "AB positive",
+      "option2": "O negative",
+      "option3": "A negative",
+      "option4": "B positive",
+      "answer": "AB positive"
+    },
+    {
+      "question": "What is the hardest natural substance?",
+      "option1": "Diamond",
+      "option2": "Iron",
+      "option3": "Quartz",
+      "option4": "Graphite",
+      "answer": "Diamond"
+    },
+    {
+      "question": "Which gas is essential for human respiration?",
+      "option1": "Oxygen",
+      "option2": "Nitrogen",
+      "option3": "Hydrogen",
+      "option4": "Carbon dioxide",
+      "answer": "Oxygen"
+    },
+    {
+      "question": "What is the boiling point of water at normal atmospheric pressure?",
+      "option1": "100°C",
+      "option2": "90°C",
+      "option3": "80°C",
+      "option4": "120°C",
+      "answer": "100°C"
+    },
+    {
+      "question": "What is the freezing point of water?",
+      "option1": "0°C",
+      "option2": "10°C",
+      "option3": "-10°C",
+      "option4": "100°C",
+      "answer": "0°C"
+    },
+    {
+      "question": "Which part of a plant carries out photosynthesis?",
+      "option1": "Leaves",
+      "option2": "Roots",
+      "option3": "Stem",
+      "option4": "Flower",
+      "answer": "Leaves"
+    },
+    {
+      "question": "Which gas do plants absorb during photosynthesis?",
+      "option1": "Carbon dioxide",
+      "option2": "Oxygen",
+      "option3": "Nitrogen",
+      "option4": "Hydrogen",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "question": "How many chambers does the human heart have?",
+      "option1": "Four",
+      "option2": "Two",
+      "option3": "Three",
+      "option4": "Five",
+      "answer": "Four"
+    },
+    {
+      "question": "Which is the largest organ of the human body?",
+      "option1": "Skin",
+      "option2": "Liver",
+      "option3": "Heart",
+      "option4": "Brain",
+      "answer": "Skin"
+    },
+    {
+      "question": "Which organ controls most activities of the human body?",
+      "option1": "Brain",
+      "option2": "Heart",
+      "option3": "Lung",
+      "option4": "Kidney",
+      "answer": "Brain"
+    },
+    {
+      "question": "Which organ pumps blood throughout the human body?",
+      "option1": "Lungs",
+      "option2": "Heart",
+      "option3": "Kidney",
+      "option4": "Liver",
+      "answer": "Heart"
+    },
+    {
+      "question": "Which vitamin is produced in the body through sunlight exposure?",
+      "option1": "Vitamin A",
+      "option2": "Vitamin B",
+      "option3": "Vitamin C",
+      "option4": "Vitamin D",
+      "answer": "Vitamin D"
+    },
+    {
+      "question": "Which is the nearest star to Earth?",
+      "option1": "Sirius",
+      "option2": "Sun",
+      "option3": "Polaris",
+      "option4": "Alpha Centauri",
+      "answer": "Sun"
+    },
+    {
+      "question": "Which instrument is used to measure temperature?",
+      "option1": "Barometer",
+      "option2": "Thermometer",
+      "option3": "Hygrometer",
+      "option4": "Ammeter",
+      "answer": "Thermometer"
+    },
+    {
+      "question": "Which part of the plant carries out photosynthesis?",
+      "option1": "Root",
+      "option2": "Stem",
+      "option3": "Leaf",
+      "option4": "Flower",
+      "answer": "Leaf"
+    },
+    {
+      "question": "Which gas is released during photosynthesis?",
+      "option1": "Oxygen",
+      "option2": "Nitrogen",
+      "option3": "Hydrogen",
+      "option4": "Carbon dioxide",
+      "answer": "Oxygen"
+    },
+    {
+      "question": "Which device converts electrical energy into mechanical energy?",
+      "option1": "Generator",
+      "option2": "Electric motor",
+      "option3": "Transformer",
+      "option4": "Battery",
+      "answer": "Electric motor"
+    },
+    {
+      "question": "Which instrument measures electric current?",
+      "option1": "Voltmeter",
+      "option2": "Ammeter",
+      "option3": "Barometer",
+      "option4": "Thermometer",
+      "answer": "Ammeter"
+    },
+    {
+      "question": "Which force pulls objects towards the Earth?",
+      "option1": "Magnetic force",
+      "option2": "Frictional force",
+      "option3": "Gravitational force",
+      "option4": "Nuclear force",
+      "answer": "Gravitational force"
+    },
+    {
+      "question": "Which organ is mainly responsible for filtering blood?",
+      "option1": "Heart",
+      "option2": "Kidney",
+      "option3": "Stomach",
+      "option4": "Brain",
+      "answer": "Kidney"
+    },
+    {
+      "question": "Which is the smallest unit of life?",
+      "option1": "Tissue",
+      "option2": "Organ",
+      "option3": "Cell",
+      "option4": "Atom",
+      "answer": "Cell"
+    },
+    {
+      "question": "Which disease is caused by deficiency of Vitamin C?",
+      "option1": "Rickets",
+      "option2": "Scurvy",
+      "option3": "Beriberi",
+      "option4": "Night blindness",
+      "answer": "Scurvy"
+    },
+    {
+      "question": "Which disease is caused by deficiency of Vitamin D?",
+      "option1": "Scurvy",
+      "option2": "Rickets",
+      "option3": "Beriberi",
+      "option4": "Anaemia",
+      "answer": "Rickets"
+    },
+    {
+      "question": "Which vitamin is important for blood clotting?",
+      "option1": "Vitamin A",
+      "option2": "Vitamin C",
+      "option3": "Vitamin K",
+      "option4": "Vitamin D",
+      "answer": "Vitamin K"
+    },
+    {
+      "question": "Which city is known as the Pink City of India?",
+      "option1": "Jodhpur",
+      "option2": "Jaipur",
+      "option3": "Udaipur",
+      "option4": "Bikaner",
+      "answer": "Jaipur"
+    },
+    {
+      "question": "Which city is known as the City of Lakes?",
+      "option1": "Udaipur",
+      "option2": "Jaipur",
+      "option3": "Agra",
+      "option4": "Delhi",
+      "answer": "Udaipur"
+    },
+    {
+      "question": "Which Indian state is known as the Land of Five Rivers?",
+      "option1": "Haryana",
+      "option2": "Punjab",
+      "option3": "Rajasthan",
+      "option4": "Bihar",
+      "answer": "Punjab"
+    },
+    {
+      "question": "The Jallianwala Bagh massacre took place in which year?",
+      "option1": "1917",
+      "option2": "1919",
+      "option3": "1921",
+      "option4": "1922",
+      "answer": "1919"
+    },
+    {
+      "question": "Who was known as the Nightingale of India?",
+      "option1": "Sarojini Naidu",
+      "option2": "Annie Besant",
+      "option3": "Vijaya Lakshmi Pandit",
+      "option4": "Aruna Asaf Ali",
+      "answer": "Sarojini Naidu"
+    },
+    {
+      "question": "Which Fundamental Right is related to equality before law?",
+      "option1": "Article 14",
+      "option2": "Article 19",
+      "option3": "Article 21",
+      "option4": "Article 32",
+      "answer": "Article 14"
+    },
+    {
+      "question": "Which house of Parliament is known as the Upper House?",
+      "option1": "Lok Sabha",
+      "option2": "Rajya Sabha",
+      "option3": "Vidhan Sabha",
+      "option4": "Legislative Assembly",
+      "answer": "Rajya Sabha"
+    },
+    {
+      "question": "Who is the ex-officio Chairman of the Rajya Sabha?",
+      "option1": "President",
+      "option2": "Prime Minister",
+      "option3": "Vice-President",
+      "option4": "Speaker",
+      "answer": "Vice-President"
+    },
+    {
+      "question": "Which body conducts elections in India?",
+      "option1": "UPSC",
+      "option2": "Election Commission of India",
+      "option3": "Finance Commission",
+      "option4": "Parliament",
+      "answer": "Election Commission of India"
+    },
+    {
+      "question": "What is the full form of GDP?",
+      "option1": "Gross Domestic Product",
+      "option2": "General Domestic Product",
+      "option3": "Gross Development Plan",
+      "option4": "General Development Product",
+      "answer": "Gross Domestic Product"
+    },
+    {
+      "question": "Which sector is considered the primary sector of the economy?",
+      "option1": "Manufacturing",
+      "option2": "Agriculture",
+      "option3": "Banking",
+      "option4": "Transport",
+      "answer": "Agriculture"
+    },
+    {
+      "question": "What is the SI unit of work?",
+      "option1": "Newton",
+      "option2": "Joule",
+      "option3": "Watt",
+      "option4": "Volt",
+      "answer": "Joule"
+    },
+    {
+      "question": "Which device is used to measure electric current?",
+      "option1": "Voltmeter",
+      "option2": "Ammeter",
+      "option3": "Barometer",
+      "option4": "Thermometer",
+      "answer": "Ammeter"
+    },
+    {
+      "question": "What is the speed of light in vacuum approximately?",
+      "option1": "3 × 10^6 m/s",
+      "option2": "3 × 10^7 m/s",
+      "option3": "3 × 10^8 m/s",
+      "option4": "3 × 10^9 m/s",
+      "answer": "3 × 10^8 m/s"
+    },
+    {
+      "question": "Which form of energy is stored in a stretched rubber band?",
+      "option1": "Chemical energy",
+      "option2": "Elastic potential energy",
+      "option3": "Kinetic energy",
+      "option4": "Heat energy",
+      "answer": "Elastic potential energy"
+    },
+    {
+      "question": "Which mirror is commonly used as a rear-view mirror in vehicles?",
+      "option1": "Plane mirror",
+      "option2": "Concave mirror",
+      "option3": "Convex mirror",
+      "option4": "Cylindrical mirror",
+      "answer": "Convex mirror"
+    },
+    {
+      "question": "Which lens is used to correct myopia?",
+      "option1": "Convex lens",
+      "option2": "Concave lens",
+      "option3": "Bifocal lens",
+      "option4": "Cylindrical lens",
+      "answer": "Concave lens"
+    },
+    {
+      "question": "Which lens is used to correct hypermetropia?",
+      "option1": "Concave lens",
+      "option2": "Convex lens",
+      "option3": "Plane lens",
+      "option4": "Cylindrical lens",
+      "answer": "Convex lens"
+    },
+    {
+      "question": "Which gas is essential for respiration?",
+      "option1": "Nitrogen",
+      "option2": "Oxygen",
+      "option3": "Carbon dioxide",
+      "option4": "Hydrogen",
+      "answer": "Oxygen"
+    },
+    {
+      "question": "Which part of a plant carries water from roots to leaves?",
+      "option1": "Phloem",
+      "option2": "Xylem",
+      "option3": "Stomata",
+      "option4": "Cambium",
+      "answer": "Xylem"
+    },
+    {
+      "question": "Which part of a plant transports food?",
+      "option1": "Xylem",
+      "option2": "Phloem",
+      "option3": "Root hair",
+      "option4": "Stomata",
+      "answer": "Phloem"
+    },
+    {
+      "question": "Which organ controls the activities of the human body?",
+      "option1": "Heart",
+      "option2": "Brain",
+      "option3": "Liver",
+      "option4": "Kidney",
+      "answer": "Brain"
+    },
+    {
+      "question": "Which blood cells help fight infections?",
+      "option1": "Red blood cells",
+      "option2": "White blood cells",
+      "option3": "Platelets",
+      "option4": "Plasma",
+      "answer": "White blood cells"
+    },
+    {
+      "question": "Which blood cells carry oxygen?",
+      "option1": "White blood cells",
+      "option2": "Red blood cells",
+      "option3": "Platelets",
+      "option4": "Plasma",
+      "answer": "Red blood cells"
+    },
+    {
+      "question": "Which vitamin is known as ascorbic acid?",
+      "option1": "Vitamin A",
+      "option2": "Vitamin B",
+      "option3": "Vitamin C",
+      "option4": "Vitamin D",
+      "answer": "Vitamin C"
+    },
+    {
+      "question": "What is the chemical symbol for sodium?",
+      "option1": "So",
+      "option2": "Na",
+      "option3": "S",
+      "option4": "Sd",
+      "answer": "Na"
+    },
+    {
+      "question": "What is the chemical symbol for potassium?",
+      "option1": "P",
+      "option2": "Pt",
+      "option3": "K",
+      "option4": "Po",
+      "answer": "K"
+    },
+    {
+      "question": "What is the pH value of pure water at room temperature?",
+      "option1": "5",
+      "option2": "6",
+      "option3": "7",
+      "option4": "8",
+      "answer": "7"
+    },
+    {
+      "question": "Which acid is present in vinegar?",
+      "option1": "Citric acid",
+      "option2": "Acetic acid",
+      "option3": "Sulphuric acid",
+      "option4": "Hydrochloric acid",
+      "answer": "Acetic acid"
+    },
+    {
+      "question": "Which acid is present in lemon?",
+      "option1": "Acetic acid",
+      "option2": "Citric acid",
+      "option3": "Lactic acid",
+      "option4": "Formic acid",
+      "answer": "Citric acid"
+    },
+    {
+      "question": "Which is the hardest natural substance?",
+      "option1": "Gold",
+      "option2": "Iron",
+      "option3": "Diamond",
+      "option4": "Quartz",
+      "answer": "Diamond"
+    },
+    {
+      "question": "Which metal is the best conductor of electricity?",
+      "option1": "Iron",
+      "option2": "Copper",
+      "option3": "Silver",
+      "option4": "Aluminium",
+      "answer": "Silver"
+    },
+    {
+      "question": "Which gas is commonly used in balloons because it is lighter than air and non-flammable?",
+      "option1": "Oxygen",
+      "option2": "Helium",
+      "option3": "Nitrogen",
+      "option4": "Carbon dioxide",
+      "answer": "Helium"
+    },
+    {
+      "question": "Which gas is used by plants during photosynthesis?",
+      "option1": "Oxygen",
+      "option2": "Carbon dioxide",
+      "option3": "Nitrogen",
+      "option4": "Hydrogen",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "question": "Who was the first President of India?",
+      "option1": "Dr. S. Radhakrishnan",
+      "option2": "Dr. Rajendra Prasad",
+      "option3": "Jawaharlal Nehru",
+      "option4": "Zakir Husain",
+      "answer": "Dr. Rajendra Prasad"
+    },
+    {
+      "question": "When did India become independent?",
+      "option1": "26 January 1950",
+      "option2": "15 August 1947",
+      "option3": "26 November 1949",
+      "option4": "2 October 1947",
+      "answer": "15 August 1947"
+    },
+    {
+      "question": "Who gave the slogan 'Jai Jawan Jai Kisan'?",
+      "option1": "Jawaharlal Nehru",
+      "option2": "Lal Bahadur Shastri",
+      "option3": "Mahatma Gandhi",
+      "option4": "Sardar Patel",
+      "answer": "Lal Bahadur Shastri"
+    },
+    {
+      "question": "In which year was the Quit India Movement launched?",
+      "option1": "1930",
+      "option2": "1935",
+      "option3": "1942",
+      "option4": "1947",
+      "answer": "1942"
+    },
+    {
+      "question": "Which Mughal emperor built the Taj Mahal?",
+      "option1": "Akbar",
+      "option2": "Babur",
+      "option3": "Shah Jahan",
+      "option4": "Aurangzeb",
+      "answer": "Shah Jahan"
+    },
+    {
+      "question": "Who was the founder of the Mughal Empire in India?",
+      "option1": "Akbar",
+      "option2": "Babur",
+      "option3": "Humayun",
+      "option4": "Shah Jahan",
+      "answer": "Babur"
+    },
+    {
+      "question": "Which plateau is known for its rich mineral resources in India?",
+      "option1": "Deccan Plateau",
+      "option2": "Chota Nagpur Plateau",
+      "option3": "Malwa Plateau",
+      "option4": "Mysore Plateau",
+      "answer": "Chota Nagpur Plateau"
+    },
+    {
+      "question": "Which crop is mainly associated with black soil?",
+      "option1": "Rice",
+      "option2": "Cotton",
+      "option3": "Tea",
+      "option4": "Jute",
+      "answer": "Cotton"
+    },
+    {
+      "question": "What is the capital of India?",
+      "option1": "Mumbai",
+      "option2": "New Delhi",
+      "option3": "Kolkata",
+      "option4": "Chennai",
+      "answer": "New Delhi"
+    },
+    {
+      "question": "Which is the national fruit of India?",
+      "option1": "Apple",
+      "option2": "Banana",
+      "option3": "Mango",
+      "option4": "Orange",
+      "answer": "Mango"
+    },
+    {
+      "question": "Which festival is known as the Festival of Colors?",
+      "option1": "Diwali",
+      "option2": "Holi",
+      "option3": "Eid",
+      "option4": "Baisakhi",
+      "answer": "Holi"
+    },
+    {
+      "question": "Who wrote 'Vande Mataram'?",
+      "option1": "Rabindranath Tagore",
+      "option2": "Bankim Chandra Chattopadhyay",
+      "option3": "Mahatma Gandhi",
+      "option4": "Subhas Chandra Bose",
+      "answer": "Bankim Chandra Chattopadhyay"
+    },
+    {
+      "question": "What is the currency of the United Kingdom?",
+      "option1": "Euro",
+      "option2": "Pound Sterling",
+      "option3": "Dollar",
+      "option4": "Franc",
+      "answer": "Pound Sterling"
+    },
+    {
+      "question": "What is the currency of Bangladesh?",
+      "option1": "Rupee",
+      "option2": "Taka",
+      "option3": "Yen",
+      "option4": "Ringgit",
+      "answer": "Taka"
+    },
+    {
+      "question": "Which institution is responsible for monetary policy in India?",
+      "option1": "SEBI",
+      "option2": "RBI",
+      "option3": "NITI Aayog",
+      "option4": "NABARD",
+      "answer": "RBI"
+    },
+    {
+      "question": "Which bank is known as the central bank of India?",
+      "option1": "State Bank of India",
+      "option2": "Reserve Bank of India",
+      "option3": "Punjab National Bank",
+      "option4": "Bank of India",
+      "answer": "Reserve Bank of India"
+    },
+    {
+      "question": "What does ATM stand for?",
+      "option1": "Automatic Transfer Machine",
+      "option2": "Automated Teller Machine",
+      "option3": "Auto Transaction Machine",
+      "option4": "Automated Transfer Money",
+      "answer": "Automated Teller Machine"
+    },
+    {
+      "question": "What does PIN stand for in banking?",
+      "option1": "Personal Identification Number",
+      "option2": "Personal Internet Number",
+      "option3": "Private Identification Name",
+      "option4": "Payment Identification Number",
+      "answer": "Personal Identification Number"
+    },
+    {
+      "question": "Which organization regulates the securities market in India?",
+      "option1": "RBI",
+      "option2": "SEBI",
+      "option3": "IRDAI",
+      "option4": "NABARD",
+      "answer": "SEBI"
+    },
+    {
+      "question": "Which organization regulates insurance in India?",
+      "option1": "SEBI",
+      "option2": "RBI",
+      "option3": "IRDAI",
+      "option4": "NITI Aayog",
+      "answer": "IRDAI"
+    },
+    {
+      "question": "Which is the largest public sector bank in India?",
+      "option1": "Punjab National Bank",
+      "option2": "Bank of Baroda",
+      "option3": "State Bank of India",
+      "option4": "Canara Bank",
+      "answer": "State Bank of India"
+    },
+    {
+      "question": "Which is the largest continent in the world?",
+      "option1": "Africa",
+      "option2": "Asia",
+      "option3": "Europe",
+      "option4": "North America",
+      "answer": "Asia"
+    },
+    {
+      "question": "Which is the smallest continent?",
+      "option1": "Europe",
+      "option2": "Australia",
+      "option3": "Africa",
+      "option4": "South America",
+      "answer": "Australia"
+    },
+    {
+      "question": "Which is the highest mountain in the world?",
+      "option1": "K2",
+      "option2": "Mount Everest",
+      "option3": "Kanchenjunga",
+      "option4": "Nanda Devi",
+      "answer": "Mount Everest"
+    },
+    {
+      "question": "Which is the largest desert in the world?",
+      "option1": "Sahara Desert",
+      "option2": "Gobi Desert",
+      "option3": "Antarctic Desert",
+      "option4": "Thar Desert",
+      "answer": "Antarctic Desert"
+    },
+    {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "option1": "China",
+      "option2": "Japan",
+      "option3": "Thailand",
+      "option4": "South Korea",
+      "answer": "Japan"
+    },
+    {
+      "question": "Which is the largest country in the world by area?",
+      "option1": "China",
+      "option2": "United States",
+      "option3": "Russia",
+      "option4": "Canada",
+      "answer": "Russia"
+    },
+    {
+      "question": "Which line divides the Earth into Northern and Southern Hemispheres?",
+      "option1": "Tropic of Cancer",
+      "option2": "Equator",
+      "option3": "Prime Meridian",
+      "option4": "Tropic of Capricorn",
+      "answer": "Equator"
+    },
+    {
+      "question": "Which line passes through Greenwich?",
+      "option1": "Equator",
+      "option2": "Prime Meridian",
+      "option3": "Tropic of Cancer",
+      "option4": "International Date Line",
+      "answer": "Prime Meridian"
+    },
+    {
+      "question": "How many continents are there in the world?",
+      "option1": "5",
+      "option2": "6",
+      "option3": "7",
+      "option4": "8",
+      "answer": "7"
+    },
+    {
+      "question": "How many oceans are generally recognized on Earth?",
+      "option1": "3",
+      "option2": "4",
+      "option3": "5",
+      "option4": "6",
+      "answer": "5"
+    },
+    {
+      "question": "Which planet is closest to the Sun?",
+      "option1": "Venus",
+      "option2": "Earth",
+      "option3": "Mercury",
+      "option4": "Mars",
+      "answer": "Mercury"
+    },
+    {
+      "question": "Which planet is known for its prominent rings?",
+      "option1": "Mars",
+      "option2": "Jupiter",
+      "option3": "Saturn",
+      "option4": "Neptune",
+      "answer": "Saturn"
+    },
+    {
+      "question": "Which is the natural satellite of Earth?",
+      "option1": "Mars",
+      "option2": "Moon",
+      "option3": "Venus",
+      "option4": "Sun",
+      "answer": "Moon"
+    },
+    {
+      "question": "What is the approximate shape of the Earth?",
+      "option1": "Perfect sphere",
+      "option2": "Geoid",
+      "option3": "Cube",
+      "option4": "Cylinder",
+      "answer": "Geoid"
+    },
+    {
+      "question": "Which instrument is used to measure earthquakes?",
+      "option1": "Barometer",
+      "option2": "Seismograph",
+      "option3": "Thermometer",
+      "option4": "Hygrometer",
+      "answer": "Seismograph"
+    },
+    {
+      "question": "What is the study of earthquakes called?",
+      "option1": "Geology",
+      "option2": "Seismology",
+      "option3": "Ecology",
+      "option4": "Meteorology",
+      "answer": "Seismology"
+    },
+    {
+      "question": "Which layer of the atmosphere contains the ozone layer?",
+      "option1": "Troposphere",
+      "option2": "Stratosphere",
+      "option3": "Mesosphere",
+      "option4": "Thermosphere",
+      "answer": "Stratosphere"
+    },
+    {
+      "question": "Which gas is mainly responsible for global warming among the following?",
+      "option1": "Oxygen",
+      "option2": "Carbon dioxide",
+      "option3": "Nitrogen",
+      "option4": "Helium",
+      "answer": "Carbon dioxide"
+    },
+    {
+      "question": "Which gas is essential for the ozone layer?",
+      "option1": "Ozone",
+      "option2": "Nitrogen",
+      "option3": "Hydrogen",
+      "option4": "Helium",
+      "answer": "Ozone"
+    },
+    {
+      "question": "Which natural phenomenon is measured using the Richter scale?",
+      "option1": "Floods",
+      "option2": "Earthquakes",
+      "option3": "Cyclones",
+      "option4": "Droughts",
+      "answer": "Earthquakes"
+    },
+    {
+      "question": "Which is the main source of energy for Earth?",
+      "option1": "Moon",
+      "option2": "Sun",
+      "option3": "Wind",
+      "option4": "Ocean",
+      "answer": "Sun"
+    },
+    {
+      "question": "Which renewable source uses moving air to generate electricity?",
+      "option1": "Solar energy",
+      "option2": "Wind energy",
+      "option3": "Hydroelectric energy",
+      "option4": "Geothermal energy",
+      "answer": "Wind energy"
+    },
+    {
+      "question": "Which renewable source uses sunlight to produce electricity?",
+      "option1": "Solar energy",
+      "option2": "Wind energy",
+      "option3": "Tidal energy",
+      "option4": "Biomass energy",
+      "answer": "Solar energy"
+    },
+    {
+      "question": "Which device converts mechanical energy into electrical energy?",
+      "option1": "Motor",
+      "option2": "Generator",
+      "option3": "Transformer",
+      "option4": "Battery",
+      "answer": "Generator"
+    },
+    {
+      "question": "Which Indian state is the largest producer of tea?",
+      "option1": "Assam",
+      "option2": "Kerala",
+      "option3": "Punjab",
+      "option4": "Gujarat",
+      "answer": "Assam"
+    },
+    {
+      "question": "Which Indian state is famous for the production of coffee?",
+      "option1": "Karnataka",
+      "option2": "Punjab",
+      "option3": "Bihar",
+      "option4": "Haryana",
+      "answer": "Karnataka"
+    },
+    {
+      "question": "Which is the largest freshwater lake in India?",
+      "option1": "Dal Lake",
+      "option2": "Wular Lake",
+      "option3": "Chilika Lake",
+      "option4": "Sambhar Lake",
+      "answer": "Wular Lake"
+    },
+    {
+      "question": "Which lake is the largest brackish water lagoon in India?",
+      "option1": "Wular Lake",
+      "option2": "Chilika Lake",
+      "option3": "Dal Lake",
+      "option4": "Loktak Lake",
+      "answer": "Chilika Lake"
+    },
+    {
+      "question": "Which river originates from the Gangotri Glacier?",
+      "option1": "Yamuna",
+      "option2": "Ganga",
+      "option3": "Godavari",
+      "option4": "Krishna",
+      "answer": "Ganga"
+    },
+    {
+      "question": "Which river is known as the Dakshin Ganga?",
+      "option1": "Krishna",
+      "option2": "Godavari",
+      "option3": "Kaveri",
+      "option4": "Narmada",
+      "answer": "Godavari"
+    },
+    {
+      "question": "Which river flows through a rift valley in India?",
+      "option1": "Narmada",
+      "option2": "Ganga",
+      "option3": "Yamuna",
+      "option4": "Mahanadi",
+      "answer": "Narmada"
+    },
+    {
+      "question": "Which is the largest delta in the world?",
+      "option1": "Nile Delta",
+      "option2": "Ganga-Brahmaputra Delta",
+      "option3": "Mahanadi Delta",
+      "option4": "Godavari Delta",
+      "answer": "Ganga-Brahmaputra Delta"
+    },
+    {
+      "question": "Which mountain range separates the Deccan Plateau from the coastal plains?",
+      "option1": "Aravalli Range",
+      "option2": "Western Ghats",
+      "option3": "Himalayas",
+      "option4": "Vindhya Range",
+      "answer": "Western Ghats"
+    },
+    {
+      "question": "Which is the oldest mountain range in India?",
+      "option1": "Himalayas",
+      "option2": "Aravalli Range",
+      "option3": "Western Ghats",
+      "option4": "Eastern Ghats",
+      "answer": "Aravalli Range"
+    },
+    {
+      "question": "Which state is famous for the Sundarbans?",
+      "option1": "Odisha",
+      "option2": "West Bengal",
+      "option3": "Assam",
+      "option4": "Bihar",
+      "answer": "West Bengal"
+    },
+    {
+      "question": "Kaziranga National Park is located in which state?",
+      "option1": "Assam",
+      "option2": "Gujarat",
+      "option3": "Rajasthan",
+      "option4": "Kerala",
+      "answer": "Assam"
+    },
+    {
+      "question": "Gir National Park is famous for which animal?",
+      "option1": "Tiger",
+      "option2": "Asiatic Lion",
+      "option3": "Elephant",
+      "option4": "Rhinoceros",
+      "answer": "Asiatic Lion"
+    },
+    {
+      "question": "Periyar National Park is located in which state?",
+      "option1": "Kerala",
+      "option2": "Tamil Nadu",
+      "option3": "Karnataka",
+      "option4": "Goa",
+      "answer": "Kerala"
+    },
+    {
+      "question": "Which state is known as the Spice Garden of India?",
+      "option1": "Kerala",
+      "option2": "Punjab",
+      "option3": "Rajasthan",
+      "option4": "Bihar",
+      "answer": "Kerala"
+    },
+    {
+      "question": "Which crop is known as the golden fibre?",
+      "option1": "Cotton",
+      "option2": "Jute",
+      "option3": "Silk",
+      "option4": "Wool",
+      "answer": "Jute"
+    },
+    {
+      "question": "Which crop requires high temperature and heavy rainfall?",
+      "option1": "Rice",
+      "option2": "Wheat",
+      "option3": "Gram",
+      "option4": "Mustard",
+      "answer": "Rice"
+    },
+    {
+      "question": "Which crop is mainly grown during the Rabi season?",
+      "option1": "Rice",
+      "option2": "Wheat",
+      "option3": "Cotton",
+      "option4": "Jute",
+      "answer": "Wheat"
+    },
+    {
+      "question": "Which crop is mainly grown during the Kharif season?",
+      "option1": "Wheat",
+      "option2": "Rice",
+      "option3": "Gram",
+      "option4": "Mustard",
+      "answer": "Rice"
+    },
+    {
+      "question": "Which Indian state is the largest producer of wheat?",
+      "option1": "Uttar Pradesh",
+      "option2": "Kerala",
+      "option3": "Assam",
+      "option4": "Goa",
+      "answer": "Uttar Pradesh"
+    },
+    {
+      "question": "Who was the first Governor-General of independent India?",
+      "option1": "Lord Mountbatten",
+      "option2": "C. Rajagopalachari",
+      "option3": "Warren Hastings",
+      "option4": "Lord Curzon",
+      "answer": "Lord Mountbatten"
+    },
+    {
+      "question": "Who was the first Indian Governor-General of India?",
+      "option1": "Rajendra Prasad",
+      "option2": "C. Rajagopalachari",
+      "option3": "Jawaharlal Nehru",
+      "option4": "Sardar Patel",
+      "answer": "C. Rajagopalachari"
+    },
+    {
+      "question": "Who founded the Indian National Congress?",
+      "option1": "A. O. Hume",
+      "option2": "Mahatma Gandhi",
+      "option3": "Dadabhai Naoroji",
+      "option4": "Bal Gangadhar Tilak",
+      "answer": "A. O. Hume"
+    },
+    {
+      "question": "In which year was the Indian National Congress founded?",
+      "option1": "1885",
+      "option2": "1905",
+      "option3": "1919",
+      "option4": "1942",
+      "answer": "1885"
+    },
+    {
+      "question": "Who was the first President of the Indian National Congress?",
+      "option1": "W. C. Bonnerjee",
+      "option2": "Dadabhai Naoroji",
+      "option3": "Surendranath Banerjee",
+      "option4": "Gopal Krishna Gokhale",
+      "answer": "W. C. Bonnerjee"
+    },
+    {
+      "question": "Who is known as the Grand Old Man of India?",
+      "option1": "Dadabhai Naoroji",
+      "option2": "Mahatma Gandhi",
+      "option3": "Bal Gangadhar Tilak",
+      "option4": "Gopal Krishna Gokhale",
+      "answer": "Dadabhai Naoroji"
+    },
+    {
+      "question": "Who started the Home Rule Movement in India along with Annie Besant?",
+      "option1": "Bal Gangadhar Tilak",
+      "option2": "Bhagat Singh",
+      "option3": "Subhas Chandra Bose",
+      "option4": "Lala Lajpat Rai",
+      "answer": "Bal Gangadhar Tilak"
+    },
+    {
+      "question": "Who was popularly known as Lokmanya?",
+      "option1": "Bal Gangadhar Tilak",
+      "option2": "Lala Lajpat Rai",
+      "option3": "Gopal Krishna Gokhale",
+      "option4": "Dadabhai Naoroji",
+      "answer": "Bal Gangadhar Tilak"
+    },
+    {
+      "question": "Who was popularly known as the Lion of Punjab?",
+      "option1": "Lala Lajpat Rai",
+      "option2": "Bhagat Singh",
+      "option3": "Udham Singh",
+      "option4": "Sardar Patel",
+      "answer": "Lala Lajpat Rai"
+    },
+    {
+      "question": "Who founded the Brahmo Samaj?",
+      "option1": "Raja Ram Mohan Roy",
+      "option2": "Swami Dayanand Saraswati",
+      "option3": "Swami Vivekananda",
+      "option4": "Ishwar Chandra Vidyasagar",
+      "answer": "Raja Ram Mohan Roy"
+    },
+    {
+      "question": "Who founded the Arya Samaj?",
+      "option1": "Raja Ram Mohan Roy",
+      "option2": "Swami Dayanand Saraswati",
+      "option3": "Swami Vivekananda",
+      "option4": "Ramakrishna Paramahamsa",
+      "answer": "Swami Dayanand Saraswati"
+    },
+    {
+      "question": "Who founded the Ramakrishna Mission?",
+      "option1": "Swami Vivekananda",
+      "option2": "Raja Ram Mohan Roy",
+      "option3": "Dayanand Saraswati",
+      "option4": "Annie Besant",
+      "answer": "Swami Vivekananda"
+    },
+    {
+      "question": "Which Act introduced dyarchy in the provinces?",
+      "option1": "Government of India Act 1909",
+      "option2": "Government of India Act 1919",
+      "option3": "Government of India Act 1935",
+      "option4": "Indian Independence Act 1947",
+      "answer": "Government of India Act 1919"
+    },
+    {
+      "question": "Which Act introduced provincial autonomy in India?",
+      "option1": "Government of India Act 1909",
+      "option2": "Government of India Act 1919",
+      "option3": "Government of India Act 1935",
+      "option4": "Indian Councils Act 1892",
+      "answer": "Government of India Act 1935"
+    },
+    {
+      "question": "Which article of the Constitution deals with protection of life and personal liberty?",
+      "option1": "Article 14",
+      "option2": "Article 19",
+      "option3": "Article 21",
+      "option4": "Article 32",
+      "answer": "Article 21"
+    },
+    {
+      "question": "Which article is known as the Right to Constitutional Remedies?",
+      "option1": "Article 14",
+      "option2": "Article 19",
+      "option3": "Article 21",
+      "option4": "Article 32",
+      "answer": "Article 32"
+    },
+    {
+      "question": "How many Fundamental Duties are currently listed in the Indian Constitution?",
+      "option1": "9",
+      "option2": "10",
+      "option3": "11",
+      "option4": "12",
+      "answer": "11"
+    },
+    {
+      "question": "How many Fundamental Rights are currently guaranteed by the Indian Constitution?",
+      "option1": "5",
+      "option2": "6",
+      "option3": "7",
+      "option4": "8",
+      "answer": "6"
+    },
+    {
+      "question": "Which part of the Constitution contains Fundamental Rights?",
+      "option1": "Part I",
+      "option2": "Part II",
+      "option3": "Part III",
+      "option4": "Part IV",
+      "answer": "Part III"
+    },
+    {
+      "question": "Which part of the Constitution contains Directive Principles of State Policy?",
+      "option1": "Part II",
+      "option2": "Part III",
+      "option3": "Part IV",
+      "option4": "Part V",
+      "answer": "Part IV"
+    },
+    {
+      "question": "What is the minimum age required to become the President of India?",
+      "option1": "25 years",
+      "option2": "30 years",
+      "option3": "35 years",
+      "option4": "40 years",
+      "answer": "35 years"
+    },
+    {
+      "question": "What is the minimum age required to become a member of the Lok Sabha?",
+      "option1": "18 years",
+      "option2": "21 years",
+      "option3": "25 years",
+      "option4": "30 years",
+      "answer": "25 years"
+    },
+    {
+      "question": "What is the minimum age required to become a member of the Rajya Sabha?",
+      "option1": "25 years",
+      "option2": "30 years",
+      "option3": "35 years",
+      "option4": "40 years",
+      "answer": "30 years"
+    },
+    {
+      "question": "Who appoints the Prime Minister of India?",
+      "option1": "President",
+      "option2": "Vice-President",
+      "option3": "Chief Justice",
+      "option4": "Speaker",
+      "answer": "President"
+    },
+    {
+      "question": "Who appoints the Governor of a state in India?",
+      "option1": "Prime Minister",
+      "option2": "President",
+      "option3": "Chief Minister",
+      "option4": "Chief Justice",
+      "answer": "President"
+    },
+    {
+      "question": "Which is the highest court in India?",
+      "option1": "High Court",
+      "option2": "Supreme Court",
+      "option3": "District Court",
+      "option4": "Sessions Court",
+      "answer": "Supreme Court"
+    },
+    {
+      "question": "Who is the head of the Union Executive in India?",
+      "option1": "Prime Minister",
+      "option2": "President",
+      "option3": "Vice-President",
+      "option4": "Chief Justice",
+      "answer": "President"
+    },
+    {
+      "question": "Which body audits the accounts of the Government of India?",
+      "option1": "RBI",
+      "option2": "CAG",
+      "option3": "SEBI",
+      "option4": "UPSC",
+      "answer": "CAG"
+    },
+    {
+      "question": "What is the full form of CAG?",
+      "option1": "Controller and Auditor General",
+      "option2": "Comptroller and Auditor General",
+      "option3": "Central Audit General",
+      "option4": "Comptroller of Accounts General",
+      "answer": "Comptroller and Auditor General"
+    },
+    {
+      "question": "Which constitutional body conducts recruitment for All India Services?",
+      "option1": "Election Commission",
+      "option2": "UPSC",
+      "option3": "Finance Commission",
+      "option4": "NITI Aayog",
+      "answer": "UPSC"
+    },
+    {
+      "question": "Which Indian state is famous for the Hornbill Festival?",
+      "option1": "Nagaland",
+      "option2": "Manipur",
+      "option3": "Mizoram",
+      "option4": "Tripura",
+      "answer": "Nagaland"
+    },
+    {
+      "question": "Which Indian city is known as the Silicon Valley of India?",
+      "option1": "Hyderabad",
+      "option2": "Bengaluru",
+      "option3": "Pune",
+      "option4": "Chennai",
+      "answer": "Bengaluru"
+    },
+    {
+      "question": "Which Indian state is famous for the Bihu festival?",
+      "option1": "Assam",
+      "option2": "Odisha",
+      "option3": "West Bengal",
+      "option4": "Jharkhand",
+      "answer": "Assam"
+    },
+    {
+      "question": "Which Indian monument is located in Agra and is a UNESCO World Heritage Site?",
+      "option1": "Gateway of India",
+      "option2": "Taj Mahal",
+      "option3": "India Gate",
+      "option4": "Charminar",
+      "answer": "Taj Mahal"
+    },
+    {
+      "question": "Which instrument is used to measure humidity in the atmosphere?",
+      "option1": "Barometer",
+      "option2": "Hygrometer",
+      "option3": "Ammeter",
+      "option4": "Seismograph",
+      "answer": "Hygrometer"
+    }
+  ]
+}

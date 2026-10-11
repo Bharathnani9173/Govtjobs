@@ -11,6 +11,7 @@ from django.http import HttpResponse
 from django.utils import timezone
 from .models import Job
 import os
+import json
 from django.conf import settings
 from django.templatetags.static import static
 from django.http import FileResponse, Http404
@@ -36,6 +37,9 @@ from .models import (
     MockTestQuestion,
     Exam,
     QuizAttempt,
+    AdmitCard,
+    Result,
+    ExamPattern,
 )
 
 RESOURCE_CATEGORY_MAP = {
@@ -276,12 +280,30 @@ def register_view(request):
 # ================= STATIC PAGES =================
 
 
+from datetime import timedelta
+
 def latest_jobs(request):
-    return render(
-        request,
-        "jobportal/latest_jobs.html"
+    today = timezone.now().date()
+    new_job_date = today - timedelta(days=7)
+
+    jobs = (
+        Job.objects
+        .filter(
+            is_latest=True,
+            official_link__isnull=False,
+            official_link__gt="",
+        )
+        .order_by("-notification_date", "-created_at")
     )
 
+    return render(
+        request,
+        "jobportal/latest_jobs.html",
+        {
+            "jobs": jobs,
+            "new_job_date": new_job_date,
+        },
+    )
 
 
 def results(request):
@@ -293,9 +315,98 @@ def results(request):
 
 
 def admit_cards(request):
+    admit_cards = AdmitCard.objects.all()
+
+    search = request.GET.get("search", "").strip()
+    category = request.GET.get("category", "").strip()
+    status = request.GET.get("status", "").strip()
+    year = request.GET.get("year", "").strip()
+
+    if search:
+        admit_cards = admit_cards.filter(
+            Q(exam_name__icontains=search) |
+            Q(organization__icontains=search) |
+            Q(title__icontains=search)
+        )
+
+    if category:
+        admit_cards = admit_cards.filter(category=category)
+
+    if status:
+        admit_cards = admit_cards.filter(status=status)
+
+    if year:
+        admit_cards = admit_cards.filter(year=year)
+
+    years = (
+        AdmitCard.objects
+        .exclude(year__isnull=True)
+        .values_list("year", flat=True)
+        .distinct()
+        .order_by("-year")
+    )
+
+    context = {
+        "admit_cards": admit_cards,
+        "years": years,
+        "search": search,
+        "selected_category": category,
+        "selected_status": status,
+        "selected_year": year,
+    }
+
     return render(
         request,
-        "jobportal/admit_cards.html"
+        "jobportal/admit_cards.html",
+        context
+    )
+
+def results(request):
+
+    results = Result.objects.all()
+
+    search = request.GET.get("search", "").strip()
+    category = request.GET.get("category", "").strip()
+    status = request.GET.get("status", "").strip()
+    year = request.GET.get("year", "").strip()
+
+    if search:
+        results = results.filter(
+            Q(exam_name__icontains=search) |
+            Q(organization__icontains=search) |
+            Q(title__icontains=search)
+        )
+
+    if category:
+        results = results.filter(category=category)
+
+    if status:
+        results = results.filter(status=status)
+
+    if year:
+        results = results.filter(year=year)
+
+    years = (
+        Result.objects
+        .exclude(year__isnull=True)
+        .values_list("year", flat=True)
+        .distinct()
+        .order_by("-year")
+    )
+
+    context = {
+        "results": results,
+        "years": years,
+        "search": search,
+        "selected_category": category,
+        "selected_status": status,
+        "selected_year": year,
+    }
+
+    return render(
+        request,
+        "jobportal/results.html",
+        context
     )
 
 def notifications(request):
@@ -813,20 +924,20 @@ def daily_quiz(request):
         id__in=used_question_ids
     )
 
-    # Random 20 questions
+    # Random 40 questions
     questions = list(
-        available_questions.order_by("?")[:20]
+        available_questions.order_by("?")[:40]
     )
 
     # ==========================================
-    # IF LESS THAN 20 UNUSED QUESTIONS
+    # IF LESS THAN 40 UNUSED QUESTIONS
     # ==========================================
 
-    if len(questions) < 20:
+    if len(questions) < 40:
 
         # Start using the full question bank again
         questions = list(
-            QuizQuestion.objects.order_by("?")[:20]
+            QuizQuestion.objects.order_by("?")[:40]
         )
 
     total = len(questions)
@@ -981,76 +1092,321 @@ def job_detail(request, job_id):
         }
     )
 
-from .models import Job, PreviousPaper
+@login_required(login_url="login")
 def previous_papers(request):
-    job_id = request.GET.get("job")
-
-    if job_id:
-        job = get_object_or_404(Job, id=job_id)
-        papers = PreviousPaper.objects.filter(job=job).order_by("-year")
-    else:
-        job = None
-        papers = PreviousPaper.objects.all().order_by("-year")
+    exams = Exam.objects.prefetch_related(
+        "previous_papers"
+    ).order_by("name")
 
     return render(
         request,
         "jobportal/previous_papers.html",
         {
-            "job": job,
-            "papers": papers,
+            "exams": exams,
         }
     )
 
+@login_required(login_url="login")
+def exam_previous_papers(request, exam_id):
+    exam = get_object_or_404(Exam, id=exam_id)
+
+    papers = PreviousPaper.objects.filter(
+        exam=exam
+    ).order_by("-year", "paper_name")
+
+    return render(
+        request,
+        "jobportal/exam_previous_papers.html",
+        {
+            "exam": exam,
+            "papers": papers,
+        }
+    )
 # =========================
 # ANSWER KEYS
 # =========================
-
-from .models import Job, AnswerKey
 def answer_keys(request):
-    job_id = request.GET.get("job")
 
-    if job_id:
-        job = get_object_or_404(Job, id=job_id)
-        keys = AnswerKey.objects.filter(job=job).order_by("-release_date")
-    else:
-        job = None
-        keys = AnswerKey.objects.all().order_by("-release_date")
+    # =========================================================
+    # ANSWER KEY YEAR RULE
+    # Only historical years up to 2022
+    # 2023, 2024, 2025 and 2026 will NOT be displayed
+    # =========================================================
+
+    MAX_ANSWER_KEY_YEAR = 2022
+
+    # =========================================================
+    # ALL 34 EXAMS
+    # =========================================================
+
+    exam_catalog = [
+        "Air Force",
+        "Banking",
+        "DSC",
+        "District Court",
+        "Forest Range Officer",
+        "Health Department",
+        "High Court",
+        "IBPS Clerk",
+        "IBPS PO",
+        "Indian Army",
+        "RRB ALP",
+        "RRB Group D",
+        "RRB JE",
+        "RRB NTPC",
+        "RRB Technician",
+        "Railway Constable",
+        "Railway SI",
+        "Revenue Department",
+        "SBI Clerk",
+        "SBI PO",
+        "SSC CGL",
+        "SSC CHSL",
+        "SSC GD",
+        "TET",
+        "TGPSC Group 1",
+        "TGPSC Group 2",
+        "TGPSC Group 3",
+        "TGPSC Group 4",
+        "Telangana AE",
+        "Telangana AEE",
+        "Telangana Police Constable",
+        "Telangana Police SI",
+        "UPSC",
+        "UPSC CSE",
+    ]
+
+    # =========================================================
+    # GET FILTER VALUES
+    # =========================================================
+
+    selected_exam = request.GET.get("exam", "").strip()
+    selected_year = request.GET.get("year", "").strip()
+    selected_shift = request.GET.get("shift", "").strip()
+    selected_set = request.GET.get("set", "").strip()
+
+    # =========================================================
+    # IMPORTANT:
+    # NEVER SHOW 2023, 2024, 2025, 2026
+    # =========================================================
+
+    answer_keys = AnswerKey.objects.filter(
+        year__lte=MAX_ANSWER_KEY_YEAR
+    )
+
+    # =========================================================
+    # EXAM FILTER
+    # =========================================================
+
+    if selected_exam:
+        answer_keys = answer_keys.filter(
+            exam_name=selected_exam
+        )
+
+    # =========================================================
+    # YEAR FILTER
+    # =========================================================
+
+    if selected_year:
+
+        try:
+            selected_year_int = int(selected_year)
+
+            # Do not allow 2023+
+            if selected_year_int <= MAX_ANSWER_KEY_YEAR:
+                answer_keys = answer_keys.filter(
+                    year=selected_year_int
+                )
+            else:
+                answer_keys = AnswerKey.objects.none()
+
+        except ValueError:
+            answer_keys = AnswerKey.objects.none()
+
+    # =========================================================
+    # SHIFT FILTER
+    # =========================================================
+
+    if selected_shift:
+        answer_keys = answer_keys.filter(
+            shift=selected_shift
+        )
+
+    # =========================================================
+    # SET / BOOKLET FILTER
+    # =========================================================
+
+    if selected_set:
+        answer_keys = answer_keys.filter(
+            set_name=selected_set
+        )
+
+    # =========================================================
+    # ORDER
+    # =========================================================
+
+    answer_keys = answer_keys.order_by(
+        "exam_name",
+        "-year",
+        "shift",
+        "set_name",
+        "paper_code"
+    )
+
+    # =========================================================
+    # AVAILABLE YEARS
+    # ONLY <= 2022
+    # =========================================================
+
+    year_queryset = AnswerKey.objects.filter(
+        year__lte=MAX_ANSWER_KEY_YEAR
+    )
+
+    if selected_exam:
+        year_queryset = year_queryset.filter(
+            exam_name=selected_exam
+        )
+
+    years = (
+        year_queryset
+        .exclude(year__isnull=True)
+        .values_list("year", flat=True)
+        .distinct()
+        .order_by("-year")
+    )
+
+    # =========================================================
+    # AVAILABLE SHIFTS
+    # =========================================================
+
+    shift_queryset = AnswerKey.objects.filter(
+        year__lte=MAX_ANSWER_KEY_YEAR
+    )
+
+    if selected_exam:
+        shift_queryset = shift_queryset.filter(
+            exam_name=selected_exam
+        )
+
+    if selected_year:
+        try:
+            selected_year_int = int(selected_year)
+
+            if selected_year_int <= MAX_ANSWER_KEY_YEAR:
+                shift_queryset = shift_queryset.filter(
+                    year=selected_year_int
+                )
+
+        except ValueError:
+            pass
+
+    shifts = (
+        shift_queryset
+        .exclude(shift="")
+        .values_list("shift", flat=True)
+        .distinct()
+        .order_by("shift")
+    )
+
+    # =========================================================
+    # AVAILABLE SETS / BOOKLETS
+    # =========================================================
+
+    set_queryset = AnswerKey.objects.filter(
+        year__lte=MAX_ANSWER_KEY_YEAR
+    )
+
+    if selected_exam:
+        set_queryset = set_queryset.filter(
+            exam_name=selected_exam
+        )
+
+    if selected_year:
+        try:
+            selected_year_int = int(selected_year)
+
+            if selected_year_int <= MAX_ANSWER_KEY_YEAR:
+                set_queryset = set_queryset.filter(
+                    year=selected_year_int
+                )
+
+        except ValueError:
+            pass
+
+    if selected_shift:
+        set_queryset = set_queryset.filter(
+            shift=selected_shift
+        )
+
+    sets = (
+        set_queryset
+        .exclude(set_name="")
+        .values_list("set_name", flat=True)
+        .distinct()
+        .order_by("set_name")
+    )
+
+    # =========================================================
+    # COUNT
+    # =========================================================
+
+    total_keys = answer_keys.count()
+
+    # =========================================================
+    # RENDER
+    # =========================================================
 
     return render(
         request,
         "jobportal/answer_keys.html",
         {
-            "job": job,
-            "keys": keys,
+            "exam_catalog": exam_catalog,
+            "answer_keys": answer_keys,
+            "years": years,
+            "shifts": shifts,
+            "sets": sets,
+
+            "selected_exam": selected_exam,
+            "selected_year": selected_year,
+            "selected_shift": selected_shift,
+            "selected_set": selected_set,
+
+            "total_keys": total_keys,
+
+            # Send this to template
+            "max_answer_key_year": MAX_ANSWER_KEY_YEAR,
         }
     )
-
 # =========================
 # CURRENT AFFAIRS
 # =========================
 
 from .models import Job, CurrentAffair
 def current_affairs(request):
+    period = request.GET.get("period")
     job_id = request.GET.get("job")
 
-    if job_id:
-        job = get_object_or_404(Job, id=job_id)
+    if period:
         affairs = CurrentAffair.objects.filter(
-            job=job
+            period=period
         ).order_by("-date")
+
+        selected_period = period
     else:
-        job = None
-        affairs = CurrentAffair.objects.all().order_by("-date")
+        affairs = CurrentAffair.objects.none()
+        selected_period = None
+
+    periods = CurrentAffair.PERIOD_CHOICES
 
     return render(
         request,
         "jobportal/current_affairs.html",
         {
-            "job": job,
             "affairs": affairs,
+            "periods": periods,
+            "selected_period": selected_period,
         }
     )
-
 # =========================
 # SYLLABUS
 # =========================
@@ -1087,120 +1443,115 @@ def mock_test(request):
 
     exam = get_object_or_404(Exam, id=exam_id)
 
-    if request.method == "POST":
-        question_ids = request.POST.get("question_ids", "")
+    # ==========================================================
+    # JUNIOR ASSISTANT
+    # ==========================================================
+    if exam.name == "Junior Assistant":
 
-        ids = [
-            int(x)
-            for x in question_ids.split(",")
-            if x.isdigit()
-        ]
+        subject = request.GET.get("subject")
 
-        questions = QuizQuestion.objects.filter(
-            id__in=ids,
-            exam=exam
-        )
-
-        score = 0
-        attempted = 0
-        results = []
-
-        for question in questions:
-            selected_answer = request.POST.get(
-                f"question_{question.id}"
-            )
-
-            if selected_answer:
-                attempted += 1
-
-                is_correct = (
-                    selected_answer == question.answer
-                )
-
-                if is_correct:
-                    score += 1
-
-                results.append({
-                    "question": question,
-                    "selected": selected_answer,
-                    "correct": question.answer,
-                    "is_correct": is_correct,
-                })
-
-        total = questions.count()
-        wrong = attempted - score
-        unanswered = total - attempted
-
-        return render(
-            request,
-            "jobportal/mock_test_result.html",
-            {
-                "exam": exam,
-                "score": score,
-                "total": total,
-                "attempted": attempted,
-                "wrong": wrong,
-                "unanswered": unanswered,
-                "results": results,
-            }
-        )
-
-    questions = list(
-        QuizQuestion.objects.filter(
-            exam=exam
-        ).order_by("?")[:20]
-    )
-
-    if not questions:
-        return render(
-            request,
-            "jobportal/mock_test.html",
-            {
-                "exam": exam,
-                "questions": [],
-                "no_questions": True,
-            }
-        )
+        # ------------------------------------------------------
+        # STEP 1: SHOW SUBJECTS
+        # ------------------------------------------------------
+    if not subject:
+        patterns = ExamPattern.objects.filter(
+        exam=exam
+    ).order_by("id")
 
     return render(
         request,
-        "jobportal/mock_test.html",
+        "jobportal/mock_test_subjects.html",
         {
             "exam": exam,
-            "questions": questions,
-            "no_questions": False,
-            "question_ids": ",".join(
-                str(q.id) for q in questions
-            ),
+            "patterns": patterns,
         }
     )
+
+def get_unused_questions_for_user(user, exam, subject, total_questions):
+    """
+    Return questions the user has NOT attempted before
+    for this exam and subject.
+    """
+
+    # Get all previous attempts by this user
+    previous_attempts = QuizAttempt.objects.filter(
+        user=user
+    )
+
+    # Collect all previously attempted question IDs
+    used_question_ids = set()
+
+    for attempt in previous_attempts:
+        if attempt.question_ids:
+            used_question_ids.update(
+                int(qid) for qid in attempt.question_ids
+            )
+
+    # Get available questions
+    questions = QuizQuestion.objects.filter(
+        exam=exam,
+        subject=subject
+    ).exclude(
+        id__in=used_question_ids
+    ).order_by("?")[:total_questions]
+
+    return list(questions)
 
 # =========================================================
 # EXAM-WISE MOCK TEST
 # =========================================================
-
-@login_required
+@login_required(login_url="login")
 def exam_mock_test(request, exam_name):
 
     exam = get_object_or_404(Exam, name=exam_name)
 
-    questions_count = QuizQuestion.objects.filter(
+    # ==========================================================
+    # GET EXAM PATTERN
+    # ==========================================================
+
+    subject = request.GET.get("subject") or request.POST.get("subject")
+
+    patterns = ExamPattern.objects.filter(
         exam=exam
-    ).count()
+    ).order_by("id")
 
-    print("EXAM:", exam.name)
-    print("QUESTIONS:", questions_count)
+    # ==========================================================
+    # SELECT SUBJECT
+    # ==========================================================
 
-    # =================================
-    # SUBMIT MOCK TEST
-    # =================================
+    if not subject:
+
+        return render(
+            request,
+            "jobportal/mock_test_subjects.html",
+            {
+                "exam": exam,
+                "patterns": patterns,
+            }
+        )
+
+    # ==========================================================
+    # GET SELECTED SUBJECT PATTERN
+    # ==========================================================
+
+    pattern = get_object_or_404(
+        ExamPattern,
+        exam=exam,
+        subject=subject
+    )
+
+    required_count = pattern.question_count
+    duration_minutes = pattern.duration_minutes
+    marks_per_question = pattern.marks_per_question
+    negative_marking = pattern.negative_marking
+
+    # ==========================================================
+    # SUBMIT TEST
+    # ==========================================================
 
     if request.method == "POST":
 
-        question_ids = request.POST.get(
-            "question_ids",
-            ""
-        )
+        question_ids = request.POST.get("question_ids", "")
 
         question_ids = [
             int(x)
@@ -1208,23 +1559,20 @@ def exam_mock_test(request, exam_name):
             if x.strip().isdigit()
         ]
 
-        # Security:
-        # Only accept questions belonging
-        # to the selected exam.
-        questions = QuizQuestion.objects.filter(
-            id__in=question_ids,
-            exam=exam
+        questions = list(
+            QuizQuestion.objects.filter(
+                id__in=question_ids,
+                exam=exam,
+                subject=subject
+            )
         )
 
         score = 0
         correct = 0
         wrong = 0
         unanswered = 0
-        answers = {}
 
-        # =================================
-        # CHECK ANSWERS
-        # =================================
+        answers = {}
 
         for question in questions:
 
@@ -1234,28 +1582,33 @@ def exam_mock_test(request, exam_name):
 
             answers[str(question.id)] = user_answer
 
+            # Unanswered
             if not user_answer:
+
                 unanswered += 1
 
+            # Correct
             elif user_answer == question.answer:
+
                 correct += 1
-                score += 1
+                score += marks_per_question
 
+            # Wrong
             else:
+
                 wrong += 1
+                score -= negative_marking
 
-        total_questions = len(question_ids)
-
-        # =================================
+        # ======================================================
         # SAVE ATTEMPT
-        # =================================
+        # ======================================================
 
         MockTestAttempt.objects.create(
             user=request.user,
             exam=exam,
             daily_test=None,
             score=score,
-            total_questions=total_questions,
+            total_questions=len(question_ids),
             correct_answers=correct,
             wrong_answers=wrong,
             unanswered=unanswered,
@@ -1263,9 +1616,9 @@ def exam_mock_test(request, exam_name):
             question_ids=question_ids
         )
 
-        # =================================
+        # ======================================================
         # SAVE QUESTION HISTORY
-        # =================================
+        # ======================================================
 
         for question_id in question_ids:
 
@@ -1275,17 +1628,12 @@ def exam_mock_test(request, exam_name):
                 exam=exam
             )
 
-        # =================================
-        # SCORE HISTORY
-        # =================================
-
         return redirect("score_history")
 
-    # =================================
-    # GET MOCK TEST
-    # =================================
+    # ==========================================================
+    # GET QUESTIONS
+    # ==========================================================
 
-    # Questions already attempted
     seen_ids = QuizQuestionHistory.objects.filter(
         user=request.user,
         exam=exam
@@ -1294,67 +1642,88 @@ def exam_mock_test(request, exam_name):
         flat=True
     )
 
-    # =================================
-    # GET UP TO 100 NEW QUESTIONS
-    # =================================
-
-    questions = list(
-        QuizQuestion.objects
-        .filter(exam=exam)
-        .exclude(id__in=seen_ids)
-        .order_by("?")[:100]
+    available_questions = QuizQuestion.objects.filter(
+        exam=exam,
+        subject=subject
+    ).exclude(
+        id__in=seen_ids
     )
 
-    # =================================
-    # NO QUESTIONS AVAILABLE
-    # =================================
+    available_count = available_questions.count()
 
-    if len(questions) == 0:
+    # ==========================================================
+    # NOT ENOUGH QUESTIONS
+    # ==========================================================
 
-        total_exam_questions = QuizQuestion.objects.filter(
-            exam=exam
+    if available_count < required_count:
+
+        total_subject_questions = QuizQuestion.objects.filter(
+            exam=exam,
+            subject=subject
         ).count()
 
         attempted_questions = QuizQuestionHistory.objects.filter(
             user=request.user,
-            exam=exam
+            exam=exam,
+            question_id__in=QuizQuestion.objects.filter(
+                exam=exam,
+                subject=subject
+            ).values_list(
+                "id",
+                flat=True
+            )
         ).values(
             "question_id"
         ).distinct().count()
 
         return render(
             request,
-            "jobportal/mock_test_unavailable.html",
+            "jobportal/exam_mock_test.html",
             {
                 "exam": exam,
-                "available_questions": 0,
-                "total_questions": total_exam_questions,
+                "subject": subject,
+                "pattern": pattern,
+                "required_count": required_count,
+                "question_count": total_subject_questions,
+                "available_count": available_count,
                 "attempted_questions": attempted_questions,
+                "duration_minutes": duration_minutes,
+                "marks_per_question": marks_per_question,
+                "negative_marking": negative_marking,
+                "questions": [],
+                "not_enough_questions": True,
             }
         )
 
-    # =================================
-    # QUESTION IDs
-    # =================================
+    # ==========================================================
+    # SELECT RANDOM QUESTIONS
+    # ==========================================================
 
-    question_ids = ",".join(
-        str(q.id)
-        for q in questions
+    questions = list(
+        available_questions.order_by("?")[:required_count]
     )
 
-    # =================================
-    # DISPLAY MOCK TEST
-    # =================================
+    # ==========================================================
+    # SHOW TEST
+    # ==========================================================
 
     return render(
         request,
         "jobportal/exam_mock_test.html",
         {
             "exam": exam,
+            "subject": subject,
+            "pattern": pattern,
             "questions": questions,
-            "question_ids": question_ids,
+            "required_count": required_count,
+            "question_count": required_count,
+            "duration_minutes": duration_minutes,
+            "marks_per_question": marks_per_question,
+            "negative_marking": negative_marking,
+            "not_enough_questions": False,
         }
     )
+
 
 def view_pdf(request, folder, filename):
     pdf_path = (
@@ -1517,17 +1886,87 @@ def exam_papers(request, exam_slug):
 # =========================================================
 # MOCK TEST DASHBOARD
 # =========================================================
-
-login_required(login_url="login")
+@login_required(login_url="login")
 def mock_tests(request):
 
-    exams = Exam.objects.all().order_by("name")
+    excluded_exams = [
+        "TSPSC Group 1",
+        "TSPSC Group 2",
+        "TSPSC Group 3",
+        "TSPSC Group 4",
+        "Air Force",
+        "Army",
+    ]
+
+    exams = Exam.objects.exclude(
+        name__in=excluded_exams
+    ).order_by("name")
+
+    mock_tests_list = []
+
+    for exam in exams:
+
+        patterns = ExamPattern.objects.filter(
+            exam=exam
+        ).order_by("id")
+
+        if patterns.exists():
+
+            subjects = []
+
+            for pattern in patterns:
+                actual_count = QuizQuestion.objects.filter(
+                    exam=exam,
+                    subject=pattern.subject
+                ).count()
+
+                subjects.append({
+    "name": pattern.subject,
+    "questions": pattern.question_count,
+    "available_questions": actual_count,
+    "duration_minutes": pattern.question_count,
+    "marks_per_question": pattern.marks_per_question,
+    "negative_marking": pattern.negative_marking,
+})
+
+            total_questions = sum(
+                pattern.question_count for pattern in patterns
+            )
+
+            available = all(
+                subject["available_questions"] >= subject["questions"]
+                for subject in subjects
+            )
+
+            mock_tests_list.append({
+                "exam": exam,
+                "exam_name": exam.name,
+                "question_count": total_questions,
+                "subjects": subjects,
+                "available": available,
+                "is_configured": True,
+            })
+
+        else:
+            question_count = QuizQuestion.objects.filter(
+                exam=exam
+            ).count()
+
+            mock_tests_list.append({
+                "exam": exam,
+                "exam_name": exam.name,
+                "question_count": question_count,
+                "subjects": [],
+                "available": question_count > 0,
+                "is_configured": False,
+            })
 
     return render(
         request,
         "jobportal/mock_tests.html",
         {
-            "exams": exams,
+            "mock_tests": mock_tests_list,
+            "exams": mock_tests_list,
         }
     )
 

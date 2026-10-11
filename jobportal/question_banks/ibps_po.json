@@ -1,0 +1,1605 @@
+{
+  "exam": "IBPS PO",
+  "questions": [
+    {
+      "question": "1. What is the full form of IBPS?",
+      "option1": "Institute of Banking Personnel Selection",
+      "option2": "Indian Banking Personnel Service",
+      "option3": "Institute of Bank Processing System",
+      "option4": "Indian Banking Personnel Selection",
+      "answer": "Institute of Banking Personnel Selection"
+    },
+    {
+      "question": "2. What is the main function of IBPS?",
+      "option1": "Conducting recruitment examinations for participating banks",
+      "option2": "Issuing currency notes",
+      "option3": "Regulating the stock market",
+      "option4": "Managing insurance companies",
+      "answer": "Conducting recruitment examinations for participating banks"
+    },
+    {
+      "question": "3. What does PO stand for in IBPS PO?",
+      "option1": "Probationary Officer",
+      "option2": "Public Officer",
+      "option3": "Payment Officer",
+      "option4": "Personnel Officer",
+      "answer": "Probationary Officer"
+    },
+    {
+      "question": "4. Which institution is India's central bank?",
+      "option1": "State Bank of India",
+      "option2": "Reserve Bank of India",
+      "option3": "Bank of India",
+      "option4": "NABARD",
+      "answer": "Reserve Bank of India"
+    },
+    {
+      "question": "5. What is the full form of RBI?",
+      "option1": "Reserve Bank of India",
+      "option2": "Regional Bank of India",
+      "option3": "Rural Bank of India",
+      "option4": "Reserve Banking Institution",
+      "answer": "Reserve Bank of India"
+    },
+    {
+      "question": "6. What is the headquarters of RBI?",
+      "option1": "New Delhi",
+      "option2": "Mumbai",
+      "option3": "Kolkata",
+      "option4": "Chennai",
+      "answer": "Mumbai"
+    },
+    {
+      "question": "7. What is the full form of CRR?",
+      "option1": "Cash Reserve Ratio",
+      "option2": "Credit Reserve Ratio",
+      "option3": "Cash Return Rate",
+      "option4": "Central Reserve Rate",
+      "answer": "Cash Reserve Ratio"
+    },
+    {
+      "question": "8. What is the full form of SLR?",
+      "option1": "Statutory Liquidity Ratio",
+      "option2": "Standard Lending Rate",
+      "option3": "Savings Liquidity Reserve",
+      "option4": "Statutory Lending Ratio",
+      "answer": "Statutory Liquidity Ratio"
+    },
+    {
+      "question": "9. What is repo rate?",
+      "option1": "Rate at which RBI lends to eligible banks against securities",
+      "option2": "Rate at which customers lend to banks",
+      "option3": "Rate of income tax",
+      "option4": "Rate of interest on savings accounts only",
+      "answer": "Rate at which RBI lends to eligible banks against securities"
+    },
+    {
+      "question": "10. What is reverse repo rate?",
+      "option1": "Rate at which RBI borrows funds from banks under the applicable facility",
+      "option2": "Rate at which customers borrow from banks",
+      "option3": "Rate charged on credit cards",
+      "option4": "Rate charged on fixed deposits",
+      "answer": "Rate at which RBI borrows funds from banks under the applicable facility"
+    },
+    {
+      "question": "11. What is the full form of NPA?",
+      "option1": "Non-Performing Asset",
+      "option2": "National Payment Account",
+      "option3": "New Performing Asset",
+      "option4": "Non-Payment Asset",
+      "answer": "Non-Performing Asset"
+    },
+    {
+      "question": "12. What is KYC?",
+      "option1": "Know Your Customer",
+      "option2": "Keep Your Cash",
+      "option3": "Know Your Credit",
+      "option4": "Keep Your Customer",
+      "answer": "Know Your Customer"
+    },
+    {
+      "question": "13. What is the full form of NEFT?",
+      "option1": "National Electronic Funds Transfer",
+      "option2": "National Exchange Fund Transfer",
+      "option3": "New Electronic Funds Transaction",
+      "option4": "National Electronic Finance Transfer",
+      "answer": "National Electronic Funds Transfer"
+    },
+    {
+      "question": "14. What is the full form of RTGS?",
+      "option1": "Real Time Gross Settlement",
+      "option2": "Rapid Transfer Gross System",
+      "option3": "Real Transfer General Settlement",
+      "option4": "Reserve Transfer Gross Settlement",
+      "answer": "Real Time Gross Settlement"
+    },
+    {
+      "question": "15. What is the full form of IMPS?",
+      "option1": "Immediate Payment Service",
+      "option2": "Indian Money Processing System",
+      "option3": "Instant Money Payment Service",
+      "option4": "Immediate Processing Settlement",
+      "answer": "Immediate Payment Service"
+    },
+    {
+      "question": "16. Which organization operates UPI?",
+      "option1": "NPCI",
+      "option2": "SEBI",
+      "option3": "IRDAI",
+      "option4": "NABARD",
+      "answer": "NPCI"
+    },
+    {
+      "question": "17. What is the full form of NPCI?",
+      "option1": "National Payments Corporation of India",
+      "option2": "National Payment Council of India",
+      "option3": "National Processing Corporation of India",
+      "option4": "National Public Credit Institution",
+      "answer": "National Payments Corporation of India"
+    },
+    {
+      "question": "18. What is the full form of IFSC?",
+      "option1": "Indian Financial System Code",
+      "option2": "Indian Finance Service Code",
+      "option3": "International Financial System Code",
+      "option4": "Indian Fund Settlement Code",
+      "answer": "Indian Financial System Code"
+    },
+    {
+      "question": "19. How many characters are there in an Indian IFSC code?",
+      "option1": "9",
+      "option2": "10",
+      "option3": "11",
+      "option4": "12",
+      "answer": "11"
+    },
+    {
+      "question": "20. What is the full form of MICR?",
+      "option1": "Magnetic Ink Character Recognition",
+      "option2": "Magnetic Indian Code Recognition",
+      "option3": "Money Identification Code Reader",
+      "option4": "Magnetic Information Character Register",
+      "answer": "Magnetic Ink Character Recognition"
+    },
+    {
+      "question": "21. Which organization regulates the securities market in India?",
+      "option1": "RBI",
+      "option2": "SEBI",
+      "option3": "NABARD",
+      "option4": "IRDAI",
+      "answer": "SEBI"
+    },
+    {
+      "question": "22. What is the full form of SEBI?",
+      "option1": "Securities and Exchange Board of India",
+      "option2": "Securities Exchange Bank of India",
+      "option3": "Stock Exchange Board of India",
+      "option4": "Securities Economic Board of India",
+      "answer": "Securities and Exchange Board of India"
+    },
+    {
+      "question": "23. Which organization regulates the insurance sector in India?",
+      "option1": "RBI",
+      "option2": "SEBI",
+      "option3": "IRDAI",
+      "option4": "PFRDA",
+      "answer": "IRDAI"
+    },
+    {
+      "question": "24. What is the full form of IRDAI?",
+      "option1": "Insurance Regulatory and Development Authority of India",
+      "option2": "Indian Regulatory Development Authority of Insurance",
+      "option3": "Insurance Research and Development Authority of India",
+      "option4": "Indian Risk Development Authority of Insurance",
+      "answer": "Insurance Regulatory and Development Authority of India"
+    },
+    {
+      "question": "25. Which institution is mainly associated with agriculture and rural development finance?",
+      "option1": "NABARD",
+      "option2": "SEBI",
+      "option3": "SIDBI",
+      "option4": "EXIM Bank",
+      "answer": "NABARD"
+    },
+    {
+      "question": "What is the full form of CASA in banking?",
+      "option1": "Current Account Savings Account",
+      "option2": "Cash Account Savings Account",
+      "option3": "Current Asset Savings Asset",
+      "option4": "Credit Account Savings Account",
+      "answer": "Current Account Savings Account"
+    },
+    {
+      "question": "What is the primary objective of a bank's Current Account?",
+      "option1": "Frequent business transactions",
+      "option2": "Long-term investment",
+      "option3": "Buying government bonds only",
+      "option4": "Providing insurance",
+      "answer": "Frequent business transactions"
+    },
+    {
+      "question": "Which type of deposit generally earns interest and is suitable for regular savings?",
+      "option1": "Savings deposit",
+      "option2": "Current deposit",
+      "option3": "Demand draft",
+      "option4": "Cash credit",
+      "answer": "Savings deposit"
+    },
+    {
+      "question": "What is a fixed deposit?",
+      "option1": "A deposit kept for a specified period at an agreed interest rate",
+      "option2": "A loan provided without documents",
+      "option3": "A current account for businesses",
+      "option4": "A type of insurance policy",
+      "answer": "A deposit kept for a specified period at an agreed interest rate"
+    },
+    {
+      "question": "What does EMI stand for?",
+      "option1": "Equated Monthly Instalment",
+      "option2": "Electronic Money Interface",
+      "option3": "Equal Money Investment",
+      "option4": "Electronic Monthly Income",
+      "answer": "Equated Monthly Instalment"
+    },
+    {
+      "question": "What is collateral in banking?",
+      "option1": "An asset pledged as security for a loan",
+      "option2": "Interest earned on savings",
+      "option3": "A bank employee's salary",
+      "option4": "A type of deposit",
+      "answer": "An asset pledged as security for a loan"
+    },
+    {
+      "question": "Which organization manages the Credit Information Report system commonly used by lenders in India?",
+      "option1": "TransUnion CIBIL",
+      "option2": "NABARD",
+      "option3": "NPCI",
+      "option4": "DICGC",
+      "answer": "TransUnion CIBIL"
+    },
+    {
+      "question": "What does CIBIL score primarily indicate?",
+      "option1": "Creditworthiness of a borrower",
+      "option2": "Bank profitability",
+      "option3": "Stock market performance",
+      "option4": "Currency value",
+      "answer": "Creditworthiness of a borrower"
+    },
+    {
+      "question": "What is a debit card primarily linked to?",
+      "option1": "The customer's bank account",
+      "option2": "A stock exchange account",
+      "option3": "An insurance policy",
+      "option4": "A fixed deposit certificate only",
+      "answer": "The customer's bank account"
+    },
+    {
+      "question": "What is the main function of an ATM?",
+      "option1": "Providing automated banking services",
+      "option2": "Issuing passports",
+      "option3": "Regulating banks",
+      "option4": "Managing stock exchanges",
+      "answer": "Providing automated banking services"
+    },
+    {
+      "question": "What does OTP stand for in digital banking?",
+      "option1": "One Time Password",
+      "option2": "Online Transaction Process",
+      "option3": "Official Transfer Password",
+      "option4": "One Transfer Procedure",
+      "answer": "One Time Password"
+    },
+    {
+      "question": "Which practice is most useful for protecting online banking credentials?",
+      "option1": "Sharing passwords with friends",
+      "option2": "Using strong and unique passwords",
+      "option3": "Writing passwords on an ATM card",
+      "option4": "Sharing OTPs with callers",
+      "answer": "Using strong and unique passwords"
+    },
+    {
+      "question": "What is phishing?",
+      "option1": "A fraudulent attempt to obtain sensitive information",
+      "option2": "A method of calculating interest",
+      "option3": "A banking investment product",
+      "option4": "A type of cheque",
+      "answer": "A fraudulent attempt to obtain sensitive information"
+    },
+    {
+      "question": "What is financial inclusion?",
+      "option1": "Providing access to useful and affordable financial services",
+      "option2": "Restricting banking services to large companies",
+      "option3": "Increasing taxes on bank deposits",
+      "option4": "Closing rural bank branches",
+      "answer": "Providing access to useful and affordable financial services"
+    },
+    {
+      "question": "Which scheme was launched to promote financial inclusion through basic bank accounts?",
+      "option1": "Pradhan Mantri Jan-Dhan Yojana",
+      "option2": "Pradhan Mantri Fasal Bima Yojana",
+      "option3": "Make in India",
+      "option4": "Digital India",
+      "answer": "Pradhan Mantri Jan-Dhan Yojana"
+    },
+    {
+      "question": "What is the full form of DICGC?",
+      "option1": "Deposit Insurance and Credit Guarantee Corporation",
+      "option2": "Deposit Investment and Credit Growth Corporation",
+      "option3": "Digital Insurance and Credit Guarantee Council",
+      "option4": "Deposit Information and Credit Governance Corporation",
+      "answer": "Deposit Insurance and Credit Guarantee Corporation"
+    },
+    {
+      "question": "What is the main purpose of deposit insurance?",
+      "option1": "To protect eligible bank depositors against loss up to the prescribed limit",
+      "option2": "To increase stock prices",
+      "option3": "To provide personal loans",
+      "option4": "To regulate insurance companies",
+      "answer": "To protect eligible bank depositors against loss up to the prescribed limit"
+    },
+    {
+      "question": "What does AML stand for in banking?",
+      "option1": "Anti-Money Laundering",
+      "option2": "Automated Money Lending",
+      "option3": "Annual Money Limit",
+      "option4": "Account Management Ledger",
+      "answer": "Anti-Money Laundering"
+    },
+    {
+      "question": "What is money laundering?",
+      "option1": "Making illegally obtained money appear legitimate",
+      "option2": "Depositing salary into a bank",
+      "option3": "Transferring money between savings accounts",
+      "option4": "Converting cash into coins",
+      "answer": "Making illegally obtained money appear legitimate"
+    },
+    {
+      "question": "Which body is responsible for regulating the securities market in India?",
+      "option1": "SEBI",
+      "option2": "RBI",
+      "option3": "NABARD",
+      "option4": "IRDAI",
+      "answer": "SEBI"
+    },
+    {
+      "question": "What is inflation?",
+      "option1": "A sustained increase in the general price level",
+      "option2": "A decrease in money supply only",
+      "option3": "A fall in employment only",
+      "option4": "An increase in exports only",
+      "answer": "A sustained increase in the general price level"
+    },
+    {
+      "question": "What does GDP measure?",
+      "option1": "The value of final goods and services produced within an economy",
+      "option2": "Only government revenue",
+      "option3": "Only agricultural production",
+      "option4": "Only exports of a country",
+      "answer": "The value of final goods and services produced within an economy"
+    },
+    {
+      "question": "What is fiscal policy mainly concerned with?",
+      "option1": "Government taxation and expenditure",
+      "option2": "Bank employee recruitment",
+      "option3": "Stock exchange trading only",
+      "option4": "Currency printing by commercial banks",
+      "answer": "Government taxation and expenditure"
+    },
+    {
+      "question": "What is monetary policy primarily concerned with?",
+      "option1": "Managing money supply, interest rates and credit conditions",
+      "option2": "Managing government recruitment",
+      "option3": "Managing railway operations",
+      "option4": "Managing agricultural land records",
+      "answer": "Managing money supply, interest rates and credit conditions"
+    },
+    {
+      "question": "What is a bank reconciliation statement used for?",
+      "option1": "Reconciling the bank balance with the cash book balance",
+      "option2": "Calculating employee salaries",
+      "option3": "Issuing shares",
+      "option4": "Determining income tax rates",
+      "answer": "Reconciling the bank balance with the cash book balance"
+    },
+    {
+      "question": "What is the full form of NACH?",
+      "option1": "National Automated Clearing House",
+      "option2": "National Account Clearing Hub",
+      "option3": "National Automated Credit Hub",
+      "option4": "National Authorized Clearing House",
+      "answer": "National Automated Clearing House"
+    },
+    {
+      "question": "Which organization operates the National Automated Clearing House (NACH)?",
+      "option1": "NPCI",
+      "option2": "SEBI",
+      "option3": "IRDAI",
+      "option4": "NABARD",
+      "answer": "NPCI"
+    },
+    {
+      "question": "What is BBPS primarily used for?",
+      "option1": "Bill payments",
+      "option2": "Stock trading",
+      "option3": "Insurance underwriting",
+      "option4": "Currency printing",
+      "answer": "Bill payments"
+    },
+    {
+      "question": "What is the full form of BBPS?",
+      "option1": "Bharat Bill Payment System",
+      "option2": "Banking Bill Processing Service",
+      "option3": "Bharat Banking Payment Service",
+      "option4": "Basic Bill Payment System",
+      "answer": "Bharat Bill Payment System"
+    },
+    {
+      "question": "What is AePS?",
+      "option1": "Aadhaar Enabled Payment System",
+      "option2": "Automated Electronic Payment Service",
+      "option3": "Aadhaar Electronic Processing System",
+      "option4": "Automated e-Payment Scheme",
+      "answer": "Aadhaar Enabled Payment System"
+    },
+    {
+      "question": "Which number is primarily used to identify a bank branch in an IFSC code?",
+      "option1": "The last six characters",
+      "option2": "The first two characters",
+      "option3": "The first four characters",
+      "option4": "Only the fifth character",
+      "answer": "The last six characters"
+    },
+    {
+      "question": "In an IFSC code, what does the fifth character generally represent?",
+      "option1": "Zero",
+      "option2": "Branch code",
+      "option3": "Bank code",
+      "option4": "State code",
+      "answer": "Zero"
+    },
+    {
+      "question": "What is a demand draft?",
+      "option1": "A prepaid negotiable instrument issued by a bank",
+      "option2": "A type of savings account",
+      "option3": "A credit card facility",
+      "option4": "A government bond",
+      "answer": "A prepaid negotiable instrument issued by a bank"
+    },
+    {
+      "question": "What is a cheque?",
+      "option1": "A written order to a bank to pay a specified amount",
+      "option2": "A type of insurance policy",
+      "option3": "A government tax receipt",
+      "option4": "A stock certificate",
+      "answer": "A written order to a bank to pay a specified amount"
+    },
+    {
+      "question": "What is the meaning of a crossed cheque?",
+      "option1": "It is generally required to be deposited into a bank account rather than encashed directly",
+      "option2": "It can be encashed only at an ATM",
+      "option3": "It has no legal validity",
+      "option4": "It can be used only outside India",
+      "answer": "It is generally required to be deposited into a bank account rather than encashed directly"
+    },
+    {
+      "question": "What is cheque truncation?",
+      "option1": "Electronic processing of cheque images instead of physically moving cheques",
+      "option2": "Cancellation of all cheques",
+      "option3": "Printing a cheque on both sides",
+      "option4": "Converting a cheque into cash automatically",
+      "answer": "Electronic processing of cheque images instead of physically moving cheques"
+    },
+    {
+      "question": "What does CTS stand for in banking?",
+      "option1": "Cheque Truncation System",
+      "option2": "Cash Transfer Service",
+      "option3": "Cheque Transfer Service",
+      "option4": "Central Transaction System",
+      "answer": "Cheque Truncation System"
+    },
+    {
+      "question": "What is a bank's core banking system mainly used for?",
+      "option1": "Providing centralized banking services across branches",
+      "option2": "Printing currency",
+      "option3": "Managing stock exchanges",
+      "option4": "Conducting insurance surveys",
+      "answer": "Providing centralized banking services across branches"
+    },
+    {
+      "question": "What does CBS stand for in banking?",
+      "option1": "Core Banking Solution",
+      "option2": "Central Banking Service",
+      "option3": "Customer Banking System",
+      "option4": "Common Bank Security",
+      "answer": "Core Banking Solution"
+    },
+    {
+      "question": "What is a bank's balance sheet mainly used to show?",
+      "option1": "Assets, liabilities and capital",
+      "option2": "Only customer deposits",
+      "option3": "Only employee salaries",
+      "option4": "Only loan applications",
+      "answer": "Assets, liabilities and capital"
+    },
+    {
+      "question": "Which of the following is generally a liability for a commercial bank?",
+      "option1": "Customer deposits",
+      "option2": "Loans given to customers",
+      "option3": "Cash held by the bank",
+      "option4": "Government securities held by the bank",
+      "answer": "Customer deposits"
+    },
+    {
+      "question": "Which of the following is generally an asset for a commercial bank?",
+      "option1": "Loans and advances",
+      "option2": "Customer savings deposits",
+      "option3": "Current account deposits",
+      "option4": "Term deposits received",
+      "answer": "Loans and advances"
+    },
+    {
+      "question": "What is liquidity in banking?",
+      "option1": "The ability to meet financial obligations when they become due",
+      "option2": "The ability to increase share prices",
+      "option3": "The process of issuing currency",
+      "option4": "The amount of tax paid by a bank",
+      "answer": "The ability to meet financial obligations when they become due"
+    },
+    {
+      "question": "What is a secured loan?",
+      "option1": "A loan backed by collateral",
+      "option2": "A loan with no repayment obligation",
+      "option3": "A loan given only to government employees",
+      "option4": "A loan without any documentation",
+      "answer": "A loan backed by collateral"
+    },
+    {
+      "question": "What is an unsecured loan?",
+      "option1": "A loan not backed by specific collateral",
+      "option2": "A loan secured by gold",
+      "option3": "A loan secured by property",
+      "option4": "A loan secured by government securities",
+      "answer": "A loan not backed by specific collateral"
+    },
+    {
+      "question": "What is a moratorium period on a loan?",
+      "option1": "A specified period during which repayment is deferred",
+      "option2": "The total duration of a loan",
+      "option3": "The penalty charged for late payment",
+      "option4": "The interest rate on a loan",
+      "answer": "A specified period during which repayment is deferred"
+    },
+    {
+      "question": "What is simple interest?",
+      "option1": "Interest calculated only on the principal amount",
+      "option2": "Interest calculated on principal plus accumulated interest",
+      "option3": "Interest charged only on overdue loans",
+      "option4": "Interest paid only on current accounts",
+      "answer": "Interest calculated only on the principal amount"
+    },
+    {
+      "question": "What is compound interest?",
+      "option1": "Interest calculated on principal plus accumulated interest",
+      "option2": "Interest calculated only on the original principal",
+      "option3": "Interest charged only once",
+      "option4": "Interest paid only on savings accounts",
+      "answer": "Interest calculated on principal plus accumulated interest"
+    },
+    {
+      "question": "If ₹10,000 is invested at 10% simple interest per year for 2 years, what is the interest?",
+      "option1": "₹1,000",
+      "option2": "₹2,000",
+      "option3": "₹2,100",
+      "option4": "₹1,500",
+      "answer": "₹2,000"
+    },
+    {
+      "question": "A person buys an item for ₹800 and sells it for ₹1,000. What is the profit percentage?",
+      "option1": "20%",
+      "option2": "25%",
+      "option3": "15%",
+      "option4": "30%",
+      "answer": "25%"
+    },
+    {
+      "question": "What is the full form of MSME?",
+      "option1": "Micro, Small and Medium Enterprises",
+      "option2": "Medium and Small Market Enterprises",
+      "option3": "Micro and Small Manufacturing Enterprises",
+      "option4": "Modern Small and Medium Economy",
+      "answer": "Micro, Small and Medium Enterprises"
+    },
+    {
+      "question": "Which institution is primarily associated with the development and financing of MSMEs in India?",
+      "option1": "SIDBI",
+      "option2": "SEBI",
+      "option3": "IRDAI",
+      "option4": "PFRDA",
+      "answer": "SIDBI"
+    },
+    {
+      "question": "What does SIDBI stand for?",
+      "option1": "Small Industries Development Bank of India",
+      "option2": "State Industries Development Bank of India",
+      "option3": "Small Investment Development Bank of India",
+      "option4": "State Investment and Development Bank of India",
+      "answer": "Small Industries Development Bank of India"
+    },
+    {
+      "question": "What is the main purpose of priority sector lending?",
+      "option1": "To ensure adequate credit reaches important sectors of the economy",
+      "option2": "To provide loans only to large corporations",
+      "option3": "To increase stock market investments",
+      "option4": "To finance foreign banks only",
+      "answer": "To ensure adequate credit reaches important sectors of the economy"
+    },
+    {
+      "question": "Which sector is generally included under priority sector lending?",
+      "option1": "Agriculture",
+      "option2": "Luxury tourism only",
+      "option3": "Stock speculation",
+      "option4": "Foreign exchange trading",
+      "answer": "Agriculture"
+    },
+    {
+      "question": "What is the primary objective of MUDRA?",
+      "option1": "Providing credit support to micro enterprises",
+      "option2": "Regulating insurance companies",
+      "option3": "Managing stock exchanges",
+      "option4": "Issuing currency notes",
+      "answer": "Providing credit support to micro enterprises"
+    },
+    {
+      "question": "What does MUDRA stand for?",
+      "option1": "Micro Units Development and Refinance Agency",
+      "option2": "Micro Urban Development and Rural Agency",
+      "option3": "Medium Units Development and Refinance Authority",
+      "option4": "Micro Utility Development and Rural Association",
+      "answer": "Micro Units Development and Refinance Agency"
+    },
+    {
+      "question": "What is a Self-Help Group (SHG)?",
+      "option1": "A small voluntary group that commonly pools savings and accesses credit",
+      "option2": "A group of stock brokers",
+      "option3": "A government department",
+      "option4": "A type of commercial bank",
+      "answer": "A small voluntary group that commonly pools savings and accesses credit"
+    },
+    {
+      "question": "What is financial literacy?",
+      "option1": "Understanding financial products, services and money management",
+      "option2": "Knowledge of only stock trading",
+      "option3": "Ability to print currency",
+      "option4": "Knowledge of only taxation laws",
+      "answer": "Understanding financial products, services and money management"
+    },
+    {
+      "question": "What is a bank's net interest income?",
+      "option1": "Interest earned minus interest paid",
+      "option2": "Total deposits minus total withdrawals",
+      "option3": "Total assets minus total liabilities",
+      "option4": "Profit before taxation",
+      "answer": "Interest earned minus interest paid"
+    },
+    {
+      "question": "What is a bank's capital adequacy ratio intended to measure?",
+      "option1": "Capital available relative to risk-weighted assets",
+      "option2": "Total number of customers",
+      "option3": "Total number of branches",
+      "option4": "Amount of cash withdrawn by customers",
+      "answer": "Capital available relative to risk-weighted assets"
+    },
+    {
+      "question": "What is a bank's provisioning mainly intended to cover?",
+      "option1": "Expected losses on assets such as loans",
+      "option2": "Employee bonuses",
+      "option3": "Currency printing expenses",
+      "option4": "Branch decoration expenses",
+      "answer": "Expected losses on assets such as loans"
+    },
+    {
+      "question": "What does FATF stand for?",
+      "option1": "Financial Action Task Force",
+      "option2": "Federal Anti-Tax Forum",
+      "option3": "Financial Assessment and Trade Federation",
+      "option4": "Foreign Assets Tracking Framework",
+      "answer": "Financial Action Task Force"
+    },
+    {
+      "question": "What is the main purpose of FATF?",
+      "option1": "To combat money laundering and terrorist financing",
+      "option2": "To regulate stock exchanges",
+      "option3": "To issue currency",
+      "option4": "To provide agricultural loans",
+      "answer": "To combat money laundering and terrorist financing"
+    },
+    {
+      "question": "What does AML compliance primarily seek to prevent?",
+      "option1": "Use of the financial system for money laundering",
+      "option2": "Normal customer deposits",
+      "option3": "Payment of salaries",
+      "option4": "Savings account operations",
+      "answer": "Use of the financial system for money laundering"
+    },
+    {
+      "question": "What is a bank's CASA ratio?",
+      "option1": "The proportion of current and savings account deposits in total deposits",
+      "option2": "The ratio of cash to capital",
+      "option3": "The ratio of loans to branches",
+      "option4": "The ratio of assets to employees",
+      "answer": "The proportion of current and savings account deposits in total deposits"
+    },
+    {
+      "question": "What is a bank's cost of funds?",
+      "option1": "The interest or other cost incurred to obtain funds",
+      "option2": "The cost of constructing a branch",
+      "option3": "The salary cost of employees only",
+      "option4": "The cost of issuing debit cards only",
+      "answer": "The interest or other cost incurred to obtain funds"
+    },
+    {
+      "question": "What is a non-performing asset generally associated with?",
+      "option1": "A loan or advance where repayment performance has deteriorated according to regulatory norms",
+      "option2": "A fully repaid loan",
+      "option3": "A savings account with regular deposits",
+      "option4": "A government bond only",
+      "answer": "A loan or advance where repayment performance has deteriorated according to regulatory norms"
+    },
+    {
+      "question": "What is loan restructuring?",
+      "option1": "Modification of loan terms to address financial stress of the borrower",
+      "option2": "Closing every bank account",
+      "option3": "Converting all deposits into cash",
+      "option4": "Issuing new currency",
+      "answer": "Modification of loan terms to address financial stress of the borrower"
+    },
+    {
+      "question": "What is a bank's credit appraisal process?",
+      "option1": "Assessment of a borrower's ability and willingness to repay",
+      "option2": "Calculation of employee attendance",
+      "option3": "Verification of stock prices",
+      "option4": "Printing of account statements",
+      "answer": "Assessment of a borrower's ability and willingness to repay"
+    },
+    {
+      "question": "Which factor is important when assessing a borrower's creditworthiness?",
+      "option1": "Repayment capacity",
+      "option2": "Favourite colour",
+      "option3": "Place of birth only",
+      "option4": "Mobile phone brand",
+      "answer": "Repayment capacity"
+    },
+    {
+      "question": "If a number is increased by 20% from 500, what is the new value?",
+      "option1": "550",
+      "option2": "580",
+      "option3": "600",
+      "option4": "620",
+      "answer": "600"
+    },
+    {
+      "question": "A shopkeeper gives a 10% discount on an item marked at ₹2,000. What is the selling price?",
+      "option1": "₹1,700",
+      "option2": "₹1,800",
+      "option3": "₹1,900",
+      "option4": "₹1,950",
+      "answer": "₹1,800"
+    },
+    {
+      "question": "The average of 10, 20, 30, 40 and 50 is:",
+      "option1": "25",
+      "option2": "30",
+      "option3": "35",
+      "option4": "40",
+      "answer": "30"
+    },
+    {
+      "question": "If 5 workers complete a task in 12 days, assuming equal efficiency, how many days will 10 workers take?",
+      "option1": "4 days",
+      "option2": "5 days",
+      "option3": "6 days",
+      "option4": "8 days",
+      "answer": "6 days"
+    },
+    {
+      "question": "What is the full form of LCR in banking?",
+      "option1": "Liquidity Coverage Ratio",
+      "option2": "Loan Credit Ratio",
+      "option3": "Liquidity Credit Reserve",
+      "option4": "Loan Coverage Reserve",
+      "answer": "Liquidity Coverage Ratio"
+    },
+    {
+      "question": "What does LCR primarily help banks manage?",
+      "option1": "Short-term liquidity risk",
+      "option2": "Employee recruitment",
+      "option3": "Stock market risk only",
+      "option4": "Foreign trade documentation",
+      "answer": "Short-term liquidity risk"
+    },
+    {
+      "question": "What is a bank run?",
+      "option1": "A situation where many depositors try to withdraw funds at the same time",
+      "option2": "A bank's annual profit calculation",
+      "option3": "A bank's daily opening procedure",
+      "option4": "A method of electronic payment",
+      "answer": "A situation where many depositors try to withdraw funds at the same time"
+    },
+    {
+      "question": "What is the main function of a commercial bank?",
+      "option1": "Accepting deposits and providing loans",
+      "option2": "Printing all currency notes",
+      "option3": "Conducting elections",
+      "option4": "Regulating the stock market",
+      "answer": "Accepting deposits and providing loans"
+    },
+    {
+      "question": "What is the banker-customer relationship primarily based on?",
+      "option1": "Contractual relationship",
+      "option2": "Family relationship",
+      "option3": "Political relationship",
+      "option4": "Employment relationship",
+      "answer": "Contractual relationship"
+    },
+    {
+      "question": "What is a nominee in a bank account?",
+      "option1": "A person designated to receive the deposit proceeds after the account holder's death, subject to applicable law",
+      "option2": "A person authorized to operate every bank account",
+      "option3": "A bank employee assigned to an account",
+      "option4": "A person who guarantees every loan",
+      "answer": "A person designated to receive the deposit proceeds after the account holder's death, subject to applicable law"
+    },
+    {
+      "question": "What is a joint account?",
+      "option1": "An account held by two or more persons",
+      "option2": "An account held only by a company",
+      "option3": "An account without a bank branch",
+      "option4": "An account used only for loans",
+      "answer": "An account held by two or more persons"
+    },
+    {
+      "question": "What is a passbook?",
+      "option1": "A record of transactions in a bank account",
+      "option2": "A document used to issue shares",
+      "option3": "A type of insurance policy",
+      "option4": "A loan agreement only",
+      "answer": "A record of transactions in a bank account"
+    },
+    {
+      "question": "What is a bank statement?",
+      "option1": "A record showing transactions and balances in an account",
+      "option2": "A government budget document",
+      "option3": "A stock exchange report",
+      "option4": "An insurance claim form",
+      "answer": "A record showing transactions and balances in an account"
+    },
+    {
+      "question": "What is internet banking?",
+      "option1": "Banking services provided through the internet",
+      "option2": "Banking services available only at branches",
+      "option3": "Currency exchange at airports",
+      "option4": "A method of printing cheques",
+      "answer": "Banking services provided through the internet"
+    },
+    {
+      "question": "What is mobile banking?",
+      "option1": "Banking services accessed through a mobile device",
+      "option2": "Banking services provided only through ATMs",
+      "option3": "A system for printing banknotes",
+      "option4": "A method of calculating tax",
+      "answer": "Banking services accessed through a mobile device"
+    },
+    {
+      "question": "What is a credit card?",
+      "option1": "A payment card that allows purchases using a line of credit",
+      "option2": "A card directly representing cash in hand",
+      "option3": "A card used only for ATM balance enquiries",
+      "option4": "A government identity card",
+      "answer": "A payment card that allows purchases using a line of credit"
+    },
+    {
+      "question": "What is a credit limit?",
+      "option1": "The maximum amount that can generally be borrowed or spent under a credit facility",
+      "option2": "The minimum balance of a savings account",
+      "option3": "The interest paid on a deposit",
+      "option4": "The number of bank branches",
+      "answer": "The maximum amount that can generally be borrowed or spent under a credit facility"
+    },
+    {
+      "question": "What is an overdraft facility?",
+      "option1": "A facility allowing eligible customers to withdraw beyond their available account balance up to an approved limit",
+      "option2": "A fixed deposit scheme",
+      "option3": "A type of insurance policy",
+      "option4": "A government subsidy",
+      "answer": "A facility allowing eligible customers to withdraw beyond their available account balance up to an approved limit"
+    },
+    {
+      "question": "What is a cash credit facility?",
+      "option1": "A working-capital credit facility generally secured by eligible assets or security",
+      "option2": "A savings account",
+      "option3": "A type of debit card",
+      "option4": "A fixed-rate deposit",
+      "answer": "A working-capital credit facility generally secured by eligible assets or security"
+    },
+    {
+      "question": "What is working capital?",
+      "option1": "Funds used for the day-to-day operations of a business",
+      "option2": "Money invested only in shares",
+      "option3": "Long-term government borrowing",
+      "option4": "Personal savings kept at home",
+      "answer": "Funds used for the day-to-day operations of a business"
+    },
+    {
+      "question": "What is the full form of PFRDA?",
+      "option1": "Pension Fund Regulatory and Development Authority",
+      "option2": "Public Finance Regulation and Development Authority",
+      "option3": "Pension Finance and Revenue Development Agency",
+      "option4": "Public Fund Regulatory and Deposit Authority",
+      "answer": "Pension Fund Regulatory and Development Authority"
+    },
+    {
+      "question": "Which sector does PFRDA regulate and supervise?",
+      "option1": "Pension sector",
+      "option2": "Insurance sector",
+      "option3": "Stock exchange sector",
+      "option4": "Agricultural marketing sector",
+      "answer": "Pension sector"
+    },
+    {
+      "question": "What does NPS stand for?",
+      "option1": "National Pension System",
+      "option2": "National Payment Service",
+      "option3": "New Pension Scheme",
+      "option4": "National Provident Scheme",
+      "answer": "National Pension System"
+    },
+    {
+      "question": "What is the main purpose of a pension system?",
+      "option1": "To provide financial support during retirement",
+      "option2": "To provide short-term business loans",
+      "option3": "To regulate stock exchanges",
+      "option4": "To issue currency",
+      "answer": "To provide financial support during retirement"
+    },
+    {
+      "question": "What is the full form of EXIM Bank?",
+      "option1": "Export-Import Bank of India",
+      "option2": "External Investment Bank of India",
+      "option3": "Export Investment and Market Bank",
+      "option4": "Exchange Import and Manufacturing Bank",
+      "answer": "Export-Import Bank of India"
+    },
+    {
+      "question": "What is the primary role of EXIM Bank?",
+      "option1": "Supporting India's international trade",
+      "option2": "Regulating insurance companies",
+      "option3": "Managing pension funds",
+      "option4": "Conducting stock exchange operations",
+      "answer": "Supporting India's international trade"
+    },
+    {
+      "question": "What is the full form of NHB?",
+      "option1": "National Housing Bank",
+      "option2": "National Health Bank",
+      "option3": "National Housing Board",
+      "option4": "National Home Banking",
+      "answer": "National Housing Bank"
+    },
+    {
+      "question": "Which sector is primarily associated with National Housing Bank?",
+      "option1": "Housing finance",
+      "option2": "Agricultural insurance",
+      "option3": "Stock trading",
+      "option4": "Railway finance",
+      "answer": "Housing finance"
+    },
+    {
+      "question": "What is the full form of FEMA?",
+      "option1": "Foreign Exchange Management Act",
+      "option2": "Federal Exchange Management Act",
+      "option3": "Foreign Economic Monetary Act",
+      "option4": "Financial Exchange Management Authority",
+      "answer": "Foreign Exchange Management Act"
+    },
+    {
+      "question": "What is the main objective of FEMA?",
+      "option1": "To facilitate external trade and payments and promote orderly development of the foreign exchange market in India",
+      "option2": "To regulate domestic stock exchanges",
+      "option3": "To provide agricultural subsidies",
+      "option4": "To manage railway finances",
+      "answer": "To facilitate external trade and payments and promote orderly development of the foreign exchange market in India"
+    },
+    {
+      "question": "What is foreign exchange?",
+      "option1": "Foreign currency or a claim payable in foreign currency",
+      "option2": "Only Indian currency notes",
+      "option3": "A domestic bank deposit",
+      "option4": "A government tax receipt",
+      "answer": "Foreign currency or a claim payable in foreign currency"
+    },
+    {
+      "question": "What is an exchange rate?",
+      "option1": "The price of one currency expressed in terms of another currency",
+      "option2": "The interest rate on a savings account",
+      "option3": "The tax rate on imports",
+      "option4": "The rate of inflation",
+      "answer": "The price of one currency expressed in terms of another currency"
+    },
+    {
+      "question": "What is depreciation of a currency?",
+      "option1": "A decline in the value of a currency relative to another currency under a market-determined exchange rate",
+      "option2": "An increase in the value of a currency",
+      "option3": "A reduction in bank deposits",
+      "option4": "An increase in interest rates",
+      "answer": "A decline in the value of a currency relative to another currency under a market-determined exchange rate"
+    },
+    {
+      "question": "What is appreciation of a currency?",
+      "option1": "An increase in the value of a currency relative to another currency",
+      "option2": "A decrease in the value of a currency",
+      "option3": "A fall in bank reserves",
+      "option4": "A rise in inflation",
+      "answer": "An increase in the value of a currency relative to another currency"
+    },
+    {
+      "question": "What is a trade deficit?",
+      "option1": "A situation where the value of imports of goods exceeds exports of goods",
+      "option2": "A situation where exports exceed imports",
+      "option3": "A fall in government revenue",
+      "option4": "A shortage of bank deposits",
+      "answer": "A situation where the value of imports of goods exceeds exports of goods"
+    },
+    {
+      "question": "What is a trade surplus?",
+      "option1": "A situation where the value of exports of goods exceeds imports of goods",
+      "option2": "A situation where imports exceed exports",
+      "option3": "A fall in foreign exchange reserves",
+      "option4": "A rise in domestic borrowing",
+      "answer": "A situation where the value of exports of goods exceeds imports of goods"
+    },
+    {
+      "question": "What is the balance of payments?",
+      "option1": "A systematic record of economic transactions between residents of a country and the rest of the world",
+      "option2": "A record of only domestic bank transactions",
+      "option3": "A government salary statement",
+      "option4": "A company's profit statement",
+      "answer": "A systematic record of economic transactions between residents of a country and the rest of the world"
+    },
+    {
+      "question": "What are foreign exchange reserves?",
+      "option1": "External assets held by a country's monetary authority",
+      "option2": "Only domestic cash held by commercial banks",
+      "option3": "Tax collections of the government",
+      "option4": "Corporate deposits in savings accounts",
+      "answer": "External assets held by a country's monetary authority"
+    },
+    {
+      "question": "What is a bond?",
+      "option1": "A debt instrument through which the issuer borrows money from investors",
+      "option2": "A type of savings account",
+      "option3": "A payment card",
+      "option4": "A type of insurance claim",
+      "answer": "A debt instrument through which the issuer borrows money from investors"
+    },
+    {
+      "question": "What is a debenture?",
+      "option1": "A debt instrument acknowledging a company's borrowing",
+      "option2": "A type of current account",
+      "option3": "A government identity document",
+      "option4": "A payment gateway",
+      "answer": "A debt instrument acknowledging a company's borrowing"
+    },
+    {
+      "question": "What is a dividend?",
+      "option1": "A distribution of a company's profits to shareholders",
+      "option2": "Interest paid on a bank loan",
+      "option3": "Tax collected by the government",
+      "option4": "A fee charged by an ATM",
+      "answer": "A distribution of a company's profits to shareholders"
+    },
+    {
+      "question": "What is market capitalization?",
+      "option1": "The total market value of a company's outstanding shares",
+      "option2": "The total amount of bank deposits",
+      "option3": "The value of government bonds only",
+      "option4": "The annual turnover of a bank",
+      "answer": "The total market value of a company's outstanding shares"
+    },
+    {
+      "question": "What is a stock exchange?",
+      "option1": "A regulated marketplace for buying and selling securities",
+      "option2": "A government tax office",
+      "option3": "A bank branch",
+      "option4": "An insurance company",
+      "answer": "A regulated marketplace for buying and selling securities"
+    },
+    {
+      "question": "What does NIFTY 50 represent?",
+      "option1": "An index of 50 major companies listed on the NSE",
+      "option2": "An index of 50 government banks",
+      "option3": "A banking interest rate",
+      "option4": "A measure of inflation",
+      "answer": "An index of 50 major companies listed on the NSE"
+    },
+    {
+      "question": "What does SENSEX represent?",
+      "option1": "A major stock market index of the BSE",
+      "option2": "A measure of bank liquidity",
+      "option3": "An RBI interest rate",
+      "option4": "An insurance index",
+      "answer": "A major stock market index of the BSE"
+    },
+    {
+      "question": "What is a mutual fund?",
+      "option1": "An investment vehicle that pools money from investors",
+      "option2": "A type of bank loan",
+      "option3": "A government savings account",
+      "option4": "A type of debit card",
+      "answer": "An investment vehicle that pools money from investors"
+    },
+    {
+      "question": "What is an SIP?",
+      "option1": "A method of investing a fixed amount periodically in a mutual fund",
+      "option2": "A type of bank loan",
+      "option3": "A stock exchange",
+      "option4": "A type of insurance policy",
+      "answer": "A method of investing a fixed amount periodically in a mutual fund"
+    },
+    {
+      "question": "What is diversification in investment?",
+      "option1": "Spreading investments across different assets to reduce concentration risk",
+      "option2": "Investing all money in one security",
+      "option3": "Keeping all money as cash",
+      "option4": "Borrowing money from multiple banks",
+      "answer": "Spreading investments across different assets to reduce concentration risk"
+    },
+    {
+      "question": "What is a demat account?",
+      "option1": "An account used to hold securities in electronic form",
+      "option2": "A bank savings account",
+      "option3": "A fixed deposit account",
+      "option4": "An insurance account",
+      "answer": "An account used to hold securities in electronic form"
+    },
+    {
+      "question": "What is a PAN primarily used for?",
+      "option1": "Identification of taxpayers and financial transactions",
+      "option2": "Making ATM withdrawals only",
+      "option3": "Obtaining a passport only",
+      "option4": "Opening a railway reservation account only",
+      "answer": "Identification of taxpayers and financial transactions"
+    },
+    {
+      "question": "What does GST stand for?",
+      "option1": "Goods and Services Tax",
+      "option2": "General Sales Tax",
+      "option3": "Government Service Tariff",
+      "option4": "Goods Supply Tariff",
+      "answer": "Goods and Services Tax"
+    },
+    {
+      "question": "What is GST primarily a tax on?",
+      "option1": "Supply of goods and services",
+      "option2": "Only agricultural land",
+      "option3": "Only bank deposits",
+      "option4": "Only salaries",
+      "answer": "Supply of goods and services"
+    },
+    {
+      "question": "What is the GST Council?",
+      "option1": "A constitutional body that makes recommendations on GST-related matters",
+      "option2": "A stock market regulator",
+      "option3": "A banking recruitment agency",
+      "option4": "An insurance company",
+      "answer": "A constitutional body that makes recommendations on GST-related matters"
+    },
+    {
+      "question": "What is the fiscal deficit?",
+      "option1": "The excess of total government expenditure over total receipts excluding borrowings",
+      "option2": "The excess of exports over imports",
+      "option3": "The total amount of bank deposits",
+      "option4": "The difference between savings and investments of households",
+      "answer": "The excess of total government expenditure over total receipts excluding borrowings"
+    },
+    {
+      "question": "What is disinvestment?",
+      "option1": "Sale of part or all of the government's stake in a public sector enterprise",
+      "option2": "Increase in government ownership of private companies",
+      "option3": "Reduction in bank deposits",
+      "option4": "Increase in import duties",
+      "answer": "Sale of part or all of the government's stake in a public sector enterprise"
+    },
+    {
+      "question": "What is privatization?",
+      "option1": "Transfer of ownership or control of an enterprise from the public sector to the private sector",
+      "option2": "Increasing government ownership",
+      "option3": "Printing additional currency",
+      "option4": "Reducing bank interest rates",
+      "answer": "Transfer of ownership or control of an enterprise from the public sector to the private sector"
+    },
+    {
+      "question": "What is a public sector bank?",
+      "option1": "A bank in which the government has the prescribed controlling ownership",
+      "option2": "A bank owned entirely by foreign investors",
+      "option3": "A bank owned only by its customers",
+      "option4": "A bank that provides services only online",
+      "answer": "A bank in which the government has the prescribed controlling ownership"
+    },
+    {
+      "question": "What is a private sector bank?",
+      "option1": "A bank primarily owned and controlled by private shareholders",
+      "option2": "A bank owned entirely by the central government",
+      "option3": "A bank operated only by RBI",
+      "option4": "A bank that does not accept deposits",
+      "answer": "A bank primarily owned and controlled by private shareholders"
+    },
+    {
+      "question": "What is a small finance bank primarily intended to promote?",
+      "option1": "Financial inclusion and services to underserved sections",
+      "option2": "Only international banking",
+      "option3": "Only stock market trading",
+      "option4": "Only large corporate lending",
+      "answer": "Financial inclusion and services to underserved sections"
+    },
+    {
+      "question": "What is a payments bank primarily permitted to provide?",
+      "option1": "Deposit and payment services within regulatory limits",
+      "option2": "Unlimited large corporate loans",
+      "option3": "Mortgage loans without restrictions",
+      "option4": "Only insurance services",
+      "answer": "Deposit and payment services within regulatory limits"
+    },
+    {
+      "question": "What is the primary purpose of a bank's reserve requirements?",
+      "option1": "To maintain liquidity and support financial stability",
+      "option2": "To increase employee salaries",
+      "option3": "To finance stock speculation",
+      "option4": "To eliminate all bank lending",
+      "answer": "To maintain liquidity and support financial stability"
+    },
+    {
+      "question": "What is an open market operation?",
+      "option1": "Purchase or sale of government securities by the central bank",
+      "option2": "Buying and selling shares by individual investors",
+      "option3": "Foreign currency exchange at airports",
+      "option4": "Sale of bank-owned property",
+      "answer": "Purchase or sale of government securities by the central bank"
+    },
+    {
+      "question": "When a central bank purchases government securities in the open market, what is the usual immediate effect?",
+      "option1": "It injects liquidity into the banking system",
+      "option2": "It removes liquidity from the banking system",
+      "option3": "It closes commercial banks",
+      "option4": "It increases income tax automatically",
+      "answer": "It injects liquidity into the banking system"
+    },
+    {
+      "question": "When a central bank sells government securities in the open market, what is the usual immediate effect?",
+      "option1": "It absorbs liquidity from the banking system",
+      "option2": "It injects unlimited liquidity",
+      "option3": "It eliminates government debt",
+      "option4": "It increases bank deposits automatically",
+      "answer": "It absorbs liquidity from the banking system"
+    },
+    {
+      "question": "What is deflation?",
+      "option1": "A sustained decline in the general price level",
+      "option2": "A sustained rise in the general price level",
+      "option3": "A rise in employment only",
+      "option4": "An increase in exports only",
+      "answer": "A sustained decline in the general price level"
+    },
+    {
+      "question": "What is stagflation?",
+      "option1": "A combination of stagnant economic growth, high unemployment and inflation",
+      "option2": "Rapid growth with low inflation",
+      "option3": "Falling prices with high economic growth",
+      "option4": "High exports with low unemployment",
+      "answer": "A combination of stagnant economic growth, high unemployment and inflation"
+    },
+    {
+      "question": "What is per capita income?",
+      "option1": "Average income per person",
+      "option2": "Total government income",
+      "option3": "Total corporate profit",
+      "option4": "Average bank deposit",
+      "answer": "Average income per person"
+    },
+    {
+      "question": "What is national income?",
+      "option1": "The total income earned by the residents of an economy over a period",
+      "option2": "Only government tax revenue",
+      "option3": "Only corporate profits",
+      "option4": "Only household savings",
+      "answer": "The total income earned by the residents of an economy over a period"
+    },
+    {
+      "question": "What is the Union Budget?",
+      "option1": "The government's annual statement of estimated receipts and expenditure",
+      "option2": "The RBI's annual monetary policy statement",
+      "option3": "A bank's annual balance sheet",
+      "option4": "A stock exchange report",
+      "answer": "The government's annual statement of estimated receipts and expenditure"
+    },
+    {
+      "question": "What is monetary policy transmission?",
+      "option1": "The process through which monetary policy changes affect interest rates, credit and economic activity",
+      "option2": "Transfer of bank branches between states",
+      "option3": "Movement of physical currency between ATMs",
+      "option4": "Transfer of shares between investors",
+      "answer": "The process through which monetary policy changes affect interest rates, credit and economic activity"
+    },
+    {
+      "question": "What is the Monetary Policy Committee (MPC)?",
+      "option1": "A committee responsible for determining the policy repo rate to achieve the inflation target",
+      "option2": "A committee that regulates stock exchanges",
+      "option3": "A committee that issues passports",
+      "option4": "A committee that manages public sector recruitment",
+      "answer": "A committee responsible for determining the policy repo rate to achieve the inflation target"
+    },
+    {
+      "question": "What is the primary mandate of monetary policy in India?",
+      "option1": "Maintaining price stability while keeping growth in mind",
+      "option2": "Maximizing stock market returns",
+      "option3": "Increasing bank branch numbers",
+      "option4": "Managing government employee salaries",
+      "answer": "Maintaining price stability while keeping growth in mind"
+    },
+    {
+      "question": "What is CPI?",
+      "option1": "Consumer Price Index",
+      "option2": "Central Payment Index",
+      "option3": "Consumer Production Indicator",
+      "option4": "Capital Price Indicator",
+      "answer": "Consumer Price Index"
+    },
+    {
+      "question": "What does CPI primarily measure?",
+      "option1": "Changes in prices paid by consumers for a basket of goods and services",
+      "option2": "Changes in stock market prices only",
+      "option3": "Changes in bank deposits",
+      "option4": "Changes in government salaries only",
+      "answer": "Changes in prices paid by consumers for a basket of goods and services"
+    },
+    {
+      "question": "What is the Repo Rate's likely effect when increased by the central bank?",
+      "option1": "Borrowing costs for banks generally increase",
+      "option2": "Bank borrowing becomes automatically free",
+      "option3": "All bank deposits are cancelled",
+      "option4": "Currency notes become invalid",
+      "answer": "Borrowing costs for banks generally increase"
+    },
+    {
+      "question": "What is the Reverse Repo Rate conceptually associated with?",
+      "option1": "The rate at which the central bank absorbs liquidity from banks through the applicable facility",
+      "option2": "The rate charged to customers on credit cards",
+      "option3": "The rate of income tax",
+      "option4": "The rate of inflation",
+      "answer": "The rate at which the central bank absorbs liquidity from banks through the applicable facility"
+    },
+    {
+      "question": "What is a bank rate?",
+      "option1": "A rate used by the central bank in relation to certain lending facilities and monetary operations",
+      "option2": "The interest rate paid on every savings account",
+      "option3": "The exchange rate of the rupee",
+      "option4": "The rate of GST on banking services",
+      "answer": "A rate used by the central bank in relation to certain lending facilities and monetary operations"
+    },
+    {
+      "question": "If the ratio of boys to girls in a class is 3:2 and there are 30 students, how many are boys?",
+      "option1": "15",
+      "option2": "18",
+      "option3": "20",
+      "option4": "12",
+      "answer": "18"
+    },
+    {
+      "question": "A train travels 240 km in 4 hours. What is its average speed?",
+      "option1": "50 km/h",
+      "option2": "60 km/h",
+      "option3": "70 km/h",
+      "option4": "80 km/h",
+      "answer": "60 km/h"
+    },
+    {
+      "question": "What is the full form of SWIFT in international banking?",
+      "option1": "Society for Worldwide Interbank Financial Telecommunication",
+      "option2": "System for Worldwide International Fund Transfer",
+      "option3": "Society for World Investment and Financial Transactions",
+      "option4": "Secure Worldwide Interbank Fund Transfer",
+      "answer": "Society for Worldwide Interbank Financial Telecommunication"
+    },
+    {
+      "question": "What is the primary purpose of SWIFT?",
+      "option1": "To facilitate secure financial messaging between institutions",
+      "option2": "To issue currency notes",
+      "option3": "To provide savings accounts",
+      "option4": "To regulate stock exchanges",
+      "answer": "To facilitate secure financial messaging between institutions"
+    },
+    {
+      "question": "What is a bank's BIC commonly associated with?",
+      "option1": "Identification of a bank in international financial messaging",
+      "option2": "Calculation of domestic inflation",
+      "option3": "Identification of a customer's Aadhaar number",
+      "option4": "Calculation of GST",
+      "answer": "Identification of a bank in international financial messaging"
+    },
+    {
+      "question": "What is the full form of CIF in banking?",
+      "option1": "Customer Information File",
+      "option2": "Central Investment Fund",
+      "option3": "Customer Insurance Facility",
+      "option4": "Credit Information Finance",
+      "answer": "Customer Information File"
+    },
+    {
+      "question": "What is a CIF number mainly used for?",
+      "option1": "Maintaining a customer's banking information under a unique customer record",
+      "option2": "Identifying a stock exchange",
+      "option3": "Calculating income tax",
+      "option4": "Issuing currency notes",
+      "answer": "Maintaining a customer's banking information under a unique customer record"
+    },
+    {
+      "question": "What is a bank reconciliation statement prepared to identify?",
+      "option1": "Differences between the bank statement and cash book",
+      "option2": "Differences between two loan agreements",
+      "option3": "Differences between two insurance policies",
+      "option4": "Differences between two stock exchanges",
+      "answer": "Differences between the bank statement and cash book"
+    },
+    {
+      "question": "If a cheque issued by a business has not yet been presented to the bank, what may occur?",
+      "option1": "The cash book balance may differ from the bank statement balance",
+      "option2": "The account is automatically closed",
+      "option3": "The cheque becomes a fixed deposit",
+      "option4": "The bank cancels all transactions",
+      "answer": "The cash book balance may differ from the bank statement balance"
+    },
+    {
+      "question": "What is a standing instruction in banking?",
+      "option1": "An instruction authorizing the bank to make specified recurring payments",
+      "option2": "A permanent bank loan",
+      "option3": "A government bond",
+      "option4": "A type of debit card",
+      "answer": "An instruction authorizing the bank to make specified recurring payments"
+    },
+    {
+      "question": "What is ECS primarily associated with?",
+      "option1": "Electronic bulk transfer of recurring or repetitive payments and collections",
+      "option2": "Stock exchange trading",
+      "option3": "Currency printing",
+      "option4": "Insurance underwriting",
+      "answer": "Electronic bulk transfer of recurring or repetitive payments and collections"
+    },
+    {
+      "question": "What does ECS stand for?",
+      "option1": "Electronic Clearing Service",
+      "option2": "Electronic Credit System",
+      "option3": "Electronic Cash Service",
+      "option4": "External Clearing System",
+      "answer": "Electronic Clearing Service"
+    },
+    {
+      "question": "What is DBT in the context of government payments?",
+      "option1": "Direct Benefit Transfer",
+      "option2": "Digital Banking Transaction",
+      "option3": "Deposit Balance Transfer",
+      "option4": "Direct Bank Tax",
+      "answer": "Direct Benefit Transfer"
+    },
+    {
+      "question": "What is the main objective of Direct Benefit Transfer?",
+      "option1": "Transfer eligible government benefits directly to beneficiaries' bank accounts",
+      "option2": "Provide loans to large companies",
+      "option3": "Regulate stock exchanges",
+      "option4": "Transfer foreign currency to banks",
+      "answer": "Transfer eligible government benefits directly to beneficiaries' bank accounts"
+    },
+    {
+      "question": "What is the full form of KYC?",
+      "option1": "Know Your Customer",
+      "option2": "Keep Your Cash",
+      "option3": "Know Your Credit",
+      "option4": "Keep Your Customer",
+      "answer": "Know Your Customer"
+    },
+    {
+      "question": "Why is KYC important for banks?",
+      "option1": "To verify customer identity and address and help prevent financial crimes",
+      "option2": "To calculate stock market returns",
+      "option3": "To determine railway fares",
+      "option4": "To issue driving licences",
+      "answer": "To verify customer identity and address and help prevent financial crimes"
+    },
+    {
+      "question": "What is the purpose of a bank's customer due diligence process?",
+      "option1": "To understand and verify customers and assess relevant financial risks",
+      "option2": "To increase the number of bank branches",
+      "option3": "To calculate employee salaries",
+      "option4": "To determine stock prices",
+      "answer": "To understand and verify customers and assess relevant financial risks"
+    },
+    {
+      "question": "What is the full form of NPA?",
+      "option1": "Non-Performing Asset",
+      "option2": "National Payment Account",
+      "option3": "Net Performing Account",
+      "option4": "Non-Payment Authority",
+      "answer": "Non-Performing Asset"
+    },
+    {
+      "question": "What is provisioning in relation to bad loans?",
+      "option1": "Setting aside funds to cover expected losses",
+      "option2": "Increasing customer deposits",
+      "option3": "Reducing employee salaries",
+      "option4": "Issuing new shares",
+      "answer": "Setting aside funds to cover expected losses"
+    },
+    {
+      "question": "What is a write-off of a loan?",
+      "option1": "An accounting action to remove a loan or portion of it from the books as an asset, without necessarily ending recovery efforts",
+      "option2": "Automatic cancellation of the borrower's debt in every case",
+      "option3": "Conversion of a loan into a savings account",
+      "option4": "Increasing the loan amount",
+      "answer": "An accounting action to remove a loan or portion of it from the books as an asset, without necessarily ending recovery efforts"
+    },
+    {
+      "question": "What is loan recovery?",
+      "option1": "Collection of outstanding amounts from borrowers",
+      "option2": "Issuing new currency",
+      "option3": "Opening new bank branches",
+      "option4": "Increasing savings interest rates",
+      "answer": "Collection of outstanding amounts from borrowers"
+    },
+    {
+      "question": "What is the main purpose of a credit score?",
+      "option1": "To summarize a borrower's credit history and help assess credit risk",
+      "option2": "To calculate income tax",
+      "option3": "To determine a company's market capitalization",
+      "option4": "To calculate inflation",
+      "answer": "To summarize a borrower's credit history and help assess credit risk"
+    },
+    {
+      "question": "If a borrower has a strong repayment history, what can it generally indicate?",
+      "option1": "Lower perceived credit risk",
+      "option2": "Higher inflation",
+      "option3": "Lower bank deposits",
+      "option4": "Higher GST",
+      "answer": "Lower perceived credit risk"
+    },
+    {
+      "question": "A sum of ₹5,000 is deposited at 8% simple interest per annum for 3 years. What is the total interest?",
+      "option1": "₹1,000",
+      "option2": "₹1,200",
+      "option3": "₹1,400",
+      "option4": "₹1,600",
+      "answer": "₹1,200"
+    },
+    {
+      "question": "A person buys an article for ₹1,500 and sells it for ₹1,800. What is the profit percentage?",
+      "option1": "15%",
+      "option2": "20%",
+      "option3": "25%",
+      "option4": "30%",
+      "answer": "20%"
+    },
+    {
+      "question": "If 40% of a number is 80, what is the number?",
+      "option1": "160",
+      "option2": "180",
+      "option3": "200",
+      "option4": "240",
+      "answer": "200"
+    },
+    {
+      "question": "A can complete a task in 10 days and B can complete it in 15 days. Working together, approximately how many days will they take?",
+      "option1": "5 days",
+      "option2": "6 days",
+      "option3": "7 days",
+      "option4": "8 days",
+      "answer": "6 days"
+    }
+  ]
+}

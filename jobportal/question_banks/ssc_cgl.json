@@ -1,0 +1,1605 @@
+{
+  "exam": "SSC CGL",
+  "questions": [
+    {
+      "question": "Who is known as the Father of the Indian Constitution?",
+      "option1": "Mahatma Gandhi",
+      "option2": "B. R. Ambedkar",
+      "option3": "Jawaharlal Nehru",
+      "option4": "Sardar Patel",
+      "answer": "B. R. Ambedkar"
+    },
+    {
+      "question": "The Constitution of India was adopted on which date?",
+      "option1": "15 August 1947",
+      "option2": "26 January 1950",
+      "option3": "26 November 1949",
+      "option4": "2 October 1950",
+      "answer": "26 November 1949"
+    },
+    {
+      "question": "The Constitution of India came into force on which date?",
+      "option1": "26 November 1949",
+      "option2": "15 August 1947",
+      "option3": "26 January 1950",
+      "option4": "2 October 1950",
+      "answer": "26 January 1950"
+    },
+    {
+      "question": "Fundamental Rights are contained in which Part of the Constitution?",
+      "option1": "Part I",
+      "option2": "Part II",
+      "option3": "Part III",
+      "option4": "Part IV",
+      "answer": "Part III"
+    },
+    {
+      "question": "Directive Principles of State Policy are in which Part?",
+      "option1": "Part II",
+      "option2": "Part III",
+      "option3": "Part IV",
+      "option4": "Part V",
+      "answer": "Part IV"
+    },
+    {
+      "question": "Fundamental Duties were added by which Amendment?",
+      "option1": "42nd Amendment",
+      "option2": "44th Amendment",
+      "option3": "52nd Amendment",
+      "option4": "73rd Amendment",
+      "answer": "42nd Amendment"
+    },
+    {
+      "question": "The President of India is elected by whom?",
+      "option1": "Directly by citizens",
+      "option2": "Electoral College",
+      "option3": "Lok Sabha only",
+      "option4": "Rajya Sabha only",
+      "answer": "Electoral College"
+    },
+    {
+      "question": "The normal term of the Lok Sabha is",
+      "option1": "4 years",
+      "option2": "5 years",
+      "option3": "6 years",
+      "option4": "7 years",
+      "answer": "5 years"
+    },
+    {
+      "question": "The Rajya Sabha is a",
+      "option1": "Temporary House",
+      "option2": "Permanent House",
+      "option3": "House dissolved every 5 years",
+      "option4": "Judicial body",
+      "answer": "Permanent House"
+    },
+    {
+      "question": "Who is the constitutional head of the Union?",
+      "option1": "Prime Minister",
+      "option2": "President",
+      "option3": "Chief Justice",
+      "option4": "Home Minister",
+      "answer": "President"
+    },
+    {
+      "question": "Who is the real executive head of the Union government?",
+      "option1": "President",
+      "option2": "Prime Minister",
+      "option3": "Vice-President",
+      "option4": "Speaker",
+      "answer": "Prime Minister"
+    },
+    {
+      "question": "The minimum age to become President of India is",
+      "option1": "25 years",
+      "option2": "30 years",
+      "option3": "35 years",
+      "option4": "40 years",
+      "answer": "35 years"
+    },
+    {
+      "question": "The minimum age to become a member of Lok Sabha is",
+      "option1": "18 years",
+      "option2": "21 years",
+      "option3": "25 years",
+      "option4": "30 years",
+      "answer": "25 years"
+    },
+    {
+      "question": "The minimum age to become a member of Rajya Sabha is",
+      "option1": "21 years",
+      "option2": "25 years",
+      "option3": "30 years",
+      "option4": "35 years",
+      "answer": "30 years"
+    },
+    {
+      "question": "Who appoints the Prime Minister of India?",
+      "option1": "Chief Justice",
+      "option2": "President",
+      "option3": "Speaker",
+      "option4": "Vice-President",
+      "answer": "President"
+    },
+    {
+      "question": "The Supreme Court of India was established in",
+      "option1": "1947",
+      "option2": "1950",
+      "option3": "1952",
+      "option4": "1956",
+      "answer": "1950"
+    },
+    {
+      "question": "Who is the final interpreter of the Constitution?",
+      "option1": "Parliament",
+      "option2": "President",
+      "option3": "Supreme Court",
+      "option4": "Election Commission",
+      "answer": "Supreme Court"
+    },
+    {
+      "question": "Which Article deals with equality before law?",
+      "option1": "Article 14",
+      "option2": "Article 19",
+      "option3": "Article 21",
+      "option4": "Article 32",
+      "answer": "Article 14"
+    },
+    {
+      "question": "Which Article protects life and personal liberty?",
+      "option1": "Article 14",
+      "option2": "Article 19",
+      "option3": "Article 21",
+      "option4": "Article 25",
+      "answer": "Article 21"
+    },
+    {
+      "question": "Article 32 is related to",
+      "option1": "Right to Education",
+      "option2": "Constitutional Remedies",
+      "option3": "Freedom of Religion",
+      "option4": "Property",
+      "answer": "Constitutional Remedies"
+    },
+    {
+      "question": "Who is the ex-officio Chairman of Rajya Sabha?",
+      "option1": "President",
+      "option2": "Prime Minister",
+      "option3": "Vice-President",
+      "option4": "Speaker",
+      "answer": "Vice-President"
+    },
+    {
+      "question": "Who presides over the Lok Sabha?",
+      "option1": "President",
+      "option2": "Speaker",
+      "option3": "Vice-President",
+      "option4": "Prime Minister",
+      "answer": "Speaker"
+    },
+    {
+      "question": "The Election Commission of India is a",
+      "option1": "Statutory body",
+      "option2": "Constitutional body",
+      "option3": "Private body",
+      "option4": "Judicial body",
+      "answer": "Constitutional body"
+    },
+    {
+      "question": "The Finance Commission is constituted under which Article?",
+      "option1": "Article 280",
+      "option2": "Article 324",
+      "option3": "Article 356",
+      "option4": "Article 368",
+      "answer": "Article 280"
+    },
+    {
+      "question": "The 73rd Constitutional Amendment relates to",
+      "option1": "Municipalities",
+      "option2": "Panchayati Raj",
+      "option3": "Fundamental Duties",
+      "option4": "GST",
+      "answer": "Panchayati Raj"
+    },
+    {
+      "question": "The 74th Constitutional Amendment relates to",
+      "option1": "Municipalities",
+      "option2": "Panchayats",
+      "option3": "Emergency",
+      "option4": "Elections",
+      "answer": "Municipalities"
+    },
+    {
+      "question": "Which Schedule contains the Union, State and Concurrent Lists?",
+      "option1": "Fifth",
+      "option2": "Sixth",
+      "option3": "Seventh",
+      "option4": "Eighth",
+      "answer": "Seventh"
+    },
+    {
+      "question": "How many Fundamental Rights are currently guaranteed?",
+      "option1": "5",
+      "option2": "6",
+      "option3": "7",
+      "option4": "8",
+      "answer": "6"
+    },
+    {
+      "question": "The Right to Education is under",
+      "option1": "Article 21A",
+      "option2": "Article 20",
+      "option3": "Article 29",
+      "option4": "Article 51A",
+      "answer": "Article 21A"
+    },
+    {
+      "question": "Who can declare a National Emergency?",
+      "option1": "Prime Minister",
+      "option2": "President",
+      "option3": "Parliament",
+      "option4": "Supreme Court",
+      "answer": "President"
+    },
+    {
+      "question": "The first President of India was",
+      "option1": "S. Radhakrishnan",
+      "option2": "Rajendra Prasad",
+      "option3": "Zakir Husain",
+      "option4": "V. V. Giri",
+      "answer": "Rajendra Prasad"
+    },
+    {
+      "question": "The first Prime Minister of India was",
+      "option1": "Sardar Patel",
+      "option2": "Jawaharlal Nehru",
+      "option3": "Rajendra Prasad",
+      "option4": "Lal Bahadur Shastri",
+      "answer": "Jawaharlal Nehru"
+    },
+    {
+      "question": "Who founded the Maurya Empire?",
+      "option1": "Ashoka",
+      "option2": "Chandragupta Maurya",
+      "option3": "Bindusara",
+      "option4": "Harsha",
+      "answer": "Chandragupta Maurya"
+    },
+    {
+      "question": "Ashoka belonged to which dynasty?",
+      "option1": "Gupta",
+      "option2": "Maurya",
+      "option3": "Chola",
+      "option4": "Kushan",
+      "answer": "Maurya"
+    },
+    {
+      "question": "The Battle of Plassey was fought in",
+      "option1": "1757",
+      "option2": "1764",
+      "option3": "1857",
+      "option4": "1947",
+      "answer": "1757"
+    },
+    {
+      "question": "The Battle of Buxar was fought in",
+      "option1": "1757",
+      "option2": "1764",
+      "option3": "1773",
+      "option4": "1857",
+      "answer": "1764"
+    },
+    {
+      "question": "The Revolt of 1857 began at",
+      "option1": "Delhi",
+      "option2": "Meerut",
+      "option3": "Kanpur",
+      "option4": "Lucknow",
+      "answer": "Meerut"
+    },
+    {
+      "question": "Who was the last Mughal emperor?",
+      "option1": "Akbar II",
+      "option2": "Bahadur Shah II",
+      "option3": "Shah Alam II",
+      "option4": "Aurangzeb",
+      "answer": "Bahadur Shah II"
+    },
+    {
+      "question": "Who founded the Mughal Empire in India?",
+      "option1": "Akbar",
+      "option2": "Babur",
+      "option3": "Humayun",
+      "option4": "Shah Jahan",
+      "answer": "Babur"
+    },
+    {
+      "question": "The Taj Mahal was built by",
+      "option1": "Akbar",
+      "option2": "Jahangir",
+      "option3": "Shah Jahan",
+      "option4": "Aurangzeb",
+      "answer": "Shah Jahan"
+    },
+    {
+      "question": "Who founded the Brahmo Samaj?",
+      "option1": "Swami Dayanand",
+      "option2": "Raja Ram Mohan Roy",
+      "option3": "Vivekananda",
+      "option4": "Jyotiba Phule",
+      "answer": "Raja Ram Mohan Roy"
+    },
+    {
+      "question": "Arya Samaj was founded by",
+      "option1": "Raja Ram Mohan Roy",
+      "option2": "Swami Dayanand Saraswati",
+      "option3": "Vivekananda",
+      "option4": "Annie Besant",
+      "answer": "Swami Dayanand Saraswati"
+    },
+    {
+      "question": "The Indian National Congress was founded in",
+      "option1": "1885",
+      "option2": "1905",
+      "option3": "1919",
+      "option4": "1942",
+      "answer": "1885"
+    },
+    {
+      "question": "Who was the first President of the Indian National Congress?",
+      "option1": "W. C. Bonnerjee",
+      "option2": "Dadabhai Naoroji",
+      "option3": "Gopal Krishna Gokhale",
+      "option4": "Surendranath Banerjee",
+      "answer": "W. C. Bonnerjee"
+    },
+    {
+      "question": "The Non-Cooperation Movement was launched in",
+      "option1": "1919",
+      "option2": "1920",
+      "option3": "1930",
+      "option4": "1942",
+      "answer": "1920"
+    },
+    {
+      "question": "The Civil Disobedience Movement began with",
+      "option1": "Quit India Movement",
+      "option2": "Dandi March",
+      "option3": "Champaran Movement",
+      "option4": "Swadeshi Movement",
+      "answer": "Dandi March"
+    },
+    {
+      "question": "The Quit India Movement was launched in",
+      "option1": "1930",
+      "option2": "1935",
+      "option3": "1940",
+      "option4": "1942",
+      "answer": "1942"
+    },
+    {
+      "question": "The Dandi March was associated with",
+      "option1": "Non-Cooperation",
+      "option2": "Civil Disobedience",
+      "option3": "Quit India",
+      "option4": "Swadeshi",
+      "answer": "Civil Disobedience"
+    },
+    {
+      "question": "Who gave the slogan 'Do or Die'?",
+      "option1": "Subhas Chandra Bose",
+      "option2": "Mahatma Gandhi",
+      "option3": "Bhagat Singh",
+      "option4": "Bal Gangadhar Tilak",
+      "answer": "Mahatma Gandhi"
+    },
+    {
+      "question": "Who founded the Indian National Army?",
+      "option1": "Subhas Chandra Bose",
+      "option2": "Mahatma Gandhi",
+      "option3": "Jawaharlal Nehru",
+      "option4": "Bhagat Singh",
+      "answer": "Subhas Chandra Bose"
+    },
+    {
+      "question": "The capital of the Mauryan Empire was",
+      "option1": "Pataliputra",
+      "option2": "Taxila",
+      "option3": "Ujjain",
+      "option4": "Delhi",
+      "answer": "Pataliputra"
+    },
+    {
+      "question": "The Gupta period is often called the",
+      "option1": "Stone Age",
+      "option2": "Golden Age",
+      "option3": "Iron Age",
+      "option4": "Vedic Age",
+      "answer": "Golden Age"
+    },
+    {
+      "question": "Nalanda University was located in present-day",
+      "option1": "Uttar Pradesh",
+      "option2": "Bihar",
+      "option3": "Gujarat",
+      "option4": "Odisha",
+      "answer": "Bihar"
+    },
+    {
+      "question": "The Ajanta Caves are mainly associated with",
+      "option1": "Buddhism",
+      "option2": "Jainism",
+      "option3": "Sikhism",
+      "option4": "Islam",
+      "answer": "Buddhism"
+    },
+    {
+      "question": "The Sanchi Stupa is associated with",
+      "option1": "Ashoka",
+      "option2": "Akbar",
+      "option3": "Harsha",
+      "option4": "Chandragupta II",
+      "answer": "Ashoka"
+    },
+    {
+      "question": "Who wrote the Arthashastra?",
+      "option1": "Kalidasa",
+      "option2": "Kautilya",
+      "option3": "Banabhatta",
+      "option4": "Megasthenes",
+      "answer": "Kautilya"
+    },
+    {
+      "question": "Who wrote the book Indica?",
+      "option1": "Megasthenes",
+      "option2": "Fa-Hien",
+      "option3": "Hiuen Tsang",
+      "option4": "Kautilya",
+      "answer": "Megasthenes"
+    },
+    {
+      "question": "The Permanent Settlement was introduced by",
+      "option1": "Lord Dalhousie",
+      "option2": "Lord Cornwallis",
+      "option3": "Lord Curzon",
+      "option4": "Lord Wellesley",
+      "answer": "Lord Cornwallis"
+    },
+    {
+      "question": "The Doctrine of Lapse was associated with",
+      "option1": "Lord Wellesley",
+      "option2": "Lord Dalhousie",
+      "option3": "Lord Canning",
+      "option4": "Lord Curzon",
+      "answer": "Lord Dalhousie"
+    },
+    {
+      "question": "The first session of the Indian National Congress was held at",
+      "option1": "Calcutta",
+      "option2": "Bombay",
+      "option3": "Madras",
+      "option4": "Delhi",
+      "answer": "Bombay"
+    },
+    {
+      "question": "The Partition of Bengal took place in",
+      "option1": "1905",
+      "option2": "1911",
+      "option3": "1919",
+      "option4": "1947",
+      "answer": "1905"
+    },
+    {
+      "question": "The Jallianwala Bagh massacre occurred in",
+      "option1": "1917",
+      "option2": "1919",
+      "option3": "1922",
+      "option4": "1930",
+      "answer": "1919"
+    },
+    {
+      "question": "Who was known as the Frontier Gandhi?",
+      "option1": "Khan Abdul Ghaffar Khan",
+      "option2": "Maulana Azad",
+      "option3": "Rajendra Prasad",
+      "option4": "Lala Lajpat Rai",
+      "answer": "Khan Abdul Ghaffar Khan"
+    },
+    {
+      "question": "Who wrote Vande Mataram?",
+      "option1": "Rabindranath Tagore",
+      "option2": "Bankim Chandra Chattopadhyay",
+      "option3": "Sarojini Naidu",
+      "option4": "Ishwar Chandra Vidyasagar",
+      "answer": "Bankim Chandra Chattopadhyay"
+    },
+    {
+      "question": "Who wrote Jana Gana Mana?",
+      "option1": "Bankim Chandra Chattopadhyay",
+      "option2": "Rabindranath Tagore",
+      "option3": "Subramania Bharati",
+      "option4": "Sarojini Naidu",
+      "answer": "Rabindranath Tagore"
+    },
+    {
+      "question": "The Indian National Anthem was adopted in",
+      "option1": "1947",
+      "option2": "1950",
+      "option3": "1952",
+      "option4": "1949",
+      "answer": "1950"
+    },
+    {
+      "question": "The Indian National Song is",
+      "option1": "Jana Gana Mana",
+      "option2": "Vande Mataram",
+      "option3": "Saare Jahan Se Achha",
+      "option4": "Ae Mere Watan",
+      "answer": "Vande Mataram"
+    },
+    {
+      "question": "The Green Revolution in India is mainly associated with",
+      "option1": "M. S. Swaminathan",
+      "option2": "Vikram Sarabhai",
+      "option3": "Homi Bhabha",
+      "option4": "Verghese Kurien",
+      "answer": "M. S. Swaminathan"
+    },
+    {
+      "question": "The White Revolution is associated with",
+      "option1": "Milk",
+      "option2": "Wheat",
+      "option3": "Fish",
+      "option4": "Oilseeds",
+      "answer": "Milk"
+    },
+    {
+      "question": "Operation Flood was related to",
+      "option1": "Milk production",
+      "option2": "Wheat production",
+      "option3": "Fish production",
+      "option4": "Cotton production",
+      "answer": "Milk production"
+    },
+    {
+      "question": "The Reserve Bank of India was established in",
+      "option1": "1935",
+      "option2": "1947",
+      "option3": "1950",
+      "option4": "1955",
+      "answer": "1935"
+    },
+    {
+      "question": "RBI was nationalised in",
+      "option1": "1947",
+      "option2": "1949",
+      "option3": "1951",
+      "option4": "1955",
+      "answer": "1949"
+    },
+    {
+      "question": "The headquarters of RBI is in",
+      "option1": "New Delhi",
+      "option2": "Mumbai",
+      "option3": "Kolkata",
+      "option4": "Chennai",
+      "answer": "Mumbai"
+    },
+    {
+      "question": "The currency of India is issued mainly by",
+      "option1": "SBI",
+      "option2": "RBI",
+      "option3": "Finance Ministry",
+      "option4": "SEBI",
+      "answer": "RBI"
+    },
+    {
+      "question": "SEBI regulates the",
+      "option1": "Banking sector",
+      "option2": "Securities market",
+      "option3": "Insurance sector",
+      "option4": "Railways",
+      "answer": "Securities market"
+    },
+    {
+      "question": "NABARD is mainly associated with",
+      "option1": "Agriculture and rural development",
+      "option2": "Space research",
+      "option3": "Defence",
+      "option4": "Telecommunications",
+      "answer": "Agriculture and rural development"
+    },
+    {
+      "question": "GST was introduced in India in",
+      "option1": "2014",
+      "option2": "2015",
+      "option3": "2017",
+      "option4": "2019",
+      "answer": "2017"
+    },
+    {
+      "question": "GDP stands for",
+      "option1": "Gross Domestic Product",
+      "option2": "General Domestic Product",
+      "option3": "Gross Development Plan",
+      "option4": "General Development Product",
+      "answer": "Gross Domestic Product"
+    },
+    {
+      "question": "Inflation means",
+      "option1": "Fall in prices",
+      "option2": "General rise in prices",
+      "option3": "Rise in production",
+      "option4": "Fall in money supply",
+      "answer": "General rise in prices"
+    },
+    {
+      "question": "A direct tax is",
+      "option1": "GST",
+      "option2": "Income Tax",
+      "option3": "Customs Duty",
+      "option4": "Excise Duty",
+      "answer": "Income Tax"
+    },
+    {
+      "question": "The Planning Commission was replaced by",
+      "option1": "SEBI",
+      "option2": "NITI Aayog",
+      "option3": "Finance Commission",
+      "option4": "RBI",
+      "answer": "NITI Aayog"
+    },
+    {
+      "question": "NITI Aayog was established in",
+      "option1": "2014",
+      "option2": "2015",
+      "option3": "2016",
+      "option4": "2017",
+      "answer": "2015"
+    },
+    {
+      "question": "The primary sector includes",
+      "option1": "Agriculture",
+      "option2": "Manufacturing",
+      "option3": "Banking",
+      "option4": "Transport",
+      "answer": "Agriculture"
+    },
+    {
+      "question": "The service sector is also known as",
+      "option1": "Primary sector",
+      "option2": "Secondary sector",
+      "option3": "Tertiary sector",
+      "option4": "Quaternary sector",
+      "answer": "Tertiary sector"
+    },
+    {
+      "question": "Per capita income means",
+      "option1": "National income divided by population",
+      "option2": "Population divided by income",
+      "option3": "Exports divided by imports",
+      "option4": "Tax divided by population",
+      "answer": "National income divided by population"
+    },
+    {
+      "question": "The Green Revolution mainly increased production of",
+      "option1": "Food grains",
+      "option2": "Milk",
+      "option3": "Fish",
+      "option4": "Cotton",
+      "answer": "Food grains"
+    },
+    {
+      "question": "The Father of the Green Revolution in India is",
+      "option1": "M. S. Swaminathan",
+      "option2": "Norman Borlaug",
+      "option3": "Verghese Kurien",
+      "option4": "C. Subramaniam",
+      "answer": "M. S. Swaminathan"
+    },
+    {
+      "question": "The Father of the White Revolution in India is",
+      "option1": "Verghese Kurien",
+      "option2": "M. S. Swaminathan",
+      "option3": "Norman Borlaug",
+      "option4": "Homi Bhabha",
+      "answer": "Verghese Kurien"
+    },
+    {
+      "question": "Which institution conducts monetary policy in India?",
+      "option1": "RBI",
+      "option2": "SEBI",
+      "option3": "NITI Aayog",
+      "option4": "NABARD",
+      "answer": "RBI"
+    },
+    {
+      "question": "Repo rate is the rate at which",
+      "option1": "Banks lend to RBI",
+      "option2": "RBI lends to banks",
+      "option3": "Government lends to RBI",
+      "option4": "Banks lend to customers",
+      "answer": "RBI lends to banks"
+    },
+    {
+      "question": "Reverse repo rate is the rate at which",
+      "option1": "RBI borrows from banks",
+      "option2": "RBI lends to banks",
+      "option3": "Banks borrow from customers",
+      "option4": "Government borrows from RBI",
+      "answer": "RBI borrows from banks"
+    },
+    {
+      "question": "Which gas is most abundant in Earth's atmosphere?",
+      "option1": "Oxygen",
+      "option2": "Nitrogen",
+      "option3": "Carbon dioxide",
+      "option4": "Hydrogen",
+      "answer": "Nitrogen"
+    },
+    {
+      "question": "The ozone layer is found mainly in the",
+      "option1": "Troposphere",
+      "option2": "Stratosphere",
+      "option3": "Mesosphere",
+      "option4": "Thermosphere",
+      "answer": "Stratosphere"
+    },
+    {
+      "question": "The SI unit of force is",
+      "option1": "Joule",
+      "option2": "Newton",
+      "option3": "Watt",
+      "option4": "Pascal",
+      "answer": "Newton"
+    },
+    {
+      "question": "The SI unit of power is",
+      "option1": "Joule",
+      "option2": "Newton",
+      "option3": "Watt",
+      "option4": "Volt",
+      "answer": "Watt"
+    },
+    {
+      "question": "The SI unit of electric current is",
+      "option1": "Ampere",
+      "option2": "Volt",
+      "option3": "Ohm",
+      "option4": "Coulomb",
+      "answer": "Ampere"
+    },
+    {
+      "question": "The SI unit of resistance is",
+      "option1": "Volt",
+      "option2": "Ampere",
+      "option3": "Ohm",
+      "option4": "Watt",
+      "answer": "Ohm"
+    },
+    {
+      "question": "The speed of light in vacuum is approximately",
+      "option1": "3 × 10^8 m/s",
+      "option2": "3 × 10^6 m/s",
+      "option3": "3 × 10^5 m/s",
+      "option4": "3 × 10^10 m/s",
+      "answer": "3 × 10^8 m/s"
+    },
+    {
+      "question": "Which vitamin is produced in the skin by sunlight?",
+      "option1": "Vitamin A",
+      "option2": "Vitamin B12",
+      "option3": "Vitamin C",
+      "option4": "Vitamin D",
+      "answer": "Vitamin D"
+    },
+    {
+      "question": "Deficiency of vitamin C causes",
+      "option1": "Rickets",
+      "option2": "Scurvy",
+      "option3": "Beriberi",
+      "option4": "Night blindness",
+      "answer": "Scurvy"
+    },
+    {
+      "question": "Deficiency of vitamin D causes",
+      "option1": "Scurvy",
+      "option2": "Rickets",
+      "option3": "Pellagra",
+      "option4": "Anaemia",
+      "answer": "Rickets"
+    },
+    {
+      "question": "The largest organ of the human body is",
+      "option1": "Liver",
+      "option2": "Skin",
+      "option3": "Heart",
+      "option4": "Brain",
+      "answer": "Skin"
+    },
+    {
+      "question": "The basic unit of life is",
+      "option1": "Tissue",
+      "option2": "Cell",
+      "option3": "Organ",
+      "option4": "Nucleus",
+      "answer": "Cell"
+    },
+    {
+      "question": "The powerhouse of the cell is",
+      "option1": "Nucleus",
+      "option2": "Ribosome",
+      "option3": "Mitochondria",
+      "option4": "Golgi body",
+      "answer": "Mitochondria"
+    },
+    {
+      "question": "Photosynthesis mainly occurs in",
+      "option1": "Mitochondria",
+      "option2": "Chloroplasts",
+      "option3": "Ribosomes",
+      "option4": "Nucleus",
+      "answer": "Chloroplasts"
+    },
+    {
+      "question": "Which blood group is called the universal donor?",
+      "option1": "A positive",
+      "option2": "B positive",
+      "option3": "AB positive",
+      "option4": "O negative",
+      "answer": "O negative"
+    },
+    {
+      "question": "Which blood group is called the universal recipient?",
+      "option1": "O negative",
+      "option2": "AB positive",
+      "option3": "A negative",
+      "option4": "B negative",
+      "answer": "AB positive"
+    },
+    {
+      "question": "The normal human body temperature is approximately",
+      "option1": "35°C",
+      "option2": "37°C",
+      "option3": "39°C",
+      "option4": "41°C",
+      "answer": "37°C"
+    },
+    {
+      "question": "The largest gland in the human body is",
+      "option1": "Pancreas",
+      "option2": "Liver",
+      "option3": "Thyroid",
+      "option4": "Pituitary",
+      "answer": "Liver"
+    },
+    {
+      "question": "Insulin is secreted by the",
+      "option1": "Liver",
+      "option2": "Pancreas",
+      "option3": "Kidney",
+      "option4": "Thyroid",
+      "answer": "Pancreas"
+    },
+    {
+      "question": "The functional unit of kidney is",
+      "option1": "Neuron",
+      "option2": "Nephron",
+      "option3": "Alveolus",
+      "option4": "Villus",
+      "answer": "Nephron"
+    },
+    {
+      "question": "The human heart has",
+      "option1": "2 chambers",
+      "option2": "3 chambers",
+      "option3": "4 chambers",
+      "option4": "5 chambers",
+      "answer": "4 chambers"
+    },
+    {
+      "question": "The red colour of blood is due to",
+      "option1": "Melanin",
+      "option2": "Haemoglobin",
+      "option3": "Chlorophyll",
+      "option4": "Keratin",
+      "answer": "Haemoglobin"
+    },
+    {
+      "question": "Which part of the brain controls balance?",
+      "option1": "Cerebrum",
+      "option2": "Cerebellum",
+      "option3": "Medulla",
+      "option4": "Hypothalamus",
+      "answer": "Cerebellum"
+    },
+    {
+      "question": "The study of plants is called",
+      "option1": "Zoology",
+      "option2": "Botany",
+      "option3": "Ecology",
+      "option4": "Geology",
+      "answer": "Botany"
+    },
+    {
+      "question": "The study of animals is called",
+      "option1": "Botany",
+      "option2": "Zoology",
+      "option3": "Anatomy",
+      "option4": "Genetics",
+      "answer": "Zoology"
+    },
+    {
+      "question": "The process by which plants lose water vapour is",
+      "option1": "Respiration",
+      "option2": "Transpiration",
+      "option3": "Photosynthesis",
+      "option4": "Germination",
+      "answer": "Transpiration"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "option1": "Venus",
+      "option2": "Mars",
+      "option3": "Jupiter",
+      "option4": "Mercury",
+      "answer": "Mars"
+    },
+    {
+      "question": "The largest planet in the Solar System is",
+      "option1": "Earth",
+      "option2": "Saturn",
+      "option3": "Jupiter",
+      "option4": "Neptune",
+      "answer": "Jupiter"
+    },
+    {
+      "question": "The nearest planet to the Sun is",
+      "option1": "Venus",
+      "option2": "Mercury",
+      "option3": "Earth",
+      "option4": "Mars",
+      "answer": "Mercury"
+    },
+    {
+      "question": "The natural satellite of Earth is",
+      "option1": "Sun",
+      "option2": "Moon",
+      "option3": "Mars",
+      "option4": "Venus",
+      "answer": "Moon"
+    },
+    {
+      "question": "The first Indian satellite was",
+      "option1": "INSAT-1A",
+      "option2": "Aryabhata",
+      "option3": "Rohini",
+      "option4": "Bhaskara",
+      "answer": "Aryabhata"
+    },
+    {
+      "question": "ISRO headquarters is located in",
+      "option1": "Hyderabad",
+      "option2": "Bengaluru",
+      "option3": "New Delhi",
+      "option4": "Chennai",
+      "answer": "Bengaluru"
+    },
+    {
+      "question": "Who is known as the Missile Man of India?",
+      "option1": "Vikram Sarabhai",
+      "option2": "A. P. J. Abdul Kalam",
+      "option3": "Homi Bhabha",
+      "option4": "Satish Dhawan",
+      "answer": "A. P. J. Abdul Kalam"
+    },
+    {
+      "question": "The first Indian to travel into space was",
+      "option1": "Rakesh Sharma",
+      "option2": "Kalpana Chawla",
+      "option3": "Ravish Malhotra",
+      "option4": "Sunita Williams",
+      "answer": "Rakesh Sharma"
+    },
+    {
+      "question": "The largest continent is",
+      "option1": "Africa",
+      "option2": "Asia",
+      "option3": "Europe",
+      "option4": "North America",
+      "answer": "Asia"
+    },
+    {
+      "question": "The largest ocean is",
+      "option1": "Atlantic Ocean",
+      "option2": "Indian Ocean",
+      "option3": "Pacific Ocean",
+      "option4": "Arctic Ocean",
+      "answer": "Pacific Ocean"
+    },
+    {
+      "question": "The highest mountain peak in the world is",
+      "option1": "K2",
+      "option2": "Mount Everest",
+      "option3": "Kanchenjunga",
+      "option4": "Nanda Devi",
+      "answer": "Mount Everest"
+    },
+    {
+      "question": "The longest river in India is commonly considered to be",
+      "option1": "Yamuna",
+      "option2": "Ganga",
+      "option3": "Godavari",
+      "option4": "Narmada",
+      "answer": "Ganga"
+    },
+    {
+      "question": "The largest river island in India is",
+      "option1": "Majuli",
+      "option2": "Diu",
+      "option3": "Elephanta",
+      "option4": "Sagar",
+      "answer": "Majuli"
+    },
+    {
+      "question": "The Thar Desert is mainly located in",
+      "option1": "Rajasthan",
+      "option2": "Gujarat",
+      "option3": "Punjab",
+      "option4": "Haryana",
+      "answer": "Rajasthan"
+    },
+    {
+      "question": "The Western Ghats are also called",
+      "option1": "Sahyadri",
+      "option2": "Aravalli",
+      "option3": "Nilgiri",
+      "option4": "Shivalik",
+      "answer": "Sahyadri"
+    },
+    {
+      "question": "The Himalayas are",
+      "option1": "Block mountains",
+      "option2": "Fold mountains",
+      "option3": "Volcanic mountains",
+      "option4": "Residual mountains",
+      "answer": "Fold mountains"
+    },
+    {
+      "question": "The Tropic of Cancer passes through how many Indian states?",
+      "option1": "6",
+      "option2": "7",
+      "option3": "8",
+      "option4": "9",
+      "answer": "8"
+    },
+    {
+      "question": "Which Indian state has the longest coastline?",
+      "option1": "Tamil Nadu",
+      "option2": "Gujarat",
+      "option3": "Andhra Pradesh",
+      "option4": "Maharashtra",
+      "answer": "Gujarat"
+    },
+    {
+      "question": "The Sundarbans are famous for",
+      "option1": "Mangrove forests",
+      "option2": "Deserts",
+      "option3": "Coral reefs",
+      "option4": "Grasslands",
+      "answer": "Mangrove forests"
+    },
+    {
+      "question": "The Indian monsoon is mainly caused by",
+      "option1": "Seasonal reversal of winds",
+      "option2": "Ocean tides",
+      "option3": "Earthquakes",
+      "option4": "Volcanic activity",
+      "answer": "Seasonal reversal of winds"
+    },
+    {
+      "question": "The Deccan Plateau is mainly composed of",
+      "option1": "Basaltic rocks",
+      "option2": "Limestone",
+      "option3": "Sandstone",
+      "option4": "Marble",
+      "answer": "Basaltic rocks"
+    },
+    {
+      "question": "The river known as the 'Sorrow of Bihar' is",
+      "option1": "Ganga",
+      "option2": "Kosi",
+      "option3": "Yamuna",
+      "option4": "Son",
+      "answer": "Kosi"
+    },
+    {
+      "question": "The river known as the 'Sorrow of Bengal' is",
+      "option1": "Damodar",
+      "option2": "Hooghly",
+      "option3": "Teesta",
+      "option4": "Mahanadi",
+      "answer": "Damodar"
+    },
+    {
+      "question": "Which is the largest freshwater lake in India?",
+      "option1": "Dal Lake",
+      "option2": "Wular Lake",
+      "option3": "Chilika Lake",
+      "option4": "Sambhar Lake",
+      "answer": "Wular Lake"
+    },
+    {
+      "question": "Chilika Lake is located in",
+      "option1": "Odisha",
+      "option2": "West Bengal",
+      "option3": "Kerala",
+      "option4": "Gujarat",
+      "answer": "Odisha"
+    },
+    {
+      "question": "The capital of Telangana is",
+      "option1": "Warangal",
+      "option2": "Hyderabad",
+      "option3": "Karimnagar",
+      "option4": "Nizamabad",
+      "answer": "Hyderabad"
+    },
+    {
+      "question": "Telangana was formed as a separate state in",
+      "option1": "2012",
+      "option2": "2013",
+      "option3": "2014",
+      "option4": "2015",
+      "answer": "2014"
+    },
+    {
+      "question": "The capital of Maharashtra is",
+      "option1": "Pune",
+      "option2": "Mumbai",
+      "option3": "Nagpur",
+      "option4": "Nashik",
+      "answer": "Mumbai"
+    },
+    {
+      "question": "The capital of Karnataka is",
+      "option1": "Mysuru",
+      "option2": "Bengaluru",
+      "option3": "Mangaluru",
+      "option4": "Hubballi",
+      "answer": "Bengaluru"
+    },
+    {
+      "question": "The capital of Tamil Nadu is",
+      "option1": "Madurai",
+      "option2": "Chennai",
+      "option3": "Coimbatore",
+      "option4": "Salem",
+      "answer": "Chennai"
+    },
+    {
+      "question": "The capital of Kerala is",
+      "option1": "Kochi",
+      "option2": "Thiruvananthapuram",
+      "option3": "Kozhikode",
+      "option4": "Thrissur",
+      "answer": "Thiruvananthapuram"
+    },
+    {
+      "question": "Which state is known as the 'Spice Garden of India'?",
+      "option1": "Kerala",
+      "option2": "Punjab",
+      "option3": "Rajasthan",
+      "option4": "Bihar",
+      "answer": "Kerala"
+    },
+    {
+      "question": "The highest civilian award of India is",
+      "option1": "Padma Shri",
+      "option2": "Padma Bhushan",
+      "option3": "Padma Vibhushan",
+      "option4": "Bharat Ratna",
+      "answer": "Bharat Ratna"
+    },
+    {
+      "question": "The Arjuna Award is associated with",
+      "option1": "Literature",
+      "option2": "Sports",
+      "option3": "Science",
+      "option4": "Cinema",
+      "answer": "Sports"
+    },
+    {
+      "question": "The Dronacharya Award is given to",
+      "option1": "Athletes",
+      "option2": "Coaches",
+      "option3": "Scientists",
+      "option4": "Artists",
+      "answer": "Coaches"
+    },
+    {
+      "question": "The Olympic Games are held every",
+      "option1": "2 years",
+      "option2": "3 years",
+      "option3": "4 years",
+      "option4": "5 years",
+      "answer": "4 years"
+    },
+    {
+      "question": "The headquarters of the United Nations is in",
+      "option1": "Geneva",
+      "option2": "New York",
+      "option3": "Paris",
+      "option4": "London",
+      "answer": "New York"
+    },
+    {
+      "question": "The World Health Organization headquarters is in",
+      "option1": "Geneva",
+      "option2": "New York",
+      "option3": "Rome",
+      "option4": "Paris",
+      "answer": "Geneva"
+    },
+    {
+      "question": "The currency of Japan is",
+      "option1": "Yuan",
+      "option2": "Won",
+      "option3": "Yen",
+      "option4": "Ringgit",
+      "answer": "Yen"
+    },
+    {
+      "question": "The currency of the United Kingdom is",
+      "option1": "Euro",
+      "option2": "Pound sterling",
+      "option3": "Dollar",
+      "option4": "Franc",
+      "answer": "Pound sterling"
+    },
+    {
+      "question": "The currency of Bangladesh is",
+      "option1": "Rupee",
+      "option2": "Taka",
+      "option3": "Kyat",
+      "option4": "Dinar",
+      "answer": "Taka"
+    },
+    {
+      "question": "The capital of Australia is",
+      "option1": "Sydney",
+      "option2": "Melbourne",
+      "option3": "Canberra",
+      "option4": "Perth",
+      "answer": "Canberra"
+    },
+    {
+      "question": "The capital of Canada is",
+      "option1": "Toronto",
+      "option2": "Ottawa",
+      "option3": "Vancouver",
+      "option4": "Montreal",
+      "answer": "Ottawa"
+    },
+    {
+      "question": "The capital of Russia is",
+      "option1": "Moscow",
+      "option2": "St Petersburg",
+      "option3": "Kazan",
+      "option4": "Sochi",
+      "answer": "Moscow"
+    },
+    {
+      "question": "The capital of France is",
+      "option1": "Madrid",
+      "option2": "Paris",
+      "option3": "Rome",
+      "option4": "Berlin",
+      "answer": "Paris"
+    },
+    {
+      "question": "The capital of Germany is",
+      "option1": "Berlin",
+      "option2": "Munich",
+      "option3": "Frankfurt",
+      "option4": "Hamburg",
+      "answer": "Berlin"
+    },
+    {
+      "question": "The Nobel Prize was established by",
+      "option1": "Albert Einstein",
+      "option2": "Alfred Nobel",
+      "option3": "Isaac Newton",
+      "option4": "Marie Curie",
+      "answer": "Alfred Nobel"
+    },
+    {
+      "question": "The first Indian to win a Nobel Prize was",
+      "option1": "C. V. Raman",
+      "option2": "Rabindranath Tagore",
+      "option3": "Amartya Sen",
+      "option4": "Mother Teresa",
+      "answer": "Rabindranath Tagore"
+    },
+    {
+      "question": "The 'Satyameva Jayate' motto is taken from",
+      "option1": "Rig Veda",
+      "option2": "Mundaka Upanishad",
+      "option3": "Bhagavad Gita",
+      "option4": "Ramayana",
+      "answer": "Mundaka Upanishad"
+    },
+    {
+      "question": "The national animal of India is",
+      "option1": "Lion",
+      "option2": "Tiger",
+      "option3": "Elephant",
+      "option4": "Leopard",
+      "answer": "Tiger"
+    },
+    {
+      "question": "The national bird of India is",
+      "option1": "Peacock",
+      "option2": "Sparrow",
+      "option3": "Eagle",
+      "option4": "Swan",
+      "answer": "Peacock"
+    },
+    {
+      "question": "The national flower of India is",
+      "option1": "Rose",
+      "option2": "Lotus",
+      "option3": "Jasmine",
+      "option4": "Sunflower",
+      "answer": "Lotus"
+    },
+    {
+      "question": "The national aquatic animal of India is",
+      "option1": "Blue Whale",
+      "option2": "Ganges River Dolphin",
+      "option3": "Crocodile",
+      "option4": "Turtle",
+      "answer": "Ganges River Dolphin"
+    },
+    {
+      "question": "The national tree of India is",
+      "option1": "Neem",
+      "option2": "Banyan",
+      "option3": "Peepal",
+      "option4": "Mango",
+      "answer": "Banyan"
+    },
+    {
+      "question": "The national fruit of India is",
+      "option1": "Apple",
+      "option2": "Mango",
+      "option3": "Banana",
+      "option4": "Guava",
+      "answer": "Mango"
+    },
+    {
+      "question": "The headquarters of UNESCO is in",
+      "option1": "Paris",
+      "option2": "Geneva",
+      "option3": "Rome",
+      "option4": "London",
+      "answer": "Paris"
+    },
+    {
+      "question": "The headquarters of IMF is in",
+      "option1": "Washington, D.C.",
+      "option2": "New York",
+      "option3": "Geneva",
+      "option4": "London",
+      "answer": "Washington, D.C."
+    },
+    {
+      "question": "The headquarters of World Bank is in",
+      "option1": "Washington, D.C.",
+      "option2": "Paris",
+      "option3": "Tokyo",
+      "option4": "Geneva",
+      "answer": "Washington, D.C."
+    },
+    {
+      "question": "The largest democracy in the world is",
+      "option1": "India",
+      "option2": "USA",
+      "option3": "Brazil",
+      "option4": "Japan",
+      "answer": "India"
+    },
+    {
+      "question": "Which is the smallest state of India by area?",
+      "option1": "Goa",
+      "option2": "Sikkim",
+      "option3": "Tripura",
+      "option4": "Manipur",
+      "answer": "Goa"
+    },
+    {
+      "question": "Which is the largest state of India by area?",
+      "option1": "Madhya Pradesh",
+      "option2": "Rajasthan",
+      "option3": "Maharashtra",
+      "option4": "Uttar Pradesh",
+      "answer": "Rajasthan"
+    },
+    {
+      "question": "Which is the most populous state of India?",
+      "option1": "Maharashtra",
+      "option2": "Bihar",
+      "option3": "Uttar Pradesh",
+      "option4": "West Bengal",
+      "answer": "Uttar Pradesh"
+    },
+    {
+      "question": "The first woman Prime Minister of India was",
+      "option1": "Sarojini Naidu",
+      "option2": "Indira Gandhi",
+      "option3": "Pratibha Patil",
+      "option4": "Sonia Gandhi",
+      "answer": "Indira Gandhi"
+    },
+    {
+      "question": "The first woman President of India was",
+      "option1": "Indira Gandhi",
+      "option2": "Pratibha Patil",
+      "option3": "Sarojini Naidu",
+      "option4": "Droupadi Murmu",
+      "answer": "Pratibha Patil"
+    },
+    {
+      "question": "The first woman to climb Mount Everest from India was",
+      "option1": "Bachendri Pal",
+      "option2": "Arunima Sinha",
+      "option3": "Santosh Yadav",
+      "option4": "Premlata Agarwal",
+      "answer": "Bachendri Pal"
+    },
+    {
+      "question": "Who was the first Indian woman to win an Olympic medal?",
+      "option1": "P. V. Sindhu",
+      "option2": "Saina Nehwal",
+      "option3": "Karnam Malleswari",
+      "option4": "Mary Kom",
+      "answer": "Karnam Malleswari"
+    },
+    {
+      "question": "The first Indian to win an individual Olympic gold medal was",
+      "option1": "Abhinav Bindra",
+      "option2": "Neeraj Chopra",
+      "option3": "Leander Paes",
+      "option4": "Rajyavardhan Rathore",
+      "answer": "Abhinav Bindra"
+    },
+    {
+      "question": "Neeraj Chopra is associated with",
+      "option1": "Boxing",
+      "option2": "Javelin throw",
+      "option3": "Wrestling",
+      "option4": "Shooting",
+      "answer": "Javelin throw"
+    },
+    {
+      "question": "The headquarters of the Indian Army is in",
+      "option1": "New Delhi",
+      "option2": "Mumbai",
+      "option3": "Pune",
+      "option4": "Chandigarh",
+      "answer": "New Delhi"
+    },
+    {
+      "question": "The headquarters of the Indian Navy is in",
+      "option1": "New Delhi",
+      "option2": "Mumbai",
+      "option3": "Kochi",
+      "option4": "Visakhapatnam",
+      "answer": "New Delhi"
+    },
+    {
+      "question": "The headquarters of the Indian Air Force is in",
+      "option1": "New Delhi",
+      "option2": "Bengaluru",
+      "option3": "Hyderabad",
+      "option4": "Pune",
+      "answer": "New Delhi"
+    },
+    {
+      "question": "Which instrument is used to measure atmospheric pressure?",
+      "option1": "Thermometer",
+      "option2": "Barometer",
+      "option3": "Hygrometer",
+      "option4": "Anemometer",
+      "answer": "Barometer"
+    },
+    {
+      "question": "Which instrument measures humidity?",
+      "option1": "Barometer",
+      "option2": "Hygrometer",
+      "option3": "Seismograph",
+      "option4": "Altimeter",
+      "answer": "Hygrometer"
+    },
+    {
+      "question": "Which instrument records earthquakes?",
+      "option1": "Barometer",
+      "option2": "Seismograph",
+      "option3": "Thermometer",
+      "option4": "Anemometer",
+      "answer": "Seismograph"
+    },
+    {
+      "question": "Which metal is liquid at room temperature?",
+      "option1": "Iron",
+      "option2": "Mercury",
+      "option3": "Copper",
+      "option4": "Aluminium",
+      "answer": "Mercury"
+    },
+    {
+      "question": "The chemical symbol of gold is",
+      "option1": "Ag",
+      "option2": "Au",
+      "option3": "Fe",
+      "option4": "Cu",
+      "answer": "Au"
+    },
+    {
+      "question": "The chemical symbol of silver is",
+      "option1": "Ag",
+      "option2": "Au",
+      "option3": "Fe",
+      "option4": "Na",
+      "answer": "Ag"
+    },
+    {
+      "question": "The chemical formula of water is",
+      "option1": "CO2",
+      "option2": "H2O",
+      "option3": "O2",
+      "option4": "H2SO4",
+      "answer": "H2O"
+    },
+    {
+      "question": "The chemical formula of common salt is",
+      "option1": "NaCl",
+      "option2": "KCl",
+      "option3": "CaCO3",
+      "option4": "NaOH",
+      "answer": "NaCl"
+    },
+    {
+      "question": "The pH value of pure water at room temperature is",
+      "option1": "5",
+      "option2": "6",
+      "option3": "7",
+      "option4": "8",
+      "answer": "7"
+    },
+    {
+      "question": "Which acid is present in lemon?",
+      "option1": "Acetic acid",
+      "option2": "Citric acid",
+      "option3": "Lactic acid",
+      "option4": "Sulphuric acid",
+      "answer": "Citric acid"
+    },
+    {
+      "question": "Which acid is present in vinegar?",
+      "option1": "Citric acid",
+      "option2": "Acetic acid",
+      "option3": "Hydrochloric acid",
+      "option4": "Nitric acid",
+      "answer": "Acetic acid"
+    },
+    {
+      "question": "Rusting of iron requires",
+      "option1": "Only oxygen",
+      "option2": "Only water",
+      "option3": "Oxygen and moisture",
+      "option4": "Carbon dioxide only",
+      "answer": "Oxygen and moisture"
+    }
+  ]
+}

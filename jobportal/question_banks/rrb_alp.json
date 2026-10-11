@@ -1,0 +1,1605 @@
+{
+  "exam": "RRB ALP",
+  "questions": [
+    {
+      "question": "What is the SI unit of force?",
+      "option1": "Joule",
+      "option2": "Newton",
+      "option3": "Watt",
+      "option4": "Pascal",
+      "answer": "Newton"
+    },
+    {
+      "question": "What is the SI unit of work?",
+      "option1": "Newton",
+      "option2": "Joule",
+      "option3": "Watt",
+      "option4": "Volt",
+      "answer": "Joule"
+    },
+    {
+      "question": "What is the SI unit of power?",
+      "option1": "Joule",
+      "option2": "Newton",
+      "option3": "Watt",
+      "option4": "Ampere",
+      "answer": "Watt"
+    },
+    {
+      "question": "What is the SI unit of electric current?",
+      "option1": "Volt",
+      "option2": "Ohm",
+      "option3": "Ampere",
+      "option4": "Watt",
+      "answer": "Ampere"
+    },
+    {
+      "question": "What is the SI unit of resistance?",
+      "option1": "Volt",
+      "option2": "Ohm",
+      "option3": "Ampere",
+      "option4": "Watt",
+      "answer": "Ohm"
+    },
+    {
+      "question": "Which instrument is used to measure electric current?",
+      "option1": "Voltmeter",
+      "option2": "Ammeter",
+      "option3": "Barometer",
+      "option4": "Wattmeter",
+      "answer": "Ammeter"
+    },
+    {
+      "question": "Which instrument is used to measure voltage?",
+      "option1": "Ammeter",
+      "option2": "Voltmeter",
+      "option3": "Ohmmeter",
+      "option4": "Galvanometer",
+      "answer": "Voltmeter"
+    },
+    {
+      "question": "Which instrument is used to measure resistance?",
+      "option1": "Ammeter",
+      "option2": "Voltmeter",
+      "option3": "Ohmmeter",
+      "option4": "Wattmeter",
+      "answer": "Ohmmeter"
+    },
+    {
+      "question": "What is the formula for Ohm's law?",
+      "option1": "V = IR",
+      "option2": "P = VI",
+      "option3": "F = ma",
+      "option4": "W = Fd",
+      "answer": "V = IR"
+    },
+    {
+      "question": "Which material is a good conductor of electricity?",
+      "option1": "Rubber",
+      "option2": "Glass",
+      "option3": "Copper",
+      "option4": "Wood",
+      "answer": "Copper"
+    },
+    {
+      "question": "Which material is generally used as an electrical insulator?",
+      "option1": "Copper",
+      "option2": "Aluminium",
+      "option3": "Rubber",
+      "option4": "Iron",
+      "answer": "Rubber"
+    },
+    {
+      "question": "Which device converts electrical energy into mechanical energy?",
+      "option1": "Generator",
+      "option2": "Electric motor",
+      "option3": "Transformer",
+      "option4": "Battery",
+      "answer": "Electric motor"
+    },
+    {
+      "question": "Which device converts mechanical energy into electrical energy?",
+      "option1": "Motor",
+      "option2": "Generator",
+      "option3": "Transformer",
+      "option4": "Rectifier",
+      "answer": "Generator"
+    },
+    {
+      "question": "Which device is used to increase or decrease AC voltage?",
+      "option1": "Motor",
+      "option2": "Generator",
+      "option3": "Transformer",
+      "option4": "Battery",
+      "answer": "Transformer"
+    },
+    {
+      "question": "A transformer works on which principle?",
+      "option1": "Electrolysis",
+      "option2": "Electromagnetic induction",
+      "option3": "Heating effect",
+      "option4": "Chemical effect",
+      "answer": "Electromagnetic induction"
+    },
+    {
+      "question": "Which type of current changes direction periodically?",
+      "option1": "DC",
+      "option2": "AC",
+      "option3": "Static current",
+      "option4": "Direct voltage",
+      "answer": "AC"
+    },
+    {
+      "question": "Which type of current flows in one direction only?",
+      "option1": "AC",
+      "option2": "DC",
+      "option3": "Alternating current",
+      "option4": "Induced current",
+      "answer": "DC"
+    },
+    {
+      "question": "What is the commercial unit of electrical energy?",
+      "option1": "Watt",
+      "option2": "Joule",
+      "option3": "Kilowatt-hour",
+      "option4": "Volt",
+      "answer": "Kilowatt-hour"
+    },
+    {
+      "question": "One kilowatt is equal to how many watts?",
+      "option1": "10",
+      "option2": "100",
+      "option3": "1000",
+      "option4": "10000",
+      "answer": "1000"
+    },
+    {
+      "question": "Which component is used to protect an electrical circuit from excessive current?",
+      "option1": "Fuse",
+      "option2": "Motor",
+      "option3": "Capacitor",
+      "option4": "Transformer",
+      "answer": "Fuse"
+    },
+    {
+      "question": "What happens to a fuse when excessive current flows through it?",
+      "option1": "It becomes stronger",
+      "option2": "It melts",
+      "option3": "It produces light",
+      "option4": "It stores energy",
+      "answer": "It melts"
+    },
+    {
+      "question": "Which device is used to store electrical charge?",
+      "option1": "Resistor",
+      "option2": "Capacitor",
+      "option3": "Transformer",
+      "option4": "Fuse",
+      "answer": "Capacitor"
+    },
+    {
+      "question": "Which law states that current is directly proportional to voltage at constant temperature?",
+      "option1": "Newton's law",
+      "option2": "Ohm's law",
+      "option3": "Faraday's law",
+      "option4": "Coulomb's law",
+      "answer": "Ohm's law"
+    },
+    {
+      "question": "Which force opposes the motion between two surfaces in contact?",
+      "option1": "Gravitational force",
+      "option2": "Frictional force",
+      "option3": "Magnetic force",
+      "option4": "Nuclear force",
+      "answer": "Frictional force"
+    },
+    {
+      "question": "What is the acceleration due to gravity on Earth approximately?",
+      "option1": "5.8 m/s²",
+      "option2": "8.9 m/s²",
+      "option3": "9.8 m/s²",
+      "option4": "12.8 m/s²",
+      "answer": "9.8 m/s²"
+    },
+    {
+      "question": "Which law explains the relation between force, mass and acceleration?",
+      "option1": "Newton's first law",
+      "option2": "Newton's second law",
+      "option3": "Newton's third law",
+      "option4": "Law of gravitation",
+      "answer": "Newton's second law"
+    },
+    {
+      "question": "Which Newton's law is also called the law of inertia?",
+      "option1": "First law",
+      "option2": "Second law",
+      "option3": "Third law",
+      "option4": "Law of gravitation",
+      "answer": "First law"
+    },
+    {
+      "question": "Newton's third law states that every action has an equal and opposite what?",
+      "option1": "Mass",
+      "option2": "Reaction",
+      "option3": "Acceleration",
+      "option4": "Velocity",
+      "answer": "Reaction"
+    },
+    {
+      "question": "What is the unit of frequency?",
+      "option1": "Newton",
+      "option2": "Hertz",
+      "option3": "Joule",
+      "option4": "Watt",
+      "answer": "Hertz"
+    },
+    {
+      "question": "Which instrument is used to measure atmospheric pressure?",
+      "option1": "Thermometer",
+      "option2": "Barometer",
+      "option3": "Ammeter",
+      "option4": "Hygrometer",
+      "answer": "Barometer"
+    },
+    {
+      "question": "Which instrument is used to measure temperature?",
+      "option1": "Barometer",
+      "option2": "Thermometer",
+      "option3": "Ammeter",
+      "option4": "Anemometer",
+      "answer": "Thermometer"
+    },
+    {
+      "question": "Which mirror is commonly used as a rear-view mirror in vehicles?",
+      "option1": "Plane mirror",
+      "option2": "Concave mirror",
+      "option3": "Convex mirror",
+      "option4": "Cylindrical mirror",
+      "answer": "Convex mirror"
+    },
+    {
+      "question": "Which lens is used to correct myopia?",
+      "option1": "Convex lens",
+      "option2": "Concave lens",
+      "option3": "Bifocal lens",
+      "option4": "Cylindrical lens",
+      "answer": "Concave lens"
+    },
+    {
+      "question": "Which lens is used to correct hypermetropia?",
+      "option1": "Concave lens",
+      "option2": "Convex lens",
+      "option3": "Plane lens",
+      "option4": "Cylindrical lens",
+      "answer": "Convex lens"
+    },
+    {
+      "question": "Which simple machine is used to lift heavy loads using a wheel and rope?",
+      "option1": "Pulley",
+      "option2": "Lever",
+      "option3": "Wedge",
+      "option4": "Screw",
+      "answer": "Pulley"
+    },
+    {
+      "question": "Which simple machine is commonly used to tighten or loosen nuts?",
+      "option1": "Pulley",
+      "option2": "Wrench",
+      "option3": "Inclined plane",
+      "option4": "Wheelbarrow",
+      "answer": "Wrench"
+    },
+    {
+      "question": "Which tool is used to measure the diameter of a small object accurately?",
+      "option1": "Hammer",
+      "option2": "Micrometer",
+      "option3": "Spanner",
+      "option4": "Chisel",
+      "answer": "Micrometer"
+    },
+    {
+      "question": "Which instrument is commonly used to measure internal and external dimensions accurately?",
+      "option1": "Vernier caliper",
+      "option2": "Hammer",
+      "option3": "Screwdriver",
+      "option4": "File",
+      "answer": "Vernier caliper"
+    },
+    {
+      "question": "Which tool is primarily used for driving nails?",
+      "option1": "Spanner",
+      "option2": "Hammer",
+      "option3": "Pliers",
+      "option4": "File",
+      "answer": "Hammer"
+    },
+    {
+      "question": "Which tool is used for cutting wires?",
+      "option1": "Wire cutter",
+      "option2": "Hammer",
+      "option3": "Spanner",
+      "option4": "Chisel",
+      "answer": "Wire cutter"
+    },
+    {
+      "question": "Which tool is used to tighten or loosen nuts and bolts?",
+      "option1": "Spanner",
+      "option2": "Hammer",
+      "option3": "File",
+      "option4": "Saw",
+      "answer": "Spanner"
+    },
+    {
+      "question": "Which tool is used to remove insulation from electrical wires?",
+      "option1": "Wire stripper",
+      "option2": "Hammer",
+      "option3": "Chisel",
+      "option4": "Spanner",
+      "answer": "Wire stripper"
+    },
+    {
+      "question": "Which metal is commonly used for electrical wiring?",
+      "option1": "Copper",
+      "option2": "Lead",
+      "option3": "Mercury",
+      "option4": "Zinc",
+      "answer": "Copper"
+    },
+    {
+      "question": "Which metal is commonly used for overhead electrical transmission lines because of its low density?",
+      "option1": "Aluminium",
+      "option2": "Gold",
+      "option3": "Lead",
+      "option4": "Mercury",
+      "answer": "Aluminium"
+    },
+    {
+      "question": "What is the main function of a bearing?",
+      "option1": "Increase friction",
+      "option2": "Reduce friction between moving parts",
+      "option3": "Generate electricity",
+      "option4": "Increase temperature",
+      "answer": "Reduce friction between moving parts"
+    },
+    {
+      "question": "Which lubricant is commonly used to reduce friction between machine parts?",
+      "option1": "Water",
+      "option2": "Oil",
+      "option3": "Sand",
+      "option4": "Salt",
+      "answer": "Oil"
+    },
+    {
+      "question": "What is the purpose of lubrication in machines?",
+      "option1": "Increase friction",
+      "option2": "Reduce friction and wear",
+      "option3": "Increase weight",
+      "option4": "Increase noise",
+      "answer": "Reduce friction and wear"
+    },
+    {
+      "question": "Which engine converts heat energy into mechanical energy?",
+      "option1": "Heat engine",
+      "option2": "Electric motor",
+      "option3": "Generator",
+      "option4": "Transformer",
+      "answer": "Heat engine"
+    },
+    {
+      "question": "Which fuel is commonly used in diesel engines?",
+      "option1": "Petrol",
+      "option2": "Diesel",
+      "option3": "Kerosene only",
+      "option4": "Water",
+      "answer": "Diesel"
+    },
+    {
+      "question": "Which component in a diesel engine injects fuel into the combustion chamber?",
+      "option1": "Fuel injector",
+      "option2": "Radiator",
+      "option3": "Alternator",
+      "option4": "Silencer",
+      "answer": "Fuel injector"
+    },
+    {
+      "question": "What is the main function of a radiator in an engine?",
+      "option1": "Increase fuel supply",
+      "option2": "Cool the engine",
+      "option3": "Generate electricity",
+      "option4": "Increase engine speed",
+      "answer": "Cool the engine"
+    },
+    {
+      "question": "Which component stores electrical energy in a vehicle?",
+      "option1": "Battery",
+      "option2": "Radiator",
+      "option3": "Clutch",
+      "option4": "Gearbox",
+      "answer": "Battery"
+    },
+    {
+      "question": "What is the SI unit of pressure?",
+      "option1": "Newton",
+      "option2": "Pascal",
+      "option3": "Joule",
+      "option4": "Watt",
+      "answer": "Pascal"
+    },
+    {
+      "question": "What is the SI unit of energy?",
+      "option1": "Joule",
+      "option2": "Watt",
+      "option3": "Newton",
+      "option4": "Pascal",
+      "answer": "Joule"
+    },
+    {
+      "question": "What is the SI unit of frequency?",
+      "option1": "Hertz",
+      "option2": "Watt",
+      "option3": "Ohm",
+      "option4": "Volt",
+      "answer": "Hertz"
+    },
+    {
+      "question": "Which quantity is measured in volts?",
+      "option1": "Current",
+      "option2": "Resistance",
+      "option3": "Potential difference",
+      "option4": "Power",
+      "answer": "Potential difference"
+    },
+    {
+      "question": "Which quantity is measured in watts?",
+      "option1": "Power",
+      "option2": "Current",
+      "option3": "Resistance",
+      "option4": "Charge",
+      "answer": "Power"
+    },
+    {
+      "question": "Which quantity is measured in coulombs?",
+      "option1": "Electric charge",
+      "option2": "Electric current",
+      "option3": "Resistance",
+      "option4": "Power",
+      "answer": "Electric charge"
+    },
+    {
+      "question": "Which device is used to convert AC into DC?",
+      "option1": "Transformer",
+      "option2": "Rectifier",
+      "option3": "Motor",
+      "option4": "Generator",
+      "answer": "Rectifier"
+    },
+    {
+      "question": "Which component opposes the flow of electric current?",
+      "option1": "Capacitor",
+      "option2": "Resistor",
+      "option3": "Inductor",
+      "option4": "Diode",
+      "answer": "Resistor"
+    },
+    {
+      "question": "What happens to the resistance of a metallic conductor when its temperature increases?",
+      "option1": "It decreases",
+      "option2": "It increases",
+      "option3": "It becomes zero",
+      "option4": "It remains exactly constant",
+      "answer": "It increases"
+    },
+    {
+      "question": "Which circuit provides more than one path for current?",
+      "option1": "Series circuit",
+      "option2": "Parallel circuit",
+      "option3": "Open circuit",
+      "option4": "Short circuit",
+      "answer": "Parallel circuit"
+    },
+    {
+      "question": "In a series circuit, the current through each component is:",
+      "option1": "Different",
+      "option2": "The same",
+      "option3": "Zero",
+      "option4": "Always maximum",
+      "answer": "The same"
+    },
+    {
+      "question": "In a parallel circuit, the voltage across each parallel branch is:",
+      "option1": "The same",
+      "option2": "Always zero",
+      "option3": "Different in every case",
+      "option4": "Always doubled",
+      "answer": "The same"
+    },
+    {
+      "question": "Which device allows current to flow mainly in one direction?",
+      "option1": "Resistor",
+      "option2": "Diode",
+      "option3": "Capacitor",
+      "option4": "Transformer",
+      "answer": "Diode"
+    },
+    {
+      "question": "Which semiconductor material is commonly used in electronic devices?",
+      "option1": "Silicon",
+      "option2": "Copper",
+      "option3": "Iron",
+      "option4": "Aluminium",
+      "answer": "Silicon"
+    },
+    {
+      "question": "What is the main function of a diode in a rectifier?",
+      "option1": "Store charge",
+      "option2": "Convert AC to pulsating DC",
+      "option3": "Increase resistance",
+      "option4": "Measure voltage",
+      "answer": "Convert AC to pulsating DC"
+    },
+    {
+      "question": "Which instrument can measure voltage, current and resistance?",
+      "option1": "Multimeter",
+      "option2": "Barometer",
+      "option3": "Thermometer",
+      "option4": "Tachometer",
+      "answer": "Multimeter"
+    },
+    {
+      "question": "What does LED stand for?",
+      "option1": "Light Emitting Diode",
+      "option2": "Low Energy Device",
+      "option3": "Light Energy Detector",
+      "option4": "Linear Electric Diode",
+      "answer": "Light Emitting Diode"
+    },
+    {
+      "question": "What does AC stand for?",
+      "option1": "Active Current",
+      "option2": "Alternating Current",
+      "option3": "Automatic Current",
+      "option4": "Applied Current",
+      "answer": "Alternating Current"
+    },
+    {
+      "question": "What does DC stand for?",
+      "option1": "Direct Current",
+      "option2": "Double Current",
+      "option3": "Dynamic Current",
+      "option4": "Digital Current",
+      "answer": "Direct Current"
+    },
+    {
+      "question": "Which effect of electric current is used in an electric heater?",
+      "option1": "Magnetic effect",
+      "option2": "Heating effect",
+      "option3": "Chemical effect",
+      "option4": "Photoelectric effect",
+      "answer": "Heating effect"
+    },
+    {
+      "question": "Which effect of electric current is used in an electric bell?",
+      "option1": "Magnetic effect",
+      "option2": "Heating effect",
+      "option3": "Chemical effect",
+      "option4": "Thermal effect",
+      "answer": "Magnetic effect"
+    },
+    {
+      "question": "Which metal is commonly used in heating elements?",
+      "option1": "Copper",
+      "option2": "Nichrome",
+      "option3": "Silver",
+      "option4": "Gold",
+      "answer": "Nichrome"
+    },
+    {
+      "question": "Why is nichrome used in heating elements?",
+      "option1": "It has high resistance and high melting point",
+      "option2": "It has zero resistance",
+      "option3": "It melts easily",
+      "option4": "It is a perfect insulator",
+      "answer": "It has high resistance and high melting point"
+    },
+    {
+      "question": "Which law relates current to the rate of flow of electric charge?",
+      "option1": "I = Q/t",
+      "option2": "V = IR",
+      "option3": "P = VI",
+      "option4": "F = ma",
+      "answer": "I = Q/t"
+    },
+    {
+      "question": "What is the formula for electrical power?",
+      "option1": "P = VI",
+      "option2": "P = V/I",
+      "option3": "P = I/V",
+      "option4": "P = R/V",
+      "answer": "P = VI"
+    },
+    {
+      "question": "What is the formula for kinetic energy?",
+      "option1": "mgh",
+      "option2": "1/2 mv²",
+      "option3": "F × d",
+      "option4": "VIt",
+      "answer": "1/2 mv²"
+    },
+    {
+      "question": "What is the formula for potential energy due to height?",
+      "option1": "1/2 mv²",
+      "option2": "mgh",
+      "option3": "F/a",
+      "option4": "VI",
+      "answer": "mgh"
+    },
+    {
+      "question": "What is momentum equal to?",
+      "option1": "Mass × velocity",
+      "option2": "Mass × acceleration",
+      "option3": "Force × acceleration",
+      "option4": "Power × time",
+      "answer": "Mass × velocity"
+    },
+    {
+      "question": "What is the SI unit of momentum?",
+      "option1": "kg m/s",
+      "option2": "Newton",
+      "option3": "Joule",
+      "option4": "Watt",
+      "answer": "kg m/s"
+    },
+    {
+      "question": "Which type of energy does a moving train possess?",
+      "option1": "Kinetic energy",
+      "option2": "Chemical energy only",
+      "option3": "Nuclear energy",
+      "option4": "Elastic energy",
+      "answer": "Kinetic energy"
+    },
+    {
+      "question": "What happens to kinetic energy when the speed of an object increases?",
+      "option1": "It decreases",
+      "option2": "It increases",
+      "option3": "It becomes zero",
+      "option4": "It remains unchanged",
+      "answer": "It increases"
+    },
+    {
+      "question": "Which physical quantity represents the rate of change of velocity?",
+      "option1": "Speed",
+      "option2": "Acceleration",
+      "option3": "Momentum",
+      "option4": "Force",
+      "answer": "Acceleration"
+    },
+    {
+      "question": "Which physical quantity represents distance travelled per unit time?",
+      "option1": "Speed",
+      "option2": "Force",
+      "option3": "Acceleration",
+      "option4": "Power",
+      "answer": "Speed"
+    },
+    {
+      "question": "What is the SI unit of speed?",
+      "option1": "km/h",
+      "option2": "m/s",
+      "option3": "m²/s",
+      "option4": "N/s",
+      "answer": "m/s"
+    },
+    {
+      "question": "Which type of motion does a wheel rotating about its axle undergo?",
+      "option1": "Rotational motion",
+      "option2": "Linear motion",
+      "option3": "Random motion",
+      "option4": "Projectile motion",
+      "answer": "Rotational motion"
+    },
+    {
+      "question": "What is torque a measure of?",
+      "option1": "Turning effect of a force",
+      "option2": "Temperature",
+      "option3": "Electrical resistance",
+      "option4": "Pressure",
+      "answer": "Turning effect of a force"
+    },
+    {
+      "question": "Which unit is commonly used for torque in SI?",
+      "option1": "N/m",
+      "option2": "N·m",
+      "option3": "J/s",
+      "option4": "kg/s",
+      "answer": "N·m"
+    },
+    {
+      "question": "Which mechanism transmits rotary motion using toothed wheels?",
+      "option1": "Gear system",
+      "option2": "Pulley only",
+      "option3": "Spring",
+      "option4": "Bearing",
+      "answer": "Gear system"
+    },
+    {
+      "question": "What is the main purpose of gears in a machine?",
+      "option1": "Transmit motion and change speed or torque",
+      "option2": "Store electrical energy",
+      "option3": "Measure temperature",
+      "option4": "Reduce voltage directly",
+      "answer": "Transmit motion and change speed or torque"
+    },
+    {
+      "question": "Which gear is commonly used to transmit motion between parallel shafts?",
+      "option1": "Spur gear",
+      "option2": "Worm gear",
+      "option3": "Bevel gear",
+      "option4": "Rack only",
+      "answer": "Spur gear"
+    },
+    {
+      "question": "Which gear is used to transmit motion between intersecting shafts?",
+      "option1": "Spur gear",
+      "option2": "Bevel gear",
+      "option3": "Worm gear",
+      "option4": "Rack gear",
+      "answer": "Bevel gear"
+    },
+    {
+      "question": "Which gear arrangement is commonly used when shafts are at right angles?",
+      "option1": "Bevel gear",
+      "option2": "Spur gear",
+      "option3": "Rack and pinion only",
+      "option4": "Chain drive",
+      "answer": "Bevel gear"
+    },
+    {
+      "question": "Which mechanism converts rotary motion into linear motion?",
+      "option1": "Rack and pinion",
+      "option2": "Bearing",
+      "option3": "Flywheel",
+      "option4": "Pulley only",
+      "answer": "Rack and pinion"
+    },
+    {
+      "question": "What is the function of a flywheel in an engine?",
+      "option1": "Store rotational energy and smooth speed variations",
+      "option2": "Cool the engine",
+      "option3": "Filter fuel",
+      "option4": "Generate fuel",
+      "answer": "Store rotational energy and smooth speed variations"
+    },
+    {
+      "question": "What is the function of a clutch in a vehicle?",
+      "option1": "Connect and disconnect engine power from the transmission",
+      "option2": "Cool the engine",
+      "option3": "Store fuel",
+      "option4": "Generate electricity",
+      "answer": "Connect and disconnect engine power from the transmission"
+    },
+    {
+      "question": "What is the main function of a gearbox?",
+      "option1": "Provide different speed and torque ratios",
+      "option2": "Cool the engine",
+      "option3": "Generate electricity",
+      "option4": "Store electrical charge",
+      "answer": "Provide different speed and torque ratios"
+    },
+    {
+      "question": "Which component transfers power from the gearbox to the driving wheels?",
+      "option1": "Drive shaft",
+      "option2": "Radiator",
+      "option3": "Battery",
+      "option4": "Fuel injector",
+      "answer": "Drive shaft"
+    },
+    {
+      "question": "What is the main purpose of brakes in a vehicle?",
+      "option1": "Increase speed",
+      "option2": "Reduce or stop motion",
+      "option3": "Increase fuel consumption",
+      "option4": "Increase engine temperature",
+      "answer": "Reduce or stop motion"
+    },
+    {
+      "question": "Which type of brake uses compressed air for operation?",
+      "option1": "Air brake",
+      "option2": "Hand brake only",
+      "option3": "Magnetic compass brake",
+      "option4": "Water brake",
+      "answer": "Air brake"
+    },
+    {
+      "question": "What is the main advantage of air brakes in heavy vehicles?",
+      "option1": "They provide effective braking for heavy loads",
+      "option2": "They require no pressure",
+      "option3": "They work without any brake components",
+      "option4": "They increase engine power",
+      "answer": "They provide effective braking for heavy loads"
+    },
+    {
+      "question": "Which component stores compressed air in an air brake system?",
+      "option1": "Air reservoir",
+      "option2": "Radiator",
+      "option3": "Gearbox",
+      "option4": "Fuel tank",
+      "answer": "Air reservoir"
+    },
+    {
+      "question": "What is the purpose of a compressor in an air brake system?",
+      "option1": "Compress air",
+      "option2": "Cool the engine",
+      "option3": "Pump fuel",
+      "option4": "Generate mechanical sparks",
+      "answer": "Compress air"
+    },
+    {
+      "question": "Which component of an engine mixes air and fuel in a petrol engine?",
+      "option1": "Carburetor",
+      "option2": "Radiator",
+      "option3": "Silencer",
+      "option4": "Alternator",
+      "answer": "Carburetor"
+    },
+    {
+      "question": "Which component removes harmful gases from vehicle exhaust?",
+      "option1": "Catalytic converter",
+      "option2": "Radiator",
+      "option3": "Clutch",
+      "option4": "Flywheel",
+      "answer": "Catalytic converter"
+    },
+    {
+      "question": "What is the main function of a silencer in an engine?",
+      "option1": "Reduce exhaust noise",
+      "option2": "Increase fuel pressure",
+      "option3": "Cool the engine",
+      "option4": "Increase voltage",
+      "answer": "Reduce exhaust noise"
+    },
+    {
+      "question": "Which component controls the opening and closing of engine valves?",
+      "option1": "Camshaft",
+      "option2": "Crankshaft",
+      "option3": "Flywheel",
+      "option4": "Radiator",
+      "answer": "Camshaft"
+    },
+    {
+      "question": "Which component converts reciprocating motion into rotary motion in an engine?",
+      "option1": "Crankshaft",
+      "option2": "Camshaft",
+      "option3": "Radiator",
+      "option4": "Piston ring",
+      "answer": "Crankshaft"
+    },
+    {
+      "question": "What is the main function of a piston in an internal combustion engine?",
+      "option1": "Convert gas pressure into mechanical motion",
+      "option2": "Cool the radiator",
+      "option3": "Store electrical energy",
+      "option4": "Filter exhaust gases",
+      "answer": "Convert gas pressure into mechanical motion"
+    },
+    {
+      "question": "Which component seals the gap between piston and cylinder wall?",
+      "option1": "Piston ring",
+      "option2": "Flywheel",
+      "option3": "Clutch plate",
+      "option4": "Bearing",
+      "answer": "Piston ring"
+    },
+    {
+      "question": "What is the function of an engine oil filter?",
+      "option1": "Remove impurities from engine oil",
+      "option2": "Increase fuel quantity",
+      "option3": "Cool the battery",
+      "option4": "Increase exhaust noise",
+      "answer": "Remove impurities from engine oil"
+    },
+    {
+      "question": "Which component circulates coolant through an engine cooling system?",
+      "option1": "Water pump",
+      "option2": "Fuel injector",
+      "option3": "Starter motor",
+      "option4": "Clutch",
+      "answer": "Water pump"
+    },
+    {
+      "question": "What is the function of a thermostat in an engine cooling system?",
+      "option1": "Regulate coolant flow according to temperature",
+      "option2": "Increase fuel pressure",
+      "option3": "Generate electricity",
+      "option4": "Reduce tyre pressure",
+      "answer": "Regulate coolant flow according to temperature"
+    },
+    {
+      "question": "Which component charges the battery while an engine is running?",
+      "option1": "Alternator",
+      "option2": "Radiator",
+      "option3": "Clutch",
+      "option4": "Silencer",
+      "answer": "Alternator"
+    },
+    {
+      "question": "What is the function of a starter motor?",
+      "option1": "Start the engine",
+      "option2": "Cool the engine",
+      "option3": "Stop fuel flow",
+      "option4": "Reduce exhaust noise",
+      "answer": "Start the engine"
+    },
+    {
+      "question": "Which type of battery is commonly used in automobiles?",
+      "option1": "Lead-acid battery",
+      "option2": "Dry sand battery",
+      "option3": "Nickel wire battery",
+      "option4": "Copper plate battery",
+      "answer": "Lead-acid battery"
+    },
+    {
+      "question": "What is the purpose of a battery electrolyte in a lead-acid battery?",
+      "option1": "Conduct ions between the plates",
+      "option2": "Cool the engine",
+      "option3": "Lubricate gears",
+      "option4": "Filter fuel",
+      "answer": "Conduct ions between the plates"
+    },
+    {
+      "question": "Which gas is released during charging of a lead-acid battery?",
+      "option1": "Hydrogen",
+      "option2": "Nitrogen",
+      "option3": "Helium",
+      "option4": "Carbon monoxide",
+      "answer": "Hydrogen"
+    },
+    {
+      "question": "What should be avoided near a charging lead-acid battery?",
+      "option1": "Open flames",
+      "option2": "Ventilation",
+      "option3": "Clean tools",
+      "option4": "Proper inspection",
+      "answer": "Open flames"
+    },
+    {
+      "question": "Which electrical quantity is measured in amperes?",
+      "option1": "Current",
+      "option2": "Voltage",
+      "option3": "Resistance",
+      "option4": "Power",
+      "answer": "Current"
+    },
+    {
+      "question": "Which electrical quantity is measured in ohms?",
+      "option1": "Resistance",
+      "option2": "Current",
+      "option3": "Voltage",
+      "option4": "Energy",
+      "answer": "Resistance"
+    },
+    {
+      "question": "Which electrical quantity is measured in volts?",
+      "option1": "Potential difference",
+      "option2": "Current",
+      "option3": "Resistance",
+      "option4": "Charge",
+      "answer": "Potential difference"
+    },
+    {
+      "question": "Which electrical quantity is measured in watts?",
+      "option1": "Power",
+      "option2": "Resistance",
+      "option3": "Charge",
+      "option4": "Current",
+      "answer": "Power"
+    },
+    {
+      "question": "What is the resistance of an ideal conductor?",
+      "option1": "Zero",
+      "option2": "One ohm",
+      "option3": "Infinite",
+      "option4": "100 ohms",
+      "answer": "Zero"
+    },
+    {
+      "question": "What is the resistance of an ideal insulator?",
+      "option1": "Zero",
+      "option2": "Very low",
+      "option3": "Very high",
+      "option4": "One ohm",
+      "answer": "Very high"
+    },
+    {
+      "question": "Which connection is commonly used in household electrical wiring?",
+      "option1": "Parallel",
+      "option2": "Series",
+      "option3": "Circular only",
+      "option4": "Open circuit",
+      "answer": "Parallel"
+    },
+    {
+      "question": "Why are household appliances connected in parallel?",
+      "option1": "Each appliance receives the supply voltage independently",
+      "option2": "All appliances must have the same current",
+      "option3": "It prevents all appliances from working",
+      "option4": "It increases resistance to infinity",
+      "answer": "Each appliance receives the supply voltage independently"
+    },
+    {
+      "question": "Which wire is generally connected to the earth for safety?",
+      "option1": "Earth wire",
+      "option2": "Phase wire",
+      "option3": "Signal wire",
+      "option4": "Fuse wire only",
+      "answer": "Earth wire"
+    },
+    {
+      "question": "What is the main purpose of earthing?",
+      "option1": "Protect against electric shock",
+      "option2": "Increase voltage",
+      "option3": "Increase resistance",
+      "option4": "Store electricity",
+      "answer": "Protect against electric shock"
+    },
+    {
+      "question": "Which device automatically switches off a circuit during excessive current?",
+      "option1": "MCB",
+      "option2": "Capacitor",
+      "option3": "Transformer",
+      "option4": "Motor",
+      "answer": "MCB"
+    },
+    {
+      "question": "What does MCB stand for?",
+      "option1": "Miniature Circuit Breaker",
+      "option2": "Main Current Battery",
+      "option3": "Motor Control Board",
+      "option4": "Maximum Circuit Battery",
+      "answer": "Miniature Circuit Breaker"
+    },
+    {
+      "question": "Which device protects against leakage current and electric shock?",
+      "option1": "RCCB",
+      "option2": "Transformer",
+      "option3": "Capacitor",
+      "option4": "Alternator",
+      "answer": "RCCB"
+    },
+    {
+      "question": "What does RCCB stand for?",
+      "option1": "Residual Current Circuit Breaker",
+      "option2": "Rotating Current Control Box",
+      "option3": "Railway Current Circuit Board",
+      "option4": "Resistance Control Circuit Breaker",
+      "answer": "Residual Current Circuit Breaker"
+    },
+    {
+      "question": "Which instrument is used to measure rotational speed?",
+      "option1": "Tachometer",
+      "option2": "Barometer",
+      "option3": "Thermometer",
+      "option4": "Ammeter",
+      "answer": "Tachometer"
+    },
+    {
+      "question": "What does RPM stand for?",
+      "option1": "Revolutions Per Minute",
+      "option2": "Rotations Per Meter",
+      "option3": "Revolutions Per Meter",
+      "option4": "Rate Per Minute",
+      "answer": "Revolutions Per Minute"
+    },
+    {
+      "question": "Which instrument is used to measure pressure in a hydraulic system?",
+      "option1": "Pressure gauge",
+      "option2": "Ammeter",
+      "option3": "Voltmeter",
+      "option4": "Thermometer",
+      "answer": "Pressure gauge"
+    },
+    {
+      "question": "Which fluid is commonly used in hydraulic systems?",
+      "option1": "Hydraulic oil",
+      "option2": "Petrol only",
+      "option3": "Water only",
+      "option4": "Kerosene only",
+      "answer": "Hydraulic oil"
+    },
+    {
+      "question": "Which principle is the basis of hydraulic machines?",
+      "option1": "Pascal's law",
+      "option2": "Newton's first law",
+      "option3": "Ohm's law",
+      "option4": "Faraday's law",
+      "answer": "Pascal's law"
+    },
+    {
+      "question": "What does Pascal's law state?",
+      "option1": "Pressure applied to a confined fluid is transmitted equally in all directions",
+      "option2": "Current is proportional to voltage",
+      "option3": "Force equals mass times acceleration",
+      "option4": "Energy cannot be created",
+      "answer": "Pressure applied to a confined fluid is transmitted equally in all directions"
+    },
+    {
+      "question": "Which machine uses compressed air to perform work?",
+      "option1": "Pneumatic machine",
+      "option2": "Hydraulic machine",
+      "option3": "Steam turbine only",
+      "option4": "Transformer",
+      "answer": "Pneumatic machine"
+    },
+    {
+      "question": "Which fluid is used in pneumatic systems?",
+      "option1": "Compressed air",
+      "option2": "Hydraulic oil",
+      "option3": "Petrol",
+      "option4": "Diesel",
+      "answer": "Compressed air"
+    },
+    {
+      "question": "Which component stores compressed air in a pneumatic system?",
+      "option1": "Air receiver",
+      "option2": "Radiator",
+      "option3": "Gearbox",
+      "option4": "Battery",
+      "answer": "Air receiver"
+    },
+    {
+      "question": "What is the main function of a compressor?",
+      "option1": "Increase the pressure of gas",
+      "option2": "Reduce electrical resistance",
+      "option3": "Generate fuel",
+      "option4": "Measure temperature",
+      "answer": "Increase the pressure of gas"
+    },
+    {
+      "question": "Which type of energy is stored in compressed air?",
+      "option1": "Potential energy",
+      "option2": "Nuclear energy",
+      "option3": "Light energy",
+      "option4": "Chemical energy only",
+      "answer": "Potential energy"
+    },
+    {
+      "question": "Which property of a material describes its ability to resist scratching?",
+      "option1": "Hardness",
+      "option2": "Elasticity",
+      "option3": "Ductility",
+      "option4": "Malleability",
+      "answer": "Hardness"
+    },
+    {
+      "question": "Which property allows a material to return to its original shape after deformation?",
+      "option1": "Elasticity",
+      "option2": "Hardness",
+      "option3": "Brittleness",
+      "option4": "Conductivity",
+      "answer": "Elasticity"
+    },
+    {
+      "question": "Which property allows a metal to be drawn into wires?",
+      "option1": "Ductility",
+      "option2": "Malleability",
+      "option3": "Brittleness",
+      "option4": "Hardness",
+      "answer": "Ductility"
+    },
+    {
+      "question": "Which property allows a metal to be beaten into thin sheets?",
+      "option1": "Malleability",
+      "option2": "Ductility",
+      "option3": "Elasticity",
+      "option4": "Hardness",
+      "answer": "Malleability"
+    },
+    {
+      "question": "Which metal is widely used for making machine components because of its strength?",
+      "option1": "Steel",
+      "option2": "Mercury",
+      "option3": "Sodium",
+      "option4": "Potassium",
+      "answer": "Steel"
+    },
+    {
+      "question": "What is an alloy?",
+      "option1": "A mixture of two or more elements, at least one being a metal",
+      "option2": "A pure non-metal",
+      "option3": "A type of electrical current",
+      "option4": "A type of fuel",
+      "answer": "A mixture of two or more elements, at least one being a metal"
+    },
+    {
+      "question": "Which alloy is mainly made from copper and zinc?",
+      "option1": "Brass",
+      "option2": "Bronze",
+      "option3": "Steel",
+      "option4": "Solder",
+      "answer": "Brass"
+    },
+    {
+      "question": "Which alloy is mainly made from copper and tin?",
+      "option1": "Brass",
+      "option2": "Bronze",
+      "option3": "Steel",
+      "option4": "Nichrome",
+      "answer": "Bronze"
+    },
+    {
+      "question": "Which alloy is commonly used as a resistance wire in electrical appliances?",
+      "option1": "Nichrome",
+      "option2": "Brass",
+      "option3": "Bronze",
+      "option4": "Duralumin",
+      "answer": "Nichrome"
+    },
+    {
+      "question": "Which tool is used to make holes in metal or wood?",
+      "option1": "Drill",
+      "option2": "Spanner",
+      "option3": "Pliers",
+      "option4": "Hammer",
+      "answer": "Drill"
+    },
+    {
+      "question": "Which tool is used to smooth or remove small amounts of material from a surface?",
+      "option1": "File",
+      "option2": "Hammer",
+      "option3": "Spanner",
+      "option4": "Wrench",
+      "answer": "File"
+    },
+    {
+      "question": "What is the SI unit of power?",
+      "option1": "Joule",
+      "option2": "Watt",
+      "option3": "Newton",
+      "option4": "Pascal",
+      "answer": "Watt"
+    },
+    {
+      "question": "Which device is used to measure voltage?",
+      "option1": "Ammeter",
+      "option2": "Voltmeter",
+      "option3": "Barometer",
+      "option4": "Thermometer",
+      "answer": "Voltmeter"
+    },
+    {
+      "question": "Which device is used to measure resistance?",
+      "option1": "Ammeter",
+      "option2": "Voltmeter",
+      "option3": "Ohmmeter",
+      "option4": "Wattmeter",
+      "answer": "Ohmmeter"
+    },
+    {
+      "question": "What is the SI unit of resistance?",
+      "option1": "Volt",
+      "option2": "Ampere",
+      "option3": "Ohm",
+      "option4": "Watt",
+      "answer": "Ohm"
+    },
+    {
+      "question": "Which law states that V = IR?",
+      "option1": "Faraday's Law",
+      "option2": "Ohm's Law",
+      "option3": "Newton's Law",
+      "option4": "Coulomb's Law",
+      "answer": "Ohm's Law"
+    },
+    {
+      "question": "Which material is generally used as a conductor of electricity?",
+      "option1": "Rubber",
+      "option2": "Glass",
+      "option3": "Copper",
+      "option4": "Wood",
+      "answer": "Copper"
+    },
+    {
+      "question": "Which material is commonly used as an electrical insulator?",
+      "option1": "Copper",
+      "option2": "Aluminium",
+      "option3": "Rubber",
+      "option4": "Iron",
+      "answer": "Rubber"
+    },
+    {
+      "question": "What type of current changes direction periodically?",
+      "option1": "Direct current",
+      "option2": "Alternating current",
+      "option3": "Static current",
+      "option4": "Constant current",
+      "answer": "Alternating current"
+    },
+    {
+      "question": "What type of current flows in only one direction?",
+      "option1": "Alternating current",
+      "option2": "Direct current",
+      "option3": "Induced current",
+      "option4": "Pulsating current",
+      "answer": "Direct current"
+    },
+    {
+      "question": "Which component stores electrical energy in an electric field?",
+      "option1": "Resistor",
+      "option2": "Capacitor",
+      "option3": "Diode",
+      "option4": "Fuse",
+      "answer": "Capacitor"
+    },
+    {
+      "question": "Which component opposes the flow of electric current?",
+      "option1": "Capacitor",
+      "option2": "Resistor",
+      "option3": "Battery",
+      "option4": "Switch",
+      "answer": "Resistor"
+    },
+    {
+      "question": "Which device protects an electrical circuit from excessive current?",
+      "option1": "Motor",
+      "option2": "Fuse",
+      "option3": "Generator",
+      "option4": "Transformer",
+      "answer": "Fuse"
+    },
+    {
+      "question": "A transformer works on the principle of:",
+      "option1": "Electromagnetic induction",
+      "option2": "Chemical reaction",
+      "option3": "Heating effect",
+      "option4": "Photoelectric effect",
+      "answer": "Electromagnetic induction"
+    },
+    {
+      "question": "Which transformer increases voltage?",
+      "option1": "Step-down transformer",
+      "option2": "Step-up transformer",
+      "option3": "Isolation transformer",
+      "option4": "Current transformer",
+      "answer": "Step-up transformer"
+    },
+    {
+      "question": "Which transformer decreases voltage?",
+      "option1": "Step-up transformer",
+      "option2": "Step-down transformer",
+      "option3": "Power transformer",
+      "option4": "Auto transformer",
+      "answer": "Step-down transformer"
+    },
+    {
+      "question": "Which machine converts mechanical energy into electrical energy?",
+      "option1": "Motor",
+      "option2": "Generator",
+      "option3": "Transformer",
+      "option4": "Battery",
+      "answer": "Generator"
+    },
+    {
+      "question": "Which machine converts electrical energy into mechanical energy?",
+      "option1": "Generator",
+      "option2": "Motor",
+      "option3": "Transformer",
+      "option4": "Rectifier",
+      "answer": "Motor"
+    },
+    {
+      "question": "Which device converts AC into DC?",
+      "option1": "Inverter",
+      "option2": "Rectifier",
+      "option3": "Transformer",
+      "option4": "Oscillator",
+      "answer": "Rectifier"
+    },
+    {
+      "question": "Which device converts DC into AC?",
+      "option1": "Rectifier",
+      "option2": "Inverter",
+      "option3": "Transformer",
+      "option4": "Capacitor",
+      "answer": "Inverter"
+    },
+    {
+      "question": "What is the SI unit of electrical energy?",
+      "option1": "Joule",
+      "option2": "Watt",
+      "option3": "Volt",
+      "option4": "Ohm",
+      "answer": "Joule"
+    },
+    {
+      "question": "What is the commercial unit of electrical energy?",
+      "option1": "Watt",
+      "option2": "Kilowatt-hour",
+      "option3": "Joule",
+      "option4": "Ampere",
+      "answer": "Kilowatt-hour"
+    },
+    {
+      "question": "Which effect of electric current is used in an electric heater?",
+      "option1": "Magnetic effect",
+      "option2": "Heating effect",
+      "option3": "Chemical effect",
+      "option4": "Mechanical effect",
+      "answer": "Heating effect"
+    },
+    {
+      "question": "Which effect of electric current is used in an electric motor?",
+      "option1": "Heating effect",
+      "option2": "Magnetic effect",
+      "option3": "Chemical effect",
+      "option4": "Lighting effect",
+      "answer": "Magnetic effect"
+    },
+    {
+      "question": "Which metal is commonly used for electrical wiring?",
+      "option1": "Copper",
+      "option2": "Mercury",
+      "option3": "Lead",
+      "option4": "Zinc",
+      "answer": "Copper"
+    },
+    {
+      "question": "What is the function of a circuit breaker?",
+      "option1": "Increase voltage",
+      "option2": "Interrupt excessive current",
+      "option3": "Store electrical energy",
+      "option4": "Generate electricity",
+      "answer": "Interrupt excessive current"
+    },
+    {
+      "question": "What is the SI unit of power?",
+      "option1": "Joule",
+      "option2": "Watt",
+      "option3": "Newton",
+      "option4": "Pascal",
+      "answer": "Watt"
+    },
+    {
+      "question": "Which device is used to measure electrical resistance?",
+      "option1": "Ammeter",
+      "option2": "Voltmeter",
+      "option3": "Ohmmeter",
+      "option4": "Wattmeter",
+      "answer": "Ohmmeter"
+    },
+    {
+      "question": "What is the SI unit of electrical resistance?",
+      "option1": "Volt",
+      "option2": "Ohm",
+      "option3": "Ampere",
+      "option4": "Watt",
+      "answer": "Ohm"
+    },
+    {
+      "question": "Which instrument is used to measure voltage?",
+      "option1": "Ammeter",
+      "option2": "Voltmeter",
+      "option3": "Ohmmeter",
+      "option4": "Galvanometer",
+      "answer": "Voltmeter"
+    },
+    {
+      "question": "According to Ohm's law, voltage is equal to:",
+      "option1": "I/R",
+      "option2": "IR",
+      "option3": "R/I",
+      "option4": "I+R",
+      "answer": "IR"
+    },
+    {
+      "question": "Which material is generally used as a conductor of electricity?",
+      "option1": "Rubber",
+      "option2": "Glass",
+      "option3": "Copper",
+      "option4": "Wood",
+      "answer": "Copper"
+    },
+    {
+      "question": "Which material is commonly used as an electrical insulator?",
+      "option1": "Copper",
+      "option2": "Aluminium",
+      "option3": "Rubber",
+      "option4": "Iron",
+      "answer": "Rubber"
+    },
+    {
+      "question": "What type of current changes direction periodically?",
+      "option1": "Direct current",
+      "option2": "Alternating current",
+      "option3": "Static current",
+      "option4": "Constant current",
+      "answer": "Alternating current"
+    },
+    {
+      "question": "What type of current flows in only one direction?",
+      "option1": "Alternating current",
+      "option2": "Direct current",
+      "option3": "Pulsating current",
+      "option4": "Induced current",
+      "answer": "Direct current"
+    },
+    {
+      "question": "Which device converts AC into DC?",
+      "option1": "Transformer",
+      "option2": "Rectifier",
+      "option3": "Generator",
+      "option4": "Motor",
+      "answer": "Rectifier"
+    },
+    {
+      "question": "Which device is used to increase or decrease AC voltage?",
+      "option1": "Transformer",
+      "option2": "Rectifier",
+      "option3": "Motor",
+      "option4": "Battery",
+      "answer": "Transformer"
+    },
+    {
+      "question": "Which transformer increases voltage?",
+      "option1": "Step-down transformer",
+      "option2": "Step-up transformer",
+      "option3": "Isolation transformer",
+      "option4": "Current transformer",
+      "answer": "Step-up transformer"
+    },
+    {
+      "question": "Which transformer decreases voltage?",
+      "option1": "Step-up transformer",
+      "option2": "Step-down transformer",
+      "option3": "Power transformer",
+      "option4": "Current transformer",
+      "answer": "Step-down transformer"
+    },
+    {
+      "question": "What is the unit of electrical energy commonly used in domestic billing?",
+      "option1": "Watt",
+      "option2": "Kilowatt-hour",
+      "option3": "Volt",
+      "option4": "Ampere",
+      "answer": "Kilowatt-hour"
+    },
+    {
+      "question": "One kilowatt is equal to:",
+      "option1": "10 watts",
+      "option2": "100 watts",
+      "option3": "1000 watts",
+      "option4": "10,000 watts",
+      "answer": "1000 watts"
+    },
+    {
+      "question": "Which law states that current is directly proportional to voltage at constant temperature?",
+      "option1": "Faraday's law",
+      "option2": "Ohm's law",
+      "option3": "Newton's law",
+      "option4": "Lenz's law",
+      "answer": "Ohm's law"
+    },
+    {
+      "question": "Which instrument is used to detect small electric currents?",
+      "option1": "Galvanometer",
+      "option2": "Barometer",
+      "option3": "Thermometer",
+      "option4": "Hygrometer",
+      "answer": "Galvanometer"
+    },
+    {
+      "question": "Which effect of electric current is used in an electric heater?",
+      "option1": "Magnetic effect",
+      "option2": "Chemical effect",
+      "option3": "Heating effect",
+      "option4": "Mechanical effect",
+      "answer": "Heating effect"
+    },
+    {
+      "question": "Which effect of electric current is used in an electric motor?",
+      "option1": "Heating effect",
+      "option2": "Magnetic effect",
+      "option3": "Chemical effect",
+      "option4": "Thermal effect",
+      "answer": "Magnetic effect"
+    }
+  ]
+}

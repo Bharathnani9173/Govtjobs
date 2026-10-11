@@ -6,3 +6,14 @@ db.sqlite3
 db_backup.sqlite3
 db_backup_2.sqlite3
 staticfiles/
+# Previous-paper PDFs and uploaded media
+media/
+
+# Temporary files and archives
+question_batches.zip
+tmp_official_pdfs/
+
+# Exclude empty or backup question banks from Git
+jobportal/question_banks/army_agniveer_gd.json
+jobportal/question_banks/rrb_group_d.backup.json
+jobportal/question_banks/rrb_ntpc_backup.json

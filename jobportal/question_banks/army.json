@@ -1,0 +1,1605 @@
+{
+  "exam": "Indian Army",
+  "questions": [
+    {
+      "question": "What is the primary responsibility of the Indian Army?",
+      "option1": "Defending India's land borders",
+      "option2": "Managing airports",
+      "option3": "Operating commercial airlines",
+      "option4": "Managing seaports",
+      "answer": "Defending India's land borders"
+    },
+    {
+      "question": "When is Indian Army Day observed?",
+      "option1": "15 January",
+      "option2": "26 January",
+      "option3": "15 August",
+      "option4": "4 December",
+      "answer": "15 January"
+    },
+    {
+      "question": "The Indian Army Day commemorates the appointment of which officer as the first Indian Commander-in-Chief of the Indian Army?",
+      "option1": "Field Marshal K. M. Cariappa",
+      "option2": "Field Marshal Sam Manekshaw",
+      "option3": "General Bipin Rawat",
+      "option4": "General J. N. Chaudhuri",
+      "answer": "Field Marshal K. M. Cariappa"
+    },
+    {
+      "question": "What is the motto of the Indian Army?",
+      "option1": "Service Before Self",
+      "option2": "Touch the Sky with Glory",
+      "option3": "Sham No Varunah",
+      "option4": "Victory Through Unity",
+      "answer": "Service Before Self"
+    },
+    {
+      "question": "Who is the Supreme Commander of the Indian Armed Forces?",
+      "option1": "President of India",
+      "option2": "Prime Minister of India",
+      "option3": "Defence Minister",
+      "option4": "Chief of Defence Staff",
+      "answer": "President of India"
+    },
+    {
+      "question": "Which ministry is responsible for the administration of the Indian Army?",
+      "option1": "Ministry of Defence",
+      "option2": "Ministry of Home Affairs",
+      "option3": "Ministry of External Affairs",
+      "option4": "Ministry of Civil Aviation",
+      "answer": "Ministry of Defence"
+    },
+    {
+      "question": "What is the headquarters of the Indian Army?",
+      "option1": "New Delhi",
+      "option2": "Mumbai",
+      "option3": "Pune",
+      "option4": "Lucknow",
+      "answer": "New Delhi"
+    },
+    {
+      "question": "Who is the professional head of the Indian Army?",
+      "option1": "Chief of Army Staff",
+      "option2": "Chief of Naval Staff",
+      "option3": "Chief of Air Staff",
+      "option4": "Chief of Defence Staff",
+      "answer": "Chief of Army Staff"
+    },
+    {
+      "question": "What is the abbreviation for Chief of Army Staff?",
+      "option1": "COAS",
+      "option2": "CAS",
+      "option3": "CNS",
+      "option4": "CDS",
+      "answer": "COAS"
+    },
+    {
+      "question": "Which is the highest active rank in the Indian Army?",
+      "option1": "General",
+      "option2": "Lieutenant General",
+      "option3": "Major General",
+      "option4": "Brigadier",
+      "answer": "General"
+    },
+    {
+      "question": "Which rank is immediately below General in the Indian Army?",
+      "option1": "Lieutenant General",
+      "option2": "Major General",
+      "option3": "Brigadier",
+      "option4": "Colonel",
+      "answer": "Lieutenant General"
+    },
+    {
+      "question": "Which rank comes immediately below Lieutenant General?",
+      "option1": "Major General",
+      "option2": "Brigadier",
+      "option3": "Colonel",
+      "option4": "Lieutenant Colonel",
+      "answer": "Major General"
+    },
+    {
+      "question": "Which rank comes immediately below Major General?",
+      "option1": "Brigadier",
+      "option2": "Colonel",
+      "option3": "Lieutenant Colonel",
+      "option4": "Major",
+      "answer": "Brigadier"
+    },
+    {
+      "question": "Which rank comes immediately below Brigadier?",
+      "option1": "Colonel",
+      "option2": "Lieutenant Colonel",
+      "option3": "Major",
+      "option4": "Captain",
+      "answer": "Colonel"
+    },
+    {
+      "question": "Which is the entry-level commissioned officer rank in the Indian Army?",
+      "option1": "Lieutenant",
+      "option2": "Captain",
+      "option3": "Major",
+      "option4": "Colonel",
+      "answer": "Lieutenant"
+    },
+    {
+      "question": "Which rank comes immediately above Lieutenant in the Indian Army?",
+      "option1": "Captain",
+      "option2": "Major",
+      "option3": "Colonel",
+      "option4": "Brigadier",
+      "answer": "Captain"
+    },
+    {
+      "question": "Which rank comes immediately above Captain?",
+      "option1": "Major",
+      "option2": "Lieutenant Colonel",
+      "option3": "Colonel",
+      "option4": "Brigadier",
+      "answer": "Major"
+    },
+    {
+      "question": "Which rank comes immediately above Major?",
+      "option1": "Lieutenant Colonel",
+      "option2": "Colonel",
+      "option3": "Brigadier",
+      "option4": "Captain",
+      "answer": "Lieutenant Colonel"
+    },
+    {
+      "question": "Which rank comes immediately above Lieutenant Colonel?",
+      "option1": "Colonel",
+      "option2": "Brigadier",
+      "option3": "Major General",
+      "option4": "Major",
+      "answer": "Colonel"
+    },
+    {
+      "question": "Which academy provides military training to officer cadets of the Indian Army before commissioning?",
+      "option1": "Indian Military Academy",
+      "option2": "Air Force Academy",
+      "option3": "Indian Naval Academy",
+      "option4": "National Defence College",
+      "answer": "Indian Military Academy"
+    },
+    {
+      "question": "Where is the Indian Military Academy located?",
+      "option1": "Dehradun",
+      "option2": "Pune",
+      "option3": "Chennai",
+      "option4": "Hyderabad",
+      "answer": "Dehradun"
+    },
+    {
+      "question": "Where is the National Defence Academy located?",
+      "option1": "Khadakwasla",
+      "option2": "Dehradun",
+      "option3": "Secunderabad",
+      "option4": "Chennai",
+      "answer": "Khadakwasla"
+    },
+    {
+      "question": "Which academy provides joint training to cadets of the Army, Navy and Air Force?",
+      "option1": "National Defence Academy",
+      "option2": "Indian Military Academy",
+      "option3": "Officers Training Academy",
+      "option4": "Army War College",
+      "answer": "National Defence Academy"
+    },
+    {
+      "question": "What does NDA stand for?",
+      "option1": "National Defence Academy",
+      "option2": "National Development Academy",
+      "option3": "Naval Defence Academy",
+      "option4": "National Drill Academy",
+      "answer": "National Defence Academy"
+    },
+    {
+      "question": "Which city is associated with the Officers Training Academy at its main location?",
+      "option1": "Chennai",
+      "option2": "Jaipur",
+      "option3": "Lucknow",
+      "option4": "Bhopal",
+      "answer": "Chennai"
+    },
+    {
+      "question": "Which regiment is known as one of the oldest infantry regiments of the Indian Army?",
+      "option1": "Madras Regiment",
+      "option2": "Rajput Regiment",
+      "option3": "Sikh Regiment",
+      "option4": "Gorkha Rifles",
+      "answer": "Madras Regiment"
+    },
+    {
+      "question": "Which regiment is associated with soldiers recruited mainly from the Gorkha community?",
+      "option1": "Gorkha Rifles",
+      "option2": "Rajput Regiment",
+      "option3": "Sikh Regiment",
+      "option4": "Maratha Light Infantry",
+      "answer": "Gorkha Rifles"
+    },
+    {
+      "question": "The Sikh Regiment primarily belongs to which arm of the Indian Army?",
+      "option1": "Infantry",
+      "option2": "Artillery",
+      "option3": "Armoured Corps",
+      "option4": "Engineers",
+      "answer": "Infantry"
+    },
+    {
+      "question": "Which arm of the Indian Army operates tanks and other armoured fighting vehicles?",
+      "option1": "Armoured Corps",
+      "option2": "Army Medical Corps",
+      "option3": "Army Service Corps",
+      "option4": "Corps of Signals",
+      "answer": "Armoured Corps"
+    },
+    {
+      "question": "Which corps is responsible for military communications?",
+      "option1": "Corps of Signals",
+      "option2": "Corps of Engineers",
+      "option3": "Army Ordnance Corps",
+      "option4": "Army Service Corps",
+      "answer": "Corps of Signals"
+    },
+    {
+      "question": "Which corps provides engineering support to the Indian Army?",
+      "option1": "Corps of Engineers",
+      "option2": "Corps of Signals",
+      "option3": "Army Medical Corps",
+      "option4": "Armoured Corps",
+      "answer": "Corps of Engineers"
+    },
+    {
+      "question": "Which corps provides medical services to Army personnel?",
+      "option1": "Army Medical Corps",
+      "option2": "Army Service Corps",
+      "option3": "Corps of Signals",
+      "option4": "Army Ordnance Corps",
+      "answer": "Army Medical Corps"
+    },
+    {
+      "question": "What is the main role of the Army Service Corps?",
+      "option1": "Logistics and supply",
+      "option2": "Operating fighter aircraft",
+      "option3": "Naval operations",
+      "option4": "Border policing only",
+      "answer": "Logistics and supply"
+    },
+    {
+      "question": "Which corps is responsible for the storage and supply of military equipment and stores?",
+      "option1": "Army Ordnance Corps",
+      "option2": "Army Medical Corps",
+      "option3": "Corps of Signals",
+      "option4": "Army Aviation Corps",
+      "answer": "Army Ordnance Corps"
+    },
+    {
+      "question": "Which branch operates helicopters for battlefield support in the Indian Army?",
+      "option1": "Army Aviation Corps",
+      "option2": "Armoured Corps",
+      "option3": "Corps of Signals",
+      "option4": "Army Service Corps",
+      "answer": "Army Aviation Corps"
+    },
+    {
+      "question": "What is the basic combat unit of the Indian Army infantry?",
+      "option1": "Battalion",
+      "option2": "Division",
+      "option3": "Corps",
+      "option4": "Command",
+      "answer": "Battalion"
+    },
+    {
+      "question": "Several battalions may form which larger military formation?",
+      "option1": "Brigade",
+      "option2": "Section",
+      "option3": "Squad",
+      "option4": "Platoon",
+      "answer": "Brigade"
+    },
+    {
+      "question": "A number of brigades generally form which formation?",
+      "option1": "Division",
+      "option2": "Battalion",
+      "option3": "Company",
+      "option4": "Platoon",
+      "answer": "Division"
+    },
+    {
+      "question": "Which formation is generally larger than a division?",
+      "option1": "Corps",
+      "option2": "Brigade",
+      "option3": "Battalion",
+      "option4": "Company",
+      "answer": "Corps"
+    },
+    {
+      "question": "Which is the smallest tactical unit among the following?",
+      "option1": "Section",
+      "option2": "Battalion",
+      "option3": "Brigade",
+      "option4": "Division",
+      "answer": "Section"
+    },
+    {
+      "question": "A group of soldiers commanded by a Junior Commissioned Officer or senior non-commissioned officer is commonly known as a:",
+      "option1": "Platoon",
+      "option2": "Division",
+      "option3": "Corps",
+      "option4": "Command",
+      "answer": "Platoon"
+    },
+    {
+      "question": "How many operational commands does the Indian Army have?",
+      "option1": "7",
+      "option2": "5",
+      "option3": "9",
+      "option4": "11",
+      "answer": "7"
+    },
+    {
+      "question": "Which Indian Army command has its headquarters at Pune?",
+      "option1": "Southern Command",
+      "option2": "Northern Command",
+      "option3": "Eastern Command",
+      "option4": "Western Command",
+      "answer": "Southern Command"
+    },
+    {
+      "question": "Where is the headquarters of the Northern Command located?",
+      "option1": "Udhampur",
+      "option2": "Jaipur",
+      "option3": "Lucknow",
+      "option4": "Kolkata",
+      "answer": "Udhampur"
+    },
+    {
+      "question": "Where is the headquarters of the Eastern Command located?",
+      "option1": "Kolkata",
+      "option2": "Shimla",
+      "option3": "Pune",
+      "option4": "Jaipur",
+      "answer": "Kolkata"
+    },
+    {
+      "question": "Where is the headquarters of the Western Command located?",
+      "option1": "Chandimandir",
+      "option2": "Lucknow",
+      "option3": "Pune",
+      "option4": "Udhampur",
+      "answer": "Chandimandir"
+    },
+    {
+      "question": "Where is the headquarters of the Central Command located?",
+      "option1": "Lucknow",
+      "option2": "Bhopal",
+      "option3": "Jaipur",
+      "option4": "Kolkata",
+      "answer": "Lucknow"
+    },
+    {
+      "question": "Where is the headquarters of the South Western Command located?",
+      "option1": "Jaipur",
+      "option2": "Pune",
+      "option3": "Chandimandir",
+      "option4": "Udhampur",
+      "answer": "Jaipur"
+    },
+    {
+      "question": "Which Indian Army command has its headquarters at Shillong?",
+      "option1": "Eastern Command",
+      "option2": "Central Command",
+      "option3": "South Western Command",
+      "option4": "Training Command",
+      "answer": "Eastern Command"
+    },
+    {
+      "question": "Which Indian Army command is primarily responsible for training?",
+      "option1": "Army Training Command",
+      "option2": "Northern Command",
+      "option3": "Western Command",
+      "option4": "Southern Command",
+      "answer": "Army Training Command"
+    },
+     {
+      "question": "Which operation was conducted by the Indian Army during the Kargil War in 1999?",
+      "option1": "Operation Vijay",
+      "option2": "Operation Meghdoot",
+      "option3": "Operation Cactus",
+      "option4": "Operation Pawan",
+      "answer": "Operation Vijay"
+    },
+    {
+      "question": "Operation Meghdoot is associated with which region?",
+      "option1": "Siachen Glacier",
+      "option2": "Kargil",
+      "option3": "Northeast India",
+      "option4": "Rajasthan",
+      "answer": "Siachen Glacier"
+    },
+    {
+      "question": "The Kargil War took place in which year?",
+      "option1": "1999",
+      "option2": "1998",
+      "option3": "2000",
+      "option4": "2001",
+      "answer": "1999"
+    },
+    {
+      "question": "Which mountain range contains the Siachen Glacier?",
+      "option1": "Karakoram Range",
+      "option2": "Aravalli Range",
+      "option3": "Western Ghats",
+      "option4": "Vindhya Range",
+      "answer": "Karakoram Range"
+    },
+    {
+      "question": "Which operation was launched by India in Sri Lanka as part of the Indian Peace Keeping Force mission?",
+      "option1": "Operation Pawan",
+      "option2": "Operation Vijay",
+      "option3": "Operation Meghdoot",
+      "option4": "Operation Rakshak",
+      "answer": "Operation Pawan"
+    },
+    {
+      "question": "Operation Polo was conducted in 1948 for the integration of which princely state with India?",
+      "option1": "Hyderabad",
+      "option2": "Mysore",
+      "option3": "Travancore",
+      "option4": "Gwalior",
+      "answer": "Hyderabad"
+    },
+    {
+      "question": "The Indo-Pakistani War of 1971 resulted in the creation of which country?",
+      "option1": "Bangladesh",
+      "option2": "Bhutan",
+      "option3": "Nepal",
+      "option4": "Sri Lanka",
+      "answer": "Bangladesh"
+    },
+    {
+      "question": "Which Indian Army officer is popularly known as the 'Sam Bahadur'?",
+      "option1": "Field Marshal Sam Manekshaw",
+      "option2": "Field Marshal K. M. Cariappa",
+      "option3": "General J. N. Chaudhuri",
+      "option4": "General V. K. Singh",
+      "answer": "Field Marshal Sam Manekshaw"
+    },
+    {
+      "question": "Who was the first Indian Field Marshal?",
+      "option1": "Sam Manekshaw",
+      "option2": "K. M. Cariappa",
+      "option3": "J. N. Chaudhuri",
+      "option4": "Bipin Rawat",
+      "answer": "Sam Manekshaw"
+    },
+    {
+      "question": "Who was the first Indian Commander-in-Chief of the Indian Army after independence?",
+      "option1": "K. M. Cariappa",
+      "option2": "Sam Manekshaw",
+      "option3": "J. N. Chaudhuri",
+      "option4": "Cariappa's successor General Rajendrasinhji",
+      "answer": "K. M. Cariappa"
+    },
+    {
+      "question": "Which war is associated with the Battle of Longewala?",
+      "option1": "Indo-Pakistani War of 1971",
+      "option2": "Indo-Pakistani War of 1965",
+      "option3": "Kargil War",
+      "option4": "Sino-Indian War of 1962",
+      "answer": "Indo-Pakistani War of 1971"
+    },
+    {
+      "question": "The Battle of Rezang La took place during which war?",
+      "option1": "Sino-Indian War of 1962",
+      "option2": "Indo-Pakistani War of 1971",
+      "option3": "Kargil War",
+      "option4": "Indo-Pakistani War of 1947–48",
+      "answer": "Sino-Indian War of 1962"
+    },
+    {
+      "question": "Major Shaitan Singh was awarded the Param Vir Chakra for his actions in which battle?",
+      "option1": "Battle of Rezang La",
+      "option2": "Battle of Longewala",
+      "option3": "Battle of Kargil",
+      "option4": "Battle of Walong",
+      "answer": "Battle of Rezang La"
+    },
+    {
+      "question": "What is India's highest military decoration for valour?",
+      "option1": "Param Vir Chakra",
+      "option2": "Maha Vir Chakra",
+      "option3": "Vir Chakra",
+      "option4": "Ashoka Chakra",
+      "answer": "Param Vir Chakra"
+    },
+    {
+      "question": "Which award is India's second-highest military decoration for acts of conspicuous gallantry?",
+      "option1": "Maha Vir Chakra",
+      "option2": "Vir Chakra",
+      "option3": "Kirti Chakra",
+      "option4": "Ashoka Chakra",
+      "answer": "Maha Vir Chakra"
+    },
+    {
+      "question": "Which award is India's third-highest military decoration for gallantry in the face of the enemy?",
+      "option1": "Vir Chakra",
+      "option2": "Maha Vir Chakra",
+      "option3": "Param Vir Chakra",
+      "option4": "Shaurya Chakra",
+      "answer": "Vir Chakra"
+    },
+    {
+      "question": "Which is India's highest peacetime military decoration for bravery?",
+      "option1": "Ashoka Chakra",
+      "option2": "Kirti Chakra",
+      "option3": "Shaurya Chakra",
+      "option4": "Param Vir Chakra",
+      "answer": "Ashoka Chakra"
+    },
+    {
+      "question": "Which Indian Army regiment is associated with the battle cry 'Bole So Nihal, Sat Sri Akal'?",
+      "option1": "Sikh Regiment",
+      "option2": "Gorkha Rifles",
+      "option3": "Rajput Regiment",
+      "option4": "Jat Regiment",
+      "answer": "Sikh Regiment"
+    },
+    {
+      "question": "Which regiment uses the battle cry 'Durga Mata Ki Jai'?",
+      "option1": "Dogra Regiment",
+      "option2": "Sikh Regiment",
+      "option3": "Jat Regiment",
+      "option4": "Rajput Regiment",
+      "answer": "Dogra Regiment"
+    },
+    {
+      "question": "Which regiment is associated with the battle cry 'Raja Ramchandra Ki Jai'?",
+      "option1": "Rajput Regiment",
+      "option2": "Jat Regiment",
+      "option3": "Sikh Regiment",
+      "option4": "Maratha Light Infantry",
+      "answer": "Rajput Regiment"
+    },
+    {
+      "question": "Which regiment is associated with the battle cry 'Jat Balwan, Jai Bhagwan'?",
+      "option1": "Jat Regiment",
+      "option2": "Rajput Regiment",
+      "option3": "Dogra Regiment",
+      "option4": "Sikh Regiment",
+      "answer": "Jat Regiment"
+    },
+    {
+      "question": "Which regiment is famous for the battle cry 'Yudhaya Krit Nishchaya'?",
+      "option1": "Maratha Light Infantry",
+      "option2": "Gorkha Rifles",
+      "option3": "Sikh Regiment",
+      "option4": "Rajput Regiment",
+      "answer": "Maratha Light Infantry"
+    },
+    {
+      "question": "Which force is responsible for guarding India's borders with China in high-altitude areas along with other security forces?",
+      "option1": "Indo-Tibetan Border Police",
+      "option2": "Central Reserve Police Force",
+      "option3": "Border Security Force",
+      "option4": "Sashastra Seema Bal",
+      "answer": "Indo-Tibetan Border Police"
+    },
+    {
+      "question": "Which force primarily guards India's border with Pakistan and Bangladesh?",
+      "option1": "Border Security Force",
+      "option2": "Indo-Tibetan Border Police",
+      "option3": "Central Industrial Security Force",
+      "option4": "Assam Rifles",
+      "answer": "Border Security Force"
+    },
+    {
+      "question": "Which force is responsible for guarding the India-Myanmar border?",
+      "option1": "Assam Rifles",
+      "option2": "Border Security Force",
+      "option3": "Sashastra Seema Bal",
+      "option4": "Indo-Tibetan Border Police",
+      "answer": "Assam Rifles"
+    },
+    {
+      "question": "Which tank is indigenously developed and used by the Indian Army?",
+      "option1": "Arjun",
+      "option2": "Abrams",
+      "option3": "Leopard 2",
+      "option4": "Challenger 2",
+      "answer": "Arjun"
+    },
+    {
+      "question": "What type of weapon is the AK-203?",
+      "option1": "Assault rifle",
+      "option2": "Sniper rifle",
+      "option3": "Machine gun",
+      "option4": "Mortar",
+      "answer": "Assault rifle"
+    },
+    {
+      "question": "Which organization is primarily responsible for the design and development of defence equipment in India?",
+      "option1": "DRDO",
+      "option2": "ISRO",
+      "option3": "SEBI",
+      "option4": "NITI Aayog",
+      "answer": "DRDO"
+    },
+    {
+      "question": "What does DRDO stand for?",
+      "option1": "Defence Research and Development Organisation",
+      "option2": "Department of Research and Defence Operations",
+      "option3": "Defence Railway Development Organisation",
+      "option4": "Directorate of Research and Defence Organisation",
+      "answer": "Defence Research and Development Organisation"
+    },
+    {
+      "question": "Which missile is an Indian short-range surface-to-surface ballistic missile?",
+      "option1": "Prithvi",
+      "option2": "BrahMos",
+      "option3": "Astra",
+      "option4": "Akash",
+      "answer": "Prithvi"
+    },
+    {
+      "question": "Which missile system is a surface-to-air missile system developed by India?",
+      "option1": "Akash",
+      "option2": "Prithvi",
+      "option3": "Agni",
+      "option4": "Dhanush",
+      "answer": "Akash"
+    },
+    {
+      "question": "BrahMos is primarily what type of missile?",
+      "option1": "Supersonic cruise missile",
+      "option2": "Subsonic ballistic missile",
+      "option3": "Anti-aircraft gun",
+      "option4": "Surface-to-air missile only",
+      "answer": "Supersonic cruise missile"
+    },
+    {
+      "question": "BrahMos was jointly developed by India and which country?",
+      "option1": "Russia",
+      "option2": "France",
+      "option3": "Israel",
+      "option4": "Japan",
+      "answer": "Russia"
+    },
+    {
+      "question": "Which Indian-made artillery gun is based on the 155 mm/52 calibre system?",
+      "option1": "Dhanush",
+      "option2": "INSAS",
+      "option3": "Arjun",
+      "option4": "Akash",
+      "answer": "Dhanush"
+    },
+    {
+      "question": "What does INSAS stand for?",
+      "option1": "Indian Small Arms System",
+      "option2": "Indian National Security Armed System",
+      "option3": "Indian Standard Assault System",
+      "option4": "Indian Special Arms and Security",
+      "answer": "Indian Small Arms System"
+    },
+    {
+      "question": "Which Indian Army vehicle is designed for protected troop transportation?",
+      "option1": "BMP-2",
+      "option2": "C-17 Globemaster",
+      "option3": "INS Vikrant",
+      "option4": "Tejas",
+      "answer": "BMP-2"
+    },
+    {
+      "question": "What does UAV stand for?",
+      "option1": "Unmanned Aerial Vehicle",
+      "option2": "Universal Army Vehicle",
+      "option3": "United Air Vessel",
+      "option4": "Unarmed Aviation Vehicle",
+      "answer": "Unmanned Aerial Vehicle"
+    },
+    {
+      "question": "Which equipment is commonly used by soldiers for protection from enemy fire?",
+      "option1": "Bulletproof vest",
+      "option2": "Parachute",
+      "option3": "Compass only",
+      "option4": "Binoculars",
+      "answer": "Bulletproof vest"
+    },
+    {
+      "question": "Which device is primarily used to determine direction during field operations?",
+      "option1": "Compass",
+      "option2": "Thermometer",
+      "option3": "Barometer",
+      "option4": "Altimeter",
+      "answer": "Compass"
+    },
+    {
+      "question": "Which instrument is used to observe distant objects in military operations?",
+      "option1": "Binoculars",
+      "option2": "Barometer",
+      "option3": "Ammeter",
+      "option4": "Hygrometer",
+      "answer": "Binoculars"
+    },
+    {
+      "question": "Which type of terrain is found at Siachen Glacier?",
+      "option1": "High-altitude mountainous terrain",
+      "option2": "Desert plain",
+      "option3": "Tropical rainforest",
+      "option4": "Coastal plain",
+      "answer": "High-altitude mountainous terrain"
+    },
+    {
+      "question": "Which Indian state shares a long international border with China and is strategically important to the Indian Army?",
+      "option1": "Arunachal Pradesh",
+      "option2": "Goa",
+      "option3": "Kerala",
+      "option4": "Odisha",
+      "answer": "Arunachal Pradesh"
+    },
+    {
+      "question": "Which mountain pass is located in Ladakh and is strategically important?",
+      "option1": "Khardung La",
+      "option2": "Nathu La",
+      "option3": "Bhor Ghat",
+      "option4": "Palghat Gap",
+      "answer": "Khardung La"
+    },
+    {
+      "question": "Nathu La pass is located in which Indian state?",
+      "option1": "Sikkim",
+      "option2": "Himachal Pradesh",
+      "option3": "Uttarakhand",
+      "option4": "Arunachal Pradesh",
+      "answer": "Sikkim"
+    },
+    {
+      "question": "Which river is known as the Indus and flows through the Ladakh region?",
+      "option1": "Indus",
+      "option2": "Godavari",
+      "option3": "Narmada",
+      "option4": "Mahanadi",
+      "answer": "Indus"
+    },
+    {
+      "question": "Which desert is located in western India and is relevant to military operations along India's western border?",
+      "option1": "Thar Desert",
+      "option2": "Gobi Desert",
+      "option3": "Sahara Desert",
+      "option4": "Kalahari Desert",
+      "answer": "Thar Desert"
+    },
+    {
+      "question": "Which Indian state contains a large part of the Thar Desert?",
+      "option1": "Rajasthan",
+      "option2": "Punjab",
+      "option3": "Bihar",
+      "option4": "Assam",
+      "answer": "Rajasthan"
+    },
+    {
+      "question": "Which force is commonly known as India's oldest paramilitary force and operates under the Ministry of Home Affairs?",
+      "option1": "Assam Rifles",
+      "option2": "Indian Army",
+      "option3": "Indian Navy",
+      "option4": "Indian Air Force",
+      "answer": "Assam Rifles"
+    },
+    {
+      "question": "What is the full form of NCC?",
+      "option1": "National Cadet Corps",
+      "option2": "National Command Corps",
+      "option3": "National Civil Corps",
+      "option4": "National Combat Cadre",
+      "answer": "National Cadet Corps"
+    },
+    {
+      "question": "The NCC was established in which year?",
+      "option1": "1948",
+      "option2": "1950",
+      "option3": "1947",
+      "option4": "1962",
+      "answer": "1948"
+    },
+    {
+      "question": "Which day is observed as Vijay Diwas in India?",
+      "option1": "16 December",
+      "option2": "15 January",
+      "option3": "26 July",
+      "option4": "4 December",
+      "answer": "16 December"
+    },
+    {
+      "question": "Kargil Vijay Diwas is observed on which date?",
+      "option1": "26 July",
+      "option2": "15 August",
+      "option3": "16 December",
+      "option4": "26 January",
+      "answer": "26 July"
+    },
+    {
+      "question": "Which Indian Army operation was launched during the 1961 liberation of Goa?",
+      "option1": "Operation Vijay",
+      "option2": "Operation Meghdoot",
+      "option3": "Operation Pawan",
+      "option4": "Operation Cactus",
+      "answer": "Operation Vijay"
+    },
+    {
+      "question": "The 1962 war was fought between India and which country?",
+      "option1": "China",
+      "option2": "Pakistan",
+      "option3": "Nepal",
+      "option4": "Myanmar",
+      "answer": "China"
+    },
+    {
+      "question": "Which Indian Army operation was launched in the Siachen Glacier region in 1984?",
+      "option1": "Operation Meghdoot",
+      "option2": "Operation Vijay",
+      "option3": "Operation Pawan",
+      "option4": "Operation Rakshak",
+      "answer": "Operation Meghdoot"
+    },
+    {
+      "question": "Which operation was associated with counter-insurgency activities in Jammu and Kashmir?",
+      "option1": "Operation Rakshak",
+      "option2": "Operation Polo",
+      "option3": "Operation Cactus",
+      "option4": "Operation Vijay",
+      "answer": "Operation Rakshak"
+    },
+    {
+      "question": "Which Indian Army unit is popularly known for its service in high-altitude areas and includes Gorkha soldiers?",
+      "option1": "Gorkha Rifles",
+      "option2": "Sikh Regiment",
+      "option3": "Rajput Regiment",
+      "option4": "Jat Regiment",
+      "answer": "Gorkha Rifles"
+    },
+    {
+      "question": "What is the traditional weapon associated with Gorkha soldiers?",
+      "option1": "Khukri",
+      "option2": "Spear",
+      "option3": "Bow",
+      "option4": "Mace",
+      "answer": "Khukri"
+    },
+    {
+      "question": "Which regiment is associated with the Maratha community?",
+      "option1": "Maratha Light Infantry",
+      "option2": "Sikh Regiment",
+      "option3": "Rajput Regiment",
+      "option4": "Dogra Regiment",
+      "answer": "Maratha Light Infantry"
+    },
+    {
+      "question": "Which regiment is one of the oldest infantry regiments of the Indian Army?",
+      "option1": "Rajput Regiment",
+      "option2": "Mechanised Infantry",
+      "option3": "Parachute Regiment",
+      "option4": "Brigade of the Guards",
+      "answer": "Rajput Regiment"
+    },
+    {
+      "question": "Which regiment is specially trained for airborne operations?",
+      "option1": "Parachute Regiment",
+      "option2": "Army Service Corps",
+      "option3": "Army Ordnance Corps",
+      "option4": "Corps of Signals",
+      "answer": "Parachute Regiment"
+    },
+    {
+      "question": "Which elite unit of the Indian Army is known for special operations?",
+      "option1": "Para Special Forces",
+      "option2": "Army Service Corps",
+      "option3": "Army Medical Corps",
+      "option4": "Corps of Engineers",
+      "answer": "Para Special Forces"
+    },
+    {
+      "question": "What does the term 'infantry' primarily refer to?",
+      "option1": "Soldiers who fight primarily on foot",
+      "option2": "Military doctors",
+      "option3": "Military engineers only",
+      "option4": "Military pilots",
+      "answer": "Soldiers who fight primarily on foot"
+    },
+    {
+      "question": "What is the primary role of artillery in the Indian Army?",
+      "option1": "Providing long-range fire support",
+      "option2": "Providing medical treatment",
+      "option3": "Transporting soldiers by sea",
+      "option4": "Managing military communications only",
+      "answer": "Providing long-range fire support"
+    },
+    {
+      "question": "Which arm primarily operates tanks?",
+      "option1": "Armoured Corps",
+      "option2": "Infantry",
+      "option3": "Army Medical Corps",
+      "option4": "Corps of Signals",
+      "answer": "Armoured Corps"
+    },
+    {
+      "question": "Which corps constructs bridges and provides engineering support during military operations?",
+      "option1": "Corps of Engineers",
+      "option2": "Corps of Signals",
+      "option3": "Army Medical Corps",
+      "option4": "Army Service Corps",
+      "answer": "Corps of Engineers"
+    },
+    {
+      "question": "Which corps is responsible for maintaining communication systems within the Army?",
+      "option1": "Corps of Signals",
+      "option2": "Corps of Engineers",
+      "option3": "Armoured Corps",
+      "option4": "Army Ordnance Corps",
+      "answer": "Corps of Signals"
+    },
+    {
+      "question": "Which corps provides transport and logistical support to Army units?",
+      "option1": "Army Service Corps",
+      "option2": "Army Medical Corps",
+      "option3": "Corps of Signals",
+      "option4": "Armoured Corps",
+      "answer": "Army Service Corps"
+    },
+    {
+      "question": "Which organization manufactures many defence systems for India's armed forces under the Ministry of Defence?",
+      "option1": "Defence Public Sector Undertakings",
+      "option2": "Reserve Bank of India",
+      "option3": "Election Commission of India",
+      "option4": "University Grants Commission",
+      "answer": "Defence Public Sector Undertakings"
+    },
+    {
+      "question": "Which Indian organization is responsible for the development of military technologies and systems?",
+      "option1": "DRDO",
+      "option2": "ISRO",
+      "option3": "UIDAI",
+      "option4": "NPCI",
+      "answer": "DRDO"
+    },
+    {
+      "question": "Which missile has been developed as an anti-tank guided missile by India?",
+      "option1": "Nag",
+      "option2": "Agni",
+      "option3": "Prithvi",
+      "option4": "Akash",
+      "answer": "Nag"
+    },
+    {
+      "question": "Which Indian missile family is primarily associated with ballistic missiles of different ranges?",
+      "option1": "Agni",
+      "option2": "BrahMos",
+      "option3": "Astra",
+      "option4": "Nag",
+      "answer": "Agni"
+    },
+    {
+      "question": "What type of missile is the Nag?",
+      "option1": "Anti-tank guided missile",
+      "option2": "Surface-to-air missile",
+      "option3": "Intercontinental ballistic missile",
+      "option4": "Anti-ship cruise missile",
+      "answer": "Anti-tank guided missile"
+    },
+    {
+      "question": "Which Indian Army tank is named after the Sanskrit word meaning 'fire'?",
+      "option1": "Arjun",
+      "option2": "T-90",
+      "option3": "T-72",
+      "option4": "Vijayanta",
+      "answer": "Arjun"
+    },
+    {
+      "question": "Which Indian Army tank was developed indigenously by the Defence Research and Development Organisation?",
+      "option1": "Arjun",
+      "option2": "T-72",
+      "option3": "T-90",
+      "option4": "BMP-2",
+      "answer": "Arjun"
+    },
+    {
+      "question": "Which military exercise is conducted between India and the United States and involves their armies?",
+      "option1": "Yudh Abhyas",
+      "option2": "Malabar",
+      "option3": "Varuna",
+      "option4": "Garuda",
+      "answer": "Yudh Abhyas"
+    },
+    {
+      "question": "Yudh Abhyas is primarily a joint military exercise between India and which country?",
+      "option1": "United States",
+      "option2": "France",
+      "option3": "Russia",
+      "option4": "Japan",
+      "answer": "United States"
+    },
+    {
+      "question": "Which military exercise is conducted between the Indian and French armies?",
+      "option1": "Shakti",
+      "option2": "Yudh Abhyas",
+      "option3": "Indra",
+      "option4": "Surya Kiran",
+      "answer": "Shakti"
+    },
+    {
+      "question": "Exercise Indra is conducted between India and which country?",
+      "option1": "Russia",
+      "option2": "United States",
+      "option3": "France",
+      "option4": "Australia",
+      "answer": "Russia"
+    },
+    {
+      "question": "Exercise Dharma Guardian is conducted between India and which country?",
+      "option1": "Japan",
+      "option2": "France",
+      "option3": "Russia",
+      "option4": "Nepal",
+      "answer": "Japan"
+    },
+    {
+      "question": "Exercise Surya Kiran is conducted between the armies of India and which country?",
+      "option1": "Nepal",
+      "option2": "Bhutan",
+      "option3": "Bangladesh",
+      "option4": "Sri Lanka",
+      "answer": "Nepal"
+    },
+    {
+      "question": "Which exercise is associated with India and Australia?",
+      "option1": "AustraHind",
+      "option2": "Shakti",
+      "option3": "Dharma Guardian",
+      "option4": "Yudh Abhyas",
+      "answer": "AustraHind"
+    },
+    {
+      "question": "What is the main purpose of joint military exercises?",
+      "option1": "Improving interoperability and cooperation",
+      "option2": "Increasing commercial trade",
+      "option3": "Conducting elections",
+      "option4": "Managing civilian transport",
+      "answer": "Improving interoperability and cooperation"
+    },
+    {
+      "question": "Which terrain is commonly associated with mountain warfare training?",
+      "option1": "High-altitude mountainous terrain",
+      "option2": "Open ocean",
+      "option3": "Deep sea",
+      "option4": "Large urban airports",
+      "answer": "High-altitude mountainous terrain"
+    },
+    {
+      "question": "Which type of training is especially important for soldiers deployed in desert regions?",
+      "option1": "Desert warfare training",
+      "option2": "Underwater diving only",
+      "option3": "Naval navigation",
+      "option4": "Aircraft maintenance",
+      "answer": "Desert warfare training"
+    },
+    {
+      "question": "Which medal is awarded for distinguished service of an exceptional order in the Indian Armed Forces?",
+      "option1": "Param Vishisht Seva Medal",
+      "option2": "Vir Chakra",
+      "option3": "Kirti Chakra",
+      "option4": "Ashoka Chakra",
+      "answer": "Param Vishisht Seva Medal"
+    },
+    {
+      "question": "Which award is given for acts of gallantry during peacetime?",
+      "option1": "Kirti Chakra",
+      "option2": "Maha Vir Chakra",
+      "option3": "Vir Chakra",
+      "option4": "Param Vir Chakra",
+      "answer": "Kirti Chakra"
+    },
+    {
+      "question": "Which award is given for gallantry in peacetime and ranks below Kirti Chakra?",
+      "option1": "Shaurya Chakra",
+      "option2": "Vir Chakra",
+      "option3": "Maha Vir Chakra",
+      "option4": "Param Vir Chakra",
+      "answer": "Shaurya Chakra"
+    },
+    {
+      "question": "What is the highest rank that can be awarded in the Indian Army as an honorary five-star rank?",
+      "option1": "Field Marshal",
+      "option2": "General",
+      "option3": "Lieutenant General",
+      "option4": "Colonel",
+      "answer": "Field Marshal"
+    },
+    {
+      "question": "How many five-star officers have held the rank of Field Marshal in the Indian Army?",
+      "option1": "Two",
+      "option2": "Three",
+      "option3": "Four",
+      "option4": "Five",
+      "answer": "Two"
+    },
+    {
+      "question": "Who was the second Indian Army officer to be promoted to the rank of Field Marshal?",
+      "option1": "Sam Manekshaw",
+      "option2": "K. M. Cariappa",
+      "option3": "Bipin Rawat",
+      "option4": "J. N. Chaudhuri",
+      "answer": "Sam Manekshaw"
+    },
+    {
+      "question": "Who was the first Field Marshal of independent India?",
+      "option1": "K. M. Cariappa",
+      "option2": "Sam Manekshaw",
+      "option3": "J. N. Chaudhuri",
+      "option4": "Rajendrasinhji",
+      "answer": "K. M. Cariappa"
+    },
+    {
+      "question": "Which military training institution is located in Mhow, Madhya Pradesh?",
+      "option1": "Army War College",
+      "option2": "Indian Military Academy",
+      "option3": "National Defence Academy",
+      "option4": "Officers Training Academy",
+      "answer": "Army War College"
+    },
+    {
+      "question": "Which institution trains officers for higher-level military leadership and warfare studies?",
+      "option1": "Army War College",
+      "option2": "National Cadet Corps",
+      "option3": "Indian Military Academy",
+      "option4": "Army Public School",
+      "answer": "Army War College"
+    },
+    {
+      "question": "What does JCO stand for in the Indian Army?",
+      "option1": "Junior Commissioned Officer",
+      "option2": "Joint Command Officer",
+      "option3": "Junior Combat Operator",
+      "option4": "Joint Commissioned Organisation",
+      "answer": "Junior Commissioned Officer"
+    },
+    {
+      "question": "Which of the following is a Junior Commissioned Officer rank?",
+      "option1": "Subedar",
+      "option2": "Captain",
+      "option3": "Colonel",
+      "option4": "Brigadier",
+      "answer": "Subedar"
+    },
+    {
+      "question": "Which rank is above Naib Subedar in the Junior Commissioned Officer hierarchy?",
+      "option1": "Subedar",
+      "option2": "Havildar",
+      "option3": "Naik",
+      "option4": "Sepoy",
+      "answer": "Subedar"
+    },
+    {
+      "question": "Which rank is above Subedar in the Junior Commissioned Officer hierarchy?",
+      "option1": "Subedar Major",
+      "option2": "Havildar",
+      "option3": "Naik",
+      "option4": "Sepoy",
+      "answer": "Subedar Major"
+    },
+    {
+      "question": "Which is the basic rank of a soldier in the Indian Army infantry?",
+      "option1": "Sepoy",
+      "option2": "Havildar",
+      "option3": "Naik",
+      "option4": "Subedar",
+      "answer": "Sepoy"
+    },
+    {
+      "question": "Which rank is above Naik and below Naib Subedar?",
+      "option1": "Havildar",
+      "option2": "Sepoy",
+      "option3": "Subedar",
+      "option4": "Major",
+      "answer": "Havildar"
+    },
+    {
+      "question": "Which organization is responsible for manufacturing many military vehicles and equipment in India?",
+      "option1": "Armoured Vehicles Nigam Limited",
+      "option2": "LIC",
+      "option3": "BHEL",
+      "option4": "HAL only",
+      "answer": "Armoured Vehicles Nigam Limited"
+    },
+    {
+      "question": "Which Indian organization is responsible for producing many small arms and ammunition for the armed forces?",
+      "option1": "Munitions India Limited",
+      "option2": "ISRO",
+      "option3": "ONGC",
+      "option4": "SAIL",
+      "answer": "Munitions India Limited"
+    },
+    {
+      "question": "Which Indian defence company produces the Arjun main battle tank?",
+      "option1": "Heavy Vehicles Factory",
+      "option2": "Bharat Electronics Limited",
+      "option3": "Hindustan Aeronautics Limited",
+      "option4": "Garden Reach Shipbuilders",
+      "answer": "Heavy Vehicles Factory"
+    },
+    {
+      "question": "Which organization is known for developing advanced electronic systems for the Indian Armed Forces?",
+      "option1": "Bharat Electronics Limited",
+      "option2": "Indian Railways",
+      "option3": "Bharat Petroleum",
+      "option4": "Coal India",
+      "answer": "Bharat Electronics Limited"
+    },
+    {
+      "question": "What does BEL stand for?",
+      "option1": "Bharat Electronics Limited",
+      "option2": "Bharat Engineering Limited",
+      "option3": "Board of Electronic Logistics",
+      "option4": "Bharat Equipment Laboratory",
+      "answer": "Bharat Electronics Limited"
+    },
+    {
+      "question": "Which Indian Army branch is responsible for military intelligence?",
+      "option1": "Military Intelligence",
+      "option2": "Army Medical Corps",
+      "option3": "Army Service Corps",
+      "option4": "Corps of Engineers",
+      "answer": "Military Intelligence"
+    },
+    {
+      "question": "What is the main purpose of military intelligence?",
+      "option1": "Collecting and analysing information relevant to military operations",
+      "option2": "Providing civilian banking services",
+      "option3": "Managing railway tickets",
+      "option4": "Operating commercial airports",
+      "answer": "Collecting and analysing information relevant to military operations"
+    },
+    {
+      "question": "Which communication system is essential for secure military coordination?",
+      "option1": "Military radio communication",
+      "option2": "Public television",
+      "option3": "Cinema broadcasting",
+      "option4": "Postal advertising",
+      "answer": "Military radio communication"
+    },
+    {
+      "question": "Which technology can help soldiers identify objects and people in low-light conditions?",
+      "option1": "Night vision technology",
+      "option2": "Barometer",
+      "option3": "Rain gauge",
+      "option4": "Seismograph",
+      "answer": "Night vision technology"
+    },
+    {
+      "question": "Which technology detects heat emitted by objects and is useful for surveillance?",
+      "option1": "Thermal imaging",
+      "option2": "Optical microscope",
+      "option3": "Hydrometer",
+      "option4": "Rain gauge",
+      "answer": "Thermal imaging"
+    },
+    {
+      "question": "What is the main purpose of camouflage in military operations?",
+      "option1": "To conceal personnel and equipment",
+      "option2": "To increase vehicle speed",
+      "option3": "To improve radio range",
+      "option4": "To provide medical treatment",
+      "answer": "To conceal personnel and equipment"
+    },
+    {
+      "question": "Which principle is important when moving through a battlefield?",
+      "option1": "Use of cover and concealment",
+      "option2": "Avoiding all communication",
+      "option3": "Moving only in open areas",
+      "option4": "Ignoring terrain",
+      "answer": "Use of cover and concealment"
+    },
+    {
+      "question": "What is the main purpose of a military map?",
+      "option1": "To represent terrain and important geographical features",
+      "option2": "To record salaries",
+      "option3": "To store medical records",
+      "option4": "To issue identity cards",
+      "answer": "To represent terrain and important geographical features"
+    },
+    {
+      "question": "Which instrument is commonly used to determine elevation?",
+      "option1": "Altimeter",
+      "option2": "Ammeter",
+      "option3": "Thermometer",
+      "option4": "Voltmeter",
+      "answer": "Altimeter"
+    },
+    {
+      "question": "Which natural feature provides a significant defensive advantage in mountainous warfare?",
+      "option1": "High ground",
+      "option2": "Open flat field",
+      "option3": "Low-lying swamp only",
+      "option4": "Beach",
+      "answer": "High ground"
+    },
+    {
+      "question": "Which river is one of the major rivers flowing through Jammu and Kashmir?",
+      "option1": "Jhelum",
+      "option2": "Kaveri",
+      "option3": "Mahanadi",
+      "option4": "Tapi",
+      "answer": "Jhelum"
+    },
+    {
+      "question": "Which river flows through the Ladakh region and is a major tributary system of the Indus?",
+      "option1": "Shyok",
+      "option2": "Yamuna",
+      "option3": "Kaveri",
+      "option4": "Tungabhadra",
+      "answer": "Shyok"
+    },
+    {
+      "question": "Which Indian state is known for the Tawang region, strategically important in the eastern Himalayas?",
+      "option1": "Arunachal Pradesh",
+      "option2": "Rajasthan",
+      "option3": "Gujarat",
+      "option4": "Tamil Nadu",
+      "answer": "Arunachal Pradesh"
+    },
+    {
+      "question": "Which pass connects the Kashmir Valley with the Ladakh region?",
+      "option1": "Zoji La",
+      "option2": "Nathu La",
+      "option3": "Bhor Ghat",
+      "option4": "Palghat Gap",
+      "answer": "Zoji La"
+    },
+    {
+      "question": "Zoji La is located in which region?",
+      "option1": "Ladakh and Jammu and Kashmir region",
+      "option2": "Kerala",
+      "option3": "Rajasthan",
+      "option4": "Tamil Nadu",
+      "answer": "Ladakh and Jammu and Kashmir region"
+    },
+    {
+      "question": "Which mountain range forms a major part of India's northern natural defence?",
+      "option1": "Himalayas",
+      "option2": "Aravallis",
+      "option3": "Satpuras",
+      "option4": "Eastern Ghats",
+      "answer": "Himalayas"
+    },
+    {
+      "question": "Which is India's highest mountain peak located entirely within India?",
+      "option1": "Kangchenjunga",
+      "option2": "Nanda Devi",
+      "option3": "Anamudi",
+      "option4": "Guru Shikhar",
+      "answer": "Kangchenjunga"
+    },
+    {
+      "question": "Which Indian Army operation helped evacuate civilians during the 2013 Uttarakhand floods?",
+      "option1": "Operation Rahat",
+      "option2": "Operation Vijay",
+      "option3": "Operation Polo",
+      "option4": "Operation Meghdoot",
+      "answer": "Operation Rahat"
+    },
+    {
+      "question": "Which military capability involves providing assistance during natural disasters?",
+      "option1": "Humanitarian assistance and disaster relief",
+      "option2": "Only armoured warfare",
+      "option3": "Only artillery training",
+      "option4": "Only border patrolling",
+      "answer": "Humanitarian assistance and disaster relief"
+    },
+    {
+      "question": "Which quality is particularly important for a soldier working as part of a military unit?",
+      "option1": "Teamwork",
+      "option2": "Carelessness",
+      "option3": "Indiscipline",
+      "option4": "Ignoring orders",
+      "answer": "Teamwork"
+    },
+    {
+      "question": "Which day is observed as Armed Forces Flag Day in India?",
+      "option1": "7 December",
+      "option2": "15 January",
+      "option3": "26 July",
+      "option4": "16 December",
+      "answer": "7 December"
+    },
+    {
+      "question": "What is the main purpose of Armed Forces Flag Day?",
+      "option1": "To honour armed forces personnel and support their welfare",
+      "option2": "To celebrate the Republic of India",
+      "option3": "To mark the start of the monsoon",
+      "option4": "To commemorate the formation of the Indian Army",
+      "answer": "To honour armed forces personnel and support their welfare"
+    },
+    {
+      "question": "Which organization looks after the welfare and rehabilitation of ex-servicemen under the Ministry of Defence?",
+      "option1": "Department of Ex-Servicemen Welfare",
+      "option2": "Ministry of Railways",
+      "option3": "Ministry of Agriculture",
+      "option4": "Ministry of Commerce",
+      "answer": "Department of Ex-Servicemen Welfare"
+    },
+    {
+      "question": "What does ECHS stand for?",
+      "option1": "Ex-Servicemen Contributory Health Scheme",
+      "option2": "Ex-Servicemen Central Housing Scheme",
+      "option3": "Emergency Care Health Service",
+      "option4": "Ex-Combatant Health Support",
+      "answer": "Ex-Servicemen Contributory Health Scheme"
+    },
+    {
+      "question": "The National War Memorial is located in which city?",
+      "option1": "New Delhi",
+      "option2": "Mumbai",
+      "option3": "Pune",
+      "option4": "Lucknow",
+      "answer": "New Delhi"
+    },
+    {
+      "question": "The National War Memorial honours Indian soldiers who made sacrifices in:",
+      "option1": "Various wars and military operations",
+      "option2": "Only the Kargil War",
+      "option3": "Only World War II",
+      "option4": "Only the 1971 war",
+      "answer": "Various wars and military operations"
+    },
+    {
+      "question": "Which memorial in New Delhi was originally built to commemorate Indian soldiers who died in World War I and other conflicts?",
+      "option1": "India Gate",
+      "option2": "National War Memorial",
+      "option3": "Vijay Chowk",
+      "option4": "Red Fort",
+      "answer": "India Gate"
+    },
+    {
+      "question": "Which military decoration is awarded for the highest degree of valour or self-sacrifice in the presence of the enemy?",
+      "option1": "Param Vir Chakra",
+      "option2": "Ashoka Chakra",
+      "option3": "Kirti Chakra",
+      "option4": "Shaurya Chakra",
+      "answer": "Param Vir Chakra"
+    },
+    {
+      "question": "Which military decoration can be awarded for bravery either in the presence or absence of the enemy during peacetime?",
+      "option1": "Ashoka Chakra",
+      "option2": "Vir Chakra",
+      "option3": "Maha Vir Chakra",
+      "option4": "Param Vir Chakra",
+      "answer": "Ashoka Chakra"
+    },
+    {
+      "question": "Who was the first recipient of the Param Vir Chakra?",
+      "option1": "Major Somnath Sharma",
+      "option2": "Captain Vikram Batra",
+      "option3": "Major Shaitan Singh",
+      "option4": "Subedar Joginder Singh",
+      "answer": "Major Somnath Sharma"
+    },
+    {
+      "question": "Captain Vikram Batra was awarded which gallantry award for his actions during the Kargil War?",
+      "option1": "Param Vir Chakra",
+      "option2": "Maha Vir Chakra",
+      "option3": "Vir Chakra",
+      "option4": "Ashoka Chakra",
+      "answer": "Param Vir Chakra"
+    },
+    {
+      "question": "Which famous phrase is associated with Captain Vikram Batra?",
+      "option1": "Yeh Dil Maange More",
+      "option2": "Jai Hind",
+      "option3": "Vande Mataram",
+      "option4": "Jai Jawan Jai Kisan",
+      "answer": "Yeh Dil Maange More"
+    },
+    {
+      "question": "Major Somnath Sharma received the Param Vir Chakra for his actions during which conflict?",
+      "option1": "Indo-Pakistani War of 1947–48",
+      "option2": "Kargil War",
+      "option3": "Indo-Pakistani War of 1971",
+      "option4": "Sino-Indian War of 1962",
+      "answer": "Indo-Pakistani War of 1947–48"
+    },
+    {
+      "question": "Which Indian Army officer was awarded the Param Vir Chakra for the Battle of Rezang La?",
+      "option1": "Major Shaitan Singh",
+      "option2": "Major Somnath Sharma",
+      "option3": "Captain Vikram Batra",
+      "option4": "Subedar Joginder Singh",
+      "answer": "Major Shaitan Singh"
+    },
+    {
+      "question": "Subedar Joginder Singh was awarded the Param Vir Chakra for his actions during which war?",
+      "option1": "Sino-Indian War of 1962",
+      "option2": "Kargil War",
+      "option3": "Indo-Pakistani War of 1971",
+      "option4": "Indo-Pakistani War of 1965",
+      "answer": "Sino-Indian War of 1962"
+    },
+    {
+      "question": "Which force provides armed support and assistance to civil authorities during emergencies when required?",
+      "option1": "Indian Armed Forces",
+      "option2": "Election Commission",
+      "option3": "Reserve Bank of India",
+      "option4": "Postal Department",
+      "answer": "Indian Armed Forces"
+    },
+    {
+      "question": "Which quality is essential for maintaining discipline in the armed forces?",
+      "option1": "Obedience to lawful orders",
+      "option2": "Ignoring instructions",
+      "option3": "Avoiding teamwork",
+      "option4": "Disregarding rules",
+      "answer": "Obedience to lawful orders"
+    },
+    {
+      "question": "What does the term 'martial law' generally refer to?",
+      "option1": "Military authority exercising control over civilian administration under exceptional circumstances",
+      "option2": "A routine military parade",
+      "option3": "A military training exercise",
+      "option4": "A defence recruitment examination",
+      "answer": "Military authority exercising control over civilian administration under exceptional circumstances"
+    },
+    {
+      "question": "Which document lays down the fundamental framework of government and citizens' rights in India?",
+      "option1": "Constitution of India",
+      "option2": "Indian Penal Code",
+      "option3": "Finance Act",
+      "option4": "Defence Manual",
+      "answer": "Constitution of India"
+    },
+    {
+      "question": "Who is the constitutional head and Supreme Commander of India's Armed Forces?",
+      "option1": "President of India",
+      "option2": "Prime Minister of India",
+      "option3": "Defence Minister",
+      "option4": "Chief of Army Staff",
+      "answer": "President of India"
+    },
+    {
+      "question": "Which branch of the armed forces is primarily responsible for land-based military operations?",
+      "option1": "Indian Army",
+      "option2": "Indian Navy",
+      "option3": "Indian Air Force",
+      "option4": "Indian Coast Guard",
+      "answer": "Indian Army"
+    },
+    {
+      "question": "Which branch is primarily responsible for maritime military operations?",
+      "option1": "Indian Navy",
+      "option2": "Indian Army",
+      "option3": "Indian Air Force",
+      "option4": "Territorial Army",
+      "answer": "Indian Navy"
+    },
+    {
+      "question": "Which branch is primarily responsible for aerial warfare and air defence?",
+      "option1": "Indian Air Force",
+      "option2": "Indian Army",
+      "option3": "Indian Navy",
+      "option4": "Border Security Force",
+      "answer": "Indian Air Force"
+    },
+    {
+      "question": "Which reserve component allows civilians to serve part-time in the Indian Army while continuing their civilian careers?",
+      "option1": "Territorial Army",
+      "option2": "National Cadet Corps",
+      "option3": "Central Reserve Police Force",
+      "option4": "Border Security Force",
+      "answer": "Territorial Army"
+    },
+    {
+      "question": "What is the primary purpose of the Territorial Army?",
+      "option1": "To provide supplementary support to the regular Army when required",
+      "option2": "To operate commercial airlines",
+      "option3": "To manage India's railway network",
+      "option4": "To conduct naval operations",
+      "answer": "To provide supplementary support to the regular Army when required"
+    }
+  ]
+}
