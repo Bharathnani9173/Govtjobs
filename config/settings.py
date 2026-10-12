@@ -34,16 +34,17 @@ DEBUG = os.environ.get("DEBUG", "True") == "True"
 # ALLOWED HOSTS
 # ============================================================
 
+
 ALLOWED_HOSTS = [
     "127.0.0.1",
     "localhost",
-    "Govtjobs-iguc.onrender.com",
+    "govtjobs-x6jz.onrender.com",
     "govtjobshub.in",
     "www.govtjobshub.in",
 ]
 
 render_hostname = os.environ.get("RENDER_EXTERNAL_HOSTNAME")
-if render_hostname:
+if render_hostname and render_hostname not in ALLOWED_HOSTS:
     ALLOWED_HOSTS.append(render_hostname)
 
 
@@ -52,7 +53,7 @@ if render_hostname:
 # ============================================================
 
 CSRF_TRUSTED_ORIGINS = [
-    "https://Govtjobs-iguc.onrender.com",
+    "https://govtjobs-x6jz.onrender.com",
     "https://govtjobshub.in",
     "https://www.govtjobshub.in",
 ]
