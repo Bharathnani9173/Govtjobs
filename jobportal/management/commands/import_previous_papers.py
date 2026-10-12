@@ -14,14 +14,25 @@ class Command(BaseCommand):
         fixture_path = Path.cwd() / "previous_papers_export.json"
 
         if not fixture_path.exists():
-            raise CommandError(f"Export file not found: {fixture_path}")
+            raise CommandError(
+                f"Export file not found: {fixture_path}"
+            )
 
-        with fixture_path.open(encoding="utf-8") as file:
-            records = json.load(file)
+        try:
+            with fixture_path.open(encoding="utf-8") as file:
+                records = json.load(file)
+        except (OSError, json.JSONDecodeError) as exc:
+            raise CommandError(
+                f"Could not read export file: {exc}"
+            ) from exc
 
-        PreviousPaper = apps.get_model("jobportal", "PreviousPaper")
+        PreviousPaper = apps.get_model(
+            "jobportal", "PreviousPaper"
+        )
+
         created = 0
         skipped = 0
+        failed = 0
 
         with transaction.atomic():
             for record in records:
@@ -34,47 +45,66 @@ class Command(BaseCommand):
                     skipped += 1
                     continue
 
-                objects = serializers.deserialize(
-                    "json",
-                    json.dumps([record]),
-                    ignorenonexistent=True,
-                )
+                try:
+                    objects = serializers.deserialize(
+                        "json",
+                        json.dumps([record]),
+                        ignorenonexistent=True,
+                    )
 
-                for obj in objects:
-                    paper = obj.object
-                    missing_relation = False
+                    for obj in objects:
+                        paper = obj.object
+                        missing_relation = False
 
-                    for field in paper._meta.fields:
-                        if not field.is_relation or field.null:
-                            continue
+                        # Check foreign-key references before saving.
+                        for field in paper._meta.fields:
+                            if not field.is_relation:
+                                continue
 
-                        related_id = getattr(paper, field.attname, None)
+                            if field.null:
+                                continue
 
-                        if related_id is None:
-                            continue
-
-                        related_model = field.remote_field.model
-
-                        if not related_model.objects.filter(
-                            pk=related_id
-                        ).exists():
-                            self.stdout.write(
-                                f"Skipping paper {paper.pk}: "
-                                f"missing {field.name} ID {related_id}"
+                            related_id = getattr(
+                                paper, field.attname, None
                             )
-                            missing_relation = True
-                            break
 
-                    if missing_relation:
-                        skipped += 1
-                        continue
+                            if related_id is None:
+                                continue
 
-                    obj.save()
-                    created += 1
+                            related_model = field.remote_field.model
+
+                            if not related_model.objects.filter(
+                                pk=related_id
+                            ).exists():
+                                self.stdout.write(
+                                    self.style.WARNING(
+                                        f"Skipping paper {pk}: "
+                                        f"missing {field.name} "
+                                        f"ID {related_id}"
+                                    )
+                                )
+                                missing_relation = True
+                                break
+
+                        if missing_relation:
+                            skipped += 1
+                            continue
+
+                        obj.save()
+                        created += 1
+
+                except Exception as exc:
+                    # Keep the import running if one record fails.
+                    failed += 1
+                    self.stdout.write(
+                        self.style.ERROR(
+                            f"Failed to import paper {pk}: {exc}"
+                        )
+                    )
 
         self.stdout.write(
             self.style.SUCCESS(
-                f"Import complete. Created: {created}, "
-                f"Skipped: {skipped}"
+                f"Import finished. Created: {created}, "
+                f"Skipped: {skipped}, Failed: {failed}"
             )
         )
