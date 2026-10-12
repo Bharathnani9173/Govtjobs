@@ -1,0 +1,1294 @@
+[
+{
+  "model": "jobportal.previouspaper",
+  "pk": 7,
+  "fields": {
+    "job": 351,
+    "exam": 25,
+    "exam_name": "TGPSC GROUP 1",
+    "paper_name": "TGPSC Group 1 Prelims 2022",
+    "category": "Other",
+    "year": 2022,
+    "subject": "General Studies & General Mental Ability",
+    "exam_date": "2022-10-16",
+    "pdf": "previous_papers/2026/09/E_T_MASTER_ORIGINAL20221029175343.pdf",
+    "pdf_link": "",
+    "official_link": "https://www.tgpsc.gov.in/",
+    "description": "TGPSC Group 1 Preliminary Examination 2022 question paper",
+    "created_at": "2026-09-26T17:41:12.145Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 8,
+  "fields": {
+    "job": 301,
+    "exam": 25,
+    "exam_name": "TGPSC Group 1 Mains2016",
+    "paper_name": "Previous Year Paper",
+    "category": "Other",
+    "year": 2016,
+    "subject": "History, Culture and Geography",
+    "exam_date": "2016-10-12",
+    "pdf": "previous_papers/2026/09/TSPSC-GROUP-1-Mains-2016-Paper-2-History-and-Indian-Constitution_JJnULbD.pdf",
+    "pdf_link": "",
+    "official_link": "https://www.tgpsc.gov.in/",
+    "description": "TGPSC GROUP 1 MAINS PAPER-2 HISTORY",
+    "created_at": "2026-09-26T17:50:31.742Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 9,
+  "fields": {
+    "job": 301,
+    "exam": 25,
+    "exam_name": "TGPSC Group 1 Mains 2016 – Economy & Development",
+    "paper_name": "Previous Year Paper",
+    "category": "Other",
+    "year": 2016,
+    "subject": "Economy & Development",
+    "exam_date": null,
+    "pdf": "previous_papers/2026/09/8f9bf5ea1cd7ef71bf236bf50867db23.pdf",
+    "pdf_link": "",
+    "official_link": "https://www.tgpsc.gov.in/",
+    "description": "",
+    "created_at": "2026-09-26T17:54:58.299Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 10,
+  "fields": {
+    "job": 301,
+    "exam": 25,
+    "exam_name": "TGPSC Group 1 Mains 2024 – Telangana Movement & State Formation",
+    "paper_name": "Previous Year Paper",
+    "category": "Other",
+    "year": 2024,
+    "subject": "Telangana Movement & State Formation",
+    "exam_date": "2024-10-27",
+    "pdf": "previous_papers/2026/09/Group_1_paper_6.pdf",
+    "pdf_link": "",
+    "official_link": "https://www.tgpsc.gov.in/",
+    "description": "",
+    "created_at": "2026-09-26T17:58:26.791Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 11,
+  "fields": {
+    "job": 302,
+    "exam": 26,
+    "exam_name": "TGPSC Group 2 Mains 2024 – Paper I",
+    "paper_name": "Previous Year Paper",
+    "category": "Other",
+    "year": 2024,
+    "subject": "General Studies & General Abilities",
+    "exam_date": "2024-12-15",
+    "pdf": "previous_papers/2026/09/TSPSC-Group-2-Question-Paper-2024.pdf",
+    "pdf_link": "",
+    "official_link": "https://www.tgpsc.gov.in/",
+    "description": "",
+    "created_at": "2026-09-26T18:02:03.297Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 12,
+  "fields": {
+    "job": 302,
+    "exam": 26,
+    "exam_name": "TGPSC Group 2 Mains 2024 – Paper II",
+    "paper_name": "Previous Year Paper",
+    "category": "Other",
+    "year": 2024,
+    "subject": "History, polity & society",
+    "exam_date": "2024-12-15",
+    "pdf": "previous_papers/2026/09/TGPSC_Group-II_Paper-II_QS_Paper_with_Key__Explanations_EM_oxuRBw1.pdf_1.pdf",
+    "pdf_link": "",
+    "official_link": "https://www.tgpsc.gov.in/",
+    "description": "",
+    "created_at": "2026-09-26T18:06:54.936Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 13,
+  "fields": {
+    "job": 302,
+    "exam": 26,
+    "exam_name": "TGPSC Group 2 Mains 2024 – Paper III",
+    "paper_name": "Previous Year Paper",
+    "category": "Other",
+    "year": 2024,
+    "subject": "Economy & Development",
+    "exam_date": "2022-12-16",
+    "pdf": "previous_papers/2026/09/TGPSC_Group-II_Paper-III_QS_Paper_with_Key__Explanations_E_HLcP1LJ.pdf_1.pdf",
+    "pdf_link": "",
+    "official_link": "https://www.tgpsc.gov.in/",
+    "description": "",
+    "created_at": "2026-09-27T02:15:41.998Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 14,
+  "fields": {
+    "job": 302,
+    "exam": 26,
+    "exam_name": "TGPSC Group 2 Mains 2024 – Paper IV",
+    "paper_name": "Previous Year Paper",
+    "category": "Other",
+    "year": 2024,
+    "subject": "Telangana Movement & State Formation",
+    "exam_date": "2024-12-16",
+    "pdf": "previous_papers/2026/09/TGPSC_Group-II_Paper-IV_QS_Paper_with_Key__Explanations_CivicCen_3gHf389.pdf",
+    "pdf_link": "",
+    "official_link": "https://www.tgpsc.gov.in/",
+    "description": "",
+    "created_at": "2026-09-27T02:18:43.673Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 15,
+  "fields": {
+    "job": 303,
+    "exam": 27,
+    "exam_name": "TGPSC Group 3 2024 – Paper I",
+    "paper_name": "Previous Year Paper",
+    "category": "Other",
+    "year": 2024,
+    "subject": "General Studies & General Abilities",
+    "exam_date": "2024-11-17",
+    "pdf": "previous_papers/2026/09/TGPSC_Group_III_2024_Paper_I_Master_Question_Paper_with_Key_CivicCentre.pdf",
+    "pdf_link": "",
+    "official_link": "https://www.tgpsc.gov.in/",
+    "description": "",
+    "created_at": "2026-09-27T02:21:36.571Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 16,
+  "fields": {
+    "job": 303,
+    "exam": 27,
+    "exam_name": "TGPSC Group 3 2024 – Paper II",
+    "paper_name": "Previous Year Paper",
+    "category": "Other",
+    "year": 2024,
+    "subject": "History, Polity & Society",
+    "exam_date": "2024-11-17",
+    "pdf": "previous_papers/2026/09/TGPSC_Group-III_171124_Paper-II_Master_QP_CivicCentre_IAS.pdf",
+    "pdf_link": "",
+    "official_link": "https://www.tgpsc.gov.in/",
+    "description": "",
+    "created_at": "2026-09-27T02:24:27.408Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 17,
+  "fields": {
+    "job": 353,
+    "exam": 27,
+    "exam_name": "TGPSC Group 3 2024 – Paper III",
+    "paper_name": "Previous Year Paper",
+    "category": "Other",
+    "year": 2024,
+    "subject": "Economy & Development",
+    "exam_date": "2024-11-18",
+    "pdf": "previous_papers/2026/09/TGPSC_Group_-_III_Paper_-_III_181224_Master_QP_CivicCentre_IAS.pdf",
+    "pdf_link": "",
+    "official_link": "https://www.tgpsc.gov.in/",
+    "description": "",
+    "created_at": "2026-09-27T02:27:04.878Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 18,
+  "fields": {
+    "job": 304,
+    "exam": 28,
+    "exam_name": "TGPSC Group 4 – Paper I",
+    "paper_name": "Previous Year Paper",
+    "category": "Other",
+    "year": 2023,
+    "subject": "General Studies",
+    "exam_date": "2023-07-01",
+    "pdf": "previous_papers/2026/09/TSPSC_Group_4_IV_Paper_1_question_Paper_with_key_673510cfba2d210_K6mYZIL.pdf",
+    "pdf_link": "",
+    "official_link": "https://www.tgpsc.gov.in/",
+    "description": "",
+    "created_at": "2026-09-27T02:30:44.155Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 19,
+  "fields": {
+    "job": 304,
+    "exam": 28,
+    "exam_name": "TGPSC Group 4 – Paper II",
+    "paper_name": "Previous Year Paper",
+    "category": "Other",
+    "year": 2023,
+    "subject": "Secretarial Abilities",
+    "exam_date": "2023-07-01",
+    "pdf": "previous_papers/2026/09/TSPSC_Group_4_Paper_II_Secretarial_Abilities_2023_pdf.pdf",
+    "pdf_link": "",
+    "official_link": "https://www.tgpsc.gov.in/",
+    "description": "",
+    "created_at": "2026-09-27T02:35:58.745Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 20,
+  "fields": {
+    "job": 325,
+    "exam": 30,
+    "exam_name": "AE Paper I – General Studies & General Abilities",
+    "paper_name": "Previous Year Paper",
+    "category": "Other",
+    "year": 2023,
+    "subject": "General Studies & General Abilities",
+    "exam_date": "2023-03-05",
+    "pdf": "previous_papers/2026/09/TSPSC_AE_General_Studies_Official_paper-I_Held_On__05_Mar_2023.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "",
+    "created_at": "2026-09-27T04:00:28.551Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 21,
+  "fields": {
+    "job": 321,
+    "exam": 30,
+    "exam_name": "AE Paper II – Civil Engineering",
+    "paper_name": "Previous Year Paper",
+    "category": "Other",
+    "year": 2023,
+    "subject": "Civil Engineering",
+    "exam_date": "2023-03-05",
+    "pdf": "previous_papers/2026/09/TSPSC_AE_Civil_Paper-I_Held_On__05_Mar_2023.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "",
+    "created_at": "2026-09-27T04:05:33.060Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 22,
+  "fields": {
+    "job": 333,
+    "exam": 31,
+    "exam_name": "AEE Paper I – General Studies & General Abilities",
+    "paper_name": "Previous Year Paper",
+    "category": "Other",
+    "year": 2023,
+    "subject": "General Studies & General Abilities",
+    "exam_date": "2023-01-22",
+    "pdf": "previous_papers/2026/09/TSPSC_AEE_2022_Official_Paper-I_Held_On__22_Jan_2023_English.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "elangana Assistant Executive Engineer General Studies and General Abilities previous year question paper.",
+    "created_at": "2026-09-27T04:09:57.263Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 23,
+  "fields": {
+    "job": 333,
+    "exam": 31,
+    "exam_name": "AEE Paper II – Civil Engineering",
+    "paper_name": "Previous Year Paper",
+    "category": "Other",
+    "year": 2023,
+    "subject": "Civil Engineering",
+    "exam_date": "2023-01-22",
+    "pdf": "previous_papers/2026/09/TSPSC_CE_AEE_2022_Questions-with-Answers-1.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "",
+    "created_at": "2026-09-27T04:15:43.559Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 24,
+  "fields": {
+    "job": 536,
+    "exam": 16,
+    "exam_name": "SSC CGL Tier 1 – 2024",
+    "paper_name": "Previous Year Paper",
+    "category": "Other",
+    "year": 2024,
+    "subject": "General Intelligence & Reasoning, General Awareness, Quantitative Aptitude, English Comprehension",
+    "exam_date": "2024-09-09",
+    "pdf": "previous_papers/2026/09/SSC_CGL_2024_Tier_1_Shift_1_Question_Paper_with_Answer_Key_PDF.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "SSC Combined Graduate Level Tier 1 previous year question paper.",
+    "created_at": "2026-09-27T04:19:20.743Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 25,
+  "fields": {
+    "job": 536,
+    "exam": 16,
+    "exam_name": "SSC CGL Tier-II Paper-I – 20 January 2025",
+    "paper_name": "Previous Year Paper",
+    "category": "Other",
+    "year": 2024,
+    "subject": "Mathematical Abilities, Reasoning & General Intelligence, English Language & Comprehension, General Awareness, Computer Knowledge",
+    "exam_date": "2025-01-20",
+    "pdf": "previous_papers/2026/09/SSC_CGL_2024_Tier_2_Paper_1_Question_Paper_with_Answer_Key_PDF.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "SSC CGL 2024 Tier-II Paper-I previous year question paper.",
+    "created_at": "2026-09-27T04:21:54.065Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 26,
+  "fields": {
+    "job": 452,
+    "exam": 17,
+    "exam_name": "SSC CHSL Tier-I – 01 July 2024 – Shift 1",
+    "paper_name": "Previous Year Paper",
+    "category": "Other",
+    "year": 2024,
+    "subject": "English Language, General Intelligence, Quantitative Aptitude, General Awareness",
+    "exam_date": "2024-07-01",
+    "pdf": "previous_papers/2026/09/SSC_CHSL_Exam_2024_Tier_I_Official_Paper_pdf.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "SSC CHSL Tier-I 2024 previous year question paper – Shift 1.",
+    "created_at": "2026-09-27T04:47:43.623Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 27,
+  "fields": {
+    "job": 452,
+    "exam": 17,
+    "exam_name": "SSC CHSL Tier-II – 18 November 2024",
+    "paper_name": "Previous Year Paper",
+    "category": "Other",
+    "year": 2024,
+    "subject": "Mathematical Abilities, Reasoning & General Intelligence, English Language & Comprehension, General Awareness, Computer Knowledge",
+    "exam_date": "2024-11-24",
+    "pdf": "previous_papers/2026/09/ssc-chsl-tier-2-paper-2024-held-on-18-november-2024-shift-1.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "SSC CHSL Tier-II 2024 previous year question paper.",
+    "created_at": "2026-09-27T05:04:58.059Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 28,
+  "fields": {
+    "job": 454,
+    "exam": 15,
+    "exam_name": "SSC GD Constable 2024 – 20 February – Shift 1",
+    "paper_name": "Previous Year Paper",
+    "category": "Other",
+    "year": 2024,
+    "subject": "General Intelligence & Reasoning, General Knowledge & General Awareness, Elementary Mathematics, English/Hindi",
+    "exam_date": "2024-02-20",
+    "pdf": "previous_papers/2026/09/ssc-constable-gd-exam-papers-2024-held-on-20-feb-2024-shift-1.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "SSC GD Constable 2024 Computer Based Examination – Shift 1",
+    "created_at": "2026-09-27T05:07:32.941Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 29,
+  "fields": {
+    "job": 454,
+    "exam": 15,
+    "exam_name": "SSC GD Constable 2024 – 20 February – Shift 2",
+    "paper_name": "Previous Year Paper",
+    "category": "Other",
+    "year": 2024,
+    "subject": "General Intelligence & Reasoning, General Knowledge & General Awareness, Elementary Mathematics, English/Hindi",
+    "exam_date": "2024-02-20",
+    "pdf": "previous_papers/2026/09/ssc-constable-gd-exam-papers-2024-held-on-20-feb-2024-shift-2.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "SSC GD Constable 2024 Computer Based Examination – Shift 2.",
+    "created_at": "2026-09-27T05:10:21.764Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 30,
+  "fields": {
+    "job": 461,
+    "exam": 2,
+    "exam_name": "RRB NTPC Graduate CBT-I – 05 June 2025 – Shift 1",
+    "paper_name": "Previous Year Paper",
+    "category": "Other",
+    "year": 2025,
+    "subject": "General Awareness, Mathematics, General Intelligence & Reasoning",
+    "exam_date": "2025-06-05",
+    "pdf": "previous_papers/2026/09/7041a624-c3ae-4c1c-bc78-c26e9673665e.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "RRB NTPC Graduate Level CBT-I previous year question paper – Shift 1",
+    "created_at": "2026-09-27T06:36:38.254Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 31,
+  "fields": {
+    "job": 461,
+    "exam": 2,
+    "exam_name": "RRB NTPC Graduate CBT-2 – 13 October 2025 – Shift 1",
+    "paper_name": "Previous Year Paper",
+    "category": "Other",
+    "year": 2022,
+    "subject": "General Awareness, Mathematics, General Intelligence & Reasoning",
+    "exam_date": "2022-05-06",
+    "pdf": "previous_papers/2026/09/RRB_NTPC_CBT_2_Level_6_May_2_2022_Shift_1.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "",
+    "created_at": "2026-09-27T06:40:08.956Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 32,
+  "fields": {
+    "job": 461,
+    "exam": 19,
+    "exam_name": "RRB Technician Grade III – 20 December 2024 – Shift 2",
+    "paper_name": "Previous Year Paper",
+    "category": "Other",
+    "year": 2024,
+    "subject": "General Awareness, General Science, Mathematics, General Intelligence & Reasoning",
+    "exam_date": "2024-12-20",
+    "pdf": "previous_papers/2026/09/RRB_Techn_Grade_3_Question_Paper_Shift2_Dec_20.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "",
+    "created_at": "2026-09-27T06:45:28.308Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 33,
+  "fields": {
+    "job": 461,
+    "exam": 19,
+    "exam_name": "RRB Technician Grade III – 20 December 2024 – Shift 3",
+    "paper_name": "Previous Year Paper",
+    "category": "Other",
+    "year": 2024,
+    "subject": "General Awareness, General Science, Mathematics, General Intelligence & Reasoning",
+    "exam_date": "2024-12-20",
+    "pdf": "previous_papers/2026/09/rrb-technician-exam-papers-2024.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "RRB Technician Grade III CBT 2024 previous year question paper – Shift 3.",
+    "created_at": "2026-09-27T06:48:10.263Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 34,
+  "fields": {
+    "job": 462,
+    "exam": 1,
+    "exam_name": "RRB Group D – 03 August 2026 – Shift 1",
+    "paper_name": "Previous Year Paper",
+    "category": "Other",
+    "year": 2025,
+    "subject": "General Science, Mathematics, General Intelligence & Reasoning, General Awareness & Current Affairs",
+    "exam_date": "2026-08-03",
+    "pdf": "previous_papers/2026/09/RRB_Group_D_2025_Question_Paper_and_Answer_Key_PDF_English_Aug_0_lF3MVkV.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "RRB Group D Level-1 CBT previous year question paper – Shift 1.",
+    "created_at": "2026-09-27T06:52:27.564Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 35,
+  "fields": {
+    "job": 462,
+    "exam": 1,
+    "exam_name": "RRB Group D – 03 August 2026 – Shift 2",
+    "paper_name": "Previous Year Paper",
+    "category": "Other",
+    "year": 2025,
+    "subject": "General Science, Mathematics, General Intelligence & Reasoning, General Awareness & Current Affairs",
+    "exam_date": "2026-08-03",
+    "pdf": "previous_papers/2026/09/rrb-group-d-2025-question-paper.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "RRB Group D Level-1 CBT previous year question paper – Shift 2.",
+    "created_at": "2026-09-27T06:55:24.973Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 36,
+  "fields": {
+    "job": 461,
+    "exam": 20,
+    "exam_name": "RRB JE CBT-I – 16 December 2024",
+    "paper_name": "Previous Year Paper",
+    "category": "Other",
+    "year": 2024,
+    "subject": "Mathematics, General Intelligence & Reasoning, General Awareness, General Science",
+    "exam_date": "2024-12-16",
+    "pdf": "previous_papers/2026/09/rrb-junior-engineer-exam-papaer-2024-held-on-16-dec-2024-shift-1.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "RRB Junior Engineer CEN 03/2024 CBT-I previous year question paper.",
+    "created_at": "2026-09-27T08:41:41.732Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 37,
+  "fields": {
+    "job": 461,
+    "exam": 20,
+    "exam_name": "RRB JE CBT-I – 16 December 2024 – Shift 2",
+    "paper_name": "Previous Year Paper",
+    "category": "Other",
+    "year": 2024,
+    "subject": "Mathematics, General Intelligence & Reasoning, General Awareness, General Science",
+    "exam_date": "2024-12-16",
+    "pdf": "previous_papers/2026/09/rrb-junior-engineer-exam-papaer-2024-held-on-16-dec-2024-shift-2.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "RRB Junior Engineer CEN 03/2024 CBT-I previous year question paper – Shift 2.",
+    "created_at": "2026-09-27T08:44:43.415Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 38,
+  "fields": {
+    "job": 461,
+    "exam": 18,
+    "exam_name": "RRB ALP CBT-I 2024 – 25 November 2024 – Shift 1",
+    "paper_name": "Previous Year Paper",
+    "category": "Other",
+    "year": 2024,
+    "subject": "General Awareness, Mathematics, General Intelligence & Reasoning, General Science",
+    "exam_date": "2024-11-25",
+    "pdf": "previous_papers/2026/09/RRB_ALP_CBT-I_Official_Paper_Held_On__13_Feb_2026_Shift_1.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "RRB ALP CEN 01/2024 CBT-I previous year question paper – Shift 1.",
+    "created_at": "2026-09-27T10:37:21.618Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 39,
+  "fields": {
+    "job": 461,
+    "exam": 18,
+    "exam_name": "RRB ALP CBT-I 2024 – 25 November 2024 – Shift 2",
+    "paper_name": "Previous Year Paper",
+    "category": "Other",
+    "year": 2024,
+    "subject": "General Awareness, Mathematics, General Intelligence & Reasoning, General Science",
+    "exam_date": "2024-11-25",
+    "pdf": "previous_papers/2026/09/rrb-alp-exam-paper-2024-held-on-25-nov-2024-shift-2.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "",
+    "created_at": "2026-09-27T10:39:47.789Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 40,
+  "fields": {
+    "job": 463,
+    "exam": 21,
+    "exam_name": "RPF Constable 2024 – 02 March 2025 – Shift 1",
+    "paper_name": "Previous Year Paper",
+    "category": "Other",
+    "year": 2024,
+    "subject": "Arithmetic, General Intelligence & Reasoning, General Awareness",
+    "exam_date": "2025-02-03",
+    "pdf": "previous_papers/2026/09/RPF_Constable_2025_Mar_02_Question_Paper_and_Answer_Key_PDF_Shift_1.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "",
+    "created_at": "2026-09-27T10:43:29.052Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 41,
+  "fields": {
+    "job": 463,
+    "exam": 21,
+    "exam_name": "RPF Constable 2024 – 02 March 2025 – Shift 2",
+    "paper_name": "Previous Year Paper",
+    "category": "Other",
+    "year": 2024,
+    "subject": "Arithmetic, General Intelligence & Reasoning, General Awareness",
+    "exam_date": "2025-02-03",
+    "pdf": "previous_papers/2026/09/RPF_Constable_2024_Official_Paper_Held_On__02_Mar_2025_Shift_2.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "",
+    "created_at": "2026-09-27T10:45:52.681Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 42,
+  "fields": {
+    "job": 463,
+    "exam": 22,
+    "exam_name": "RPF SI 2024 – 02 December 2024 – Shift 1",
+    "paper_name": "Previous Year Paper",
+    "category": "Other",
+    "year": 2024,
+    "subject": "Arithmetic, General Intelligence & Reasoning, General Awareness",
+    "exam_date": "2024-12-02",
+    "pdf": "previous_papers/2026/09/RPF_SI_CBT-I_2024_Official_Paper_Held_On__02_Dec_2024_Shift_1.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "",
+    "created_at": "2026-09-27T10:48:25.965Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 43,
+  "fields": {
+    "job": 463,
+    "exam": 22,
+    "exam_name": "RPF SI 2024 – 02 December 2024 – Shift 2",
+    "paper_name": "Previous Year Paper",
+    "category": "Other",
+    "year": 2024,
+    "subject": "Arithmetic, General Intelligence & Reasoning, General Awareness",
+    "exam_date": "2024-12-02",
+    "pdf": "previous_papers/2026/09/RPF_SI_CBT-I_2024_Official_Paper_Held_On__03_Dec_2024_Shift_2.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "RPF SI CEN RPF 01/2024 CBT previous-year question paper – Shift 2.",
+    "created_at": "2026-09-27T10:50:18.113Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 44,
+  "fields": {
+    "job": 460,
+    "exam": 5,
+    "exam_name": "SBI PO Prelims 2025 – Shift 1",
+    "paper_name": "Previous Year Paper",
+    "category": "Bank",
+    "year": 2025,
+    "subject": "English Language, Quantitative Aptitude, Reasoning Ability",
+    "exam_date": "2025-08-04",
+    "pdf": "previous_papers/2026/09/SBI_PO_Prelims_Memory_Based_Paper_Held_On_1_August_2026_Shift_1.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "SBI PO Preliminary Examination 2025 previous-year question paper – Shift 1.",
+    "created_at": "2026-09-27T10:53:33.703Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 45,
+  "fields": {
+    "job": 460,
+    "exam": 5,
+    "exam_name": "SBI PO Prelims 2025 – 04 August 2025 – Shift 2",
+    "paper_name": "Previous Year Paper",
+    "category": "Bank",
+    "year": 2025,
+    "subject": "English Language, Quantitative Aptitude, Reasoning Ability",
+    "exam_date": "2025-08-04",
+    "pdf": "previous_papers/2026/09/SBI_PO_Prelims_Memory_Based_Paper_Held_On_1_August_2026_Shift_2.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "SBI PO Preliminary Examination 2025 memory-based question paper – Shift 2.",
+    "created_at": "2026-09-27T10:56:43.088Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 46,
+  "fields": {
+    "job": 459,
+    "exam": 6,
+    "exam_name": "SBI Clerk Prelims 2024 – 22 February 2025 – Shift 1",
+    "paper_name": "Previous Year Paper",
+    "category": "Bank",
+    "year": 2024,
+    "subject": "English Language, Numerical Ability, Reasoning Ability",
+    "exam_date": "2025-02-22",
+    "pdf": "previous_papers/2026/09/SBI_Clerk_Prelims_Memory_Based_Paper_Held_On_12_Jan_2024_Shift_1_English.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "SBI Clerk 2024 recruitment cycle Preliminary Examination – memory-based question paper, Shift 1.",
+    "created_at": "2026-09-27T11:00:00.416Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 47,
+  "fields": {
+    "job": 459,
+    "exam": 6,
+    "exam_name": "SBI Clerk Prelims 2024 – 22 February 2025 – Shift 2",
+    "paper_name": "Previous Year Paper",
+    "category": "Bank",
+    "year": 2024,
+    "subject": "English Language, Numerical Ability, Reasoning Ability",
+    "exam_date": "2025-02-22",
+    "pdf": "previous_papers/2026/09/SBI_Clerk_Prelims_Memory_Based_Paper_Held_On_11_Jan_2024_Shift_2_English.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "SBI Clerk 2024 recruitment cycle Preliminary Examination – memory-based question paper, Shift 2.",
+    "created_at": "2026-09-27T11:01:48.947Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 48,
+  "fields": {
+    "job": 458,
+    "exam": 4,
+    "exam_name": "IBPS Clerk Prelims 2024 – 24 August 2024 – Shift 1",
+    "paper_name": "Previous Year Paper",
+    "category": "Bank",
+    "year": 2024,
+    "subject": "English Language, Numerical Ability, Reasoning Ability",
+    "exam_date": "2024-08-24",
+    "pdf": "previous_papers/2026/09/IBPS_Clerk_Prelims_Memory_Based_Paper_Held_On__25_August_2024_Shift_1.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "IBPS Clerk CRP Clerks-XIV Preliminary Examination – Shift 1 memory-based previous-year paper.",
+    "created_at": "2026-09-27T11:25:39.593Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 49,
+  "fields": {
+    "job": 458,
+    "exam": 4,
+    "exam_name": "IBPS Clerk Prelims 2024 – 24 August 2024 – Shift 2",
+    "paper_name": "Previous Year Paper",
+    "category": "Bank",
+    "year": 2024,
+    "subject": "English Language, Numerical Ability, Reasoning Ability",
+    "exam_date": "2024-08-24",
+    "pdf": "previous_papers/2026/09/IBPS_Clerk_Prelims_Memory_Based_Paper_Held_On__31_August_2024_Shift_2.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "",
+    "created_at": "2026-09-27T11:34:11.175Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 50,
+  "fields": {
+    "job": 457,
+    "exam": 3,
+    "exam_name": "IBPS PO Prelims 2024 – 19 October 2024 – Shift 1",
+    "paper_name": "Previous Year Paper",
+    "category": "Bank",
+    "year": 2024,
+    "subject": "English Language, Reasoning Ability, Quantitative Aptitude",
+    "exam_date": "2024-10-19",
+    "pdf": "previous_papers/2026/09/IBPS_PO_Mains_Memory_Based_Paper_Held_On_30_November_2024_Shift_1.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "IBPS PO CRP PO/MT-XIV Preliminary Examination – Shift 1 memory-based previous-year paper.",
+    "created_at": "2026-09-27T11:36:47.622Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 51,
+  "fields": {
+    "job": 457,
+    "exam": 3,
+    "exam_name": "IBPS PO Prelims 2024 – 19 October 2024 – Shift 2",
+    "paper_name": "Previous Year Paper",
+    "category": "Bank",
+    "year": 2024,
+    "subject": "English Language, Reasoning Ability, Quantitative Aptitude",
+    "exam_date": "2024-10-19",
+    "pdf": "previous_papers/2026/09/IBPS_PO_Prelims_Memory_Based_Paper_Held_On__19_October_2024_Shift_2.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "IBPS PO CRP PO/MT-XIV Preliminary Examination – Shift 2 memory-based previous-year paper.",
+    "created_at": "2026-09-27T11:39:08.200Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 52,
+  "fields": {
+    "job": 467,
+    "exam": 7,
+    "exam_name": "Agniveer Vayu Group Y – 20 January 2023",
+    "paper_name": "Previous Year Paper",
+    "category": "Defence",
+    "year": 2023,
+    "subject": "English, Reasoning, General Awareness",
+    "exam_date": "2023-10-14",
+    "pdf": "previous_papers/2026/09/Agniveer_Vayu_Other_than_Science_Group_Y_14_Oct_2023_1st_Shift_M_BScgBRP.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "Indian Air Force Agniveer Vayu Group Y (Other than Science) previous-year memory-based question paper",
+    "created_at": "2026-09-27T11:43:56.534Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 53,
+  "fields": {
+    "job": 467,
+    "exam": 7,
+    "exam_name": "Agniveer Vayu Group Y – 21 January 2023",
+    "paper_name": "Previous Year Paper",
+    "category": "Defence",
+    "year": 2023,
+    "subject": "English, Reasoning, General Awareness",
+    "exam_date": "2023-01-21",
+    "pdf": "previous_papers/2026/09/Agniveer_Vayu_Other_than_Science_Group_Y_20_Jan_2023_Memory-Based_Paper.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "",
+    "created_at": "2026-09-27T11:47:09.135Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 54,
+  "fields": {
+    "job": 465,
+    "exam": 8,
+    "exam_name": "Agniveer GD 2024 – 22 April 2024 – Shift 1",
+    "paper_name": "Previous Year Paper",
+    "category": "Defence",
+    "year": 2024,
+    "subject": "General Knowledge, General Science, Mathematics, General Reasoning",
+    "exam_date": "2024-04-22",
+    "pdf": "previous_papers/2026/09/Army_GD_Agniveer_Memory_Based_Paper_Held_On__22_Apr_2024_Shift_1.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "Indian Army Agniveer GD CEE 2024 memory-based previous-year question paper – Shift 1.",
+    "created_at": "2026-09-27T11:52:35.514Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 55,
+  "fields": {
+    "job": 465,
+    "exam": 8,
+    "exam_name": "Agniveer GD 2024 – 22 April 2024 – Shift 2",
+    "paper_name": "Previous Year Paper",
+    "category": "Defence",
+    "year": 2024,
+    "subject": "General Knowledge, General Science, Mathematics, General Reasoning",
+    "exam_date": "2024-04-22",
+    "pdf": "previous_papers/2026/09/Army_GD_Agniveer_Memory_Based_Paper_Held_On__22_Apr_2024_Shift_1_1.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "Indian Army Agniveer GD CEE 2024 memory-based previous-year question paper – Shift 2.",
+    "created_at": "2026-09-27T11:55:09.969Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 56,
+  "fields": {
+    "job": 379,
+    "exam": 38,
+    "exam_name": "Revenue Department Exam – Previous Year Paper",
+    "paper_name": "Previous Year Paper",
+    "category": "Other",
+    "year": 2024,
+    "subject": "General Studies, General Abilities, Telangana GK, Revenue & Land Administration",
+    "exam_date": "2024-01-01",
+    "pdf": "previous_papers/2026/09/General_Knowledge-watermark.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "Revenue Department previous-year question paper covering General Studies, Telangana-related topics and revenue administration.",
+    "created_at": "2026-09-27T12:08:38.878Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 57,
+  "fields": {
+    "job": 455,
+    "exam": 24,
+    "exam_name": "CSE Prelims 2025 – General Studies Paper I",
+    "paper_name": "Previous Year Paper",
+    "category": "UPSC",
+    "year": 2025,
+    "subject": "General Studies Paper I",
+    "exam_date": "2025-05-25",
+    "pdf": "previous_papers/2026/09/QP-CSM-26-010926-GENERAL_STUDIES_PAPER_-_I.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "UPSC Civil Services (Preliminary) Examination 2025 – General Studies Paper I.",
+    "created_at": "2026-09-27T12:12:42.035Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 58,
+  "fields": {
+    "job": 455,
+    "exam": 24,
+    "exam_name": "CSE Prelims 2025 – General Studies Paper II (CSAT)",
+    "paper_name": "Previous Year Paper",
+    "category": "UPSC",
+    "year": 2025,
+    "subject": "General Studies Paper II – CSAT",
+    "exam_date": "2025-05-25",
+    "pdf": "previous_papers/2026/09/QP-CSM-26-010926-GENERAL-STUDIES-PAPER_-_II.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "UPSC Civil Services (Preliminary) Examination 2025 – General Studies Paper II (CSAT).",
+    "created_at": "2026-09-27T12:14:40.468Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 59,
+  "fields": {
+    "job": 305,
+    "exam": 32,
+    "exam_name": "Telangana Police Constable – Preliminary Written Test",
+    "paper_name": "Previous Year Paper",
+    "category": "Police",
+    "year": 2022,
+    "subject": "English, Arithmetic, General Science, History, Geography, Polity, Economy, Current Affairs, Reasoning/Mental Ability, Telangana",
+    "exam_date": "2022-08-22",
+    "pdf": "previous_papers/2026/09/Telangana_Police_Constable_Preliminary_Exam.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "",
+    "created_at": "2026-09-27T12:27:56.506Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 60,
+  "fields": {
+    "job": 305,
+    "exam": 32,
+    "exam_name": "Telangana Police Constable Preliminary Exam 2018",
+    "paper_name": "Previous Year Paper",
+    "category": "Police",
+    "year": 2018,
+    "subject": "English, Arithmetic, General Science, History, Geography, Indian Polity & Economy, Current Affairs, Reasoning/Mental Ability",
+    "exam_date": "2018-09-30",
+    "pdf": "previous_papers/2026/09/PCPWTFinalKey.PDF",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "Telangana Police Constable Preliminary Written Test 2018 – Official Paper.",
+    "created_at": "2026-09-27T12:31:00.859Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 61,
+  "fields": {
+    "job": 306,
+    "exam": 33,
+    "exam_name": "Telangana Police SI Preliminary Exam 2022 – 7 August 2022",
+    "paper_name": "Previous Year Paper",
+    "category": "Police",
+    "year": 2022,
+    "subject": "Arithmetic & Reasoning, General Studies",
+    "exam_date": "2022-08-07",
+    "pdf": "previous_papers/2026/09/Telangana_Police_SI_Preliminary_Exam_7_Aug_2022_English.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "Telangana Police Sub-Inspector Preliminary Written Test 2022 – Official Paper.",
+    "created_at": "2026-09-27T12:34:09.375Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 62,
+  "fields": {
+    "job": 306,
+    "exam": 33,
+    "exam_name": "Telangana Police SI Preliminary Exam 2018",
+    "paper_name": "Previous Year Paper",
+    "category": "Police",
+    "year": 2018,
+    "subject": "Arithmetic & Reasoning, General Studies",
+    "exam_date": "2018-09-30",
+    "pdf": "previous_papers/2026/09/Telangana_Police_SI_2018_Mains_Paper_1_Question_Paper_English.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "",
+    "created_at": "2026-09-27T12:36:21.526Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 63,
+  "fields": {
+    "job": 378,
+    "exam": 29,
+    "exam_name": "TSPSC FRO 2017 – Paper I – General English",
+    "paper_name": "Previous Year Paper",
+    "category": "Other",
+    "year": 2017,
+    "subject": "General English",
+    "exam_date": "2017-11-11",
+    "pdf": "previous_papers/2026/09/TSPSC_Forest_Range_Officers_FRO_2017_General_English_Paper-I_English.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "Telangana Forest Range Officer 2017 – General English qualifying paper.",
+    "created_at": "2026-09-27T12:51:22.336Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 64,
+  "fields": {
+    "job": 328,
+    "exam": 29,
+    "exam_name": "TSPSC FRO 2017 – Paper II – Mathematics",
+    "paper_name": "Previous Year Paper",
+    "category": "Other",
+    "year": 2017,
+    "subject": "Mathematics",
+    "exam_date": "2017-11-11",
+    "pdf": "previous_papers/2026/09/TSPSC_Forest_Range_Officers_FRO_2017_General_Mathematics_Paper-I_ZmkLZ63.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "Telangana Forest Range Officer 2017 – Mathematics paper.",
+    "created_at": "2026-09-27T12:54:55.085Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 65,
+  "fields": {
+    "job": 328,
+    "exam": 29,
+    "exam_name": "TSPSC FRO 2017 – Paper III – General Studies",
+    "paper_name": "Previous Year Paper",
+    "category": "Other",
+    "year": 2017,
+    "subject": "General Studies",
+    "exam_date": "2017-11-12",
+    "pdf": "previous_papers/2026/09/TSPSC_Forest_Range_Officers_FRO_2017_General_Studies_Paper-III_English.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "Telangana Forest Range Officer 2017 – General Studies paper.",
+    "created_at": "2026-09-27T12:57:38.852Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 66,
+  "fields": {
+    "job": 313,
+    "exam": 36,
+    "exam_name": "Telangana District Court Junior Assistant",
+    "paper_name": "Previous Year Paper",
+    "category": "Other",
+    "year": 2022,
+    "subject": "General Knowledge, General English, General Studies, Reasoning & Arithmetic",
+    "exam_date": "2022-11-12",
+    "pdf": "previous_papers/2026/09/Telangana-High-Court-Junior-Assistant-Official-Paper-Held-On_-11_BVmHXiv.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "Telangana Judicial Ministerial & Subordinate Service – Junior Assistant CBT previous-year paper.",
+    "created_at": "2026-09-27T13:10:36.836Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 67,
+  "fields": {
+    "job": 313,
+    "exam": 35,
+    "exam_name": "Telangana High Court Junior Assistant",
+    "paper_name": "Previous Year Paper",
+    "category": "High Court",
+    "year": 2022,
+    "subject": "General Knowledge + General English",
+    "exam_date": "2022-09-11",
+    "pdf": "previous_papers/2026/09/Telangana-High-Court-Junior-Assistant-Official-Paper-Held-On_-11_8A7c3oT.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "",
+    "created_at": "2026-09-27T13:19:23.703Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 68,
+  "fields": {
+    "job": 403,
+    "exam": 35,
+    "exam_name": "Telangana High Court Junior Assistant",
+    "paper_name": "Previous Year Paper",
+    "category": "High Court",
+    "year": 2019,
+    "subject": "General Knowledge, General English",
+    "exam_date": "2019-05-11",
+    "pdf": "previous_papers/2026/09/Telangana-High-Court-Junior-Assistant.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "",
+    "created_at": "2026-09-27T13:22:27.967Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 69,
+  "fields": {
+    "job": 335,
+    "exam": 34,
+    "exam_name": "TS DSC SGT",
+    "paper_name": "Previous Year Paper",
+    "category": "Other",
+    "year": 2024,
+    "subject": "Telugu",
+    "exam_date": "2024-07-23",
+    "pdf": "previous_papers/2026/09/TS_DSC_Secondary_Grade_Teacher_Official_Paper_Held_On__23_Jul_20_9oMNCxP.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "",
+    "created_at": "2026-09-27T13:28:40.998Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 70,
+  "fields": {
+    "job": 335,
+    "exam": 34,
+    "exam_name": "SGT Telugu – 23 July 2024 Shift 2",
+    "paper_name": "Previous Year Paper",
+    "category": "Other",
+    "year": 2024,
+    "subject": "Telugu",
+    "exam_date": "2024-07-19",
+    "pdf": "previous_papers/2026/09/TS_DSC_Secondary_Grade_Teacher_Official_Paper_Held_On__19_Jul_20_eyfs7HC.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "",
+    "created_at": "2026-09-27T13:30:47.047Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 71,
+  "fields": {
+    "job": 309,
+    "exam": 37,
+    "exam_name": "Health Department Staff Nurse",
+    "paper_name": "Previous Year Paper",
+    "category": "Health",
+    "year": 2024,
+    "subject": "Nursing",
+    "exam_date": "2024-11-23",
+    "pdf": "previous_papers/2026/09/MHSRB_Nursing_Officer_Official_Paper_Held_On__23_Nov_2024.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "",
+    "created_at": "2026-09-27T13:33:55.990Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 72,
+  "fields": {
+    "job": 312,
+    "exam": 37,
+    "exam_name": "Health Department Medical Officer",
+    "paper_name": "Previous Year Paper",
+    "category": "Health",
+    "year": 2023,
+    "subject": "Ayurveda / Homeopathy / Unani",
+    "exam_date": null,
+    "pdf": "previous_papers/2026/09/MDU0001_RESEARCH-METHODOLOGY_FIRST-SUMMATIVE_MAY-2025.pdf",
+    "pdf_link": "",
+    "official_link": "",
+    "description": "",
+    "created_at": "2026-09-27T13:43:59.175Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 73,
+  "fields": {
+    "job": null,
+    "exam": 10,
+    "exam_name": "TET",
+    "paper_name": "TSTET 2025 Previous Year Question Papers",
+    "category": "Teaching",
+    "year": 2025,
+    "subject": "Paper 1, Maths & Science, Social Studies",
+    "exam_date": null,
+    "pdf": "",
+    "pdf_link": "https://www.manabadi.co.in/institute/DownLoadBQP-Yearwise.aspx?QPT=p&SYSID=163&bqpYear=2025&clsid=184&title=TSTET-TSTET-Previous-Question-Papers-2025",
+    "official_link": "",
+    "description": "",
+    "created_at": "2026-09-28T05:15:16.729Z"
+  }
+},
+{
+  "model": "jobportal.previouspaper",
+  "pk": 74,
+  "fields": {
+    "job": null,
+    "exam": 10,
+    "exam_name": "TET",
+    "paper_name": "TSTET 2024 Previous Year Question Papers",
+    "category": "Teaching",
+    "year": 2024,
+    "subject": "Paper 1, Maths & Science, Social Studies",
+    "exam_date": null,
+    "pdf": "",
+    "pdf_link": "https://www.manabadi.co.in/institute/DownLoadBQP-Yearwise.aspx?QPT=p&SYSID=163&bqpYear=2024&clsid=184",
+    "official_link": "",
+    "description": "",
+    "created_at": "2026-09-28T05:15:27.863Z"
+  }
+}
+]
