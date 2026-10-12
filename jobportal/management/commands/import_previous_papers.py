@@ -1,3 +1,4 @@
+
 import json
 from pathlib import Path
 
@@ -48,18 +49,12 @@ class Command(BaseCommand):
                     paper = obj.object
                     missing_relation = None
 
-                    # Check every populated foreign-key field,
-                    # including nullable fields.
                     for field in paper._meta.fields:
                         if not field.is_relation:
                             continue
 
-                        if not hasattr(field, "attname"):
-                            continue
-
                         related_id = getattr(paper, field.attname, None)
 
-                        # A nullable relation is fine when it is empty.
                         if related_id is None:
                             continue
 
@@ -68,10 +63,7 @@ class Command(BaseCommand):
                         if not related_model.objects.filter(
                             pk=related_id
                         ).exists():
-                            missing_relation = (
-                                field.name,
-                                related_id,
-                            )
+                            missing_relation = (field.name, related_id)
                             break
 
                     if missing_relation:
@@ -85,8 +77,6 @@ class Command(BaseCommand):
                         skipped += 1
                         continue
 
-                    # Isolate each record so one failed save
-                    # doesn't break the remaining imports.
                     with transaction.atomic():
                         obj.save()
 
