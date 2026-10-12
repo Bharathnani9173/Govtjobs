@@ -38,7 +38,13 @@ ALLOWED_HOSTS = [
     "127.0.0.1",
     "localhost",
     "Govtjobs-iguc.onrender.com",
+    "govtjobshub.in",
+    "www.govtjobshub.in",
 ]
+
+render_hostname = os.environ.get("RENDER_EXTERNAL_HOSTNAME")
+if render_hostname:
+    ALLOWED_HOSTS.append(render_hostname)
 
 
 # ============================================================
@@ -47,6 +53,8 @@ ALLOWED_HOSTS = [
 
 CSRF_TRUSTED_ORIGINS = [
     "https://Govtjobs-iguc.onrender.com",
+    "https://govtjobshub.in",
+    "https://www.govtjobshub.in",
 ]
 
 
