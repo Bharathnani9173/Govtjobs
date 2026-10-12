@@ -41,12 +41,40 @@ class Command(BaseCommand):
                 )
 
                 for obj in objects:
+                    paper = obj.object
+                    missing_relation = False
+
+                    for field in paper._meta.fields:
+                        if not field.is_relation or field.null:
+                            continue
+
+                        related_id = getattr(paper, field.attname, None)
+
+                        if related_id is None:
+                            continue
+
+                        related_model = field.remote_field.model
+
+                        if not related_model.objects.filter(
+                            pk=related_id
+                        ).exists():
+                            self.stdout.write(
+                                f"Skipping paper {paper.pk}: "
+                                f"missing {field.name} ID {related_id}"
+                            )
+                            missing_relation = True
+                            break
+
+                    if missing_relation:
+                        skipped += 1
+                        continue
+
                     obj.save()
                     created += 1
 
         self.stdout.write(
             self.style.SUCCESS(
                 f"Import complete. Created: {created}, "
-                f"Skipped existing IDs: {skipped}"
+                f"Skipped: {skipped}"
             )
         )
