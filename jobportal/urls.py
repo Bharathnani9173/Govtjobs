@@ -183,7 +183,12 @@ urlpatterns = [
        name="mock_tests"
     ),
 
-
+    
+    path(
+      "temporary-import-exam-patterns/",
+       views.import_exam_patterns_once,
+       name="import_exam_patterns_once",
+   ),
 
     path(
         'daily-quiz/',
