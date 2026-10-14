@@ -1,3 +1,5 @@
+from ast import pattern
+
 from django.shortcuts import render, redirect
 from django.contrib.auth import authenticate, login
 from django.contrib.auth.models import User
@@ -18,6 +20,8 @@ from django.http import FileResponse, Http404
 from django.urls import reverse
 from pathlib import Path
 from django.db.models import Sum, Max
+from django.contrib.admin.views.decorators import staff_member_required
+from django.core.management import call_command
 
 
 from .models import (
@@ -1505,22 +1509,18 @@ def exam_mock_test(request, exam_name):
 
     exam = get_object_or_404(Exam, name=exam_name)
 
-    # ==========================================================
-    # GET EXAM PATTERN
-    # ==========================================================
-
+    # Get the selected subject
     subject = request.GET.get("subject") or request.POST.get("subject")
 
+    # Get subject patterns for this exam
     patterns = ExamPattern.objects.filter(
         exam=exam
     ).order_by("id")
 
-    # ==========================================================
+    # --------------------------------------------------
     # SELECT SUBJECT
-    # ==========================================================
-
+    # --------------------------------------------------
     if not subject:
-
         return render(
             request,
             "jobportal/mock_test_subjects.html",
@@ -1530,10 +1530,7 @@ def exam_mock_test(request, exam_name):
             }
         )
 
-    # ==========================================================
-    # GET SELECTED SUBJECT PATTERN
-    # ==========================================================
-
+    # Get the pattern for the selected subject
     pattern = get_object_or_404(
         ExamPattern,
         exam=exam,
@@ -1545,10 +1542,9 @@ def exam_mock_test(request, exam_name):
     marks_per_question = pattern.marks_per_question
     negative_marking = pattern.negative_marking
 
-    # ==========================================================
+    # --------------------------------------------------
     # SUBMIT TEST
-    # ==========================================================
-
+    # --------------------------------------------------
     if request.method == "POST":
 
         question_ids = request.POST.get("question_ids", "")
@@ -1559,19 +1555,23 @@ def exam_mock_test(request, exam_name):
             if x.strip().isdigit()
         ]
 
+        # Only accept question IDs belonging to this exam
+        # and the selected subject.
         questions = list(
             QuizQuestion.objects.filter(
                 id__in=question_ids,
                 exam=exam,
                 subject=subject
-            )
+            ).distinct()
         )
+
+        # Avoid counting duplicated or invalid submitted IDs
+        question_ids = [q.id for q in questions]
 
         score = 0
         correct = 0
         wrong = 0
         unanswered = 0
-
         answers = {}
 
         for question in questions:
@@ -1582,33 +1582,24 @@ def exam_mock_test(request, exam_name):
 
             answers[str(question.id)] = user_answer
 
-            # Unanswered
             if not user_answer:
-
                 unanswered += 1
 
-            # Correct
             elif user_answer == question.answer:
-
                 correct += 1
                 score += marks_per_question
 
-            # Wrong
             else:
-
                 wrong += 1
                 score -= negative_marking
 
-        # ======================================================
-        # SAVE ATTEMPT
-        # ======================================================
-
+        # Save the attempt
         MockTestAttempt.objects.create(
             user=request.user,
             exam=exam,
             daily_test=None,
             score=score,
-            total_questions=len(question_ids),
+            total_questions=len(questions),
             correct_answers=correct,
             wrong_answers=wrong,
             unanswered=unanswered,
@@ -1616,12 +1607,8 @@ def exam_mock_test(request, exam_name):
             question_ids=question_ids
         )
 
-        # ======================================================
-        # SAVE QUESTION HISTORY
-        # ======================================================
-
+        # Record questions already attempted
         for question_id in question_ids:
-
             QuizQuestionHistory.objects.get_or_create(
                 user=request.user,
                 question_id=question_id,
@@ -1630,10 +1617,9 @@ def exam_mock_test(request, exam_name):
 
         return redirect("score_history")
 
-    # ==========================================================
-    # GET QUESTIONS
-    # ==========================================================
-
+    # --------------------------------------------------
+    # GET AVAILABLE QUESTIONS
+    # --------------------------------------------------
     seen_ids = QuizQuestionHistory.objects.filter(
         user=request.user,
         exam=exam
@@ -1651,30 +1637,29 @@ def exam_mock_test(request, exam_name):
 
     available_count = available_questions.count()
 
-    # ==========================================================
-    # NOT ENOUGH QUESTIONS
-    # ==========================================================
+    total_subject_questions = QuizQuestion.objects.filter(
+        exam=exam,
+        subject=subject
+    ).count()
 
-    if available_count < required_count:
-
-        total_subject_questions = QuizQuestion.objects.filter(
+    attempted_questions = QuizQuestionHistory.objects.filter(
+        user=request.user,
+        exam=exam,
+        question_id__in=QuizQuestion.objects.filter(
             exam=exam,
             subject=subject
-        ).count()
+        ).values_list(
+            "id",
+            flat=True
+        )
+    ).values(
+        "question_id"
+    ).distinct().count()
 
-        attempted_questions = QuizQuestionHistory.objects.filter(
-            user=request.user,
-            exam=exam,
-            question_id__in=QuizQuestion.objects.filter(
-                exam=exam,
-                subject=subject
-            ).values_list(
-                "id",
-                flat=True
-            )
-        ).values(
-            "question_id"
-        ).distinct().count()
+    # --------------------------------------------------
+    # NOT ENOUGH QUESTIONS
+    # --------------------------------------------------
+    if available_count < required_count:
 
         return render(
             request,
@@ -1691,22 +1676,25 @@ def exam_mock_test(request, exam_name):
                 "marks_per_question": marks_per_question,
                 "negative_marking": negative_marking,
                 "questions": [],
+                "question_ids": "",
                 "not_enough_questions": True,
             }
         )
 
-    # ==========================================================
+    # --------------------------------------------------
     # SELECT RANDOM QUESTIONS
-    # ==========================================================
-
+    # --------------------------------------------------
     questions = list(
         available_questions.order_by("?")[:required_count]
     )
 
-    # ==========================================================
-    # SHOW TEST
-    # ==========================================================
+    question_ids = ",".join(
+        str(question.id) for question in questions
+    )
 
+    # --------------------------------------------------
+    # SHOW TEST
+    # --------------------------------------------------
     return render(
         request,
         "jobportal/exam_mock_test.html",
@@ -1715,15 +1703,15 @@ def exam_mock_test(request, exam_name):
             "subject": subject,
             "pattern": pattern,
             "questions": questions,
+            "question_ids": question_ids,
             "required_count": required_count,
-            "question_count": required_count,
+            "question_count": len(questions),
             "duration_minutes": duration_minutes,
             "marks_per_question": marks_per_question,
             "negative_marking": negative_marking,
             "not_enough_questions": False,
         }
     )
-
 
 def view_pdf(request, folder, filename):
     pdf_path = (
@@ -1992,3 +1980,36 @@ def leaderboard(request):
             "leaderboard": leaderboard_data
         }
     )
+
+
+
+from django.views.decorators.http import require_http_methods
+from django.middleware.csrf import get_token
+
+
+@staff_member_required
+@require_http_methods(["GET", "POST"])
+def import_exam_patterns_once(request):
+    if not request.user.is_superuser:
+        return HttpResponse("Superuser access required.", status=403)
+
+    if request.method == "POST":
+        call_command("import_exam_patterns")
+        return HttpResponse(
+            "Exam pattern import completed. "
+            "Open Django Admin and verify the ExamPattern records."
+        )
+
+    csrf_token = get_token(request)
+    return HttpResponse(
+        f"""
+        <h2>Import Exam Patterns</h2>
+        <p>This will import the 79 exam patterns.</p>
+        <form method="post">
+            <input type="hidden" name="csrfmiddlewaretoken"
+                   value="{csrf_token}">
+            <button type="submit">Import Exam Patterns</button>
+        </form>
+        """
+    )
+
