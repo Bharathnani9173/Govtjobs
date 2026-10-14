@@ -23,6 +23,7 @@ from .models import (
     MockTestQuestion,
     QuizAttempt,
     Syllabus,
+    ExamPattern,
 )
 
 
@@ -636,3 +637,14 @@ class ExamAdmin(admin.ModelAdmin):
     ordering = (
         "-created_at",
     )
+
+@admin.register(ExamPattern)
+class ExamPatternAdmin(admin.ModelAdmin):
+    list_display = (
+        "exam",
+        "subject",
+        "question_count",
+        "duration_minutes",
+    )
+    list_filter = ("exam",)
+    search_fields = ("exam__name", "subject")
