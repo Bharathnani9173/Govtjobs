@@ -1,0 +1,634 @@
+[
+  {
+    "exam": "Junior Assistant",
+    "subject": "General Knowledge",
+    "question_count": 60,
+    "duration_minutes": 80,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "Junior Assistant",
+    "subject": "General English",
+    "question_count": 40,
+    "duration_minutes": 40,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "District Court",
+    "subject": "General Knowledge",
+    "question_count": 60,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "District Court",
+    "subject": "General English",
+    "question_count": 40,
+    "duration_minutes": 40,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "DSC",
+    "subject": "General",
+    "question_count": 100,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "Forest Range Officer",
+    "subject": "General",
+    "question_count": 100,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "Health Department",
+    "subject": "General",
+    "question_count": 100,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "High Court",
+    "subject": "General",
+    "question_count": 100,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "IBPS Clerk",
+    "subject": "General",
+    "question_count": 100,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "IBPS PO",
+    "subject": "General",
+    "question_count": 100,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "RRB ALP",
+    "subject": "General",
+    "question_count": 100,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "RRB Group D",
+    "subject": "General",
+    "question_count": 100,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "RRB JE",
+    "subject": "General",
+    "question_count": 100,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "RRB NTPC",
+    "subject": "General",
+    "question_count": 100,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "RRB Technician",
+    "subject": "General",
+    "question_count": 100,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "Railway Constable",
+    "subject": "General",
+    "question_count": 100,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "Railway SI",
+    "subject": "General",
+    "question_count": 100,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "Revenue Department",
+    "subject": "General",
+    "question_count": 100,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "SBI Clerk",
+    "subject": "General",
+    "question_count": 100,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "SBI PO",
+    "subject": "General",
+    "question_count": 100,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "GK",
+    "question_count": 2,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Aptitude",
+    "question_count": 2,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "question_count": 27,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "question_count": 27,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Computer",
+    "question_count": 2,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Quantitative Aptitude",
+    "question_count": 25,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "question_count": 100,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General",
+    "question_count": 100,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "SSC CHSL",
+    "subject": "General Knowledge",
+    "question_count": 100,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "SSC GD",
+    "subject": "General Knowledge",
+    "question_count": 100,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "TET",
+    "subject": "General",
+    "question_count": 100,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "TGPSC Group 1",
+    "subject": "General",
+    "question_count": 100,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "TGPSC Group 2",
+    "subject": "General",
+    "question_count": 100,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "TGPSC Group 3",
+    "subject": "General",
+    "question_count": 100,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "TGPSC Group 4",
+    "subject": "General",
+    "question_count": 100,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "Telangana AE",
+    "subject": "General",
+    "question_count": 100,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "Telangana AEE",
+    "subject": "Building Materials & Construction",
+    "question_count": 20,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "Telangana AEE",
+    "subject": "Surveying",
+    "question_count": 20,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "Telangana AEE",
+    "subject": "Strength of Materials & Structural Analysis",
+    "question_count": 20,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "Telangana AEE",
+    "subject": "RCC & Steel Structures",
+    "question_count": 20,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "Telangana AEE",
+    "subject": "Geotechnical Engineering",
+    "question_count": 20,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "Telangana AEE",
+    "subject": "Fluid Mechanics & Hydraulics",
+    "question_count": 20,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "Telangana AEE",
+    "subject": "Environmental Engineering",
+    "question_count": 20,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "Telangana AEE",
+    "subject": "Transportation Engineering",
+    "question_count": 20,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "Telangana AEE",
+    "subject": "Hydrology & Water Resources",
+    "question_count": 20,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "Telangana AEE",
+    "subject": "Estimation & Construction Management",
+    "question_count": 20,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "Telangana Police Constable",
+    "subject": "GK",
+    "question_count": 12,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "Telangana Police Constable",
+    "subject": "Aptitude",
+    "question_count": 7,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "Telangana Police Constable",
+    "subject": "Reasoning",
+    "question_count": 7,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "Telangana Police Constable",
+    "subject": "English",
+    "question_count": 5,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "Telangana Police Constable",
+    "subject": "Telangana GK",
+    "question_count": 1,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "Telangana Police Constable",
+    "subject": "General",
+    "question_count": 100,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "Telangana Police SI",
+    "subject": "General",
+    "question_count": 100,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "UPSC",
+    "subject": "General",
+    "question_count": 100,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "UPSC CSE",
+    "subject": "General",
+    "question_count": 100,
+    "duration_minutes": 60,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "Air Force AFCAT",
+    "subject": "General Awareness",
+    "question_count": 50,
+    "duration_minutes": 60,
+    "marks_per_question": 3.0,
+    "negative_marking": 1.0
+  },
+  {
+    "exam": "Air Force AFCAT",
+    "subject": "English",
+    "question_count": 50,
+    "duration_minutes": 60,
+    "marks_per_question": 3.0,
+    "negative_marking": 1.0
+  },
+  {
+    "exam": "Air Force AFCAT",
+    "subject": "Numerical Ability",
+    "question_count": 50,
+    "duration_minutes": 60,
+    "marks_per_question": 3.0,
+    "negative_marking": 1.0
+  },
+  {
+    "exam": "Air Force AFCAT",
+    "subject": "Reasoning & Military Aptitude",
+    "question_count": 50,
+    "duration_minutes": 60,
+    "marks_per_question": 3.0,
+    "negative_marking": 1.0
+  },
+  {
+    "exam": "Indian Army Agniveer GD",
+    "subject": "General Knowledge",
+    "question_count": 15,
+    "duration_minutes": 18,
+    "marks_per_question": 2.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "Indian Army Agniveer GD",
+    "subject": "General Science",
+    "question_count": 15,
+    "duration_minutes": 18,
+    "marks_per_question": 2.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "Indian Army Agniveer GD",
+    "subject": "Mathematics",
+    "question_count": 15,
+    "duration_minutes": 18,
+    "marks_per_question": 2.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "Indian Army Agniveer GD",
+    "subject": "Logical Reasoning",
+    "question_count": 5,
+    "duration_minutes": 6,
+    "marks_per_question": 2.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "Indian Army Agniveer Technical",
+    "subject": "General Knowledge",
+    "question_count": 10,
+    "duration_minutes": 12,
+    "marks_per_question": 2.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "Indian Army Agniveer Technical",
+    "subject": "Mathematics",
+    "question_count": 15,
+    "duration_minutes": 18,
+    "marks_per_question": 2.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "Indian Army Agniveer Technical",
+    "subject": "Physics",
+    "question_count": 15,
+    "duration_minutes": 18,
+    "marks_per_question": 2.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "Indian Army Agniveer Technical",
+    "subject": "Chemistry",
+    "question_count": 10,
+    "duration_minutes": 12,
+    "marks_per_question": 2.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "Indian Army Agniveer Clerk / SKT",
+    "subject": "General Knowledge",
+    "question_count": 5,
+    "duration_minutes": 6,
+    "marks_per_question": 2.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "Indian Army Agniveer Clerk / SKT",
+    "subject": "General Science",
+    "question_count": 5,
+    "duration_minutes": 6,
+    "marks_per_question": 2.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "Indian Army Agniveer Clerk / SKT",
+    "subject": "Mathematics",
+    "question_count": 10,
+    "duration_minutes": 12,
+    "marks_per_question": 2.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "Indian Army Agniveer Clerk / SKT",
+    "subject": "Computer Science",
+    "question_count": 5,
+    "duration_minutes": 6,
+    "marks_per_question": 2.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "Indian Army Agniveer Clerk / SKT",
+    "subject": "English",
+    "question_count": 25,
+    "duration_minutes": 30,
+    "marks_per_question": 2.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "Indian Army Agniveer Tradesman",
+    "subject": "General Knowledge",
+    "question_count": 25,
+    "duration_minutes": 30,
+    "marks_per_question": 2.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "Indian Army Agniveer Tradesman",
+    "subject": "General Science",
+    "question_count": 25,
+    "duration_minutes": 30,
+    "marks_per_question": 2.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "Indian Army",
+    "subject": "General Awareness",
+    "question_count": 200,
+    "duration_minutes": 120,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "Banking",
+    "subject": "Banking Awareness",
+    "question_count": 104,
+    "duration_minutes": 104,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "Banking",
+    "subject": "Digital Banking & Payments",
+    "question_count": 39,
+    "duration_minutes": 39,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "Banking",
+    "subject": "Financial Institutions & Inclusion",
+    "question_count": 21,
+    "duration_minutes": 21,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  },
+  {
+    "exam": "Banking",
+    "subject": "Indian Economy & Finance",
+    "question_count": 36,
+    "duration_minutes": 36,
+    "marks_per_question": 1.0,
+    "negative_marking": 0.0
+  }
+]
