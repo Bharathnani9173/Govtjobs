@@ -1,4 +1,3 @@
-
 {% extends "jobportal/base.html" %}
 
 {% block content %}
@@ -27,11 +26,17 @@
                     </p>
 
                     <p>
-                        <strong>Questions:</strong> 50
+                        <strong>Questions:</strong>
+                        {{ exam.question_count }}
                     </p>
 
                     <p>
-                        <strong>Duration:</strong> 20 Minutes
+                        <strong>Duration:</strong>
+                        {% if exam.is_configured %}
+                            {{ exam.duration_minutes }} Minutes
+                        {% else %}
+                            Not configured
+                        {% endif %}
                     </p>
 
                     <a href="{% url 'exam_mock_test' exam.exam_name %}"

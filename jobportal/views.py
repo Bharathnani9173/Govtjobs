@@ -1909,16 +1909,20 @@ def mock_tests(request):
                 ).count()
 
                 subjects.append({
-    "name": pattern.subject,
-    "questions": pattern.question_count,
-    "available_questions": actual_count,
-    "duration_minutes": pattern.question_count,
-    "marks_per_question": pattern.marks_per_question,
-    "negative_marking": pattern.negative_marking,
-})
+                    "name": pattern.subject,
+                    "questions": pattern.question_count,
+                    "available_questions": actual_count,
+                    "duration_minutes": pattern.duration_minutes,
+                    "marks_per_question": pattern.marks_per_question,
+                    "negative_marking": pattern.negative_marking,
+                })
 
             total_questions = sum(
-                pattern.question_count for pattern in patterns
+                subject["questions"] for subject in subjects
+            )
+
+            total_duration = sum(
+                subject["duration_minutes"] for subject in subjects
             )
 
             available = all(
@@ -1930,6 +1934,7 @@ def mock_tests(request):
                 "exam": exam,
                 "exam_name": exam.name,
                 "question_count": total_questions,
+                "duration_minutes": total_duration,
                 "subjects": subjects,
                 "available": available,
                 "is_configured": True,
@@ -1944,6 +1949,7 @@ def mock_tests(request):
                 "exam": exam,
                 "exam_name": exam.name,
                 "question_count": question_count,
+                "duration_minutes": 0,
                 "subjects": [],
                 "available": question_count > 0,
                 "is_configured": False,
