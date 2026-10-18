@@ -1,6 +1,6 @@
 from ast import pattern
 import logging
-from django.db import transaction
+
 
 from django.shortcuts import render, redirect
 from django.contrib.auth import authenticate, login
@@ -24,10 +24,7 @@ from pathlib import Path
 from django.db.models import Sum, Max
 from django.contrib.admin.views.decorators import staff_member_required
 from django.core.management import call_command
-import hmac
-from django.http import JsonResponse
-from django.views.decorators.http import require_POST
-from django.views.decorators.csrf import csrf_exempt
+
 
 
 from .models import (
@@ -1987,120 +1984,5 @@ def leaderboard(request):
 
 
 
-from django.views.decorators.http import require_http_methods
-from django.middleware.csrf import get_token
 
 
-@staff_member_required
-@require_http_methods(["GET", "POST"])
-def import_exam_patterns_once(request):
-    if not request.user.is_superuser:
-        return HttpResponse("Superuser access required.", status=403)
-
-    if request.method == "POST":
-        call_command("import_exam_patterns")
-        return HttpResponse(
-            "Exam pattern import completed. "
-            "Open Django Admin and verify the ExamPattern records."
-        )
-
-    csrf_token = get_token(request)
-    return HttpResponse(
-        f"""
-        <h2>Import Exam Patterns</h2>
-        <p>This will import the 79 exam patterns.</p>
-        <form method="post">
-            <input type="hidden" name="csrfmiddlewaretoken"
-                   value="{csrf_token}">
-            <button type="submit">Import Exam Patterns</button>
-        </form>
-        """
-    )
-
-
-@csrf_exempt
-@require_POST
-@staff_member_required
-def temporary_current_affairs_import(request):
-    expected_token = os.environ.get("CURRENT_AFFAIRS_IMPORT_TOKEN", "")
-    supplied_token = request.headers.get("X-Import-Token", "")
-
-    if not expected_token or not hmac.compare_digest(
-        supplied_token, expected_token
-    ):
-        return JsonResponse({"error": "Unauthorized"}, status=401)
-
-    try:
-        records = json.loads(request.body.decode("utf-8"))
-    except (UnicodeDecodeError, json.JSONDecodeError):
-        return JsonResponse({"error": "Invalid UTF-8 JSON"}, status=400)
-
-    if not isinstance(records, list) or len(records) > 1000:
-        return JsonResponse(
-            {"error": "Expected a JSON list of at most 1000 records"},
-            status=400,
-        )
-
-    required = {"period", "title", "category", "date", "description"}
-    created = 0
-    skipped = 0
-
-    try:
-        with transaction.atomic():
-            for item in records:
-                if not isinstance(item, dict) or not required.issubset(item):
-                    return JsonResponse(
-                        {"error": "Invalid record structure"},
-                        status=400,
-                    )
-
-                affair_date = date.fromisoformat(item["date"])
-
-                exists = CurrentAffair.objects.filter(
-                    period=item["period"],
-                    title=item["title"],
-                    date=affair_date,
-                ).exists()
-
-                if exists:
-                    skipped += 1
-                    continue
-
-                CurrentAffair.objects.create(
-                    period=item["period"],
-                    title=item["title"],
-                    title_te=item.get("title_te", ""),
-                    category=item["category"],
-                    date=affair_date,
-                    description=item["description"],
-                    description_te=item.get("description_te", ""),
-                    pdf_link=item.get("pdf_link", ""),
-                    # Avoid linking to an unrelated production Job.
-                    job=None,
-                )
-                created += 1
-
-    
-    except (ValueError, TypeError, KeyError) as exc:
-        return JsonResponse(
-            {"error": f"Invalid record data: {exc}"},
-            status=400,
-    )
-    except Exception as exc:
-        logging.exception(
-            "Temporary Current Affairs import failed"
-     )
-        return JsonResponse(
-            {
-                "error": type(exc).__name__,
-                "details": str(exc)[:500],
-            },
-            status=500,
-        )
-
-    return JsonResponse({
-        "message": "Import completed",
-        "received": len(records),
-        "created": created,
-        "skipped": skipped,
-    })

@@ -273,12 +273,6 @@ urlpatterns = [
     views.leaderboard,
     name="leaderboard"
     ),
-
-    path(
-    "temporary-current-affairs-import/",
-    views.temporary_current_affairs_import,
-    name="temporary_current_affairs_import",
-    ),
 ]
 
 
