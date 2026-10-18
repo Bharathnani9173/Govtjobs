@@ -1,4 +1,5 @@
 from ast import pattern
+import logging
 
 from django.shortcuts import render, redirect
 from django.contrib.auth import authenticate, login
@@ -2078,10 +2079,19 @@ def temporary_current_affairs_import(request):
                 )
                 created += 1
 
+    
     except (ValueError, TypeError, KeyError) as exc:
         return JsonResponse(
             {"error": f"Invalid record data: {exc}"},
             status=400,
+    )
+    except Exception:
+        logging.exception(
+            "Temporary Current Affairs import failed"
+        )
+        return JsonResponse(
+            {"error": "Import failed. Check server logs."},
+            status=500,
         )
 
     return JsonResponse({
