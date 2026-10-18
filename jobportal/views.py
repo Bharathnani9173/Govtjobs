@@ -1384,21 +1384,13 @@ def answer_keys(request):
 # =========================
 # CURRENT AFFAIRS
 # =========================
-
-from .models import Job, CurrentAffair
 def current_affairs(request):
     period = request.GET.get("period")
-    job_id = request.GET.get("job")
+
+    affairs = CurrentAffair.objects.all().order_by("-date")
 
     if period:
-        affairs = CurrentAffair.objects.filter(
-            period=period
-        ).order_by("-date")
-
-        selected_period = period
-    else:
-        affairs = CurrentAffair.objects.none()
-        selected_period = None
+        affairs = affairs.filter(period=period)
 
     periods = CurrentAffair.PERIOD_CHOICES
 
@@ -1408,7 +1400,7 @@ def current_affairs(request):
         {
             "affairs": affairs,
             "periods": periods,
-            "selected_period": selected_period,
+            "selected_period": period,
         }
     )
 # =========================
