@@ -22,6 +22,10 @@ from pathlib import Path
 from django.db.models import Sum, Max
 from django.contrib.admin.views.decorators import staff_member_required
 from django.core.management import call_command
+import hmac
+from django.http import JsonResponse
+from django.views.decorators.http import require_POST
+from django.views.decorators.csrf import csrf_exempt
 
 
 from .models import (
@@ -2011,3 +2015,78 @@ def import_exam_patterns_once(request):
         """
     )
 
+
+@csrf_exempt
+@require_POST
+@staff_member_required
+def temporary_current_affairs_import(request):
+    expected_token = os.environ.get("CURRENT_AFFAIRS_IMPORT_TOKEN", "")
+    supplied_token = request.headers.get("X-Import-Token", "")
+
+    if not expected_token or not hmac.compare_digest(
+        supplied_token, expected_token
+    ):
+        return JsonResponse({"error": "Unauthorized"}, status=401)
+
+    try:
+        records = json.loads(request.body.decode("utf-8"))
+    except (UnicodeDecodeError, json.JSONDecodeError):
+        return JsonResponse({"error": "Invalid UTF-8 JSON"}, status=400)
+
+    if not isinstance(records, list) or len(records) > 1000:
+        return JsonResponse(
+            {"error": "Expected a JSON list of at most 1000 records"},
+            status=400,
+        )
+
+    required = {"period", "title", "category", "date", "description"}
+    created = 0
+    skipped = 0
+
+    try:
+        with transaction.atomic():
+            for item in records:
+                if not isinstance(item, dict) or not required.issubset(item):
+                    return JsonResponse(
+                        {"error": "Invalid record structure"},
+                        status=400,
+                    )
+
+                affair_date = date.fromisoformat(item["date"])
+
+                exists = CurrentAffair.objects.filter(
+                    period=item["period"],
+                    title=item["title"],
+                    date=affair_date,
+                ).exists()
+
+                if exists:
+                    skipped += 1
+                    continue
+
+                CurrentAffair.objects.create(
+                    period=item["period"],
+                    title=item["title"],
+                    title_te=item.get("title_te", ""),
+                    category=item["category"],
+                    date=affair_date,
+                    description=item["description"],
+                    description_te=item.get("description_te", ""),
+                    pdf_link=item.get("pdf_link", ""),
+                    # Avoid linking to an unrelated production Job.
+                    job=None,
+                )
+                created += 1
+
+    except (ValueError, TypeError, KeyError) as exc:
+        return JsonResponse(
+            {"error": f"Invalid record data: {exc}"},
+            status=400,
+        )
+
+    return JsonResponse({
+        "message": "Import completed",
+        "received": len(records),
+        "created": created,
+        "skipped": skipped,
+    })
