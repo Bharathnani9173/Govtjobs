@@ -2085,12 +2085,15 @@ def temporary_current_affairs_import(request):
             {"error": f"Invalid record data: {exc}"},
             status=400,
     )
-    except Exception:
+    except Exception as exc:
         logging.exception(
             "Temporary Current Affairs import failed"
-        )
+     )
         return JsonResponse(
-            {"error": "Import failed. Check server logs."},
+            {
+                "error": type(exc).__name__,
+                "details": str(exc)[:500],
+            },
             status=500,
         )
 
