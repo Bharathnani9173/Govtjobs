@@ -1,152 +1,90 @@
-<!DOCTYPE html>
-<html>
-<head>
 
-<title>My Support Queries</title>
+{% extends "jobportal/base.html" %}
 
-<style>
+{% block content %}
+<div class="container py-5">
 
-body{
-    font-family: Arial;
-    background:#f4f7fb;
-    padding:30px;
-}
+    <div class="text-center mb-4">
+        <h2>My Queries</h2>
+        <p class="text-muted">
+            View your submitted queries and support replies.
+        </p>
+    </div>
 
-.container{
-    width:70%;
-    margin:auto;
-}
+    {% if queries %}
+        {% for query in queries %}
+            <div class="card shadow-sm mb-4">
+                <div class="card-body">
 
-h1{
-    text-align:center;
-    color:#003366;
-}
+                    <div class="d-flex justify-content-between
+                                align-items-start flex-wrap gap-2">
+                        <h5 class="mb-1">{{ query.subject }}</h5>
 
-.query-card{
+                        <span class="badge
+                            {% if query.status == 'Replied' %}
+                                bg-success
+                            {% elif query.status == 'Pending' %}
+                                bg-warning text-dark
+                            {% else %}
+                                bg-secondary
+                            {% endif %}">
+                            {{ query.status }}
+                        </span>
+                    </div>
 
-    background:white;
-    padding:20px;
-    margin:20px 0;
-    border-radius:10px;
-    box-shadow:0 0 10px #ccc;
+                    <p class="text-muted small mt-2">
+                        Submitted:
+                        {{ query.created_at|date:"d M Y, h:i A" }}
+                    </p>
 
-}
+                    <hr>
 
-.query-card h3{
+                    <h6>Your Query</h6>
+                    <p class="text-break">{{ query.message|linebreaksbr }}</p>
 
-    color:#003366;
+                    {% if query.auto_reply %}
+                        <div class="p-3 rounded bg-light mb-3">
+                            <h6 class="text-primary">
+                                <i class="fas fa-robot"></i>
+                                Automatic Support Response
+                            </h6>
+                            <p class="mb-0 text-break">
+                                {{ query.auto_reply|linebreaksbr }}
+                            </p>
+                        </div>
+                    {% endif %}
 
-}
+                    {% if query.admin_reply %}
+                        <div class="p-3 rounded border mb-3">
+                            <h6 class="text-success">
+                                <i class="fas fa-user-shield"></i>
+                                Admin Reply
+                            </h6>
+                            <p class="mb-0 text-break">
+                                {{ query.admin_reply|linebreaksbr }}
+                            </p>
+                        </div>
+                    {% elif query.status == "Pending" %}
+                        <p class="small text-muted mb-0">
+                            Your query is awaiting admin follow-up.
+                        </p>
+                    {% endif %}
 
-.label{
+                </div>
+            </div>
+        {% endfor %}
 
-    font-weight:bold;
-
-}
-
-.reply{
-
-    background:#e8f5e9;
-    padding:15px;
-    border-radius:5px;
-    margin-top:15px;
-
-}
-
-.pending{
-
-    color:red;
-    font-weight:bold;
-
-}
-
-</style>
-
-</head>
-
-
-<body>
-
-
-<div class="container">
-
-
-<h1>My Support Queries</h1>
-
-
-{% if queries %}
-
-
-{% for query in queries %}
-
-
-<div class="query-card">
-
-
-<h3>{{ query.subject }}</h3>
-
-
-<p>
-<span class="label">Message:</span>
-{{ query.message }}
-</p>
-
-
-<p>
-<span class="label">Submitted Date:</span>
-{{ query.created_at|date:"d M Y, h:i A" }}
-</p>
-
-
-
-{% if query.admin_reply %}
-
-<div class="reply">
-
-<p>
-<span class="label">Admin Reply:</span>
-</p>
-
-{{ query.admin_reply }}
+    {% else %}
+        <div class="text-center py-5">
+            <h5>No queries yet</h5>
+            <p class="text-muted">
+                Your submitted queries will appear here.
+            </p>
+            <a href="{% url 'contact' %}" class="btn btn-primary">
+                Contact Support
+            </a>
+        </div>
+    {% endif %}
 
 </div>
-
-
-{% else %}
-
-<p class="pending">
-
-Admin Reply: Waiting for admin response...
-
-</p>
-
-
-{% endif %}
-
-
-
-</div>
-
-
-{% endfor %}
-
-
-
-{% else %}
-
-
-<p style="text-align:center;">
-No queries submitted yet.
-</p>
-
-
-{% endif %}
-
-
-
-</div>
-
-
-</body>
-
-</html>
+{% endblock %}

@@ -63,19 +63,20 @@ CSRF_TRUSTED_ORIGINS = [
 # PRODUCTION SECURITY
 # ============================================================
 
+
 if not DEBUG:
+    # Render terminates HTTPS at its proxy.
+    SECURE_PROXY_SSL_HEADER = ("HTTP_X_FORWARDED_PROTO", "https")
 
-    # Render provides HTTPS
     SECURE_SSL_REDIRECT = True
-
     SESSION_COOKIE_SECURE = True
     CSRF_COOKIE_SECURE = True
 
-    SECURE_HSTS_SECONDS = 31536000
-    SECURE_HSTS_INCLUDE_SUBDOMAINS = True
-    SECURE_HSTS_PRELOAD = True
+    # Start with a short HSTS period while validating deployment.
+    SECURE_HSTS_SECONDS = 3600
 
     SECURE_CONTENT_TYPE_NOSNIFF = True
+
 
 
 # ============================================================

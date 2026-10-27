@@ -593,6 +593,7 @@ class Feedback(models.Model):
 # CONTACT MESSAGES
 # =========================================================
 
+
 class ContactMessage(models.Model):
 
     user = models.ForeignKey(
@@ -602,22 +603,19 @@ class ContactMessage(models.Model):
         blank=True
     )
 
-    name = models.CharField(
-        max_length=100
-    )
-
+    name = models.CharField(max_length=100)
     email = models.EmailField()
-
-    mobile = models.CharField(
-        max_length=15
-    )
-
-    subject = models.CharField(
-        max_length=200
-    )
-
+    mobile = models.CharField(max_length=15)
+    subject = models.CharField(max_length=200)
     message = models.TextField()
 
+    # Automatic response shown to the user
+    auto_reply = models.TextField(
+        blank=True,
+        default=""
+    )
+
+    # Actual reply written by the admin
     admin_reply = models.TextField(
         blank=True,
         null=True

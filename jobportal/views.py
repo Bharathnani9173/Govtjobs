@@ -458,224 +458,160 @@ def dashboard(request):
     )
 
 
+
 def generate_contact_reply(subject, message):
     text = f"{subject} {message}".lower()
 
-    # Admit Card
+    # Mock test and quiz issues
     if any(word in text for word in [
-        "admit card",
-        "admitcard",
-        "hall ticket",
-        "hallticket"
+        "mock test", "mocktest", "quiz",
+        "practice test", "no questions",
+        "questions available", "next question",
+        "subject", "score"
     ]):
-        if any(word in text for word in [
-            "download",
-            "downloading",
-            "open",
-            "not opening",
-            "error",
-            "issue",
-            "problem",
-            "not working"
-        ]):
-            return (
-                "We’re sorry you’re experiencing a problem while downloading "
-                "your admit card. We understand that the admit card is "
-                "important for your examination. Please check whether the "
-                "official admit card link is active and try downloading it "
-                "again. We will also verify the admit card link on Govt Jobs "
-                "Portal and update it if there is any problem."
-            )
-
         return (
-            "Thank you for contacting Govt Jobs Portal regarding your admit "
-            "card. We have received your request and will verify the "
-            "available admit card information and related link."
+            "Mock Test Support\n\n"
+            "Please try these steps:\n"
+            "1. Open the same exam again from Mock Tests.\n"
+            "2. Check whether the selected exam and subject are correct.\n"
+            "3. Refresh the page and try opening the test again.\n"
+            "4. If no questions appear, do not repeatedly submit the test.\n\n"
+            "Possible cause: the selected exam may have no matching "
+            "questions, or its question-selection logic may be incorrect.\n"
+            "This is not yet a verified diagnosis. The exam's question "
+            "bank and filtering logic need to be checked if the problem "
+            "continues."
         )
 
-    # Answer Key
-    elif any(word in text for word in [
-        "answer key",
-        "answerkey",
-        "answer keys"
+    # Admit card
+    if any(word in text for word in [
+        "admit card", "admitcard",
+        "hall ticket", "hallticket"
     ]):
-        if any(word in text for word in [
-            "download",
-            "downloading",
-            "error",
-            "issue",
-            "problem",
-            "not opening",
-            "not working"
-        ]):
-            return (
-                "We’re sorry you’re having trouble accessing or downloading "
-                "the answer key. Please try downloading the answer key again "
-                "after refreshing the page. We will verify the answer-key "
-                "file and link and correct it if necessary."
-            )
-
         return (
-            "Thank you for reporting the answer-key issue. We have received "
-            "your request and will verify the available answer key and its "
-            "related information."
+            "Admit Card Support\n\n"
+            "1. Open the relevant exam's admit card page.\n"
+            "2. Use the official link provided by the recruiting authority.\n"
+            "3. Check whether the download window has opened.\n"
+            "4. If the link fails, tell us the exam name and the error "
+            "shown on the page.\n\n"
+            "The official link must be checked before the problem "
+            "can be confirmed or resolved."
+        )
+
+    # Answer keys
+    if any(word in text for word in [
+        "answer key", "answerkey", "answer keys"
+    ]):
+        return (
+            "Answer Key Support\n\n"
+            "1. Open the correct exam and year.\n"
+            "2. Check whether an answer-key download is available.\n"
+            "3. Refresh the page and retry the download.\n"
+            "4. If the file is missing or will not open, provide the "
+            "exam name, year and any error message.\n\n"
+            "The answer-key record and download link may need verification."
         )
 
     # Results
-    elif any(word in text for word in [
-        "result",
-        "results",
-        "score card",
-        "scorecard"
+    if any(word in text for word in [
+        "result", "results", "scorecard", "score card"
     ]):
         return (
-            "Thank you for reporting the result-related issue. We have "
-            "received your message and will verify the result information "
-            "and available result link. If the link or information is "
-            "incorrect or unavailable, we will update it."
-        )
-
-    # Notifications
-    elif any(word in text for word in [
-        "notification",
-        "notifications",
-        "job notification"
-    ]):
-        return (
-            "Thank you for reporting the notification issue. We have received "
-            "your message and will verify the job notification details, "
-            "availability and related links. We will update the information "
-            "if any correction is required."
-        )
-
-    # Previous Papers
-    elif any(word in text for word in [
-        "previous paper",
-        "previous papers",
-        "old paper",
-        "question paper",
-        "previous year paper"
-    ]):
-        return (
-            "We’re sorry you’re having trouble accessing the previous-year "
-            "paper. Please try downloading the paper again. We will verify "
-            "the PDF file and download link and correct the issue if "
-            "necessary."
-        )
-
-    # Mock Test / Quiz
-    elif any(word in text for word in [
-        "mock test",
-        "mocktest",
-        "quiz",
-        "exam test",
-        "practice test"
-    ]):
-        return (
-            "We’re sorry you’re experiencing an issue with the mock test. "
-            "Please refresh the page and try the test again. We will check "
-            "the mock-test questions, submission process and result "
-            "calculation and resolve the issue if required."
+            "Results Support\n\n"
+            "1. Check the exam name and result year.\n"
+            "2. Open the official result link.\n"
+            "3. Check the recruiting authority's result announcement.\n"
+            "If the result link is missing or incorrect, send us the "
+            "exam name and year so the record can be checked."
         )
 
     # Login
-    elif any(word in text for word in [
-        "login",
-        "log in",
-        "sign in",
-        "password"
+    if any(word in text for word in [
+        "login", "log in", "sign in", "password"
     ]):
         return (
-            "We’re sorry you’re having trouble logging in. Please verify your "
-            "username and password and try again. If the problem continues, "
-            "please provide the error message you are receiving so that we "
-            "can investigate the issue."
+            "Login Support\n\n"
+            "1. Check that your username or email is correct.\n"
+            "2. Enter your password carefully.\n"
+            "3. If available, use the Forgot Password option.\n"
+            "4. Try again in a fresh browser tab.\n"
+            "If login still fails, provide the error message. "
+            "Never send your password or verification code."
         )
 
     # Registration
-    elif any(word in text for word in [
-        "register",
-        "registration",
-        "create account",
-        "signup",
-        "sign up"
+    if any(word in text for word in [
+        "register", "registration",
+        "create account", "signup", "sign up"
     ]):
         return (
-            "We’re sorry you’re having trouble with registration. Please "
-            "make sure all required details are entered correctly and try "
-            "again. If the issue continues, we will investigate the "
-            "registration problem."
+            "Registration Support\n\n"
+            "1. Complete all required fields.\n"
+            "2. Check the email address and other entered details.\n"
+            "3. If the form shows an error, note the exact message.\n"
+            "If registration still fails, we need the error details "
+            "to identify the cause."
         )
 
-    # PDF / Download
-    elif any(word in text for word in [
-        "pdf",
-        "download",
-        "downloading",
-        "file",
-        "document"
+    # Previous papers and PDFs
+    if any(word in text for word in [
+        "previous paper", "previous papers",
+        "old paper", "question paper", "pdf", "download"
     ]):
         return (
-            "We’re sorry you’re having trouble downloading the requested "
-            "file. Please refresh the page and try again. We will verify "
-            "the PDF file and download link and correct the issue if "
-            "necessary."
+            "Download Support\n\n"
+            "1. Refresh the page.\n"
+            "2. Try opening the file link again.\n"
+            "3. Check your internet connection and browser downloads.\n"
+            "4. If the file still fails, provide the exam name and "
+            "the error message.\n\n"
+            "The file and its link must be checked to determine "
+            "whether the problem is on the portal."
         )
 
-    # Search
-    elif any(word in text for word in [
-        "search",
-        "searching",
-        "job search",
-        "filter"
+    # Job application
+    if any(word in text for word in [
+        "application", "apply", "applying"
     ]):
         return (
-            "Thank you for reporting the search-related issue. Please try "
-            "refreshing the page and searching again. We will check the "
-            "search and filter functionality and resolve the issue if "
-            "necessary."
+            "Job Application Support\n\n"
+            "1. Open the relevant job notification.\n"
+            "2. Check the application dates and eligibility.\n"
+            "3. Use the official application link.\n"
+            "4. If the link fails, provide the job title and error message.\n"
+            "Application availability must be verified with the official "
+            "recruiting authority."
         )
 
-    # Job Application
-    elif any(word in text for word in [
-        "application",
-        "apply",
-        "applying",
-        "application link"
+    # General website issues
+    if any(word in text for word in [
+        "website", "page", "site",
+        "error", "issue", "problem", "not working"
     ]):
         return (
-            "Thank you for reporting the job application issue. Please "
-            "verify the official application link and application dates. "
-            "We will check the information available on the portal and "
-            "correct it if necessary."
+            "Website Support\n\n"
+            "1. Refresh the page and try again.\n"
+            "2. If appropriate, try another browser.\n"
+            "3. Note the page URL and the exact error message.\n"
+            "These details will help identify the cause. "
+            "If the issue persists, the relevant page and server "
+            "logs need to be checked."
         )
 
-    # Website
-    elif any(word in text for word in [
-        "website",
-        "page",
-        "site",
-        "not working",
-        "problem",
-        "issue",
-        "error"
-    ]):
-        return (
-            "Thank you for reporting this website issue. We have received "
-            "your message and reviewed the issue you described. We will "
-            "check the relevant section of the portal and take the "
-            "necessary action to resolve it."
-        )
-
-    # Default
+    # General support
     return (
-        "Thank you for contacting Govt Jobs Portal. We have received your "
-        "message and reviewed the issue you described. We will check the "
-        "relevant section of the portal and take the necessary action."
+        "Thank you for contacting GovtJobs Portal.\n\n"
+        "We have received your query. Please provide the relevant "
+        "exam or job name, the page where the problem occurred, "
+        "and the exact error message if one appeared.\n\n"
+        "This will help us investigate and provide a specific solution. "
+        "Your query remains pending until further review."
     )
 
 
 # ================= CONTACT =================
+
 
 def contact(request):
 
@@ -684,38 +620,42 @@ def contact(request):
         subject = request.POST.get("subject", "").strip()
         message = request.POST.get("message", "").strip()
 
-        # Generate reply based on the user's actual issue
-        reply = generate_contact_reply(
-            subject,
-            message
-        )
+        name = request.POST.get("name", "").strip()
+        email = request.POST.get("email", "").strip()
+        mobile = request.POST.get("mobile", "").strip()
+
+        # Validate the submitted query
+        if not subject or not message or not name or not email:
+            messages.error(
+                request,
+                "Please fill in your name, email, subject and message."
+            )
+            return redirect("contact")
+
+        # Generate an automatic troubleshooting response
+        reply = generate_contact_reply(subject, message)
 
         ContactMessage.objects.create(
-
             user=(
                 request.user
                 if request.user.is_authenticated
                 else None
             ),
-
-            name=request.POST.get("name", "").strip(),
-
-            email=request.POST.get("email", "").strip(),
-
-            mobile=request.POST.get("mobile", "").strip(),
-
+            name=name,
+            email=email,
+            mobile=mobile,
             subject=subject,
-
             message=message,
-
-            admin_reply=reply,
-
-            status="Replied"
+            auto_reply=reply,
+            admin_reply="",
+            status="Pending"
         )
 
         messages.success(
             request,
-            "Message submitted successfully. You can view the reply in My Queries."
+            "Your query was submitted successfully. "
+            "An automatic response is available, and your query "
+            "is awaiting further review if needed."
         )
 
         return redirect("contact")
@@ -724,7 +664,6 @@ def contact(request):
         request,
         "jobportal/contact.html"
     )
-
 
 
 # ================= FEEDBACK =================
@@ -1636,6 +1575,44 @@ def exam_mock_test(request, exam_name):
         exam=exam,
         subject=subject
     ).count()
+
+    
+    # --------------------------------------------------
+    # AUTO-RESET HISTORY WHEN THE QUESTION POOL RUNS LOW
+    # --------------------------------------------------
+    if (
+        available_count < required_count
+        and total_subject_questions >= required_count
+    ):
+        # Get question IDs for this exam and subject only.
+        subject_question_ids = QuizQuestion.objects.filter(
+            exam=exam,
+            subject=subject
+        ).values_list("id", flat=True)
+
+        # Clear this user's history for this subject only.
+        # Past MockTestAttempt records and scores are preserved.
+        QuizQuestionHistory.objects.filter(
+            user=request.user,
+            exam=exam,
+            question_id__in=subject_question_ids
+        ).delete()
+
+        # Reload the available questions after resetting history.
+        seen_ids = QuizQuestionHistory.objects.filter(
+            user=request.user,
+            exam=exam
+        ).values_list("question_id", flat=True)
+
+        available_questions = QuizQuestion.objects.filter(
+            exam=exam,
+            subject=subject
+        ).exclude(
+            id__in=seen_ids
+        )
+
+        available_count = available_questions.count()
+
 
     attempted_questions = QuizQuestionHistory.objects.filter(
         user=request.user,
